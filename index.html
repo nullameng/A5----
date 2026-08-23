@@ -44,7 +44,7 @@
       </div>
 
       <label><input type="checkbox" id="loopCheck" checked> 自動循環朗讀</label>
-      <button onclick="stopSpeech()" style="margin-left: 10px;">停止朗讀</button>
+      <button id="speechBtn" onclick="toggleSpeech()" style="margin-left: 10px;">停止朗讀</button>
     </div>
 
     <h2>詳細解析</h2>
@@ -58,9 +58,10 @@
   <script>
     let currentSegment = null;
     let selectedVoice = null;
+    let isPlaying = false; // 手動維護播放狀態，避開瀏覽器 API Bug
     const synth = window.speechSynthesis;
 
-    // 1. 渲染左側選單（自動讀取 data.js 中的 transcriptData）
+    // 1. 渲染左側選單
     const listEl = document.getElementById('transcriptList');
     
     if (typeof transcriptData !== 'undefined' && Array.isArray(transcriptData)) {
@@ -89,11 +90,11 @@
     function renderAnalysis(item) {
       let html = '';
 
-      // A. 原文（含假名標註 ruby）
+      // A. 原文
       const japaneseDisplay = item.furigana || item.japanese;
       html += `<div class="japanese-text"><b>【日文】</b> ${japaneseDisplay}</div>`;
 
-      // B. 斷句與翻譯 (segmentation / translation)
+      // B. 斷句與翻譯
       if (item.translation) {
         html += `<div class="translation-box">`;
         if (item.segmentation) html += `<div><b>【斷句】</b> ${item.segmentation}</div>`;
@@ -102,7 +103,7 @@
         html += `</div>`;
       }
 
-      // C. 單字拆解 (words)
+      // C. 單字拆解
       if (item.words && item.words.length > 0) {
         html += `<div class="section-title">【單字拆解】</div><ul class="word-list">`;
         item.words.forEach(w => {
@@ -112,7 +113,7 @@
         html += `</ul>`;
       }
 
-      // D. 情境文法解析 (context_grammar)
+      // D. 文法解析
       if (item.context_grammar && item.context_grammar.length > 0) {
         html += `<div class="section-title">【文法與情境解析】</div>`;
         item.context_grammar.forEach(g => {
@@ -123,16 +124,16 @@
       document.getElementById('grammarOutput').innerHTML = html;
     }
 
-    // 3. 語音朗讀與循環邏輯
+    // 3. 語音朗讀邏輯
     function playSpeech() {
-      synth.cancel(); // 停止先前的朗讀
+      synth.cancel(); // 清空播放佇列
       if (!currentSegment) return;
 
       const utterThis = new SpeechSynthesisUtterance(currentSegment.japanese);
       utterThis.lang = 'ja-JP';
       utterThis.rate = parseFloat(document.getElementById('rate').value);
 
-      // 選取語音：若下拉選單顯示則從選單抓，否則使用後台自動選出的 selectedVoice
+      // 選取語音
       const voiceSelect = document.getElementById('voiceSelect');
       const voices = synth.getVoices();
       
@@ -143,23 +144,49 @@
         utterThis.voice = selectedVoice;
       }
 
-      // 循環監聽
+      // 開始朗讀
+      utterThis.onstart = function() {
+        isPlaying = true;
+        updateSpeechBtnText();
+      };
+
+      // 播放結束監聽
       utterThis.onend = function() {
         const loop = document.getElementById('loopCheck').checked;
-        if (loop && currentSegment) {
+        if (loop && isPlaying && currentSegment) {
           playSpeech();
+        } else {
+          isPlaying = false;
+          updateSpeechBtnText();
         }
       };
 
       synth.speak(utterThis);
     }
 
-    function stopSpeech() {
-      currentSegment = null;
-      synth.cancel();
+    // 控制「停止 / 繼續朗讀」按鈕
+    function toggleSpeech() {
+      if (!currentSegment) return;
+
+      if (isPlaying) {
+        // 正在播放 -> 停止朗讀，狀態改為 false
+        isPlaying = false;
+        synth.cancel();
+        updateSpeechBtnText();
+      } else {
+        // 停止中 -> 重新朗讀
+        playSpeech();
+      }
     }
 
-    // 4. 載入系統可用語音（自動選取與控制介面顯示）
+    function updateSpeechBtnText() {
+      const btn = document.getElementById('speechBtn');
+      if (btn) {
+        btn.innerText = isPlaying ? '停止朗讀' : '繼續朗讀';
+      }
+    }
+
+    // 4. 載入系統可用語音
     function populateVoiceList() {
       const voices = synth.getVoices();
       const voiceSelect = document.getElementById('voiceSelect');
@@ -167,7 +194,6 @@
       
       voiceSelect.innerHTML = '';
       
-      // 過濾日文語音
       const jaVoices = voices.filter(v => v.lang.includes('ja') || v.lang.includes('JA'));
       
       if (jaVoices.length === 0) {
@@ -175,14 +201,11 @@
         return;
       }
 
-      // 優先尋找男聲
       const maleKeywords = ['male', 'ichiro', 'keita', 'otoya', 'naoki', 'daichi'];
       let maleVoice = jaVoices.find(v => maleKeywords.some(kw => v.name.toLowerCase().includes(kw)));
       
-      // 預設語音：有男聲用男聲，沒男聲用第一個日文語音
       selectedVoice = maleVoice || jaVoices[0];
 
-      // 如果有 2 個（含）以上的日文語音可選，才顯示下拉選單
       if (jaVoices.length > 1) {
         pickerGroup.style.display = 'block';
         jaVoices.forEach(voice => {
@@ -195,7 +218,6 @@
           voiceSelect.appendChild(option);
         });
       } else {
-        // 只有 1 個或無法切換，隱藏下拉選項，畫面保持極簡
         pickerGroup.style.display = 'none';
       }
     }
@@ -208,7 +230,7 @@
     // 5. 監聽語速滑桿變化
     document.getElementById('rate').addEventListener('input', (e) => {
       document.getElementById('rateVal').innerText = e.target.value;
-      if (synth.speaking) playSpeech();
+      if (isPlaying) playSpeech();
     });
   </script>
 </body>
