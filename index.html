@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>日文影片逐字稿學習工具</title>
+  <style>
+    body { font-family: sans-serif; display: flex; gap: 20px; padding: 20px; background: #f9f9f9; }
+    .transcript-list { width: 40%; border-right: 2px solid #ccc; padding-right: 15px; height: 90vh; overflow-y: auto; }
+    .analysis-panel { width: 60%; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); height: 90vh; overflow-y: auto; }
+    .segment-item { padding: 10px; margin-bottom: 8px; background: #fff; border: 1px solid #ddd; cursor: pointer; border-radius: 5px; }
+    .segment-item:hover { background: #eef6ff; }
+    .active { border-color: #0066cc; background: #e0f0ff; }
+    .controls { margin-bottom: 15px; padding: 10px; background: #eee; border-radius: 5px; }
+    
+    /* 詳細解析區塊樣式 */
+    .japanese-text { font-size: 1.25rem; line-height: 2.2; margin-bottom: 15px; color: #1a1a1a; }
+    .translation-box { background: #f0f4f8; padding: 10px 15px; border-left: 4px solid #0066cc; margin-bottom: 15px; border-radius: 4px; }
+    .section-title { font-weight: bold; margin-top: 15px; margin-bottom: 8px; color: #333; border-bottom: 1px solid #eee; padding-bottom: 4px; }
+    .word-list { list-style: none; padding-left: 0; }
+    .word-item { padding: 6px 0; border-bottom: 1px dashed #eee; font-size: 0.95rem; }
+    .word-title { font-weight: bold; color: #0066cc; }
+    .word-reading { color: #666; font-size: 0.85rem; margin-left: 5px; }
+    .grammar-item { background: #fff8e6; padding: 10px; border-left: 4px solid #ffc107; margin-bottom: 8px; border-radius: 4px; line-height: 1.6; }
+    ruby rt { color: #555; font-size: 0.65em; }
+  </style>
+</head>
+<body>
+
+  <!-- 左側：分段列表 -->
+  <div class="transcript-list" id="transcriptList">
+    <h3>逐字稿分段（點擊播放與解析）</h3>
+  </div>
+
+  <!-- 右側：控制區與文法解析展示 -->
+  <div class="analysis-panel">
+    <div class="controls">
+      <label>語速 (Rate): <span id="rateVal">1.0</span>x</label>
+      <input type="range" id="rate" min="0.5" max="1.5" step="0.1" value="1.0"><br><br>
+      
+      <!-- 只有當可選語音 > 1 時才會顯示此區塊 -->
+      <div id="voicePickerGroup" style="display: none; margin-bottom: 15px;">
+        <label>選擇語音:</label>
+        <select id="voiceSelect"></select>
+      </div>
+
+      <label><input type="checkbox" id="loopCheck" checked> 自動循環朗讀</label>
+      <button onclick="stopSpeech()" style="margin-left: 10px;">停止朗讀</button>
+    </div>
+
+    <h2>詳細解析</h2>
+    <div id="grammarOutput">請從左側點選任意段落...</div>
+  </div>
+
+  <!-- 1. 外部引入逐字稿資料檔 -->
+  <script src="data.js"></script>
+
+  <!-- 2. 主程式邏輯 -->
+  <script>
+    let currentSegment = null;
+    let selectedVoice = null;
+    const synth = window.speechSynthesis;
+
+    // 1. 渲染左側選單（自動讀取 data.js 中的 transcriptData）
+    const listEl = document.getElementById('transcriptList');
+    
+    if (typeof transcriptData !== 'undefined' && Array.isArray(transcriptData)) {
+      transcriptData.forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'segment-item';
+        div.innerText = `[${item.time}] ${item.japanese}`;
+        div.onclick = () => selectSegment(item, div);
+        listEl.appendChild(div);
+      });
+    } else {
+      listEl.innerHTML += '<p style="color:red;">無法載入 data.js 資料，請確認檔案路徑與變數名稱。</p>';
+    }
+
+    // 2. 選取段落邏輯
+    function selectSegment(item, element) {
+      document.querySelectorAll('.segment-item').forEach(el => el.classList.remove('active'));
+      element.classList.add('active');
+      
+      currentSegment = item;
+      renderAnalysis(item);
+      playSpeech();
+    }
+
+    // 渲染右側詳細解析欄位
+    function renderAnalysis(item) {
+      let html = '';
+
+      // A. 原文（含假名標註 ruby）
+      const japaneseDisplay = item.furigana || item.japanese;
+      html += `<div class="japanese-text"><b>【日文】</b> ${japaneseDisplay}</div>`;
+
+      // B. 斷句與翻譯 (segmentation / translation)
+      if (item.translation) {
+        html += `<div class="translation-box">`;
+        if (item.segmentation) html += `<div><b>【斷句】</b> ${item.segmentation}</div>`;
+        if (item.translation.natural) html += `<div><b>【意譯】</b> ${item.translation.natural}</div>`;
+        if (item.translation.literal) html += `<div><b>【直譯】</b> ${item.translation.literal}</div>`;
+        html += `</div>`;
+      }
+
+      // C. 單字拆解 (words)
+      if (item.words && item.words.length > 0) {
+        html += `<div class="section-title">【單字拆解】</div><ul class="word-list">`;
+        item.words.forEach(w => {
+          const readingText = w.reading ? `<span class="word-reading">(${w.reading})</span>` : '';
+          html += `<li class="word-item"><span class="word-title">${w.word}</span>${readingText}：${w.note}</li>`;
+        });
+        html += `</ul>`;
+      }
+
+      // D. 情境文法解析 (context_grammar)
+      if (item.context_grammar && item.context_grammar.length > 0) {
+        html += `<div class="section-title">【文法與情境解析】</div>`;
+        item.context_grammar.forEach(g => {
+          html += `<div class="grammar-item">${g}</div>`;
+        });
+      }
+
+      document.getElementById('grammarOutput').innerHTML = html;
+    }
+
+    // 3. 語音朗讀與循環邏輯
+    function playSpeech() {
+      synth.cancel(); // 停止先前的朗讀
+      if (!currentSegment) return;
+
+      const utterThis = new SpeechSynthesisUtterance(currentSegment.japanese);
+      utterThis.lang = 'ja-JP';
+      utterThis.rate = parseFloat(document.getElementById('rate').value);
+
+      // 選取語音：若下拉選單顯示則從選單抓，否則使用後台自動選出的 selectedVoice
+      const voiceSelect = document.getElementById('voiceSelect');
+      const voices = synth.getVoices();
+      
+      if (voiceSelect && voiceSelect.value) {
+        const picked = voices.find(v => v.name === voiceSelect.value);
+        if (picked) utterThis.voice = picked;
+      } else if (selectedVoice) {
+        utterThis.voice = selectedVoice;
+      }
+
+      // 循環監聽
+      utterThis.onend = function() {
+        const loop = document.getElementById('loopCheck').checked;
+        if (loop && currentSegment) {
+          playSpeech();
+        }
+      };
+
+      synth.speak(utterThis);
+    }
+
+    function stopSpeech() {
+      currentSegment = null;
+      synth.cancel();
+    }
+
+    // 4. 載入系統可用語音（自動選取與控制介面顯示）
+    function populateVoiceList() {
+      const voices = synth.getVoices();
+      const voiceSelect = document.getElementById('voiceSelect');
+      const pickerGroup = document.getElementById('voicePickerGroup');
+      
+      voiceSelect.innerHTML = '';
+      
+      // 過濾日文語音
+      const jaVoices = voices.filter(v => v.lang.includes('ja') || v.lang.includes('JA'));
+      
+      if (jaVoices.length === 0) {
+        pickerGroup.style.display = 'none';
+        return;
+      }
+
+      // 優先尋找男聲
+      const maleKeywords = ['male', 'ichiro', 'keita', 'otoya', 'naoki', 'daichi'];
+      let maleVoice = jaVoices.find(v => maleKeywords.some(kw => v.name.toLowerCase().includes(kw)));
+      
+      // 預設語音：有男聲用男聲，沒男聲用第一個日文語音
+      selectedVoice = maleVoice || jaVoices[0];
+
+      // 如果有 2 個（含）以上的日文語音可選，才顯示下拉選單
+      if (jaVoices.length > 1) {
+        pickerGroup.style.display = 'block';
+        jaVoices.forEach(voice => {
+          const option = document.createElement('option');
+          option.textContent = `${voice.name} (${voice.lang})`;
+          option.value = voice.name;
+          if (voice.name === selectedVoice.name) {
+            option.selected = true;
+          }
+          voiceSelect.appendChild(option);
+        });
+      } else {
+        // 只有 1 個或無法切換，隱藏下拉選項，畫面保持極簡
+        pickerGroup.style.display = 'none';
+      }
+    }
+
+    populateVoiceList();
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+      speechSynthesis.onvoiceschanged = populateVoiceList;
+    }
+
+    // 5. 監聽語速滑桿變化
+    document.getElementById('rate').addEventListener('input', (e) => {
+      document.getElementById('rateVal').innerText = e.target.value;
+      if (synth.speaking) playSpeech();
+    });
+  </script>
+</body>
+</html>
