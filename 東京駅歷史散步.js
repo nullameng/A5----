@@ -89,10 +89,88 @@ var transcriptData = [
   },
   {
     "id": "004",
+    "time": "00:48",
+    "japanese": "丸の内側には広大な広場が広がっており、オフィス街でありながら開放的な空間となっています。",
+    "furigana": "<ruby>丸<rt>まる</rt></ruby>の<ruby>內<rt>うち</rt></ruby><ruby>側<rt>がわ</rt></ruby>には<ruby>広大<rt>こうだい</rt></ruby>な<ruby>広場<rt>ひろば</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がっており、オフィス<ruby>街<rt>がい</rt></ruby>でありながら<ruby>開放<rt>かいほう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>空間<rt>くうかん</rt></ruby>となっています。",
+    "segmentation": "丸の内側には / 広大な広場が広がっており / オフィス街でありながら / 開放的な空間となっています。",
+    "translation": {
+      "natural": "丸之內一側延伸著廣闊的廣場，雖是辦公大樓街區，卻形成了一個具開放感的空間。",
+      "literal": "丸之內側廣大的廣場開展開來，雖然是辦公街，成為了開放性的空間。"
+    },
+    "words": [
+      {
+        "word": "広大",
+        "reading": "こうだい",
+        "note": "形容動詞：廣大、遼闊"
+      },
+      {
+        "word": "開放的",
+        "reading": "かいほうてき",
+        "note": "形容動詞：開放的、開朗的"
+      }
+    ],
+    "context_grammar": [
+      "〜でありながら：雖然是……卻……，表示轉折，說明同時具備兩種看似矛盾的特徵。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "01:15",
+    "japanese": "夜になるとライトアップされ、赤レンガと高層ビル群のコントラストが非常に美しい景観を作り出します。",
+    "furigana": "<ruby>夜<rt>よる</rt></ruby>になるとライトアップされ、<ruby>赤<rt>あか</rt></ruby>レンガと<ruby>高層<rt>こうそう</rt></ruby>ビル<ruby>群<rt>ぐん</rt></ruby>のコントラストが<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しい<ruby>景観<rt>けいかん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>出<rt>だ</rt></ruby>します。",
+    "segmentation": "夜になると / ライトアップされ / 赤レンガと高層ビル群のコントラストが / 非常に美しい景観を作り出します。",
+    "translation": {
+      "natural": "到了晚上點起燈來，紅磚建築與摩天大樓群形成的對比，塑造出非常美麗的夜景。",
+      "literal": "到了夜晚會打燈，紅磚與高層大樓群的對比，打照出非常美麗的景觀。"
+    },
+    "words": [
+      {
+        "word": "ライトアップ",
+        "reading": "ライトアップ",
+        "note": "名詞/動詞：景觀打燈、點燈 (Light-up)"
+      },
+      {
+        "word": "コントラスト",
+        "reading": "コントラスト",
+        "note": "名詞：對比、反差 (Contrast)"
+      }
+    ],
+    "context_grammar": [
+      "〜作り出す：創造出、營造出，複合動詞，表示產生新的氛圍或景致。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "01:50",
+    "japanese": "反対側の八重洲口へと移動すると、こちらは巨大なバスターミナルや商業施設が立ち並ぶ現代的な景色に変わります。",
+    "furigana": "<ruby>反対<rt>はんたい</rt></ruby><ruby>側<rt>がわ</rt></ruby>の<ruby>八重洲<rt>やえす</rt></ruby><ruby>口<rt>ぐち</rt></ruby>へと<ruby>移動<rt>いどう</rt></ruby>すると、こちらは<ruby>巨大<rt>きょだい</rt></ruby>なバスターミナルや<ruby>商業<rt>しょうぎょう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>が<ruby>立<rt>た</rt></ruby>ち<ruby>並<rt>なら</rt></ruby>ぶ<ruby>現代<rt>げんだい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>景色<rt>けしき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。",
+    "segmentation": "反対側の八重洲口へと移動すると / こちらは巨大なバスターミナルや / 商業施設が立ち並ぶ / 現代的な景色に変わります。",
+    "translation": {
+      "natural": "而移動到對面的八重洲口時，景觀則轉變為巨大客運總站與商業設施林立的現代化風貌。",
+      "literal": "移動到相反側的八重洲口的話，這裡變成了巨大公車轉運站與商業設施並立的現代景象。"
+    },
+    "words": [
+      {
+        "word": "立ち並ぶ",
+        "reading": "たちならぶ",
+        "note": "動詞：林立、成排聳立"
+      },
+      {
+        "word": "バスターミナル",
+        "reading": "バスターミナル",
+        "note": "名詞：公車/客運轉運站"
+      }
+    ],
+    "context_grammar": [
+      "〜へと (方向)：朝向……/往……，加強方向感的格助詞疊加用法。"
+    ]
+  },
+  {
+    "id": "007",
     "time": "02:24",
-    "japanese": "「八重洲」という名前は、江戸初期のオランダ人貿易家ヤン・ヨーステン의 屋敷があったことに由来します。",
-    "furigana": "「<ruby>八重洲<rt>やえす</rt></ruby>」という<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>江戸<rt>えど</rt></ruby><ruby>初期<rt>しょき</rt></ruby>のオランダ<ruby>人<rt>じん</rt></ruby><ruby>貿易家<rt>ぼうえきか</rt></ruby>ヤン・ヨーステンの<ruby>屋敷<rt>やしき</rt></ruby>があったことに<ruby>由来<rt>ゆらい</rt></ruby>します。",
-    "segmentation": "「八重洲」という名前は / 江戸初期のオランダ人貿易家 / ヤン・ヨーステンの屋敷があったことに / 由来します。",
+    "japanese": "「八重洲」という名前は、江戸初期のオランダ人貿易家ヤン・ヨーステンの 屋敷があったことに由来します。",
+    "furigana": "「<ruby>八重洲<rt>やえす</rt></ruby>」という<ruby>名前<rt>なまえ</rt></ruby>は、<ruby>江戸<rt>えど</rt></ruby><ruby>初期<rt>しょき</rt></ruby>の オランダ<ruby>人<rt>じん</rt></ruby><ruby>貿易家<rt>ぼうえきか</rt></ruby>ヤン・ヨーステンの<ruby>屋敷<rt>やしき</rt></ruby>があったことに<ruby>由来<rt>ゆらい</rt></ruby>します。",
+    "segmentation": "「八重洲」という名前は / 江戸初期の オランダ人貿易家 / ヤン・ヨーステンの屋敷があったことに / 由来します。",
     "translation": {
       "natural": "「八重洲」這個名稱，源自於江戶初期荷蘭貿易家 Jan Joosten 的宅邸曾在此處。",
       "literal": "名為「八重洲」的名字，江戶初期的荷蘭人貿易家 Jan Joosten 的宅邸曾存在這件事，由此而來。"
@@ -120,9 +198,9 @@ var transcriptData = [
     ]
   },
   {
-    "id": "005",
+    "id": "008",
     "time": "03:33",
-    "japanese": "日本銀行本店を上から見ると「円」의 形をしています。",
+    "japanese": "日本銀行本店を上から見ると「円」の 形を しています。",
     "furigana": "<ruby>日本<rt>にっぽん</rt></ruby><ruby>銀行<rt>ぎんこう</rt></ruby><ruby>本店<rt>ほんてん</rt></ruby>を<ruby>上<rt>うえ</rt></ruby>から<ruby>見<rt>み</rt></ruby>ると「<ruby>円<rt>えん</rt></ruby>」の<ruby>形<rt>かたち</rt></ruby>をしています。",
     "segmentation": "日本銀行本店を / 上から見ると / 「円」の形をしています。",
     "translation": {
@@ -147,7 +225,7 @@ var transcriptData = [
     ]
   },
   {
-    "id": "006",
+    "id": "009",
     "time": "04:53",
     "japanese": "日銀のとなりには、これまた荘厳な建築があります。",
     "furigana": "<ruby>日銀<rt>にちぎん</rt></ruby>のとなりには、これまた<ruby>荘厳<rt>そうごん</rt></ruby>な<ruby>建築<rt>けんちく</rt></ruby>があります。",
@@ -173,7 +251,7 @@ var transcriptData = [
     ]
   },
   {
-    "id": "007",
+    "id": "010",
     "time": "05:06",
     "japanese": "三越の本店となっています。三越自体は江戸時代に創業した呉服店「三井越後屋」にルーツを持ちます。",
     "furigana": "<ruby>三越<rt>みつこし</rt></ruby>の<ruby>本店<rt>ほんてん</rt></ruby>となっています。<ruby>三越<rt>みつこし</rt></ruby><ruby>自体<rt>じたい</rt></ruby>は<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>に<ruby>創業<rt>そうぎょう</rt></ruby>した<ruby>呉服<rt>ごふく</rt></ruby><ruby>店<rt>てん</rt></ruby>「<ruby>三井<rt>みつい</rt></ruby><ruby>越後屋<rt>えちごや</rt></ruby>」にルーツを<ruby>持<rt>も</rt></ruby>ちます。",
@@ -200,9 +278,9 @@ var transcriptData = [
     ]
   },
   {
-    "id": "008",
+    "id": "011",
     "time": "05:51",
-    "japanese": "誰にも見られずに跨がると、受験に合格するという都市伝説が存在します。",
+    "japanese": "誰にも見られずに跨がると、受験に 合格するという都市伝説が存在します。",
     "furigana": "<ruby>誰<rt>だれ</rt></ruby>にも<ruby>見<rt>み</rt></ruby>られずに<ruby>跨<rt>また</rt></ruby>がると、<ruby>受験<rt>じゅけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するという<ruby>都市<rt>とし</rt></ruby><ruby>伝説<rt>でんせつ</rt></ruby>が<ruby>存在<rt>そんざい</rt></ruby>します。",
     "segmentation": "誰にも見られずに跨がると / 受験に合格するという / 都市伝説が存在します。",
     "translation": {
@@ -226,10 +304,10 @@ var transcriptData = [
     ]
   },
   {
-    "id": "009",
+    "id": "012",
     "time": "06:58",
-    "japanese": "今日どこのでパートにもある美しい緑의 空間は、三越が1907年に始めたものです。",
-    "furigana": "<ruby>今日<rt>きょう</rt></ruby>どこのでパートにもある<ruby>美<rt>うつく</rt></ruby>しい<ruby>緑<rt>みどり</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>は、<ruby>三越<rt>みつこし</rt></ruby>が1907<ruby>年<rt>ねん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>めたものです。",
+    "japanese": "今日どこのでパートにもある美しい緑の 空間は、三越が1907年に始めたものです。",
+    "furigana": "<ruby>今日<rt>きょう</rt></ruby>どこのでパートにもある<ruby>美<rt>うつく</rt></ruby>しい<ruby>緑<rt>みどり</rt></ruby>の <ruby>空間<rt>くうかん</rt></ruby>は、<ruby>三越<rt>みつこし</rt></ruby>が1907<ruby>年<rt>ねん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>めたものです。",
     "segmentation": "今日どこのでパートにもある / 美しい緑の空間は / 三越が1907年に始めたものです。",
     "translation": {
       "natural": "如今各大百貨公司常見的美麗頂樓空中花園，正是三越於 1907 年率先興起的。",
@@ -252,11 +330,11 @@ var transcriptData = [
     ]
   },
   {
-    "id": "010",
+    "id": "013",
     "time": "07:22",
-    "japanese": "この橋は江戸時代に五街道の起点と定められ、以後長きに渡り歴史の中心に存在しました。",
-    "furigana": "この<ruby>橋<rt>はし</rt></ruby>は<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>に<ruby>五<rt>ご</rt></ruby><ruby>街道<rt>かいどう</rt></ruby>の<ruby>起点<rt>きてん</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められ、<ruby>以後<rt>いご</rt></ruby><ruby>長<rt>なが</rt></ruby>きに<ruby>渡<rt>わた</rt></ruby>り<ruby>歴史<rt>れきし</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>存在<rt>そんざい</rt></ruby>しました。",
-    "segmentation": "この橋は / 江戸時代に五街道的起点と定められ / 以後長きに渡り / 歴史の中心に存在しました。",
+    "japanese": "この橋は江戸時代に五街道の 起点と定められ、以後長きに渡り歴史の中心に存在しました。",
+    "furigana": "この<ruby>橋<rt>はし</rt></ruby>は<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>に<ruby>五<rt>ご</rt></ruby><ruby>街道<rt>かいどう</rt></ruby>の <ruby>起点<rt>きてん</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められ、<ruby>以後<rt>いご</rt></ruby><ruby>長<rt>なが</rt></ruby>きに<ruby>渡<rt>わた</rt></ruby>り<ruby>歴史<rt>れきし</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>存在<rt>そんざい</rt></ruby>しました。",
+    "segmentation": "この橋は / 江戸時代に五街道的起点と定められ / 以後長きに渡り / 歴史の中心に 存在しました。",
     "translation": {
       "natural": "這座橋在江戶時代被指定為五街道的起點，此後長年處於日本歷史的核心位置。",
       "literal": "這座橋在江戶時代被定為五街道的起點，此後長久以來存在於歷史中心。"
@@ -278,10 +356,10 @@ var transcriptData = [
     ]
   },
   {
-    "id": "011",
+    "id": "014",
     "time": "09:05",
     "japanese": "太平洋戦争末期の東京大空襲において周囲が焼け野原になりながらも、ビクともしませんでした。",
-    "furigana": "<ruby>太平洋<rt>たいへいよう</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby><ruby>末期<rt>まっき</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>空襲<rt>くうしゅう</rt></ruby>において<ruby>周囲<rt>しゅうい</rt></ruby>が<ruby>火<rt>ひ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>（<ruby>焼け野原<rt>やけのはら</rt></ruby>）になりながらも、ビクともしませんでした。",
+    "furigana": "<ruby>太平洋<rt>たいへいよう</rt></ruby><ruby>戦争<rt>せんそう</rt></ruby><ruby>末期<rt>まっき</rt></ruby>の <ruby>東京<rt>とうきょう</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>空襲<rt>くうしゅう</rt></ruby>において<ruby>周囲<rt>しゅうい</rt></ruby>が<ruby>火<rt>ひ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>（<ruby>焼け野原<rt>やけのはら</rt></ruby>）になりながらも、ビクともしませんでした。",
     "segmentation": "太平洋戦争末期的東京大空襲において / 周囲が焼け野原になりながらも / ビクともしませんでした。",
     "translation": {
       "natural": "在太平洋戰爭末期的東京大空襲中，即使周圍全化為焦土，這座橋依然屹立不搖。",
@@ -310,10 +388,10 @@ var transcriptData = [
     ]
   },
   {
-    "id": "012",
+    "id": "015",
     "time": "09:12",
     "japanese": "一応の耐久年数は驚異の1000年とされており、西暦2900年頃までは現役でいられるはずです。",
-    "furigana": "<ruby>一応<rt>いちおう</rt></ruby>の<ruby>耐久<rt>たいきゅう</rt></ruby><ruby>年数<rt>ねんすう</rt></ruby>は<ruby>驚異<rt>きょうい</rt></ruby>の1000<ruby>年<rt>ねん</rt></ruby>とされており、<ruby>西暦<rt>せいれき</rt></ruby>2900<ruby>年<rt>ねん</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>までは<ruby>現役<rt>げんえき</rt></ruby>でいられるはずです。",
+    "furigana": "<ruby>一応<rt>いちおう</rt></ruby>の <ruby>耐久<rt>たいきゅう</rt></ruby><ruby>年数<rt>ねんすう</rt></ruby>は<ruby>驚異<rt>きょうい</rt></ruby>の 1000<ruby>年<rt>ねん</rt></ruby>とされており、<ruby>西暦<rt>せいれき</rt></ruby>2900<ruby>年<rt>ねん</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>までは<ruby>現役<rt>げんえき</rt></ruby>でいられるはずです。",
     "segmentation": "一応の耐久年数は / 驚異の1000年とされており / 西暦2900年頃までは / 現役でいられるはずです。",
     "translation": {
       "natural": "這座橋預估的耐用年限達到驚人的 1000 年，照理說到西元 2900 年左右都還能繼續服役。",
