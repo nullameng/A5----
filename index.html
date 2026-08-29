@@ -12,6 +12,9 @@
     .active { border-color: #0066cc; background: #e0f0ff; }
     .controls { margin-bottom: 15px; padding: 10px; background: #eee; border-radius: 5px; }
     
+    /* 檔案選擇器樣式 */
+    .file-select-box { margin-bottom: 15px; padding: 10px; background: #fff; border: 1px solid #ddd; border-radius: 5px; font-size: 0.9rem; }
+    
     /* 詳細解析區塊樣式 */
     .japanese-text { font-size: 1.25rem; line-height: 2.2; margin-bottom: 15px; color: #1a1a1a; }
     .translation-box { background: #f0f4f8; padding: 10px 15px; border-left: 4px solid #0066cc; margin-bottom: 15px; border-radius: 4px; }
@@ -28,7 +31,14 @@
 
   <!-- 左側：分段列表 -->
   <div class="transcript-list" id="transcriptList">
+    <!-- 檔案選擇區 -->
+    <div class="file-select-box">
+      <label for="fileInput"><b>📁 選擇教材檔 (.js / .json)：</b></label><br>
+      <input type="file" id="fileInput" accept=".js,.json" style="margin-top: 5px; width: 100%;">
+    </div>
+
     <h3>逐字稿分段（點擊播放與解析）</h3>
+    <div id="listContent"></div>
   </div>
 
   <!-- 右側：控制區與文法解析展示 -->
@@ -51,30 +61,68 @@
     <div id="grammarOutput">請從左側點選任意段落...</div>
   </div>
 
-  <!-- 1. 外部引入逐字稿資料檔 -->
-  <script src="data.js"></script>
+  <!-- 1. 外部引入預設逐字稿資料檔 -->
+  <script src="A5 新世代息吹.js"></script>
 
   <!-- 2. 主程式邏輯 -->
   <script>
     let currentSegment = null;
     let selectedVoice = null;
-    let isPlaying = false; // 手動維護播放狀態，避開瀏覽器 API Bug
+    let isPlaying = false;
     const synth = window.speechSynthesis;
 
-    // 1. 渲染左側選單
-    const listEl = document.getElementById('transcriptList');
-    
-    if (typeof transcriptData !== 'undefined' && Array.isArray(transcriptData)) {
-      transcriptData.forEach(item => {
-        const div = document.createElement('div');
-        div.className = 'segment-item';
-        div.innerText = `[${item.time}] ${item.japanese}`;
-        div.onclick = () => selectSegment(item, div);
-        listEl.appendChild(div);
-      });
-    } else {
-      listEl.innerHTML += '<p style="color:red;">無法載入 data.js 資料，請確認檔案路徑與變數名稱。</p>';
+    const listContentEl = document.getElementById('listContent');
+
+    // 渲染列表的通用函式
+    function renderList(data) {
+      listContentEl.innerHTML = '';
+      if (Array.isArray(data) && data.length > 0) {
+        data.forEach(item => {
+          const div = document.createElement('div');
+          div.className = 'segment-item';
+          div.innerText = `[${item.time}] ${item.japanese}`;
+          div.onclick = () => selectSegment(item, div);
+          listContentEl.appendChild(div);
+        });
+      } else {
+        listContentEl.innerHTML = '<p style="color:red;">未找到有效格式的逐字稿資料。</p>';
+      }
     }
+
+    // 預設載入 data.js 的資料
+    if (typeof transcriptData !== 'undefined' && Array.isArray(transcriptData)) {
+      renderList(transcriptData);
+    } else {
+      listContentEl.innerHTML = '<p style="color:red;">無法載入預設 data.js 資料，請手動選擇檔案。</p>';
+    }
+
+    // 監聽手動選取 .js 或 .json 檔案
+    document.getElementById('fileInput').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(evt) {
+        try {
+          let content = evt.target.result;
+
+          // 自動定位第一個 '[' 與最後一個 ']'，精準擷取陣列內容
+          const startIdx = content.indexOf('[');
+          const endIdx = content.lastIndexOf(']');
+
+          if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
+            content = content.substring(startIdx, endIdx + 1);
+          }
+
+          const parsedData = JSON.parse(content);
+          renderList(parsedData);
+        } catch (err) {
+          alert("檔案讀取失敗，請確認檔案格式是否正確。");
+          console.error(err);
+        }
+      };
+      reader.readAsText(file, "UTF-8");
+    });
 
     // 2. 選取段落邏輯
     function selectSegment(item, element) {
@@ -126,14 +174,13 @@
 
     // 3. 語音朗讀邏輯
     function playSpeech() {
-      synth.cancel(); // 清空播放佇列
+      synth.cancel();
       if (!currentSegment) return;
 
       const utterThis = new SpeechSynthesisUtterance(currentSegment.japanese);
       utterThis.lang = 'ja-JP';
       utterThis.rate = parseFloat(document.getElementById('rate').value);
 
-      // 選取語音
       const voiceSelect = document.getElementById('voiceSelect');
       const voices = synth.getVoices();
       
@@ -144,13 +191,11 @@
         utterThis.voice = selectedVoice;
       }
 
-      // 開始朗讀
       utterThis.onstart = function() {
         isPlaying = true;
         updateSpeechBtnText();
       };
 
-      // 播放結束監聽
       utterThis.onend = function() {
         const loop = document.getElementById('loopCheck').checked;
         if (loop && isPlaying && currentSegment) {
@@ -164,17 +209,14 @@
       synth.speak(utterThis);
     }
 
-    // 控制「停止 / 繼續朗讀」按鈕
     function toggleSpeech() {
       if (!currentSegment) return;
 
       if (isPlaying) {
-        // 正在播放 -> 停止朗讀，狀態改為 false
         isPlaying = false;
         synth.cancel();
         updateSpeechBtnText();
       } else {
-        // 停止中 -> 重新朗讀
         playSpeech();
       }
     }
