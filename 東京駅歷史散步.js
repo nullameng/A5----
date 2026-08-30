@@ -98,7 +98,7 @@ var transcriptData = [
   {
     "id": "004",
     "time": "00:46",
-    "japanese": "完成から100年以上が経ちますが非常に美しく色褪せることのないデザインは東京의 象徴の一つであり",
+    "japanese": "完成から100年以上が経ちますが非常に美しく色褪せることのないデザインは東京の 象徴の一つであり",
     "furigana": "<ruby>完成<rt>かんせい</rt></ruby>から100<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>経<rt>た</rt></ruby>ちますが<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しく<ruby>色褪<rt>いろあ</rt></ruby>せることのないデザインは<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つであり",
     "segmentation": "完成から100年以上が経ちますが / 非常に美しく / 色褪せることのないデザインは / 東京の象徴の一つであり",
     "translation": {
@@ -130,7 +130,7 @@ var transcriptData = [
   {
     "id": "005",
     "time": "00:55",
-    "japanese": "2024年から発行されている1万円札의 裏に書かれているのがまさにこの駅舎です。ちなみに東京駅は建設の際大きく分けると2つの案が存在しており",
+    "japanese": "2024年から発行されている1万円札の 裏に書かれているのがまさにこの駅舎です。ちなみに東京駅は建設の際大きく分けると2つの案が存在しており",
     "furigana": "2024<ruby>年<rt>ねん</rt></ruby>から<ruby>発行<rt>はっこう</rt></ruby>されている1<ruby>万円札<rt>まんえんさつ</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>に<ruby>書<rt>か</rt></ruby>かれているのがまさにこの<ruby>駅舎<rt>えきしゃ</rt></ruby>です。ちなみに<ruby>東京駅<rt>とうきょうえき</rt></ruby>は<ruby>建設<rt>けんせつ</rt></ruby>の<ruby>際<rt>さい</rt></ruby><ruby>大<rt>おお</rt></ruby>きく<ruby>分<rt>わ</rt></ruby>けると2つの<ruby>案<rt>あん</rt></ruby>が<ruby>存在<rt>そんざい</rt></ruby>しており",
     "segmentation": "2024年から発行されている / 1万円札の裏に書かれているのが / まさにこの駅舎です。 / ちなみに東京駅は / 建設の際 / 大きく分けると / 2つの案が存在しており",
     "translation": {
@@ -194,7 +194,7 @@ var transcriptData = [
   {
     "id": "007",
     "time": "01:18",
-    "japanese": "バルツァーは東京駅周辺のヨーロッパ風の鉄道高架의 設計を指揮した人物として功績がありました。",
+    "japanese": "バルツァーは東京駅周辺のヨーロッパ風の鉄道高架の 設計を指揮した人物として功績がありました。",
     "furigana": "バルツァーは<ruby>東京駅<rt>とうきょうえき</rt></ruby><ruby>周辺<rt>しゅうへん</rt></ruby>のヨーロッパ<ruby>風<rt>ふう</rt></ruby>の<ruby>鉄道高架<rt>てつどうこうか</rt></ruby>の<ruby>設計<rt>せっけい</rt></ruby>を<ruby>指揮<rt>しき</rt></ruby>した<ruby>人物<rt>じんぶつ</rt></ruby>として<ruby>功績<rt>こうせき</rt></ruby>がありました。",
     "segmentation": "バルツァーは / 東京駅周辺の / ヨーロッパ風の鉄道高架の設計を / 指揮した人物として / 功績がありました。",
     "translation": {
@@ -226,7 +226,7 @@ var transcriptData = [
   {
     "id": "008",
     "time": "01:27",
-    "japanese": "ただ彼がデザインした東京駅は外人の目にはカッコよく映るものの当時西洋風의 建物こそが素晴らしいと考えていた日本人にとっては評判が悪く",
+    "japanese": "ただ彼がデザインした東京駅は外人の目にはカッコよく映るものの当時西洋風の 建物こそが素晴らしいと考えていた日本人にとっては評判が悪く",
     "furigana": "ただ<ruby>彼<rt>かれ</rt></ruby>がデザインした<ruby>東京駅<rt>とうきょうえき</rt></ruby>は<ruby>外国人<rt>がいこくじん</rt></ruby>の<ruby>目<rt>め</rt></ruby>にはカッコよく<ruby>映<rt>うつ</rt></ruby>るものの<ruby>当時<rt>とうじ</rt></ruby><ruby>西洋風<rt>せいようふう</rt></ruby>の<ruby>建物<rt>たてもの</rt></ruby>こそが<ruby>素晴<rt>すば</rt></ruby>らしいと<ruby>考<rt>かんが</rt></ruby>えていた<ruby>日本人<rt>にほんじん</rt></ruby>にとっては<ruby>評判<rt>ひょうばん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>く",
     "segmentation": "ただ彼がデザインした東京駅は / 外国人の目にはカッコよく映るものの / 当時西洋風の建物こそが素晴らしいと / 考えていた日本人にとっては / 評判が悪く",
     "translation": {
@@ -355,7 +355,7 @@ var transcriptData = [
   {
     "id": "012",
     "time": "02:20",
-    "japanese": "ただし桜吹雪의 入れ墨があったかは定かではありません。ところでこの八重洲。「八重의 洲」と言うことから",
+    "japanese": "ただし桜吹雪の 入れ墨があったかは定かではありません。ところでこの八重洲。「八重の 洲」と言うことから",
     "furigana": "ただし<ruby>桜吹雪<rt>さくらふぶき</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>墨<rt>ずみ</rt></ruby>があったかは<ruby>定<rt>さだ</rt></ruby>かではありません。ところでこの<ruby>八重洲<rt>やえす</rt></ruby>。「<ruby>八重<rt>やえ</rt></ruby>の<ruby>洲<rt>す</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うことから",
     "segmentation": "ただし / 桜吹雪の入れ墨があったかは / 定かではありません。 / ところでこの八重洲。 / 「八重の洲」と言うことから",
     "translation": {
@@ -387,7 +387,7 @@ var transcriptData = [
   {
     "id": "013",
     "time": "02:30",
-    "japanese": "なんとも日本的な響きを感じます。ところが実はこの名前は江戸初期のオランダ人貿易家ヤン・ヨーステン의 屋敷がこのあたりにあったことから",
+    "japanese": "なんとも日本的な響きを感じます。ところが実はこの名前は江戸初期のオランダ人貿易家ヤン・ヨーステンの 屋敷がこのあたりにあったことから",
     "furigana": "なんとも<ruby>日本的<rt>にほんてき</rt></ruby>な<ruby>響<rt>ひび</rt></ruby>きを<ruby>感<rt>かん</rt></ruby>じます。ところが<ruby>実<rt>じつ</rt></ruby>はこの<ruby>名前<rt>なまえ</rt></ruby>は<ruby>江戸初期<rt>えどしょき</rt></ruby>のオランダ<ruby>人<rt>じん</rt></ruby><ruby>貿易家<rt>ぼうえきか</rt></ruby>ヤン・ヨーステンの<ruby>屋敷<rt>やしき</rt></ruby>がこのあたりにあったことから",
     "segmentation": "なんとも日本的な響きを感じます。 / ところが実はこの名前は / 江戸初期のオランダ人貿易家 / ヤン・ヨーステンの屋敷が / このあたりにあったことから",
     "translation": {
@@ -451,7 +451,7 @@ var transcriptData = [
   {
     "id": "015",
     "time": "02:51",
-    "japanese": "現代においては地下街의 キャラクターとしても活躍しています。さてそんな八重洲의 近くには現在絶賛開発中のTorch Tower의 建設現場があります。",
+    "japanese": "現代においては地下街の キャラクターとしても活躍しています。さてそんな八重洲の 近くには現在絶賛開発中のTorch Towerの 建設現場があります。",
     "furigana": "<ruby>現代<rt>げんだい</rt></ruby>においては<ruby>地下街<rt>ちかがい</rt></ruby>のキャラクターとしても<ruby>活躍<rt>かつやく</rt></ruby>しています。さてそんな<ruby>八重洲<rt>やえす</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くには<ruby>現在<rt>げんざい</rt></ruby><ruby>絶賛開発中<rt>ぜっさんかいはつちゅう</rt></ruby>のTorch Towerの<ruby>建設現場<rt>けんせつげんば</rt></ruby>があります。",
     "segmentation": "現代においては / 地下街のキャラクターとしても / 活躍しています。 / さてそんな八重洲の近くには / 現在絶賛開発中の / Torch Towerの建設現場があります。",
     "translation": {
@@ -697,7 +697,7 @@ var transcriptData = [
   {
     "id": "023",
     "time": "04:16",
-    "japanese": "なお現代의 ニュースなどではこの建物を上空あるいは正面から映して日銀の政策などを報道したりしますが",
+    "japanese": "なお現代の ニュースなどではこの建物を上空あるいは正面から映して日銀の政策などを報道したりしますが",
     "furigana": "なお<ruby>現代<rt>げんだい</rt></ruby>のニュースなどではこの<ruby>建物<rt>たてもの</rt></ruby>を<ruby>上空<rt>じょうくう</rt></ruby>あるいは<ruby>正面<rt>しょうめん</rt></ruby>から<ruby>映<rt>うつ</rt></ruby>して<ruby>日銀<rt>にちぎん</rt></ruby>の<ruby>政策<rt>せいさく</rt></ruby>などを<ruby>報道<rt>ほうどう</rt></ruby>したりしますが",
     "segmentation": "なお現代のニュースなどでは / この建物を上空あるいは正面から映して / 日銀の政策などを報道したりしますが",
     "translation": {
@@ -788,7 +788,7 @@ var transcriptData = [
   {
     "id": "026",
     "time": "04:47",
-    "japanese": "皆さん各自日銀의 ホームページをチェックしてください。さてそんな日銀の優雅な建物の隣には",
+    "japanese": "皆さん各自日銀の ホームページをチェックしてください。さてそんな日銀の優雅な建物の隣には",
     "furigana": "<ruby>皆<rt>みな</rt></ruby>さん<ruby>各自<rt>かくじ</rt></ruby><ruby>日銀<rt>にちぎん</rt></ruby>のホームページをチェックしてください。さてそんな<ruby>日銀<rt>にちぎん</rt></ruby>の<ruby>優雅<rt>ゆうが</rt></ruby>な<ruby>建物<rt>たてもの</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>には",
     "segmentation": "皆さん各自日銀のホームページを / チェックしてください。 / さてそんな日銀の優雅な建物の隣には",
     "translation": {
@@ -847,7 +847,7 @@ var transcriptData = [
   {
     "id": "028",
     "time": "05:10",
-    "japanese": "三越自体は江戸時代に創業した呉服店三井越後屋にルーツを持ち現在も日本経済に大きな影響力を持つ三井グループ의 中心的メンバーです。",
+    "japanese": "三越自体は江戸時代に創業した呉服店三井越後屋にルーツを持ち現在も日本経済に大きな影響力を持つ三井グループの 中心的メンバーです。",
     "furigana": "<ruby>三越<rt>みつこし</rt></ruby><ruby>自体<rt>じたい</rt></ruby>は<ruby>江戸時代<rt>えどじだい</rt></ruby>に<ruby>創業<rt>そうぎょう</rt></ruby>した<ruby>呉服店<rt>ごふくてん</rt></ruby><ruby>三井越後屋<rt>みついえちごや</rt></ruby>にルーツを<ruby>持<rt>も</rt></ruby>ち<ruby>現在<rt>げんざい</rt></ruby>も<ruby>日本経済<rt>にほんけいざい</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>影響力<rt>えいきょうりょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>三井<rt>みつい</rt></ruby>グループの<ruby>中心的分<rt>ちゅうしんてき</rt></ruby>メンバーです。",
     "segmentation": "三越自体は江戸時代に創業した / 呉服店 三井越後屋にルーツを持ち / 現在も日本経済に大きな影響力を持つ / 三井グループの中心的メンバーです。",
     "translation": {
@@ -880,7 +880,7 @@ var transcriptData = [
     "id": "029",
     "time": "05:23",
     "japanese": "本店の建物自体は1914年の完成後から関東大震災や太平洋戦争を経て幾度か改築され現在に至ります。",
-    "furigana": "<ruby>本店<rt>ほんてん</rt></ruby>の<ruby>建物自体<rt>たてものじたい</rt></ruby>は1914<ruby>年<rt>ねん</rt></ruby>의 <ruby>完成後<rt>かんせいご</rt></ruby>から<ruby>関東大震災<rt>かんとうだいしんさい</rt></ruby>や<ruby>太平洋戦争<rt>たいへいようせんそう</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>幾度<rt>いくど</rt></ruby>か<ruby>改築<rt>かいちく</rt></ruby>され<ruby>現在<rt>げんざい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>ります。",
+    "furigana": "<ruby>本店<rt>ほんてん</rt></ruby>の<ruby>建物自体<rt>たてものじたい</rt></ruby>は1914<ruby>年<rt>ねん</rt></ruby>の <ruby>完成後<rt>かんせいご</rt></ruby>から<ruby>関東大震災<rt>かんとうだいしんさい</rt></ruby>や<ruby>太平洋戦争<rt>たいへいようせんそう</rt></ruby>を<ruby>経<rt>へ</rt></ruby>て<ruby>幾度<rt>いくど</rt></ruby>か<ruby>改築<rt>かいちく</rt></ruby>され<ruby>現在<rt>げんざい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>ります。",
     "segmentation": "本店の建物自体は1914年の完成後から / 関東大震災や太平洋戦争を経て / 幾度か改築され / 現在に至ります。",
     "translation": {
       "natural": "總行建築本身在 1914 年完工後，歷經關東大地震與太平洋戰爭，經過數次改建而延續至今。",
@@ -911,8 +911,8 @@ var transcriptData = [
   {
     "id": "030",
     "time": "05:35",
-    "japanese": "三越の象徴といえば入り口에 設置されたライオン。これは1914年から存在しておりイギリスはロンドンのトラファルガー広場の",
-    "furigana": "<ruby>三越<rt>みつこし</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby>といえば<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>に<ruby>設置<rt>せっち</rt></ruby>されたライオン。<ruby>これ<rt></rt></ruby>は1914<ruby>年<rt>ねん</rt></ruby>から<ruby>存在<rt>そんざい</rt></ruby>しておりイギリスはロンドンのトラファルガー<ruby>広場<rt>ひろば</rt></ruby>의",
+    "japanese": "三越の象徴といえば入り口に 設置されたライオン。これは1914年から存在しておりイギリスはロンドンのトラファルガー広場の",
+    "furigana": "<ruby>三越<rt>みつこし</rt></ruby>の<ruby>象徴<rt>しょうちょう</rt></ruby>といえば<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>に<ruby>設置<rt>せっち</rt></ruby>されたライオン。<ruby>これ<rt></rt></ruby>は1914<ruby>年<rt>ねん</rt></ruby>から<ruby>存在<rt>そんざい</rt></ruby>しておりイギリスはロンドンのトラファルガー<ruby>広場<rt>ひろば</rt></ruby>の",
     "segmentation": "三越の象徴といえば / 入り口に設置されたライオン。 / これは1914年から存在しており / イギリスはロンドンのトラファルガー広場の",
     "translation": {
       "natural": "提到三越的象徵，莫過於入口處擺設的獅子像。這尊獅子自 1914 年起就已存在，是以英國倫敦特拉法加廣場的...",
@@ -992,8 +992,8 @@ var transcriptData = [
   {
     "id": "033",
     "time": "06:01",
-    "japanese": "朝から晩まで人の通りがあるので誰にも見られずにまたがるのは至難の業です。ただそのような至難の業を成し遂げる強い運의 持ち主であれば",
-    "furigana": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>晩<rt>ばん</rt></ruby>まで<ruby>人<rt>ひと</rt></ruby>의 <ruby>通<rt>とお</rt></ruby>りがあるので<ruby>誰<rt>だれ</rt></ruby>にも<ruby>見<rt>み</rt></ruby>られずにまたがるのは<ruby>至難<rt>しなん</rt></ruby>의 <ruby>業<rt>わざ</rt></ruby>です。ただそのような<ruby>至難<rt>しなん</rt></ruby>의 <ruby>業<rt>わざ</rt></ruby>을 <ruby>成<rt>な</rt></ruby>し<ruby>遂<rt>と</rt></ruby>げる<ruby>強<rt>つよ</rt></ruby>い<ruby>運<rt>うん</rt></ruby>의 <ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>であれば",
+    "japanese": "朝から晩まで人の通りがあるので誰にも見られずにまたがるのは至難の業です。ただそのような至難の業を成し遂げる強い運の 持ち主であれば",
+    "furigana": "<ruby>朝<rt>あさ</rt></ruby>から<ruby>晩<rt>ばん</rt></ruby>まで<ruby>人<rt>ひと</rt></ruby>の <ruby>通<rt>とお</rt></ruby>りがあるので<ruby>誰<rt>だれ</rt></ruby>にも<ruby>見<rt>み</rt></ruby>られずにまたがるのは<ruby>至難<rt>しなん</rt></ruby>の <ruby>業<rt>わざ</rt></ruby>です。ただそのような<ruby>至難<rt>しなん</rt></ruby>の <ruby>業<rt>わざ</rt></ruby>を <ruby>成<rt>な</rt></ruby>し<ruby>遂<rt>と</rt></ruby>げる<ruby>強<rt>つよ</rt></ruby>い<ruby>運<rt>うん</rt></ruby>の <ruby>持<rt>も</rt></ruby>ち<ruby>主<rt>ぬし</rt></ruby>であれば",
     "segmentation": "朝から晩まで人の通りがあるので / 誰にも見られずにまたがるのは / 至難の業です。 / ただそのような至難の業を成し遂げる / 強い運の持ち主であれば",
     "translation": {
       "natural": "從早到晚都有行人往來，要不被任何人看見而跨坐上去根本是極難的絕技。不過，如果是能完成這種極高難度絕技、擁有強運的人，",
@@ -1052,7 +1052,7 @@ var transcriptData = [
     "id": "035",
     "time": "06:21",
     "japanese": "ライオンを横目に店内に入ると中央に吹き抜けがありそこに昭和の彫刻家佐藤玄々が制作した高さ約11メートルにおよぶ巨大な天女像が設置されています。",
-    "furigana": "ライオンを<ruby>横目<rt>よこめ</rt></ruby>に<ruby>店内<rt>てんない</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると<ruby>中央<rt>ちゅうおう</rt></ruby>に<ruby>吹<rt>ふ</rt></ruby>き<ruby>抜<rt>ぬ</rt></ruby>けがありそこに<ruby>昭和<rt>しょうわ</rt></ruby>의 <ruby>彫刻家<rt>ちょうこくか</rt></ruby><ruby>佐藤玄々<rt>さとうげんげん</rt></ruby>が<ruby>制作<rt>せいさく</rt></ruby>した<ruby>高<rt>たか</rt></ruby>さ<ruby>約<rt>やく</rt></ruby>11メートルにおよぶ<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>天女像<rt>てんにょぞう</rt></ruby>が<ruby>設置<rt>せっち</rt></ruby>されています。",
+    "furigana": "ライオンを<ruby>横目<rt>よこめ</rt></ruby>に<ruby>店内<rt>てんない</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると<ruby>中央<rt>ちゅうおう</rt></ruby>に<ruby>吹<rt>ふ</rt></ruby>き<ruby>抜<rt>ぬ</rt></ruby>けがありそこに<ruby>昭和<rt>しょうわ</rt></ruby>の <ruby>彫刻家<rt>ちょうこくか</rt></ruby><ruby>佐藤玄々<rt>さとうげんげん</rt></ruby>が<ruby>制作<rt>せいさく</rt></ruby>した<ruby>高<rt>たか</rt></ruby>さ<ruby>約<rt>やく</rt></ruby>11メートルにおよぶ<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>天女像<rt>てんにょぞう</rt></ruby>が<ruby>設置<rt>せっち</rt></ruby>されています。",
     "segmentation": "ライオンを横目に店内に入ると / 中央に吹き抜けがあり / そこに昭和の彫刻家 佐藤玄々が制作した / 高さ約11メートルにおよぶ / 巨大な天女像が設置されています。",
     "translation": {
       "natural": "斜眼瞄著獅子走進店內後，會看到中央有個天井中庭，那裡擺設著由昭和時代雕刻家佐藤玄玄所創作、高達約 11 公尺的巨大天女像。",
@@ -1084,7 +1084,7 @@ var transcriptData = [
     "id": "036",
     "time": "06:36",
     "japanese": "この天女像はライオンと並ぶ三越の象徴ですがしかし完成時から賛否両論あるためご自身の目で確かめて誰かと意見を交換してみてください。",
-    "furigana": "この<ruby>天女像<rt>てんにょぞう</rt></ruby>はライオンと<ruby>並<rt>なら</rt></ruby>ぶ<ruby>三越<rt>みつこし</rt></ruby>의 <ruby>象徴<rt>しょうちょう</rt></ruby>ですがしかし<ruby>完成時<rt>かんせいじ</rt></ruby>から<ruby>賛否両論<rt>さんぴりょうろん</rt></ruby>あるためご<ruby>自身<rt>じしん</rt></ruby>의 <ruby>目<rt>め</rt></ruby>で<ruby>確<rt>たしか</rt></ruby>めて<ruby>誰<rt>だれ</rt></ruby>かと<ruby>意見<rt>いけん</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>してみてください。",
+    "furigana": "この<ruby>天女像<rt>てんにょぞう</rt></ruby>はライオンと<ruby>並<rt>なら</rt></ruby>ぶ<ruby>三越<rt>みつこし</rt></ruby>の <ruby>象徴<rt>しょうちょう</rt></ruby>ですがしかし<ruby>完成時<rt>かんせいじ</rt></ruby>から<ruby>賛否両論<rt>さんぴりょうろん</rt></ruby>あるためご<ruby>自身<rt>じしん</rt></ruby>の <ruby>目<rt>め</rt></ruby>で<ruby>確<rt>たしか</rt></ruby>めて<ruby>誰<rt>だれ</rt></ruby>かと<ruby>意見<rt>いけん</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>してみてください。",
     "segmentation": "この天女像はライオンと並ぶ / 三越の象徴ですが / しかし完成時から賛否両論あるため / ご自身の目で確かめて / 誰かと意見を交換してみてください。",
     "translation": {
       "natural": "這尊天女像也是與獅子齊名的三越象徴，不過由於自完工以來就評價兩極，不妨用您自己的雙眼親自確認，並試著和他人交流看看看法吧。",
@@ -1115,8 +1115,8 @@ var transcriptData = [
   {
     "id": "037",
     "time": "06:50",
-    "japanese": "ちなみに先ほど屋上庭園を目印にこの建物を見つけましたが実は今日どこのデパートにもある美しい緑의 空間は",
-    "furigana": "ちなみに<ruby>先<rt>さき</rt></ruby>ほど<ruby>屋上庭園<rt>おくじょうていえん</rt></ruby>を<ruby>目印<rt>めじるし</rt></ruby>にこの<ruby>建物<rt>たてもの</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけましたが<ruby>実<rt>じつ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>どこのデパートにもある<ruby>美<rt>うつく</rt></ruby>しい<ruby>緑<rt>みどり</rt></ruby>의 <ruby>空間<rt>くうかん</rt></ruby>は",
+    "japanese": "ちなみに先ほど屋上庭園を目印にこの建物を見つけましたが実は今日どこのデパートにもある美しい緑の 空間は",
+    "furigana": "ちなみに<ruby>先<rt>さき</rt></ruby>ほど<ruby>屋上庭園<rt>おくじょうていえん</rt></ruby>を<ruby>目印<rt>めじるし</rt></ruby>にこの<ruby>建物<rt>たてもの</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけましたが<ruby>実<rt>じつ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>どこのデパートにもある<ruby>美<rt>うつく</rt></ruby>しい<ruby>緑<rt>みどり</rt></ruby>の <ruby>空間<rt>くうかん</rt></ruby>は",
     "segmentation": "ちなみに先ほど屋上庭園を目印に / この建物を見つけましたが / 実は今日どこのデパートにもある / 美しい緑の空間は",
     "translation": {
       "natural": "順帶一提，剛才我們以空中花園為標誌找到了這座建築，但其實如今任何一家百貨公司都有的美麗綠化空間，",
@@ -1169,8 +1169,8 @@ var transcriptData = [
   {
     "id": "039",
     "time": "07:14",
-    "japanese": "そしてその地名の由来となるものが三越の目の前にあります。そう日本橋です。この橋は江戸時代に五街道의 起点と定められ",
-    "furigana": "そしてその<ruby>地名<rt>ちめい</rt></ruby>の<ruby>由来<rt>ゆらい</rt></ruby>となるものが<ruby>三越<rt>みつこし</rt></ruby>の<ruby>目<rt>め</rt></ruby>의 <ruby>前<rt>まえ</rt></ruby>にあります。そう<ruby>日本橋<rt>にほんばし</rt></ruby>です。この<ruby>橋<rt>はし</rt></ruby>は<ruby>江戸時代<rt>えどじだい</rt></ruby>に<ruby>五街道<rt>ごかいどう</rt></ruby>の<ruby>起点<rt>きてん</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められ",
+    "japanese": "そしてその地名の由来となるものが三越の目の前にあります。そう日本橋です。この橋は江戸時代に五街道の 起点と定められ",
+    "furigana": "そしてその<ruby>地名<rt>ちめい</rt></ruby>の<ruby>由来<rt>ゆらい</rt></ruby>となるものが<ruby>三越<rt>みつこし</rt></ruby>の<ruby>目<rt>め</rt></ruby>の <ruby>前<rt>まえ</rt></ruby>にあります。そう<ruby>日本橋<rt>にほんばし</rt></ruby>です。この<ruby>橋<rt>はし</rt></ruby>は<ruby>江戸時代<rt>えどじだい</rt></ruby>に<ruby>五街道<rt>ごかいどう</rt></ruby>の<ruby>起点<rt>きてん</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められ",
     "segmentation": "そしてその地名の由来となるものが / 三越の目の前にあります。 / そう 日本橋です。 / この橋は江戸時代に / 五街道の起点と定められ",
     "translation": {
       "natural": "而作為該地名由來的建築物，就在三越的正前方。沒錯，就是『日本橋』。這座橋在江戶時代被定為五街道的起點，",
@@ -1202,7 +1202,7 @@ var transcriptData = [
     "id": "040",
     "time": "07:26",
     "japanese": "以後長きにわたり歴史の中心に存在しました。現在の橋は1603年にかけられた初代から数えて20代目にあたり",
-    "furigana": "<ruby>以後<rt>いご</rt></ruby><ruby>長<rt>なが</rt></ruby>きにわたり<ruby>歴史<rt>れきし</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>存在<rt>そんざい</rt></ruby>しました。<ruby>現在<rt>げんざい</rt></ruby>의 <ruby>橋<rt>はし</rt></ruby>は1603<ruby>年<rt>ねん</rt></ruby>にかけられた<ruby>初代<rt>しょだい</rt></ruby>から<ruby>数<rt>かぞ</rt></ruby>えて20<ruby>代目<rt>だいめ</rt></ruby>にあたり",
+    "furigana": "<ruby>以後<rt>いご</rt></ruby><ruby>長<rt>なが</rt></ruby>きにわたり<ruby>歴史<rt>れきし</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>存在<rt>そんざい</rt></ruby>しました。<ruby>現在<rt>げんざい</rt></ruby>の <ruby>橋<rt>はし</rt></ruby>は1603<ruby>年<rt>ねん</rt></ruby>にかけられた<ruby>初代<rt>しょだい</rt></ruby>から<ruby>数<rt>かぞ</rt></ruby>えて20<ruby>代目<rt>だいめ</rt></ruby>にあたり",
     "segmentation": "以後長きにわたり / 歴史の中心に存在しました。 / 現在の橋は1603年にかけられた / 初代から数えて20代目にあたり",
     "translation": {
       "natural": "此後長年處於歷史的核心地位。現在這座橋是自 1603 年架設的第一代算起第 20 代，",
@@ -1287,8 +1287,8 @@ var transcriptData = [
   {
     "id": "043",
     "time": "07:56",
-    "japanese": "雑学として語られがちです。ところが実際には首都高の建設はオリンピック의 決定よりも遥かに前から決まっており",
-    "furigana": "<ruby>雑学<rt>ざつがく</rt></ruby>として<ruby>語<rt>かた</rt></ruby>られがちです。ところが<ruby>実際<rt>じっさい</rt></ruby>には<ruby>首都高<rt>しゅとこう</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>はオリンピック의 <ruby>決定<rt>けってい</rt></ruby>よりも<ruby>遥<rt>はる</rt></ruby>かに<ruby>前<rt>まえ</rt></ruby>から<ruby>決<rt>き</rt></ruby>まっており",
+    "japanese": "雑学として語られがちです。ところが実際には首都高の建設はオリンピックの 決定よりも遥かに前から決まっており",
+    "furigana": "<ruby>雑学<rt>ざつがく</rt></ruby>として<ruby>語<rt>かた</rt></ruby>られがちです。ところが<ruby>実際<rt>じっさい</rt></ruby>には<ruby>首都高<rt>しゅとこう</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>はオリンピックの <ruby>決定<rt>けってい</rt></ruby>よりも<ruby>遥<rt>はる</rt></ruby>かに<ruby>前<rt>まえ</rt></ruby>から<ruby>決<rt>き</rt></ruby>まっており",
     "segmentation": "雑学として語られがちです。 / ところが実際には / 首都高の建設はオリンピックの決定よりも / 遥かに前から決まっており",
     "translation": {
       "natural": "常作為豆知識被大家口耳相傳。然而實際上，首都高的建設早在確定舉辦奧運前很久就已經決定好了，",
@@ -1314,8 +1314,8 @@ var transcriptData = [
   {
     "id": "044",
     "time": "08:05",
-    "japanese": "このようなルートになったのは五輪と無関係です。実際には高度経済成長に伴う自動車의 急増に対し",
-    "furigana": "このようなルートになったのは<ruby>五輪<rt>ごりん</rt></ruby>と<ruby>無関係<rt>むかんけい</rt></ruby>です。<ruby>実際<rt>じっさい</rt></ruby>には<ruby>高度経済成長<rt>こうどけいざいせいちょう</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>う<ruby>自動車<rt>じどうしゃ</rt></ruby>의 <ruby>急増<rt>きゅうぞう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し",
+    "japanese": "このようなルートになったのは五輪と無関係です。実際には高度経済成長に伴う自動車の 急増に対し",
+    "furigana": "このようなルートになったのは<ruby>五輪<rt>ごりん</rt></ruby>と<ruby>無関係<rt>むかんけい</rt></ruby>です。<ruby>実際<rt>じっさい</rt></ruby>には<ruby>高度経済成長<rt>こうどけいざいせいちょう</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>う<ruby>自動車<rt>じどうしゃ</rt></ruby>の <ruby>急増<rt>きゅうぞう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し",
     "segmentation": "このようなルートになったのは / 五輪と無関係です。 / 実際には高度経済成長に伴う / 自動車の急増に対し",
     "translation": {
       "natural": "變成這種路線跟奧運毫無關係。實際上是為了因應伴隨經濟高度成長而來的汽車暴增問題，",
@@ -1379,7 +1379,7 @@ var transcriptData = [
     "id": "046",
     "time": "08:28",
     "japanese": "川の上にかかる日本橋の上を通したのです。なお橋上の首都高は完成後半世紀が経ち老朽化のため2034年頃までに撤去予定です。",
-    "furigana": "<ruby>川<rt>かわ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にかかる<ruby>日本橋<rt>にほんばし</rt></ruby>의 <ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>したのです。なお<ruby>橋上<rt>きょうじょう</rt></ruby>의 <ruby>首都高<rt>しゅとこう</rt></ruby>は<ruby>完成後<rt>かんせいご</rt></ruby><ruby>半世紀<rt>はんせいき</rt></ruby>が<ruby>経<rt>た</rt></ruby>ち<ruby>老朽化<rt>ろうきゅうか</rt></ruby>のため2034<ruby>年頃<rt>ねんごろ</rt></ruby>までに<ruby>撤去予定<rt>てっきょよてい</rt></ruby>です。",
+    "furigana": "<ruby>川<rt>かわ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にかかる<ruby>日本橋<rt>にほんばし</rt></ruby>の <ruby>上<rt>うえ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>したのです。なお<ruby>橋上<rt>きょうじょう</rt></ruby>の <ruby>首都高<rt>しゅとこう</rt></ruby>は<ruby>完成後<rt>かんせいご</rt></ruby><ruby>半世紀<rt>はんせいき</rt></ruby>が<ruby>経<rt>た</rt></ruby>ち<ruby>老朽化<rt>ろうきゅうか</rt></ruby>のため2034<ruby>年頃<rt>ねんごろ</rt></ruby>までに<ruby>撤去予定<rt>てっきょよてい</rt></ruby>です。",
     "segmentation": "川の上にかかる日本橋の上を通したのです。 / なお橋上の首都高は完成後半世紀が経ち / 老朽化のため2034年頃までに / 撤去予定です。",
     "translation": {
       "natural": "這才讓公路跨過了位在河流上的日本橋正上方。此外，橋上方的首都高在完工半個世紀後，因設施老舊，預計將於 2034 年前後拆除。",
@@ -1406,7 +1406,7 @@ var transcriptData = [
     "id": "047",
     "time": "08:43",
     "japanese": "しかし橋上の首都高が老朽化というのなら日本橋の方はどうなんでしょうか。実はかつてこの橋は自動車と",
-    "furigana": "しかし<ruby>橋上<rt>きょうじょう</rt></ruby>の<ruby>首都高<rt>しゅとこう</rt></ruby>が<ruby>老朽化<rt>ろうきゅうか</rt></ruby>という의 <ruby>なら<rt></rt></ruby><ruby>日本橋<rt>にほんばし</rt></ruby>의 <ruby>方<rt>ほう</rt></ruby>はどうなんでしょうか。<ruby>実<rt>じつ</rt></ruby>はかつてこの<ruby>橋<rt>はし</rt></ruby>は<ruby>自動車<rt>じどうしゃ</rt></ruby>と",
+    "furigana": "しかし<ruby>橋上<rt>きょうじょう</rt></ruby>の<ruby>首都高<rt>しゅとこう</rt></ruby>が<ruby>老朽化<rt>ろうきゅうか</rt></ruby>というの <ruby>なら<rt></rt></ruby><ruby>日本橋<rt>にほんばし</rt></ruby>の <ruby>方<rt>ほう</rt></ruby>はどうなんでしょうか。<ruby>実<rt>じつ</rt></ruby>はかつてこの<ruby>橋<rt>はし</rt></ruby>は<ruby>自動車<rt>じどうしゃ</rt></ruby>と",
     "segmentation": "しかし橋上の首都高が老朽化というのなら / 日本橋の方はどうなんでしょうか。 / 実はかつてこの橋は自動車と",
     "translation": {
       "natural": "不過，如果說橋上的首都高老舊了，那麼日本橋本身又是如何呢？其實這座橋過去曾同時供汽車與...",
@@ -1427,7 +1427,7 @@ var transcriptData = [
   {
     "id": "048",
     "time": "08:53",
-    "japanese": "重量が車の何倍もある路面電車이 동시에 通っていたためかなり頑丈에 作られています。それゆえ太平洋戦争末期の東京大空襲において",
+    "japanese": "重量が車の何倍もある路面電車の 同時に 通っていたためかなり頑丈に 作られています。それゆえ太平洋戦争末期の東京大空襲において",
     "furigana": "<ruby>重量<rt>じゅうりょう</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>の<ruby>何倍<rt>なんばい</rt></ruby>もある<ruby>路面電車<rt>ろめんでんしゃ</rt></ruby>が<ruby>同時<rt>どうじ</rt></ruby>に<ruby>通<rt>とお</rt></ruby>っていたためかなり<ruby>頑丈<rt>がんじょう</rt></ruby>に<ruby>作<rt>つく</rt></ruby>られています。それゆえ<ruby>太平洋戦争末期<rt>たいへいようせんそうまっき</rt></ruby>の<ruby>東京大空襲<rt>とうきょうだいくうしゅう</rt></ruby>において",
     "segmentation": "重量が車の何倍もある路面電車が / 同時に通っていたため / かなり頑丈に作られています。 / それゆえ太平洋戦争末期の東京大空襲において",
     "translation": {
@@ -1459,7 +1459,7 @@ var transcriptData = [
   {
     "id": "049",
     "time": "09:06",
-    "japanese": "周囲が焼け野原になりながらもビクともしませんでした。一応の耐久年수는 脅威の1000年とされており",
+    "japanese": "周囲が焼け野原になりながらもビクともしませんでした。一応の耐久年数は 脅威の1000年とされており",
     "furigana": "<ruby>周囲<rt>しゅうい</rt></ruby>が<ruby>焼<rt>や</rt></ruby>け<ruby>野原<rt>のはら</rt></ruby>になりながらもビクともしませんでした。<ruby>一応<rt>いちおう</rt></ruby>の<ruby>耐久年数<rt>たいきゅうねんすう</rt></ruby>は<ruby>脅威<rt>きょうい</rt></ruby>の1000<ruby>年<rt>ねん</rt></ruby>とされており",
     "segmentation": "周囲が焼け野原になりながらも / ビクともしませんでした。 / 一応の耐久年数は脅威の1000年とされており",
     "translation": {
