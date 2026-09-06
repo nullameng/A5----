@@ -1,0 +1,368 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "皆様、こんにちは。",
+    "furigana": "<ruby>皆<rt>みな</rt></ruby><ruby>様<rt>さま</rt></ruby>、こんにちは。",
+    "segmentation": "皆様、| こんにちは。",
+    "translation": {
+      "natural": "大家好。",
+      "literal": "各位，你好。"
+    },
+    "words": [
+      {
+        "word": "皆様",
+        "reading": "みなさま",
+        "note": "名詞，各位、大家（敬稱）"
+      }
+    ],
+    "context_grammar": [
+      "こんにちは：日文中最常見的白天打招呼用語。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:03",
+    "japanese": "今回はAの文字を冠されたAudiのメインモデル、Audi Aファミリーをご紹介いたします。",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>はAの<ruby>文<rt>も</rt></ruby><ruby>字<rt>じ</rt></ruby>を<ruby>冠<rt>かん</rt></ruby>されたAudiのメインモデル、Audi Aファミリーを<ruby>ご<rt></rt></ruby><ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>いたします。",
+    "segmentation": "今回は | Aの文字を冠された | Audiのメインモデル、| Audi Aファミリーを | ご紹介いたします。",
+    "translation": {
+      "natural": "這次我們將為您介紹冠以「A」之名的 Audi 主力車系——Audi A 車族。",
+      "literal": "這次將為您介紹冠以A文字的Audi主車型，Audi A車族。"
+    },
+    "words": [
+      {
+        "word": "冠する",
+        "reading": "かんする",
+        "note": "動詞，冠上、命名"
+      },
+      {
+        "word": "ご紹介する",
+        "reading": "ごしょうかいする",
+        "note": "動詞，介紹（自謙語為ご紹介いたします）"
+      }
+    ],
+    "context_grammar": [
+      "～を冠された：受身形（被動語態），表示「被冠以～之名」。",
+      "ご＋動詞連用形＋いたします：謙讓語句型，表示說話者禮貌地為對方做某事。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:12",
+    "japanese": "Audiの頭文字であるとともに、物事の始まりや世界で最もアトラクティブ（魅力的）なヨーロッパ車という思いが込められた、",
+    "furigana": "Audiの<ruby>頭<rt>かしら</rt></ruby><ruby>文<rt>も</rt></ruby><ruby>字<rt>じ</rt></ruby>であるとともに、<ruby>物<rt>もの</rt></ruby><ruby>事<rt>ごと</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まりや<ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もアトラクティブ（<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょう</rt></ruby><ruby>的<rt>てき</rt></ruby>）なヨーロッパ<ruby>車<rt>しゃ</rt></ruby>という<ruby>思<rt>おも</rt></ruby>いが<ruby>込<rt>こ</rt></ruby>められた、",
+    "segmentation": "Audiの頭文字であるとともに、| 物事の始まりや | 世界で最もアトラクティブな | ヨーロッパ車という思いが込められた、",
+    "translation": {
+      "natural": "「A」不僅是 Audi 的首字母，更寄托了「萬物之始」以及「打造世界上最具吸引力的歐洲車」的心意，",
+      "literal": "在作為Audi字首的同時，也包含了萬物開端與世界上最具吸引力的歐洲車這樣的想法，"
+    },
+    "words": [
+      {
+        "word": "頭文字",
+        "reading": "かしらもじ",
+        "note": "名詞，首字母"
+      },
+      {
+        "word": "アトラクティブ",
+        "reading": "あとらくてぃぶ",
+        "note": "形容動詞（外來語），有吸引力的、魅力的"
+      },
+      {
+        "word": "込められる",
+        "reading": "こめられる",
+        "note": "動詞，注入、包含（被動形）"
+      }
+    ],
+    "context_grammar": [
+      "～であるとともに：表示「既是……同時也是……」。",
+      "～という思いが込められる：表示「被注入了……的想法/寄託」。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:19",
+    "japanese": "Audiが誇るメインモデルの魅力を、",
+    "furigana": "Audiが<ruby>誇<rt>ほこ</rt></ruby>るメインモデルの<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>を、",
+    "segmentation": "Audiが誇る | メインモデルの魅力を、",
+    "translation": {
+      "natural": "這款 Audi 引以為傲的主力車型魅力，",
+      "literal": "Audi所誇耀的主車型魅力，"
+    },
+    "words": [
+      {
+        "word": "誇る",
+        "reading": "ほこる",
+        "note": "動詞，誇耀、以……為榮"
+      },
+      {
+        "word": "魅力",
+        "reading": "みりょく",
+        "note": "名詞，魅力"
+      }
+    ],
+    "context_grammar": [
+      "［名詞/動詞連體形］＋が誇る：表示「某機構/人引以為傲的……」。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:26",
+    "japanese": "Audi A1からAudi A8までのAファミリー全モデルの特徴を踏まえお伝えしていきます。",
+    "furigana": "Audi A1からAudi A8までの | Aファミリー<ruby>全<rt>ぜん</rt></ruby>モデルの<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえ | お<ruby>伝<rt>つた</rt></ruby>えしていきます。",
+    "segmentation": "Audi A1からAudi A8までの | Aファミリー全モデルの特徴を踏まえ | お伝えしていきます。",
+    "translation": {
+      "natural": "我們將結合從 Audi A1 到 Audi A8 的所有 A 車系車型特色，為您一一介紹。",
+      "literal": "將基於從Audi A1到Audi A8的A車系全車型特徵，為您進行傳達。"
+    },
+    "words": [
+      {
+        "word": "を踏まえる",
+        "reading": "をふまえる",
+        "note": "動詞，依據、基於、結合"
+      },
+      {
+        "word": "お伝える",
+        "reading": "おつたえる",
+        "note": "動詞，傳達、告知（謙讓表現）"
+      }
+    ],
+    "context_grammar": [
+      "～から～まで：表示範圍「從……到……」。",
+      "～を踏まえて：表示「立足於……/在考慮……的基礎上」。",
+      "お＋動詞連用形＋していく：謙讓語與進行式的結合，表示「將陸續為您……」。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:33",
+    "japanese": "動画最後にはYouTube限定のキャンペーン情報もございますので、ぜひ最後までご覧ください。",
+    "furigana": "<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby><ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>にはYouTube<ruby>限<rt>げん</rt></ruby><ruby>定<rt>てい</rt></ruby>のキャンペーン<ruby>情<rt>じょう</rt></ruby><ruby>報<rt>ほう</rt></ruby>もございますので、| ぜひ<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>までご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "動画最後には | YouTube限定のキャンペーン情報もございますので、| ぜひ最後までご覧ください。",
+    "translation": {
+      "natural": "影片結尾還有 YouTube 限定的活動資訊，請務必觀看到最後喔。",
+      "literal": "影片最後因為也有YouTube限定的活動情報，請務必觀看到最後。"
+    },
+    "words": [
+      {
+        "word": "キャンペーン",
+        "reading": "きゃんぺーん",
+        "note": "名詞，促銷活動、特別活動"
+      },
+      {
+        "word": "ご覧ください",
+        "reading": "ごらんください",
+        "note": "動詞，請看（「見る」的尊敬語）"
+      }
+    ],
+    "context_grammar": [
+      "ございます：あります的丁寧語（鄭重語）。",
+      "ご覧ください：請觀看（高階尊敬表達）。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:39",
+    "japanese": "それでは、始めていきましょう。",
+    "furigana": "それでは、<ruby>始<rt>はじ</rt></ruby>めていきましょう。",
+    "segmentation": "それでは、| 始めていきましょう。",
+    "translation": {
+      "natural": "那麼，我們就開始吧！",
+      "literal": "那麼，開始進行吧。"
+    },
+    "words": [
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "note": "動詞，開始"
+      }
+    ],
+    "context_grammar": [
+      "動詞て形＋いきましょう：表示「讓我們開始做……吧」。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:57",
+    "japanese": "今回ご紹介する車両は、Audi A1, A3, A4, A5, A6, A7, A8の全7モデルです。",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>ご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>する<ruby>車<rt>しゃ</rt></ruby><ruby>両<rt>りょう</rt></ruby>は、| Audi A1, A3, A4, A5, A6, A7, A8の | <ruby>全<rt>ぜん</rt></ruby>7モデルです。",
+    "segmentation": "今回ご紹介する車両は、| Audi A1, A3, A4, A5, A6, A7, A8の | 全7モデルです。",
+    "translation": {
+      "natural": "這次要介紹的車輛包含 Audi A1 到 A8，共計 7 款車型。",
+      "literal": "這次介紹的車輛是Audi A1, A3, A4, A5, A6, A7, A8的全7個車型。"
+    },
+    "words": [
+      {
+        "word": "車両",
+        "reading": "しゃりょう",
+        "note": "名詞，車輛"
+      },
+      {
+        "word": "モデル",
+        "reading": "もでる",
+        "note": "名詞，車型、款式"
+      }
+    ],
+    "context_grammar": [
+      "ご紹介する：謙讓表現，修飾後方的「車両」。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "01:10",
+    "japanese": "Aの後ろについた1から8までの数字は、数が大きくなるにつれてボディサイズやエンジンサイズがアップします。",
+    "furigana": "Aの<ruby>後<rt>うし</rt></ruby>ろについた1から8までの<ruby>数<rt>すう</rt></ruby><ruby>字<rt>じ</rt></ruby>は、| <ruby>数<rt>かず</rt></ruby>が大<ruby>きく<rt>おおきく</rt></ruby>なるにつれて | ボディサイズやエンジンサイズがアップします。",
+    "segmentation": "Aの後ろについた1から8までの数字は、| 数が大きくなるにつれて | ボディサイズやエンジンサイズがアップします。",
+    "translation": {
+      "natural": "「A」後方附加的 1 到 8 數字，隨著數字越大，車身尺寸與引擎排氣量也會隨之提升。",
+      "literal": "附在A後面的1到8數字，隨著數字變大，車身尺寸與引擎尺寸也會提升。"
+    },
+    "words": [
+      {
+        "word": "つく",
+        "reading": "つく",
+        "note": "動詞，附著、跟隨"
+      },
+      {
+        "word": "アップする",
+        "reading": "あっぷする",
+        "note": "動詞，提升、增加"
+      }
+    ],
+    "context_grammar": [
+      "～につれて：表示「隨著……的變化，另一個狀態也發生相應變化」。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "01:20",
+    "japanese": "Audi A1がコンパクトなボディに排気量の小さいエンジンを積載したエントリーモデルであるのに対し、",
+    "furigana": "Audi A1がコンパクトなボディに | <ruby>排<rt>はい</rt></ruby><ruby>気<rt>き</rt></ruby><ruby>量<rt>りょう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さいエンジンを<ruby>積<rt>せき</rt></ruby><ruby>載<rt>さい</rt></ruby>した | エントリーモデルであるのに対(たい)し、",
+    "segmentation": "Audi A1がコンパクトなボディに | 排気量の小さいエンジンを積載した | エントリーモデルであるのに対し、",
+    "translation": {
+      "natural": "相較於 Audi A1 是在精巧車身中搭載小排氣量引擎的入門車款，",
+      "literal": "相對於Audi A1是在緊湊車身上搭載排氣量小的引擎的入門車型，"
+    },
+    "words": [
+      {
+        "word": "排気量",
+        "reading": "はいきりょう",
+        "note": "名詞，排氣量"
+      },
+      {
+        "word": "積載",
+        "reading": "せきさい",
+        "note": "名詞/動詞，搭載、裝載"
+      },
+      {
+        "word": "エントリーモデル",
+        "reading": "えんとりーもでる",
+        "note": "名詞，入門車型"
+      }
+    ],
+    "context_grammar": [
+      "～であるのに対し：表示對比，「相較於…… / 與……相對」。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "01:27",
+    "japanese": "Audi A8はボディサイズもエンジンサイズも大きなハイエンドモデルとなっています。",
+    "furigana": "Audi A8はボディサイズもエンジンサイズも<ruby>大<rt>おお</rt></ruby>きな | ハイエンドモデルとなっています。",
+    "segmentation": "Audi A8はボディサイズもエンジンサイズも大きな | ハイエンドモデルとなっています。",
+    "translation": {
+      "natural": "Audi A8 則是車身尺寸與引擎規格皆屬頂級的旗艦車款。",
+      "literal": "Audi A8則是車身尺寸與引擎尺寸都大的高端車型。"
+    },
+    "words": [
+      {
+        "word": "ハイエンドモデル",
+        "reading": "はいえんどもでる",
+        "note": "名詞，頂級/旗艦車型"
+      }
+    ],
+    "context_grammar": [
+      "～も～も：表示「既……也……（兩者皆是）」。",
+      "～となっている：表示現狀或演變結果，「成為…… / 為……」。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "01:34",
+    "japanese": "また、各モデルごとに個性的な特徴を有しているのもAudiの魅力の1つです。",
+    "furigana": "また、<ruby>各<rt>かく</rt></ruby>モデルごとに<ruby>個<rt>こ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>を<ruby>有<rt>ゆう</rt></ruby>しているのも | Audiの<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>の1つです。",
+    "segmentation": "また、各モデルごとに個性的な特徴を有しているのも | Audiの魅力の1つです。",
+    "translation": {
+      "natural": "此外，每款車型都擁有獨具特色的亮點，這也是 Audi 的魅力之一。",
+      "literal": "另外，每個車型都擁有個性化的特徵也是Audi的魅力之一。"
+    },
+    "words": [
+      {
+        "word": "個性的",
+        "reading": "こせいてき",
+        "note": "形容動詞，具個性的、獨特的"
+      },
+      {
+        "word": "有する",
+        "reading": "ゆうする",
+        "note": "動詞，擁有、具有"
+      }
+    ],
+    "context_grammar": [
+      "～ごとに：表示「每…… / 各……」。",
+      "～のも……の1つです：表示「……也是……之一」。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:41",
+    "japanese": "例えば、Audiの先進テクノロジーを象徴するヘッドライトには、そのモデルのキャラクターを印象付けるデザインが採用され、",
+    "furigana": "<ruby>例<rt>たと</rt></ruby>えば、Audiの<ruby>先<rt>せん</rt></ruby><ruby>進<rt>しん</rt></ruby>テクノロジーを<ruby>象<rt>しょう</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>するヘッドライトには、| そのモデルのキャラクターを<ruby>印<rt>いん</rt></ruby><ruby>象<rt>しょう</rt></ruby><ruby>付<rt>づ</rt></ruby>けるデザインが<ruby>採<rt>さい</rt></ruby><ruby>用<rt>よう</rt></ruby>され、",
+    "segmentation": "例えば、Audiの先進テクノロジーを象徴するヘッドライトには、| そのモデルのキャラクターを印象付けるデザインが採用され、",
+    "translation": {
+      "natural": "例如象徵 Audi 先進科技的大燈設計，採用了能展現該車型個性的造形，",
+      "literal": "例如在象徵Audi先進科技的頭燈上，採用了給予該車型個性印象的設計，"
+    },
+    "words": [
+      {
+        "word": "象徴",
+        "reading": "しょうちょう",
+        "note": "名詞/動詞，象徵"
+      },
+      {
+        "word": "印象付ける",
+        "reading": "いんしょうづける",
+        "note": "動詞，給人留下印象"
+      }
+    ],
+    "context_grammar": [
+      "～が採用され（て）：中略形（連用形），表示中途停頓與接續。 "
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:47",
+    "japanese": "モデルごとに異なるライトシグネチャーとなっています。",
+    "furigana": "モデルごとに<ruby>異<rt>こと</rt></ruby>なるライトシグネチャーとなっています。",
+    "segmentation": "モデルごとに異なる | ライトシグネチャーとなっています。",
+    "translation": {
+      "natural": "形成了不同車型各自獨一無二的車燈標識（Light Signature）。",
+      "literal": "成為了每個車型都不同的燈光標誌。"
+    },
+    "words": [
+      {
+        "word": "異なる",
+        "reading": "ことなる",
+        "note": "動詞，不同、相異"
+      },
+      {
+        "word": "ライトシグネチャー",
+        "reading": "らいとしぐねちゃー",
+        "note": "名詞，燈光特徵標誌（Light Signature）"
+      }
+    ],
+    "context_grammar": [
+      "～となっている：呈現出一種狀態/結果。"
+    ]
+  }
+]

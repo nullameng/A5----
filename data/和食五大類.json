@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "五種の日本料理 その起源と変遷",
+    "furigana": "<ruby>五<rt>ご</rt></ruby><ruby>種<rt>しゅ</rt></ruby>の<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby> その<ruby>起<rt>き</rt></ruby><ruby>源<rt>げん</rt></ruby>と<ruby>変<rt>へん</rt></ruby><ruby>遷<rt>せん</rt></ruby>",
+    "segmentation": "五種の日本料理 | その起源と変遷",
+    "translation": {
+      "natural": "五種日本料理：其起源與演變",
+      "literal": "五種的日本料理，其起源與變遷。"
+    },
+    "words": [
+      {
+        "word": "起源",
+        "reading": "きげん",
+        "note": "名詞，起源、發源"
+      },
+      {
+        "word": "変遷",
+        "reading": "へんせん",
+        "note": "名詞/自動詞（サ變），變遷、演變"
+      }
+    ],
+    "context_grammar": [
+      "その：指示代名詞，指稱前述的「五種日本料理」。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:15",
+    "japanese": "精進料理",
+    "furigana": "<ruby>精<rt>しょう</rt></ruby><ruby>進<rt>じん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>",
+    "segmentation": "精進料理",
+    "translation": {
+      "natural": "精進料理（素食料理）",
+      "literal": "精進料理。"
+    },
+    "words": [
+      {
+        "word": "精進料理",
+        "reading": "しょうじんりょうり",
+        "note": "名詞，日本傳統的佛教素食料理"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞主題，為後續介紹之主題標題。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:17",
+    "japanese": "精進料理とは菜食料理のことであり、",
+    "furigana": "<ruby>精<rt>しょう</rt></ruby><ruby>進<rt>じん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>とは<ruby>菜<rt>さい</rt></ruby><ruby>食<rt>しょく</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>のことであり、",
+    "segmentation": "精進料理とは | 菜食料理のことであり、",
+    "translation": {
+      "natural": "精進料理指的是素食料理，",
+      "literal": "所謂精進料理是素食料理這件事，"
+    },
+    "words": [
+      {
+        "word": "菜食",
+        "reading": "さいしょく",
+        "note": "名詞，素食、吃素"
+      }
+    ],
+    "context_grammar": [
+      "～とは：提示定義的助詞，意為「所謂……」。",
+      "～のことであり：～のことである（表定義）的連用形（あり），用於句中進行中斷與連接。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:21",
+    "japanese": "元々精進とは仏教用語で雑念を除き、一心に修行するという意味があり、",
+    "furigana": "<ruby>元<rt>もと</rt></ruby>々<ruby>精<rt>しょう</rt></ruby><ruby>進<rt>じん</rt></ruby>とは<ruby>仏<rt>ぶっ</rt></ruby><ruby>教<rt>きょう</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>語<rt>ご</rt></ruby>で<ruby>雑<rt>ざつ</rt></ruby><ruby>念<rt>ねん</rt></ruby>を<ruby>除<rt>のぞ</rt></ruby>き、<ruby>一<rt>いっ</rt></ruby><ruby>心<rt>しん</rt></ruby>に<ruby>修<rt>しゅ</rt></ruby><ruby>行<rt>ぎょう</rt></ruby>するという<ruby>意<rt>い</rt></ruby><ruby>味<rt>み</rt></ruby>があり、",
+    "segmentation": "元々精進とは | 仏教用語で | 雑念を除き、| 一心に修行するという意味があり、",
+    "translation": {
+      "natural": "「精進」原本是佛教用語，意指排除雜念、專心致志地修行，",
+      "literal": "原本精進是佛教用語，有去除雜念、一心修行這樣的意思，"
+    },
+    "words": [
+      {
+        "word": "雑念",
+        "reading": "ざつねん",
+        "note": "名詞，雜念"
+      },
+      {
+        "word": "修行",
+        "reading": "しゅぎょう",
+        "note": "名詞/自動詞（サ變），修行"
+      }
+    ],
+    "context_grammar": [
+      "～を除き：動詞連用形中止法，相當於「～を除いて」，表並列或連續動作。",
+      "～という：名詞修飾句型，表示「稱為……的」或內容補充。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:29",
+    "japanese": "鎌倉時代に中国に留学していた僧の道元、栄西によって確立されたと言われている。",
+    "furigana": "<ruby>鎌<rt>かま</rt></ruby><ruby>倉<rt>くら</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>代<rt>だい</rt></ruby>に<ruby>中<rt>ちゅう</rt></ruby><ruby>国<rt>ごく</rt></ruby>に<ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>していた<ruby>僧<rt>そう</rt></ruby>の<ruby>道<rt>どう</rt></ruby><ruby>元<rt>げん</rt></ruby>、<ruby>栄<rt>えい</rt></ruby><ruby>西<rt>さい</rt></ruby>によって<ruby>確<rt>かく</rt></ruby><ruby>立<rt>りつ</rt></ruby>されたと言われている。",
+    "segmentation": "鎌倉時代に | 中国に留学していた僧の | 道元、栄西によって | 確立されたと言われている。",
+    "translation": {
+      "natural": "據說是受鎌倉時代曾赴中國留學的僧侶道元與榮西所確立的。",
+      "literal": "被說是受在鎌倉時代於中國留學的僧侶道元、榮西所確立。"
+    },
+    "words": [
+      {
+        "word": "僧",
+        "reading": "そう",
+        "note": "名詞，僧侶、和尚"
+      },
+      {
+        "word": "確立",
+        "reading": "かくりつ",
+        "note": "名詞/他動詞（サ變），確立、奠定"
+      }
+    ],
+    "context_grammar": [
+      "～によって：格助詞表示動作的主體或創始者，常用於被動句，意為「由……」、「被……」。",
+      "～と言われている：傳聞與通說句型（言う的被動形 + ている），表示「據說……」、「大眾普遍認為……」。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:38",
+    "japanese": "仏教の不殺生の戒律に基づき、",
+    "furigana": "<ruby>仏<rt>ぶっ</rt></ruby><ruby>教<rt>きょう</rt></ruby>の<ruby>不<rt>ふ</rt></ruby><ruby>殺<rt>せっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>戒<rt>かい</rt></ruby><ruby>律<rt>りつ</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づき、",
+    "segmentation": "仏教の不殺生の戒律に基づき、",
+    "translation": {
+      "natural": "基於佛教不殺生的戒律，",
+      "literal": "基於佛教的不殺生戒律，"
+    },
+    "words": [
+      {
+        "word": "不殺生",
+        "reading": "ふせっしょう",
+        "note": "名詞，不殺生"
+      },
+      {
+        "word": "戒律",
+        "reading": "かいりつ",
+        "note": "名詞，戒律"
+      }
+    ],
+    "context_grammar": [
+      "～に基づき：動詞「基づく」的連用形中止法，表示「依據……」、「基於……」。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:41",
+    "japanese": "野菜、穀物、海藻、豆類等の植物性の食材のみを使って作る料理だ。",
+    "furigana": "<ruby>野<rt>や</rt></ruby><ruby>菜<rt>さい</rt></ruby>、<ruby>穀<rt>こく</rt></ruby><ruby>物<rt>もつ</rt></ruby>、<ruby>海<rt>かい</rt></ruby><ruby>草<rt>そう</rt></ruby>、<ruby>豆<rt>とう</rt></ruby><ruby>類<rt>るい</rt></ruby><ruby>等<rt>とう</rt></ruby>の<ruby>植<rt>しょく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>食<rt>しょく</rt></ruby><ruby>材<rt>ざい</rt></ruby>のみを<ruby>使<rt>つか</rt></ruby>って<ruby>作<rt>つく</rt></ruby>る<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>だ。",
+    "segmentation": "野菜、穀物、海藻、豆類等の | 植物性の食材のみを使って | 作る料理だ。",
+    "translation": {
+      "natural": "是僅使用蔬菜、穀物、海藻、豆類等植物性食材所製作的料理。",
+      "literal": "是僅使用蔬菜、穀物、海藻、豆類等植物性食材製作的料理。"
+    },
+    "words": [
+      {
+        "word": "穀物",
+        "reading": "こくもつ",
+        "note": "名詞，穀物"
+      },
+      {
+        "word": "食材",
+        "reading": "しょくざい",
+        "note": "名詞，食材"
+      }
+    ],
+    "context_grammar": [
+      "～のみ：副助詞，表示限定，相當於「～だけ」，意為「僅有……」。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:48",
+    "japanese": "最初は禅寺の僧侶の食事として出されていたが、",
+    "furigana": "<ruby>最<rt>さい</rt></ruby><ruby>初<rt>しょ</rt></ruby>は<ruby>禅<rt>ぜん</rt></ruby><ruby>寺<rt>でら</rt></ruby>の<ruby>僧<rt>そう</rt></ruby><ruby>侶<rt>りょ</rt></ruby>の<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>として<ruby>出<rt>だ</rt></ruby>されていたが、",
+    "segmentation": "最初は | 禅寺の僧侶の食事として | 出されていたが、",
+    "translation": {
+      "natural": "最初是作為禪寺僧侶的餐點而提供，",
+      "literal": "最初是作為禪寺僧侶的飲食被提供，但"
+    },
+    "words": [
+      {
+        "word": "禅寺",
+        "reading": "ぜんでら",
+        "note": "名詞，禪寺"
+      },
+      {
+        "word": "僧侶",
+        "reading": "そうりょ",
+        "note": "名詞，僧侶"
+      }
+    ],
+    "context_grammar": [
+      "～として：格助詞複合型，表示「作為……身份/資格」。",
+      "出されていた：動詞「出す」的被動形（出される）＋過去持續態（いた），表示過去習慣被提供。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:53",
+    "japanese": "後になって徐々に民間にも広まり、",
+    "furigana": "<ruby>後<rt>のち</rt></ruby>になって<ruby>徐<rt>じょ</rt></ruby>々に<ruby>民<rt>みん</rt></ruby><ruby>間<rt>かん</rt></ruby>にも<ruby>広<rt>ひろ</rt></ruby>まり、",
+    "segmentation": "後になって | 徐々に民間にも広まり、",
+    "translation": {
+      "natural": "到了後來也漸漸傳播至民間，",
+      "literal": "到了後來逐漸也在民間傳開，"
+    },
+    "words": [
+      {
+        "word": "徐々に",
+        "reading": "じょじょに",
+        "note": "副詞，漸漸地、逐步地"
+      },
+      {
+        "word": "広まる",
+        "reading": "ひろまる",
+        "note": "動詞（五段），普及、傳開"
+      }
+    ],
+    "context_grammar": [
+      "後になって：表示經過一段時間之後演變成該狀態。",
+      "広まり：動詞「広まる」的連用形中止法，用於連接下文。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:56",
+    "japanese": "淡泊な味のおかずをもっと美味しくするために、",
+    "furigana": "<ruby>淡<rt>たん</rt></ruby><ruby>泊<rt>ぱく</rt></ruby>な<ruby>味<rt>あじ</rt></ruby>のおかずをもっと<ruby>美<rt>おい</rt></ruby><ruby>味<rt>し</rt></ruby>しくするために、",
+    "segmentation": "淡泊な味のおかずを | もっと美味しくするために、",
+    "translation": {
+      "natural": "為了讓清淡口味的配菜變得更加美味，",
+      "literal": "為了使清淡味道的配菜變得更加美味，"
+    },
+    "words": [
+      {
+        "word": "淡泊",
+        "reading": "たんぱく",
+        "note": "形容動詞（な形容詞），清淡的"
+      },
+      {
+        "word": "おかず",
+        "reading": "おかず",
+        "note": "名詞，配菜、下飯菜"
+      }
+    ],
+    "context_grammar": [
+      "～くする：形容詞語尾改く + する，表示人為使某狀態轉變（使……變得）。",
+      "～ために：接續動詞連體形或名詞，表示目的（為了……）。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "01:00",
+    "japanese": "湯葉、厚揚げ、納豆、味噌などの多種多様な加工食品が発展し、",
+    "furigana": "<ruby>湯<rt>ゆ</rt></ruby><ruby>葉<rt>ば</rt></ruby>、<ruby>厚<rt>あつ</rt></ruby><ruby>揚<rt>あ</rt></ruby>げ、<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>、<ruby>味<rt>み</rt></ruby><ruby>味噌<rt>そ</rt></ruby>などの<ruby>多<rt>た</rt></ruby><ruby>種<rt>しゅ</rt></ruby><ruby>多<rt>た</rt></ruby><ruby>樣<rt>よう</rt></ruby>な<ruby>加<rt>か</rt></ruby><ruby>工<rt>こう</rt></ruby><ruby>食<rt>しょく</rt></ruby><ruby>品<rt>ひん</rt></ruby>が<ruby>発<rt>はっ</rt></ruby><ruby>展<rt>てん</rt></ruby>し、",
+    "segmentation": "湯葉、厚揚げ、納豆、味噌などの | 多種多様な加工食品が発展し、",
+    "translation": {
+      "natural": "豆皮、炸豆腐、納豆、味噌等豐富多樣的加工食品因而發展起來，",
+      "literal": "湯葉、厚揚、納豆、味噌等多種多樣的加工食品發展，"
+    },
+    "words": [
+      {
+        "word": "湯葉",
+        "reading": "ゆば",
+        "note": "名詞，豆皮"
+      },
+      {
+        "word": "厚揚げ",
+        "reading": "あつあげ",
+        "note": "名詞，炸豆腐塊"
+      }
+    ],
+    "context_grammar": [
+      "多種多様な：形容動詞，修飾後方的名詞「加工食品」。",
+      "発展し：動詞「発展する」的連用形中止法，表並列順序。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "01:06",
+    "japanese": "調味料や調理法は後の日本料理の発展に大きな影響を与えた。",
+    "furigana": "<ruby>調<rt>ちょう</rt></ruby><ruby>味<rt>み</rt></ruby><ruby>料<rt>りょう</rt></ruby>や<ruby>調<rt>ちょう</rt></ruby><ruby>理<rt>り</rt></ruby><ruby>法<rt>ほう</rt></ruby>は<ruby>後<rt>のち</rt></ruby>の<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>発<rt>はっ</rt></ruby><ruby>展<rt>てん</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>影<rt>えい</rt></ruby><ruby>響<rt>きょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えた。",
+    "segmentation": "調味料や調理法は | 後に日本料理の発展に | 大きな影響を与えた。",
+    "translation": {
+      "natural": "其調味料與調理方式對後來的日本料理發展產生了巨大影響。",
+      "literal": "調味料和調理法給予了後來的日本料理發展很大的影響。"
+    },
+    "words": [
+      {
+        "word": "調理法",
+        "reading": "ちょうりほう",
+        "note": "名詞，烹調方法"
+      },
+      {
+        "word": "影響",
+        "reading": "えいきょう",
+        "note": "名詞/自動詞（サ變），影響"
+      }
+    ],
+    "context_grammar": [
+      "～に影響を与える：固定習慣搭配詞（慣用語），表示「對……造成/給予影響」。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:14",
+    "japanese": "本膳料理",
+    "furigana": "<ruby>本<rt>ほん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>",
+    "segmentation": "本膳料理",
+    "translation": {
+      "natural": "本膳料理",
+      "literal": "本膳料理。"
+    },
+    "words": [
+      {
+        "word": "本膳料理",
+        "reading": "ほんぜんりょうり",
+        "note": "名詞，日本室町時代發展出之正式禮儀宴席料理"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞主題標題。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:16",
+    "japanese": "本膳料理は室町時代の武家社会における儀礼的な料理で、",
+    "furigana": "<ruby>本<rt>ほん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>室<rt>むろ</rt></ruby><ruby>町<rt>まち</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>武<rt>ぶ</rt></ruby><ruby>家<rt>け</rt></ruby><ruby>社<rt>しゃ</rt></ruby><ruby>会<rt>かい</rt></ruby>における<ruby>儀<rt>ぎ</rt></ruby><ruby>礼<rt>れい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>で、",
+    "segmentation": "本膳料理は | 室町時代の武家社会における | 儀礼的な料理で、",
+    "translation": {
+      "natural": "本膳料理是室町時代武家社會中的儀節料理，",
+      "literal": "本膳料理是室町時代的武家社會中的儀禮性料理，"
+    },
+    "words": [
+      {
+        "word": "武家",
+        "reading": "ぶけ",
+        "note": "名詞，武士階級、武家"
+      },
+      {
+        "word": "儀礼的",
+        "reading": "ぎれいてき",
+        "note": "形容動詞（な形容詞），禮儀上的、儀式性的"
+      }
+    ],
+    "context_grammar": [
+      "～における：格助詞，相當於「～での」，表示地點、場合、時代等範圍（在……之中）。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:21",
+    "japanese": "料理に儀式的な意味を要しているのがその特徴である。",
+    "furigana": "<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>に<ruby>儀<rt>ぎ</rt></ruby><ruby>式<rt>しき</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>意<rt>い</rt></ruby><ruby>味<rt>み</rt></ruby>を<ruby>要<rt>よう</rt></ruby>しているのがその<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>である。",
+    "segmentation": "料理に儀式的な意味を要しているのが | その特徴である。",
+    "translation": {
+      "natural": "其特色在於料理本身具備了儀式性的意義。",
+      "literal": "料理中具備著儀式性意義是其特徵。"
+    },
+    "words": [
+      {
+        "word": "儀式的",
+        "reading": "ぎしきてき",
+        "note": "形容動詞（な形容詞），儀式性的"
+      },
+      {
+        "word": "特徴",
+        "reading": "とくちょう",
+        "note": "名詞，特徵、特色"
+      }
+    ],
+    "context_grammar": [
+      "～のが：名詞化句型，將前方的動詞句轉換為名詞，作為主語。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:26",
+    "japanese": "配膳にしよ、食べる順序にしよ、",
+    "furigana": "<ruby>配<rt>はい</rt></ruby><ruby>膳<rt>ぜん</rt></ruby>にしよ、<ruby>食<rt>た</rt></ruby>べる<ruby>順<rt>じゅん</rt></ruby><ruby>序<rt>じょ</rt></ruby>にしよ、",
+    "segmentation": "配膳にしよ、| 食べる順序にしよ、",
+    "translation": {
+      "natural": "無論是擺盤擺設，抑或是進食順序，",
+      "literal": "無論是上菜擺盤，無論是吃的順序，"
+    },
+    "words": [
+      {
+        "word": "配膳",
+        "reading": "はいぜん",
+        "note": "名詞/他動詞（サ變），端菜、上菜擺盤"
+      },
+      {
+        "word": "順序",
+        "reading": "じゅんじょ",
+        "note": "名詞，順序、次序"
+      }
+    ],
+    "context_grammar": [
+      "～にしよ（＝～にせよ）：文言助詞型態，表示列舉「無論是……還是……」。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:29",
+    "japanese": "礼儀が重んじられており、日本料理の中で最も正式な形式の料理である。",
+    "furigana": "<ruby>礼<rt>れい</rt></ruby><ruby>儀<rt>ぎ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>んじられており、<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>正<rt>せい</rt></ruby><ruby>式<rt>しき</rt></ruby>な<ruby>形<rt>けい</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>である。",
+    "segmentation": "礼儀が重んじられており、| 日本料理の中で | 最も正式な形式の料理である。",
+    "translation": {
+      "natural": "極度注重禮節，是日本料理中最正式的形式。",
+      "literal": "禮儀被極度重視，是日本料理中最正式形式的料理。"
+    },
+    "words": [
+      {
+        "word": "礼儀",
+        "reading": "れいぎ",
+        "note": "名詞，禮儀、禮節"
+      },
+      {
+        "word": "重んじる",
+        "reading": "おもんじる",
+        "note": "動詞（上一段），重視、尊重"
+      }
+    ],
+    "context_grammar": [
+      "重んじられており：「重んじる」被動態（重んじられる）＋連用形（おり），表示狀態持續與連接。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:36",
+    "japanese": "本膳料理の食べ進め方は、",
+    "furigana": "<ruby>本<rt>ほん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>進<rt>すす</rt></ruby>め<ruby>方<rt>かた</rt></ruby>は、",
+    "segmentation": "本膳料理の食べ進め方は、",
+    "translation": {
+      "natural": "至於本膳料理的品嚐方式，",
+      "literal": "本膳料理吃下去的方式則是，"
+    },
+    "words": [
+      {
+        "word": "食べ進める",
+        "reading": "たべすすめる",
+        "note": "動詞（下一段），順序食用、品嚐"
+      },
+      {
+        "word": "～方",
+        "reading": "かた",
+        "note": "接尾辭，表示「……的方法」"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形 + 方（かた）：表示做該動作的方法（例如：食べ進め方 ＝ 進食方法）。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:39",
+    "japanese": "まず料理が並べられた四角い机「膳」が決まりに従って客の前に置かれる。",
+    "furigana": "<ruby>ま<rt></rt></ruby>ず<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>が<ruby>並<rt>なら</rt></ruby>べられた<ruby>四<rt>しかく</rt></ruby><ruby>角<rt>い</rt></ruby>い<ruby>机<rt>つくえ</rt></ruby>「<ruby>膳<rt>ぜん</rt></ruby>」が<ruby>決<rt>き</rt></ruby>まりに<ruby>従<rt>した</rt></ruby>って<ruby>客<rt>きゃく</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>かれる。",
+    "segmentation": "まず料理が並べられた | 四角い机「膳」が | 決まりに従って | 客の前に置かれる。",
+    "translation": {
+      "natural": "首先，擺滿料理的方形小桌「膳」會按照規定擺放在賓客面前。",
+      "literal": "首先擺放著料理的方形桌子「膳」會依照規定被放置在客人面前。"
+    },
+    "words": [
+      {
+        "word": "膳",
+        "reading": "ぜん",
+        "note": "名詞，托盤、帶托足的方形小餐桌"
+      },
+      {
+        "word": "決まり",
+        "reading": "きまり",
+        "note": "名詞，規定、規矩"
+      }
+    ],
+    "context_grammar": [
+      "～に従って：複合格助詞，表示「依照……」、「遵循……」。",
+      "置かれる：動詞「置く」的被動形，表示「被放置」。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:46",
+    "japanese": "一汁三菜を基本とし、招待した人や宴の場面によって、",
+    "furigana": "<ruby>一<rt>いち</rt></ruby><ruby>汁<rt>じゅう</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>菜<rt>さい</rt></ruby>を<ruby>基<rt>き</rt></ruby><ruby>本<rt>ほん</rt></ruby>とし、<ruby>招<rt>しょう</rt></ruby><ruby>待<rt>たい</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>や<ruby>宴<rt>うたげ</rt></ruby>の<ruby>場<rt>ば</rt></ruby><ruby>面<rt>めん</rt></ruby>によって、",
+    "segmentation": "一汁三菜を基本とし、| 招待した人や | 宴の場面によって、",
+    "translation": {
+      "natural": "以「一湯三菜」為基礎，並根據招待對象及宴席場合，",
+      "literal": "將一汁三菜作為基本，根據招待的人和宴會場合，"
+    },
+    "words": [
+      {
+        "word": "一汁三菜",
+        "reading": "いちじゅうさんさい",
+        "note": "名詞，一湯三菜（日本基本餐點結構）"
+      },
+      {
+        "word": "宴",
+        "reading": "うたげ",
+        "note": "名詞，宴會、酒席"
+      }
+    ],
+    "context_grammar": [
+      "～を基本とし：以……為基本（連用形中止）。",
+      "～によって：表示「根據……（有所不同）」。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:52",
+    "japanese": "二汁五菜、三汁七菜、三汁十五菜など、",
+    "furigana": "<ruby>二<rt>に</rt></ruby><ruby>汁<rt>じゅう</rt></ruby><ruby>五<rt>ご</rt></ruby><ruby>菜<rt>さい</rt></ruby>、<ruby>三<rt>さん</rt></ruby><ruby>汁<rt>じゅう</rt></ruby><ruby>七<rt>しち</rt></ruby><ruby>菜<rt>さい</rt></ruby>、<ruby>三<rt>さん</rt></ruby><ruby>汁<rt>じゅう</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>五<rt>ご</rt></ruby><ruby>菜<rt>さい</rt></ruby>など、",
+    "segmentation": "二汁五菜、三汁七菜、三汁十五菜など、",
+    "translation": {
+      "natural": "諸如二湯五菜、三湯七菜、三湯十五菜等等，",
+      "literal": "二汁五菜、三汁七菜、三汁十五菜等，"
+    },
+    "words": [
+      {
+        "word": "二汁五菜",
+        "reading": "にじゅうごさい",
+        "note": "名詞，二湯五菜"
+      }
+    ],
+    "context_grammar": [
+      "列舉數量組合，搭配「など」表示「等等」。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:58",
+    "japanese": "膳の数や料理の品数が定められているが、",
+    "furigana": "<ruby>膳<rt>ぜん</rt></ruby>の<ruby>数<rt>かず</rt></ruby>や<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>品<rt>しな</rt></ruby><ruby>数<rt>かず</rt></ruby>が<ruby>定<rt>さだ</rt></ruby>められているが、",
+    "segmentation": "膳の数や料理の品数が | 定められているが、",
+    "translation": {
+      "natural": "餐桌數量與菜餚件數都有明確規定，",
+      "literal": "膳的數量和料理的品項數量雖然被規定著，"
+    },
+    "words": [
+      {
+        "word": "品数",
+        "reading": "しなかず",
+        "note": "名詞，菜色數量、品項數"
+      },
+      {
+        "word": "定める",
+        "reading": "さだめる",
+        "note": "動詞（下一段），制定、規定"
+      }
+    ],
+    "context_grammar": [
+      "定められている：動詞「定める」被動態（定められる）＋存續態（ている），表示「已被規定好」。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "02:02",
+    "japanese": "料理の品数は必ず縁起が良いとされる奇数でなければならない。",
+    "furigana": "<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>品<rt>しな</rt></ruby><ruby>数<rt>かず</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>縁<rt>えん</rt></ruby><ruby>起<rt>ぎ</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いとされる<ruby>奇<rt>き</rt></ruby><ruby>数<rt>すう</rt></ruby>でなければならない。",
+    "segmentation": "料理の品数は | 必ず縁起が良いとされる | 奇数でなければならない。",
+    "translation": {
+      "natural": "且菜餚件數必須是被視為吉祥吉利的奇數。",
+      "literal": "料理的品項數必須是一定被視為吉利的奇數。"
+    },
+    "words": [
+      {
+        "word": "縁起が良い",
+        "reading": "えんぎがよい",
+        "note": "片語，吉利、有好兆頭"
+      },
+      {
+        "word": "奇数",
+        "reading": "きすう",
+        "note": "名詞，奇數"
+      }
+    ],
+    "context_grammar": [
+      "～とされる：被認定為……、被視為……。",
+      "～なければならない：雙重否定句型，表示「必須……」。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "02:08",
+    "japanese": "本膳料理は明治時代になると徐々にすたれていき、",
+    "furigana": "<ruby>本<rt>ほん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>明<rt>めい</rt></ruby><ruby>治<rt>じ</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>代<rt>だい</rt></ruby>になると<ruby>徐<rt>じょ</rt></ruby>々にすたれていき、",
+    "segmentation": "本膳料理は明治時代になると | 徐々にすたれていき、",
+    "translation": {
+      "natural": "到了明治時代，本膳料理便逐漸沒落，",
+      "literal": "本膳料理一到了明治時代，就逐漸衰退下去，"
+    },
+    "words": [
+      {
+        "word": "廢れる",
+        "reading": "すたれる",
+        "note": "動詞（下一段），廢弛、衰落、不流行"
+      }
+    ],
+    "context_grammar": [
+      "～になると：接續名詞，表示「一到了……（時間/狀態）」。",
+      "～ていく：動詞「て形」＋いく，表示動作或狀態向未來方向演變（漸漸……下去）。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "02:13",
+    "japanese": "今では慶弔や成人の儀式、祭典の儀式などでしか見られなくなった。",
+    "furigana": "<ruby>今<rt>いま</rt></ruby>では<ruby>慶<rt>けい</rt></ruby><ruby>弔<rt>ちょう</rt></ruby>や<ruby>成<rt>せい</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>儀<rt>ぎ</rt></ruby><ruby>式<rt>しき</rt></ruby>、<ruby>祭<rt>さい</rt></ruby><ruby>典<rt>てん</rt></ruby>の<ruby>儀<rt>ぎ</rt></ruby><ruby>式<rt>しき</rt></ruby>などでしか<ruby>見<rt>み</rt></ruby>られなくなった。",
+    "segmentation": "今では慶弔や | 成人の儀式、祭典の儀式などでしか | 見られなくなった。",
+    "translation": {
+      "natural": "如今只有在婚喪喜慶、成年禮或祭典儀式等場合才能見到了。",
+      "literal": "現在變得除了在慶弔、成年儀式、祭典儀式等之外都看不到了。"
+    },
+    "words": [
+      {
+        "word": "慶弔",
+        "reading": "けいちょう",
+        "note": "名詞，慶弔、婚喪喜慶"
+      },
+      {
+        "word": "祭典",
+        "reading": "さいてん",
+        "note": "名詞，祭典、盛會"
+      }
+    ],
+    "context_grammar": [
+      "～しか＋否定：強調限定，表示「除了……之外都不（只有……）」。",
+      "見られなくなった：可能動詞被動形／可能形（見られる）＋可能否定演變（なくなった），表示演變成「無法看見」。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "02:20",
+    "japanese": "しかもその多くは本膳料理を簡略にした会席料理で、",
+    "furigana": "しかもその<ruby>多<rt>おお</rt></ruby>くは<ruby>本<rt>ほん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>を<ruby>簡<rt>かん</rt></ruby><ruby>略<rt>りゃく</rt></ruby>にした<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>で、",
+    "segmentation": "しかもその多くは | 本膳料理を簡略にした会席料理で、",
+    "translation": {
+      "natural": "而且其中大多數已經是將本膳料理簡化後的「會席料理」，",
+      "literal": "而且其中大多數是將本膳料理簡略化的會席料理，"
+    },
+    "words": [
+      {
+        "word": "簡略",
+        "reading": "かんりゃく",
+        "note": "名詞/形容動詞（な形容詞），簡略、簡化"
+      },
+      {
+        "word": "会席料理",
+        "reading": "かいせきりょうり",
+        "note": "名詞，會席料理（宴客用之酒席料理）"
+      }
+    ],
+    "context_grammar": [
+      "～を～にする：表示「將……改為/簡化為……」。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "02:24",
+    "japanese": "今では最もよく見られる宴会の料理である。",
+    "furigana": "<ruby>今<rt>いま</rt></ruby>では<ruby>最<rt>もっと</rt></ruby>もよく<ruby>見<rt>み</rt></ruby>られる<ruby>宴<rt>えん</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>である。",
+    "segmentation": "今では最もよく見られる | 宴会の料理である。",
+    "translation": {
+      "natural": "成為現今最常見的宴會料理類型。",
+      "literal": "是現在最常被看見的宴會料理。"
+    },
+    "words": [
+      {
+        "word": "宴会",
+        "reading": "えんかい",
+        "note": "名詞，宴會、酒會"
+      }
+    ],
+    "context_grammar": [
+      "最も（もっとも）：副詞，最高級表現（最……）。",
+      "見られる：可能動詞，表示「能被看見/常見」。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:29",
+    "japanese": "懐石料理",
+    "furigana": "<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>",
+    "segmentation": "懐石料理",
+    "translation": {
+      "natural": "懷石料理",
+      "literal": "懷石料理。"
+    },
+    "words": [
+      {
+        "word": "懐石料理",
+        "reading": "かいせきりょうり",
+        "note": "名詞，懷石料理（茶道前享用之輕食料理）"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞主題標題。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:32",
+    "japanese": "懐石料理は茶道の創始者・千利休が茶会の席で、",
+    "furigana": "<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>茶<rt>さ</rt></ruby><ruby>道<rt>どう</rt></ruby>の<ruby>創<rt>そう</rt></ruby><ruby>始<rt>し</rt></ruby><ruby>者<rt>しゃ</rt></ruby>・<ruby>千<rt>せん</rt></ruby><ruby>利<rt>り</rt></ruby><ruby>休<rt>きゅう</rt></ruby>が<ruby>茶<rt>ちゃ</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>席<rt>せき</rt></ruby>で、",
+    "segmentation": "懐石料理は | 茶道の創始者・千利休が | 茶会の席で、",
+    "translation": {
+      "natural": "懷石料理起源於茶道創始人千利休在茶會場合上，",
+      "literal": "懷石料理是茶道的創始者千利休在茶會場合，"
+    },
+    "words": [
+      {
+        "word": "創始者",
+        "reading": "そうししゃ",
+        "note": "名詞，創始人"
+      },
+      {
+        "word": "茶会",
+        "reading": "ちゃかい",
+        "note": "名詞，茶會"
+      }
+    ],
+    "context_grammar": [
+      "～の席で：在……的席位/場合。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:37",
+    "japanese": "空腹時にお茶を飲むのをおさけ、胃腸を守るために作られた料理が起源とされており、",
+    "furigana": "<ruby>空<rt>くう</rt></ruby><ruby>腹<rt>ふく</rt></ruby><ruby>時<rt>じ</rt></ruby>にお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのをおさけ、<ruby>胃<rt>い</rt></ruby><ruby>腸<rt>ちょう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るために<ruby>作<rt>つく</rt></ruby>られた<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>が<ruby>起<rt>き</rt></ruby><ruby>源<rt>げん</rt></ruby>とされており、",
+    "segmentation": "空腹時にお茶を飲むのをおさけ、| 胃腸を守るために作られた料理が | 起源とされており、",
+    "translation": {
+      "natural": "為了避免空腹飲茶並保護胃腸而製作的料理，被視為其起源；",
+      "literal": "為避免空腹時喝茶、為了保護胃腸而被製作的料理被視為起源，"
+    },
+    "words": [
+      {
+        "word": "空腹時",
+        "reading": "くうふくじ",
+        "note": "名詞，空腹時、空腹狀態"
+      },
+      {
+        "word": "避ける",
+        "reading": "さける",
+        "note": "動詞（下一段），避免、迴避"
+      }
+    ],
+    "context_grammar": [
+      "飲むのをおさけ：動詞名詞化（飲むの）＋目的語（を）＋動詞連用形中止法（おさけ＝お避け）。",
+      "～とされている：被廣為認定為……。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:44",
+    "japanese": "懐石とは禅僧が懐に入れ温めておいた石で、",
+    "furigana": "<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby>とは<ruby>禅<rt>ぜん</rt></ruby><ruby>僧<rt>そう</rt></ruby>が<ruby>ふところ<rt></rt></ruby>に<ruby>入<rt>い</rt></ruby>れ<ruby>温<rt>あたた</rt></ruby>めておいた<ruby>石<rt>いし</rt></ruby>で、",
+    "segmentation": "懐石とは | 禅僧が懐に入れ | 温めておいた石で、",
+    "translation": {
+      "natural": "而「懷石」一詞據說是源自禪僧放入懷中暖身用的溫石，",
+      "literal": "所謂懷石是禪僧放入懷中預先溫熱的石頭，"
+    },
+    "words": [
+      {
+        "word": "懐",
+        "reading": "ふところ",
+        "note": "名詞，胸懷、懷裡"
+      },
+      {
+        "word": "温める",
+        "reading": "あたためる",
+        "note": "動詞（下一段），弄暖、溫熱"
+      }
+    ],
+    "context_grammar": [
+      "～ておく：補助動詞，表示「事先/預先做好某動作」。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:49",
+    "japanese": "しばらく飢えや寒さをしのいだことにより付けられたと言われている。",
+    "furigana": "しばらく<ruby>飢<rt>う</rt></ruby>えや<ruby>寒<rt>さむ</rt></ruby>さをしのいだことにより<ruby>付<rt>つ</rt></ruby>けられたと言われている。",
+    "segmentation": "しばらく飢えや寒さをしのいだことにより | 付けられたと言われている。",
+    "translation": {
+      "natural": "因曾以此暫時抵禦飢餓與寒冷而得名。",
+      "literal": "被說是因暫時忍耐了飢餓與寒冷而被取名的。"
+    },
+    "words": [
+      {
+        "word": "飢え",
+        "reading": "うえ",
+        "note": "名詞，飢餓"
+      },
+      {
+        "word": "しのぐ",
+        "reading": "しのぐ",
+        "note": "動詞（五段），忍受、抵擋、挺過"
+      }
+    ],
+    "context_grammar": [
+      "～ことにより：表示原因、理由（由於……的緣故）。",
+      "付けられた：動詞「付ける」的被動形（被命名/被賦予名稱）。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:55",
+    "japanese": "伝統的な懐石料理はご飯、味噌汁、向付、椀盛、焼き物という",
+    "furigana": "<ruby>傳<rt>でん</rt></ruby><ruby>統<rt>とう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>はご<ruby>飯<rt>はん</rt></ruby>、<ruby>味<rt>み</rt></ruby><ruby>味噌<rt>そ</rt></ruby><ruby>汁<rt>しる</rt></ruby>、<ruby>向<rt>むかい</rt></ruby><ruby>付<rt>づけ</rt></ruby>、<ruby>椀<rt>わん</rt></ruby><ruby>盛<rt>もり</rt></ruby>、<ruby>焼<rt>や</rt></ruby>き<ruby>物<rt>もの</rt></ruby>という",
+    "segmentation": "伝統的な懐石料理は | ご飯、味噌汁、向付、椀盛、焼き物という",
+    "translation": {
+      "natural": "傳統懷石料理僅包含米飯、味噌湯、生魚片（向付）、湯品（椀盛）、燒烤料理等，",
+      "literal": "傳統的懷石料理是稱為白飯、味噌湯、向付、椀盛、烤物"
+    },
+    "words": [
+      {
+        "word": "向付",
+        "reading": "むかいづけ",
+        "note": "名詞，懷石料理中擺在對面的小菜（多為刺身或拌菜）"
+      },
+      {
+        "word": "椀盛",
+        "reading": "わんもり",
+        "note": "名詞，湯品、煮物碗"
+      }
+    ],
+    "context_grammar": [
+      "～という：引導後續說明，意為「稱為……的」。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "03:03",
+    "japanese": "一汁三菜だけのものだった。",
+    "furigana": "<ruby>一<rt>いち</rt></ruby><ruby>汁<rt>じゅう</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>菜<rt>さい</rt></ruby>だけのものだった。",
+    "segmentation": "一汁三菜だけのものだった。",
+    "translation": {
+      "natural": "僅僅是一湯三菜的簡單形式。",
+      "literal": "只是只有一汁三菜的東西。"
+    },
+    "words": [
+      {
+        "word": "一汁三菜",
+        "reading": "いちじゅうさんさい",
+        "note": "名詞，一湯三菜"
+      }
+    ],
+    "context_grammar": [
+      "～だけ：限定副助詞（僅有）。",
+      "～のものだった：名詞化斷定（過去式），「過去是……的形式」。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "03:05",
+    "japanese": "しかし、世の中の移り変わりに伴って現在の懐石料理の品はさらに豊富になり、",
+    "furigana": "しかし、<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>移<rt>うつ</rt></ruby>り<ruby>変<rt>か</rt></ruby>わりに向かって<ruby>現<rt>げん</rt></ruby><ruby>在<rt>ざい</rt></ruby>の<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>品<rt>しな</rt></ruby>はさらに<ruby>豊<rt>ほう</rt></ruby><ruby>富<rt>ふ</rt></ruby>になり、",
+    "segmentation": "しかし、世の中の移り変わりに伴って | 現在の懐石料理の品は | さらに豊富になり、",
+    "translation": {
+      "natural": "然而隨著時代演變，如今懷石料理的菜色變得更加豐富，",
+      "literal": "然而伴隨著世間的演變，現在懷石料理的品項變得更加豐富，"
+    },
+    "words": [
+      {
+        "word": "移り変わり",
+        "reading": "うつりかわり",
+        "note": "名詞，變遷、演變"
+      },
+      {
+        "word": "豊富",
+        "reading": "ほうふ",
+        "note": "形容動詞（な形容詞），豐富"
+      }
+    ],
+    "context_grammar": [
+      "～に伴って（にともなって）：表示「伴隨著……」。",
+      "～になる：形容詞／名詞＋になる，表示狀態的改變。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "03:12",
+    "japanese": "基本である一汁三菜の他に預け鉢、吸い物、八寸などの品が加えられ、",
+    "furigana": "<ruby>基<rt>き</rt></ruby><ruby>本<rt>ほん</rt></ruby>である<ruby>一<rt>いち</rt></ruby><ruby>汁<rt>じゅう</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>菜<rt>さい</rt></ruby>の<ruby>他<rt>ほか</rt></ruby>に<ruby>預<rt>あず</rt></ruby>け<ruby>鉢<rt>ばち</rt></ruby>、<ruby>吸<rt>す</rt></ruby>い<ruby>物<rt>もの</rt></ruby>、<ruby>八<rt>はっ</rt></ruby><ruby>寸<rt>すん</rt></ruby>などの<ruby>品<rt>しな</rt></ruby>が<ruby>加<rt>くわ</rt></ruby>えられ、",
+    "segmentation": "基本である一汁三菜の他に | 預け鉢、吸い物、八寸などの品が加えられ、",
+    "translation": {
+      "natural": "除了作為基礎的一湯三菜外，更加入了進餚（預け鉢）、清湯（吸い物）、八寸等菜餚，",
+      "literal": "在作為基本的一汁三菜之外，預給鉢、吸物、八寸等品項被加入，"
+    },
+    "words": [
+      {
+        "word": "預け鉢",
+        "reading": "あずけばち",
+        "note": "名詞，懷石料理中由主人額外招待客人共享的煮物大缽"
+      },
+      {
+        "word": "八寸",
+        "reading": "はっすん",
+        "note": "名詞，懷石料理中以八寸木盤盛裝的山珍海味下酒菜"
+      }
+    ],
+    "context_grammar": [
+      "～である：斷定助動詞「だ」的書面語連體形，用於修飾名詞（作為基本……的）。",
+      "加えられ：動詞「加える」被動形（加えられる）連用形中止法。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "03:20",
+    "japanese": "現在において懐石料理は豪華な料理の代名詞となっている。",
+    "furigana": "<ruby>現<rt>げん</rt></ruby><ruby>在<rt>ざい</rt></ruby>において<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>豪<rt>ごう</rt></ruby><ruby>華<rt>か</rt></ruby>な<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>代<rt>だい</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>詞<rt>し</rt></ruby>となっている。",
+    "segmentation": "現在において | 懐石料理は豪華な料理の代名詞となっている。",
+    "translation": {
+      "natural": "在現代，懷石料理已成為豪華高級料理的代名詞。",
+      "literal": "在現在，懷石料理成為了豪華料理的代名詞。"
+    },
+    "words": [
+      {
+        "word": "豪華",
+        "reading": "ごうか",
+        "note": "形容動詞（な形容詞），豪華、華麗"
+      },
+      {
+        "word": "代名詞",
+        "reading": "だいめいし",
+        "note": "名詞，代名詞、典型代表"
+      }
+    ],
+    "context_grammar": [
+      "～において：複合格助詞，表示時代、時間或地點範圍（在……之時/處）。",
+      "～となっている：演變結果的持續狀態（已成為……）。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "03:27",
+    "japanese": "会席料理",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>",
+    "segmentation": "会席料理",
+    "translation": {
+      "natural": "會席料理",
+      "literal": "會席料理。"
+    },
+    "words": [
+      {
+        "word": "会席料理",
+        "reading": "かいせきりょうり",
+        "note": "名詞，會席料理"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞主題標題。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "03:29",
+    "japanese": "会席料理は俳諧の席のあとで楽しまれる料理で、",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>俳<rt>はい</rt></ruby><ruby>諧<rt>かい</rt></ruby>の<ruby>席<rt>せき</rt></ruby>のあとで<ruby>楽<rt>たの</rt></ruby>しまれる<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>で、",
+    "segmentation": "会席料理は | 俳諧の席のあとで楽しまれる料理で、",
+    "translation": {
+      "natural": "會席料理是俳諧詩會結束後人們一同享用的料理，",
+      "literal": "會席料理是在俳諧聚會之後被享用的料理，"
+    },
+    "words": [
+      {
+        "word": "俳諧",
+        "reading": "はいかい",
+        "note": "名詞，俳諧（日本傳統連歌詩會的形式之一）"
+      },
+      {
+        "word": "楽しむ",
+        "reading": "たのしむ",
+        "note": "動詞（五段），享受、樂在其中"
+      }
+    ],
+    "context_grammar": [
+      "～のあとで：在……之後。",
+      "楽しまれる：動詞「楽しむ」受身形，表示「被人們享用」。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:33",
+    "japanese": "江戸時代の文政年間流行し始めた。",
+    "furigana": "<ruby>江<rt>え</rt></ruby><ruby>戸<rt>ど</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>文<rt>ぶん</rt></ruby><ruby>政<rt>せい</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>流<rt>りゅう</rt></ruby><ruby>行<rt>こう</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めた。",
+    "segmentation": "江戸時代の文政年間 | 流行し始めた。",
+    "translation": {
+      "natural": "自江戶時代的文政年間開始盛行起來。",
+      "literal": "在江戶時代的文政年間開始流行。"
+    },
+    "words": [
+      {
+        "word": "文政",
+        "reading": "ぶんせい",
+        "note": "專有名詞，日本江戶時代年號（1818－1830年）"
+      },
+      {
+        "word": "流行",
+        "reading": "りゅうこう",
+        "note": "名詞/自動詞（サ變），流行、盛行"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形 + 始める：表示動作開始進行（流行し始める ＝ 開始流行）。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:37",
+    "japanese": "会席料理は本膳料理のように儀礼的な形式を重視しているものではないので、",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>本<rt>ほん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>のように<ruby>儀<rt>ぎ</rt></ruby><ruby>礼<rt>れい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>形<rt>けい</rt></ruby><ruby>式<rt>しき</rt></ruby>を<ruby>重<rt>じゅう</rt></ruby><ruby>視<rt>し</rt></ruby>しているものではないので、",
+    "segmentation": "会席料理は本膳料理のように | 儀礼的な形式を重視しているものではないので、",
+    "translation": {
+      "natural": "由於會席料理並不講究像本膳料理那樣的繁文褥節，",
+      "literal": "因為會席料理並不是像本膳料理那樣重視儀禮性形式的東西，"
+    },
+    "words": [
+      {
+        "word": "重視",
+        "reading": "じゅうし",
+        "note": "名詞/他動詞（サ變），重視"
+      }
+    ],
+    "context_grammar": [
+      "～のように：比喻助詞，表示「像……一樣」。",
+      "～ものではない：強烈否定表示「並非……」。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:43",
+    "japanese": "食べ方も自由で気楽に料理の味を楽しめるのが最大の特徴である。",
+    "furigana": "<ruby>食<rt>た</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>も<ruby>自<rt>じ</rt></ruby><ruby>由<rt>ゆう</rt></ruby>で<ruby>気<rt>き</rt></ruby><ruby>楽<rt>らく</rt></ruby>に<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しめるのが<ruby>最<rt>さい</rt></ruby><ruby>大<rt>だい</rt></ruby>の<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>である。",
+    "segmentation": "食べ方も自由で | 気楽に料理の味を楽しめるのが | 最大の特徴である。",
+    "translation": {
+      "natural": "用餐方式相當自由，能放鬆輕鬆地品嚐美味是其最大的特色。",
+      "literal": "吃法也很自由、能輕鬆地享受料理的味道是最大的特徵。"
+    },
+    "words": [
+      {
+        "word": "気楽",
+        "reading": "きらく",
+        "note": "形容動詞（な形容詞），輕鬆、隨意"
+      },
+      {
+        "word": "楽しめる",
+        "reading": "たのしめる",
+        "note": "動詞「楽しむ」的可能形，能夠享受/品嚐"
+      }
+    ],
+    "context_grammar": [
+      "～のが：將前面動詞句化為名詞主語（能夠輕鬆品嚐美味這件事）。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:49",
+    "japanese": "会席料理の内容は先付、椀物、向付、鉢魚、強肴、止め肴、",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>内<rt>ない</rt></ruby><ruby>容<rt>よう</rt></ruby>は<ruby>先<rt>さき</rt></ruby><ruby>付<rt>づけ</rt></ruby>、<ruby>椀<rt>わん</rt></ruby><ruby>物<rt>もの</rt></ruby>、<ruby>向<rt>むかい</rt></ruby><ruby>付<rt>づけ</rt></ruby>、<ruby>鉢<rt>はち</rt></ruby><ruby>魚<rt>ざかな</rt></ruby>、<ruby>強<rt>しい</rt></ruby><ruby>肴<rt>ざかな</rt></ruby>、<ruby>止<rt>と</rt></ruby>め<ruby>肴<rt>ざかな</rt></ruby>、",
+    "segmentation": "会席料理の内容は | 先付、椀物、向付、鉢魚、強肴、止め肴、",
+    "translation": {
+      "natural": "會席料理的餐點內容包含了開胃小菜（先付）、湯品、刺身、烤魚（鉢魚）、主菜（強肴）、下酒菜（止め肴），",
+      "literal": "會席料理的內容是先付、椀物、向付、鉢魚、強肴、止め肴，"
+    },
+    "words": [
+      {
+        "word": "先付",
+        "reading": "さきづけ",
+        "note": "名詞，開胃前菜"
+      },
+      {
+        "word": "強肴",
+        "reading": "しいざかな",
+        "note": "名詞，會席料理中的主菜/勸酒珍饌"
+      }
+    ],
+    "context_grammar": [
+      "傳統會席料理菜色順序之專有名詞列舉。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:58",
+    "japanese": "それにご飯や味噌汁、香の物がつく。",
+    "furigana": "それにご<ruby>飯<rt>はん</rt></ruby>や<ruby>味<rt>み</rt></ruby><ruby>味噌<rt>そ</rt></ruby><ruby>汁<rt>しる</rt></ruby>、<ruby>香<rt>こう</rt></ruby>の<ruby>物<rt>もの</rt></ruby>がつくる。",
+    "segmentation": "それに | ご飯や味噌汁、香の物がつく。",
+    "translation": {
+      "natural": "此外還會附上白飯、味噌湯與醃漬醬菜。",
+      "literal": "加上那個，會附上白飯和味噌湯、醃漬物。"
+    },
+    "words": [
+      {
+        "word": "香の物",
+        "reading": "こうのもの",
+        "note": "名詞，醬菜、醃漬蔬菜"
+      },
+      {
+        "word": "つく",
+        "reading": "つく",
+        "note": "動詞（五段），附帶、附贈"
+      }
+    ],
+    "context_grammar": [
+      "それに：接續詞，表示「此外/再加上」。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "04:01",
+    "japanese": "さらには揚げ物や蒸し物、または鍋物が出ることがあり、",
+    "furigana": "さらには<ruby>揚<rt>あ</rt></ruby>げ<ruby>物<rt>もの</rt></ruby>や<ruby>蒸<rt>む</rt></ruby>し<ruby>物<rt>もの</rt></ruby>、または<ruby>鍋<rt>なべ</rt></ruby><ruby>物<rt>もの</rt></ruby>が<ruby>出<rt>で</rt></ruby>ることがあり、",
+    "segmentation": "さらには | 揚げ物や蒸し物、または鍋物が出ることがあり、",
+    "translation": {
+      "natural": "有時甚至還會上炸物、蒸煮料理或是鍋物，",
+      "literal": "更甚者有時會出炸物或蒸物，或者是鍋物，"
+    },
+    "words": [
+      {
+        "word": "蒸し物",
+        "reading": "むしもの",
+        "note": "名詞，蒸煮料理（如茶碗蒸）"
+      },
+      {
+        "word": "鍋物",
+        "reading": "なべもの",
+        "note": "名詞，火鍋料理"
+      }
+    ],
+    "context_grammar": [
+      "～ことがある：表示「有時會發生……情況」。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "04:07",
+    "japanese": "会席料理をなお一層豪華で豊かなものにしている。",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>をなお<ruby>一<rt>いっ</rt></ruby><ruby>層<rt>そう</rt></ruby><ruby>豪<rt>ごう</rt></ruby><ruby>華<rt>か</rt></ruby>で<ruby>豊<rt>ゆた</rt></ruby>かなものにしている。",
+    "segmentation": "会席料理を | なお一層豪華で豊かなものにしている。",
+    "translation": {
+      "natural": "這讓會席料理顯得更加豐盛且豐富多彩。",
+      "literal": "使會席料理成為更加豪華且豐富的東西。"
+    },
+    "words": [
+      {
+        "word": "なお一層",
+        "reading": "なおいっそう",
+        "note": "副詞，更加、越發"
+      },
+      {
+        "word": "極めて",
+        "reading": "きわめて",
+        "note": "副詞，極其、非常"
+      }
+    ],
+    "context_grammar": [
+      "～を～にする：使某物轉變為某種狀態。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "04:12",
+    "japanese": "また、懐石料理と会席料理の日本語の発音は同じであるが、",
+    "furigana": "また、<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>と<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>発<rt>はつ</rt></ruby><ruby>音<rt>おん</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じであるが、",
+    "segmentation": "また、懐石料理と会席料理の | 日本語の発音は同じであるが、",
+    "translation": {
+      "natural": "另外，雖然「懷石料理」與「會席料理」的日文發音完全相同，",
+      "literal": "另外，懷石料理和會席料理的日語發音雖然相同，"
+    },
+    "words": [
+      {
+        "word": "発音",
+        "reading": "はつおん",
+        "note": "名詞/自動詞（サ變），發音"
+      }
+    ],
+    "context_grammar": [
+      "～であるが：書面語轉折，意為「雖然是……但是」。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "04:17",
+    "japanese": "実際における意義はそれぞれ違う。",
+    "furigana": "<ruby>実<rt>じっ</rt></ruby><ruby>際<rt>さい</rt></ruby>における<ruby>意<rt>い</rt></ruby><ruby>義<rt>ぎ</rt></ruby>はそれぞれ<ruby>違<rt>ちが</rt></ruby>う。",
+    "segmentation": "実際における意義は | それぞれ違う。",
+    "translation": {
+      "natural": "但實際上兩者代表的含義卻大不相同。",
+      "literal": "在實際上的意義各不相同。"
+    },
+    "words": [
+      {
+        "word": "意義",
+        "reading": "いぎ",
+        "note": "名詞，意義、含義"
+      },
+      {
+        "word": "それぞれ",
+        "reading": "それぞれ",
+        "note": "副詞/名詞，各自、分別"
+      }
+    ],
+    "context_grammar": [
+      "～における：在……方面的。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "04:20",
+    "japanese": "懐石料理はお茶の席で、もっとお茶を美味しく味わうためのものであるが、",
+    "furigana": "<ruby>懐<rt>かい</rt></ruby><ruby>石<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>はお<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>で、もっとお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>美<rt>おい</rt></ruby><ruby>味<rt>し</rt></ruby>く<ruby>味<rt>あじ</rt></ruby>わうためのものであるが、",
+    "segmentation": "懐石料理はお茶の席で、| もっとお茶を美味しく味わうためのものであるが、",
+    "translation": {
+      "natural": "懷石料理是在茶會席上為了能更好品嚐茶味而準備的，",
+      "literal": "懷石料理是在茶會場合，為了更加美味地品嚐茶而存在的東西，但"
+    },
+    "words": [
+      {
+        "word": "味わう",
+        "reading": "あじわう",
+        "note": "動詞（五段），品嚐、體驗"
+      }
+    ],
+    "context_grammar": [
+      "～ためのもの：為了……目的而設的事物。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "04:26",
+    "japanese": "会席料理はお酒を楽しむための料理である。",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>はお<ruby>酒<rt>さけ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむための<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>である。",
+    "segmentation": "会席料理は | お酒を楽しむための料理である。",
+    "translation": {
+      "natural": "而會席料理則是為了暢飲美酒而設計的宴席佳餚。",
+      "literal": "會席料理則是為了享受酒而做的料理。"
+    },
+    "words": [
+      {
+        "word": "酒",
+        "reading": "さけ",
+        "note": "名詞，酒類"
+      }
+    ],
+    "context_grammar": [
+      "與前一句（049）形成「對比」關係。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "05:00",
+    "japanese": "しかし、現在では食べる人も混同してしまっており、",
+    "furigana": "しかし、<ruby>現<rt>げん</rt></ruby><ruby>在<rt>ざい</rt></ruby>では<ruby>食<rt>た</rt></ruby>べる<ruby>人<rt>ひと</rt></ruby>も<ruby>混<rt>こん</rt></ruby><ruby>同<rt>どう</rt></ruby>してしまっており、",
+    "segmentation": "しかし、現在では | 食べる人も混同してしまっており、",
+    "translation": {
+      "natural": "不過到了現代，連用餐者本身也往往容易將兩者混淆，",
+      "literal": "然而現在連吃的人也搞混了，"
+    },
+    "words": [
+      {
+        "word": "混同",
+        "reading": "こんどう",
+        "note": "名詞/他動詞（サ變），混淆、混為一談"
+      }
+    ],
+    "context_grammar": [
+      "～てしまう：表示「無意中發生了非預期或遺憾的事」。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "05:04",
+    "japanese": "料理店でさえ区別がされなくなってしまった。",
+    "furigana": "<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby><ruby>店<rt>てん</rt></ruby>でさえ<ruby>区<rt>く</rt></ruby><ruby>別<rt>べつ</rt></ruby>がされなくなってしまった。",
+    "segmentation": "料理店でさえ | 区別がされなくなってしまった。",
+    "translation": {
+      "natural": "甚至連許多餐廳店家都逐漸不再刻意去區分了。",
+      "literal": "連料理店也變得不去區分了。"
+    },
+    "words": [
+      {
+        "word": "料理店",
+        "reading": "りょうりてん",
+        "note": "名詞，餐廳、料亭"
+      },
+      {
+        "word": "区別",
+        "reading": "くべつ",
+        "note": "名詞/他動詞（サ變），區分、區別"
+      }
+    ],
+    "context_grammar": [
+      "～でさえ：提示極端例子，表示「連……都……」。",
+      "～されなくなる：被動＋否定演變（變得不再被區分）。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "05:08",
+    "japanese": "郷土料理",
+    "furigana": "<ruby>郷<rt>きょう</rt></ruby><ruby>土<rt>ど</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>",
+    "segmentation": "郷土料理",
+    "translation": {
+      "natural": "鄉土料理（地方特色菜）",
+      "literal": "鄉土料理。"
+    },
+    "words": [
+      {
+        "word": "郷土料理",
+        "reading": "きょうどりょうり",
+        "note": "名詞，地方特色料理、鄉土菜"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞主題標題。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "05:10",
+    "japanese": "日本の国土は南北に縦に長いため気候の差も大きく、",
+    "furigana": "<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>の<ruby>国<rt>こく</rt></ruby><ruby>土<rt>ど</rt></ruby>は<ruby>南<rt>なん</rt></ruby><ruby>北<rt>ぼく</rt></ruby>に<ruby>縦<rt>たて</rt></ruby>に<ruby>長<rt>なが</rt></ruby>いため<ruby>気<rt>き</rt></ruby><ruby>候<rt>こう</rt></ruby>の<ruby>差<rt>さ</rt></ruby>も<ruby>大<rt>おお</rt></ruby>きく、",
+    "segmentation": "日本の国土は南北に縦に長いため | 気候の差も大きく、",
+    "translation": {
+      "natural": "日本國土呈南北狹長分布，因此氣候差異極大，",
+      "literal": "日本的國土因為在南北方向縱向很長，氣候的差距也很大，"
+    },
+    "words": [
+      {
+        "word": "国土",
+        "reading": "こくど",
+        "note": "名詞，國土"
+      },
+      {
+        "word": "気候",
+        "reading": "きこう",
+        "note": "名詞，氣候"
+      }
+    ],
+    "context_grammar": [
+      "～ため：表示原因理由（因為……）。",
+      "大きく：形容詞連用形中止法（極大且……）。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "05:15",
+    "japanese": "寒流と暖流の流れが気温を左右することから各地方の風土条件も異なっており、",
+    "furigana": "<ruby>寒<rt>かん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>と<ruby>暖<rt>だん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れが<ruby>気<rt>き</rt></ruby><ruby>温<rt>おん</rt></ruby>を<ruby>左<rt>さ</rt></ruby><ruby>右<rt>ゆう</rt></ruby>することから<ruby>各<rt>かく</rt></ruby><ruby>地<rt>ち</rt></ruby><ruby>方<rt>ほう</rt></ruby>の<ruby>風<rt>ふう</rt></ruby><ruby>土<rt>ど</rt></ruby><ruby>条<rt>じょう</rt></ruby><ruby>件<rt>けん</rt></ruby>も<ruby>異<rt>こと</rt></ruby>なっており、",
+    "segmentation": "寒流と暖流の流れが気温を左右することから | 各地方の風土条件も異なっており、",
+    "translation": {
+      "natural": "加之洋流（寒流與暖流）會影響氣溫，使得各地的風土條件各有不同，",
+      "literal": "由於寒流與暖流的流向左右著氣溫，各地方的風土條件也各異，"
+    },
+    "words": [
+      {
+        "word": "左右する",
+        "reading": "さゆうする",
+        "note": "動詞（サ變），左右、支配、影響"
+      },
+      {
+        "word": "異なる",
+        "reading": "ことなる",
+        "note": "動詞（五段），不同、有別"
+      }
+    ],
+    "context_grammar": [
+      "～ことから：表示判斷的根據或原因（從……來看／由於……）。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "05:22",
+    "japanese": "産出されるものも多様性に富んでいる。",
+    "furigana": "<ruby>産<rt>さん</rt></ruby><ruby>出<rt>しゅつ</rt></ruby>されるものも<ruby>多<rt>た</rt></ruby><ruby>様<rt>よう</rt></ruby><ruby>性<rt>せい</rt></ruby>に<ruby>富<rt>と</rt></ruby>んでいる。",
+    "segmentation": "産出されるものも | 多様性に富んでいる。",
+    "translation": {
+      "natural": "所產出的食材物產也非常豐富多元。",
+      "literal": "被產出的物產也富有多樣性。"
+    },
+    "words": [
+      {
+        "word": "産出",
+        "reading": "さんしゅつ",
+        "note": "名詞/他動詞（サ變），生產、產出"
+      },
+      {
+        "word": "富む",
+        "reading": "とむ",
+        "note": "動詞（五段），富有、充滿"
+      }
+    ],
+    "context_grammar": [
+      "～に富んでいる：慣用表達，表示「富於……」、「充滿……」。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "05:25",
+    "japanese": "調味料や食材においてその地の条件にあった特色ある郷土料理が発展し、",
+    "furigana": "<ruby>調<rt>ちょう</rt></ruby><ruby>味<rt>み</rt></ruby><ruby>料<rt>りょう</rt></ruby>や<ruby>食<rt>しょく</rt></ruby><ruby>材<rt>ざい</rt></ruby>において<ruby>其<rt>そ</rt></ruby>の<ruby>地<rt>ち</rt></ruby>の<ruby>条<rt>じょう</rt></ruby><ruby>件<rt>けん</rt></ruby>にあった<ruby>特<rt>とく</rt></ruby><ruby>色<rt>いろ</rt></ruby>ある<ruby>郷<rt>きょう</rt></ruby><ruby>土<rt>ど</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>が<ruby>発<rt>はっ</rt></ruby><ruby>展<rt>てん</rt></ruby>し、",
+    "segmentation": "調味料や食材において | その地の条件にあった | 特色ある郷土料理が発展し、",
+    "translation": {
+      "natural": "在調味料與食材選擇上，孕育出了符合在地條件且具特色的鄉土料理，",
+      "literal": "在調味料與食材方面，發展出了符合當地條件具特色的鄉土料理，"
+    },
+    "words": [
+      {
+        "word": "特色",
+        "reading": "とくしょく",
+        "note": "名詞，特色"
+      }
+    ],
+    "context_grammar": [
+      "～にあった：符合……的（合（あ）う＋た）。",
+      "特色ある：帶有特色的……。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "05:31",
+    "japanese": "例えば北海道のちゃんちゃん焼き、青森のじゃっぱ汁、会津の山椒漬けなどがある。",
+    "furigana": "<ruby>例<rt>たと</rt></ruby>えば<ruby>北<rt>ほっ</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>道<rt>どう</rt></ruby>のちゃんちゃん<ruby>焼<rt>や</rt></ruby>き、<ruby>青<rt>あお</rt></ruby><ruby>森<rt>もり</rt></ruby>のじゃっぱ<ruby>汁<rt>じる</rt></ruby>、<ruby>会<rt>あい</rt></ruby><ruby>津<rt>づ</rt></ruby>の<ruby>山<rt>さん</rt></ruby><ruby>椒<rt>しょう</rt></ruby><ruby>漬<rt>づ</rt></ruby>けなどがある。",
+    "segmentation": "例えば北海道のちゃんちゃん焼き、| 青森のじゃっぱ汁、| 会津の山椒漬けなどがある。",
+    "translation": {
+      "natural": "例如北海道的羌羌燒（鮭魚鐵板燒）、青森的鱈魚內臟雜煮湯（Jappa汁）、會津的山椒漬等。",
+      "literal": "例如有北海道的Chan-chan燒、青森的Jappa汁、會津的山椒漬等。"
+    },
+    "words": [
+      {
+        "word": "ちゃんちゃん焼き",
+        "reading": "ちゃんちゃんやき",
+        "note": "專有名詞，北海道傳統鐵板蒸味噌鮭魚菜餚"
+      },
+      {
+        "word": "じゃっぱ汁",
+        "reading": "じゃっぱじる",
+        "note": "專有名詞，青森縣以鱈魚剩餘部位煮成的味噌湯"
+      }
+    ],
+    "context_grammar": [
+      "例如……（列舉實例）＋などがある。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "05:39",
+    "japanese": "先人の知恵が受け継がれた郷土料理は無形文化財にもなっている。",
+    "furigana": "<ruby>先<rt>せん</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>知<rt>ち</rt></ruby><ruby>恵<rt>え</rt></ruby>が<ruby>受<rt>う</rt></ruby>け<ruby>継<rt>つ</rt></ruby>がれた<ruby>郷<rt>きょう</rt></ruby><ruby>土<rt>ど</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>無<rt>む</rt></ruby><ruby>形<rt>けい</rt></ruby><ruby>文<rt>ぶん</rt></ruby><ruby>化<rt>か</rt></ruby><ruby>財<rt>ざい</rt></ruby>にもなっている。",
+    "segmentation": "先人の知恵が受け継がれた郷土料理は | 無形文化財にもなっている。",
+    "translation": {
+      "natural": "傳承了前人智慧的鄉土料理，許多如今也登錄成為了無形文化資產。",
+      "literal": "繼承了前人智慧的鄉土料理也成為了無形文化財。"
+    },
+    "words": [
+      {
+        "word": "受け継ぐ",
+        "reading": "うけつぐ",
+        "note": "動詞（五段），繼承、傳承"
+      },
+      {
+        "word": "無形文化財",
+        "reading": "むけいぶんかざい",
+        "note": "名詞，無形文化資產"
+      }
+    ],
+    "context_grammar": [
+      "～にもなっている：也演變成了……狀態。"
+    ]
+  }
+]

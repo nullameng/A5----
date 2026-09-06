@@ -12,8 +12,11 @@
     .active { border-color: #0066cc; background: #e0f0ff; }
     .controls { margin-bottom: 15px; padding: 10px; background: #eee; border-radius: 5px; }
     
-    /* 檔案選擇器樣式 */
-    .file-select-box { margin-bottom: 15px; padding: 10px; background: #fff; border: 1px solid #ddd; border-radius: 5px; font-size: 0.9rem; }
+    /* 檔案選擇區塊樣式 */
+    .file-select-box { margin-bottom: 15px; padding: 12px; background: #fff; border: 1px solid #ddd; border-radius: 6px; font-size: 0.9rem; }
+    .file-select-box select { width: 100%; padding: 6px; margin-top: 5px; border-radius: 4px; border: 1px solid #ccc; }
+    .github-btn { width: 100%; padding: 8px; background: #24292e; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; }
+    .github-btn:hover { background: #444d56; }
     
     /* 詳細解析區塊樣式 */
     .japanese-text { font-size: 1.25rem; line-height: 2.2; margin-bottom: 15px; color: #1a1a1a; }
@@ -31,14 +34,26 @@
 
   <!-- 左側：分段列表 -->
   <div class="transcript-list" id="transcriptList">
-    <!-- 檔案選擇區 -->
     <div class="file-select-box">
-      <label for="fileInput"><b>📁 選擇教材檔 (.js / .json)：</b></label><br>
-      <input type="file" id="fileInput" accept=".js,.json" style="margin-top: 5px; width: 100%;">
+      <!-- 選擇器 1：本地開啟檔案選擇器 -->
+      <label for="fileInput"><b>📁 1. 本地開啟檔案 (.json / .js)：</b></label><br>
+      <input type="file" id="fileInput" accept=".json,.js" style="margin-top: 6px; margin-bottom: 12px; width: 100%;">
+
+      <hr style="border: 0; border-top: 1px dashed #ccc; margin: 12px 0;">
+
+      <!-- 選擇器 2：GitHub 線上教材選擇器 -->
+      <label><b>☁️ 2. 選擇 GitHub 線上教材：</b></label><br>
+      <button id="fetchGithubBtn" class="github-btn" onclick="fetchGithubFiles()" style="margin-top: 6px;">載入 GitHub data/ 檔案列表</button>
+      
+      <div id="githubSelectContainer" style="display: none; margin-top: 8px;">
+        <select id="githubDatasetSelect"></select>
+      </div>
     </div>
 
     <h3>逐字稿分段（點擊播放與解析）</h3>
-    <div id="listContent"></div>
+    <div id="listContent">
+      <p style="color:#888; text-align: center; margin-top: 30px;">請從上方「開啟本地檔案」或「載入 GitHub 列表」</p>
+    </div>
   </div>
 
   <!-- 右側：控制區與文法解析展示 -->
@@ -47,7 +62,6 @@
       <label>語速 (Rate): <span id="rateVal">1.0</span>x</label>
       <input type="range" id="rate" min="0.5" max="1.5" step="0.1" value="1.0"><br><br>
       
-      <!-- 只有當可選語音 > 1 時才會顯示此區塊 -->
       <div id="voicePickerGroup" style="display: none; margin-bottom: 15px;">
         <label>選擇語音:</label>
         <select id="voiceSelect"></select>
@@ -58,20 +72,23 @@
     </div>
 
     <h2>詳細解析</h2>
-    <div id="grammarOutput">請從左側點選任意段落...</div>
+    <div id="grammarOutput">請從左側載入檔案並點選任意段落...</div>
   </div>
 
-  <!-- 1. 外部引入預設逐字稿資料檔 -->
-  <script src="data.js"></script>
-
-  <!-- 2. 主程式邏輯 -->
+  <!-- 主程式邏輯 -->
   <script>
+    // ⚠️ 請修改為你的 GitHub 帳號與 Repo 名稱
+    const GITHUB_USER = 'YOUR_GITHUB_USERNAME'; 
+    const GITHUB_REPO = 'YOUR_REPO_NAME';
+
     let currentSegment = null;
     let selectedVoice = null;
     let isPlaying = false;
     const synth = window.speechSynthesis;
 
     const listContentEl = document.getElementById('listContent');
+    const githubDatasetSelect = document.getElementById('githubDatasetSelect');
+    const githubSelectContainer = document.getElementById('githubSelectContainer');
 
     // 渲染列表的通用函式
     function renderList(data) {
@@ -89,14 +106,31 @@
       }
     }
 
-    // 預設載入 data.js 的資料
-    if (typeof transcriptData !== 'undefined' && Array.isArray(transcriptData)) {
-      renderList(transcriptData);
-    } else {
-      listContentEl.innerHTML = '<p style="color:red;">無法載入預設 data.js 資料，請手動選擇檔案。</p>';
+    // 通用動態讀取網址路徑 JSON/JS
+    async function fetchJsonData(filePath) {
+      listContentEl.innerHTML = '<p style="color:#666;">載入資料中...</p>';
+      try {
+        const response = await fetch(filePath);
+        if (!response.ok) throw new Error(`HTTP 錯誤狀態碼: ${response.status}`);
+        
+        let text = await response.text();
+        
+        // 自動截取中括號 [...] 內的 JSON 陣列
+        const startIdx = text.indexOf('[');
+        const endIdx = text.lastIndexOf(']');
+        if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
+          text = text.substring(startIdx, endIdx + 1);
+        }
+
+        const data = JSON.parse(text);
+        renderList(data);
+      } catch (err) {
+        console.error('Fetch 錯誤：', err);
+        listContentEl.innerHTML = `<p style="color:red;">無法讀取檔案 (${filePath})，請確認路徑或檔案格式。</p>`;
+      }
     }
 
-    // 監聽手動選取 .js 或 .json 檔案
+    // 選擇器 1 邏輯：監聽手動選擇本地檔案 (.json 或 .js)
     document.getElementById('fileInput').addEventListener('change', function(e) {
       const file = e.target.files[0];
       if (!file) return;
@@ -106,7 +140,6 @@
         try {
           let content = evt.target.result;
 
-          // 自動定位第一個 '[' 與最後一個 ']'，精準擷取陣列內容
           const startIdx = content.indexOf('[');
           const endIdx = content.lastIndexOf(']');
 
@@ -124,7 +157,53 @@
       reader.readAsText(file, "UTF-8");
     });
 
-    // 2. 選取段落邏輯
+    // 選擇器 2 邏輯：點擊向 GitHub API 請求 data/ 資料夾檔案清單
+    async function fetchGithubFiles() {
+      const btn = document.getElementById('fetchGithubBtn');
+      btn.innerText = '🔄 掃描中...';
+      
+      const apiUrl = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/data`;
+
+      try {
+        const res = await fetch(apiUrl);
+        if (!res.ok) throw new Error('API 請求失敗，請確認使用者名稱與 Repo 設定。');
+        
+        const files = await res.json();
+        const validFiles = files.filter(f => f.name.endsWith('.json') || f.name.endsWith('.js'));
+
+        if (validFiles.length === 0) {
+          alert('data/ 資料夾內未找到 .json 或 .js 檔案');
+          btn.innerText = '載入 GitHub data/ 檔案列表';
+          return;
+        }
+
+        githubDatasetSelect.innerHTML = '';
+        validFiles.forEach(file => {
+          const option = document.createElement('option');
+          option.value = file.path;
+          option.textContent = file.name;
+          githubDatasetSelect.appendChild(option);
+        });
+
+        githubSelectContainer.style.display = 'block';
+        btn.innerText = '✅ 已取得 GitHub 清單';
+        
+        // 自動讀取列表中第一個檔案
+        fetchJsonData(validFiles[0].path);
+
+      } catch (err) {
+        alert('無法取得 GitHub 檔案清單，請確認網路或 GitHub 帳號設定。');
+        console.error(err);
+        btn.innerText = '載入 GitHub data/ 檔案列表';
+      }
+    }
+
+    // 選擇器 2 邏輯：監聽 GitHub 下拉選單切換
+    githubDatasetSelect.addEventListener('change', (e) => {
+      fetchJsonData(e.target.value);
+    });
+
+    // 選取段落邏輯
     function selectSegment(item, element) {
       document.querySelectorAll('.segment-item').forEach(el => el.classList.remove('active'));
       element.classList.add('active');
@@ -138,11 +217,9 @@
     function renderAnalysis(item) {
       let html = '';
 
-      // A. 原文
       const japaneseDisplay = item.furigana || item.japanese;
       html += `<div class="japanese-text"><b>【日文】</b> ${japaneseDisplay}</div>`;
 
-      // B. 斷句與翻譯
       if (item.translation) {
         html += `<div class="translation-box">`;
         if (item.segmentation) html += `<div><b>【斷句】</b> ${item.segmentation}</div>`;
@@ -151,7 +228,6 @@
         html += `</div>`;
       }
 
-      // C. 單字拆解
       if (item.words && item.words.length > 0) {
         html += `<div class="section-title">【單字拆解】</div><ul class="word-list">`;
         item.words.forEach(w => {
@@ -161,7 +237,6 @@
         html += `</ul>`;
       }
 
-      // D. 文法解析
       if (item.context_grammar && item.context_grammar.length > 0) {
         html += `<div class="section-title">【文法與情境解析】</div>`;
         item.context_grammar.forEach(g => {
@@ -172,7 +247,7 @@
       document.getElementById('grammarOutput').innerHTML = html;
     }
 
-    // 3. 語音朗讀邏輯
+    // 語音朗讀邏輯
     function playSpeech() {
       synth.cancel();
       if (!currentSegment) return;
@@ -228,7 +303,7 @@
       }
     }
 
-    // 4. 載入系統可用語音
+    // 載入系統可用語音
     function populateVoiceList() {
       const voices = synth.getVoices();
       const voiceSelect = document.getElementById('voiceSelect');
@@ -269,7 +344,7 @@
       speechSynthesis.onvoiceschanged = populateVoiceList;
     }
 
-    // 5. 監聽語速滑桿變化
+    // 監聽語速滑桿變化
     document.getElementById('rate').addEventListener('input', (e) => {
       document.getElementById('rateVal').innerText = e.target.value;
       if (isPlaying) playSpeech();
