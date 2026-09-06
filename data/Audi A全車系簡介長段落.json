@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "皆様、こんにちは。今回はAの文字を冠されたアウディのメインモデル、アウディAファミリーをご紹介いたします。",
+    "furigana": "<ruby>皆<rt>みな</rt></ruby><ruby>様<rt>さま</rt></ruby>、こんにちは。<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>はAの<ruby>文<rt>も</rt></ruby><ruby>字<rt>じ</rt></ruby>を<ruby>冠<rt>かん</rt></ruby>されたアウディのメインモデル、アウディAファミリーをご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>いたします。",
+    "segmentation": "皆様、| こんにちは。| 今回は | Aの文字を冠された | アウディのメインモデル、| アウディAファミリーを | ご紹介いたします。",
+    "translation": {
+      "natural": "大家好。這次我們將為您介紹冠以「A」之名的 Audi 主力車系——Audi A 車族。",
+      "literal": "各位，你好。這次將為您介紹冠以 A 文字的 Audi 主車型，Audi A 車族。"
+    },
+    "words": [
+      {
+        "word": "皆様",
+        "reading": "みなさま",
+        "note": "名詞，各位、大家（敬稱）"
+      },
+      {
+        "word": "今回",
+        "reading": "こんかい",
+        "note": "名詞，這次"
+      },
+      {
+        "word": "文字",
+        "reading": "もじ",
+        "note": "名詞，文字、字母"
+      },
+      {
+        "word": "冠する",
+        "reading": "かんする",
+        "note": "動詞，冠上、命名"
+      },
+      {
+        "word": "メインモデル",
+        "reading": "メインモデル",
+        "note": "名詞，主力車型（Main Model）"
+      },
+      {
+        "word": "ご紹介する",
+        "reading": "ごしょうかいする",
+        "note": "動詞，介紹（謙讓語為ご紹介いたします）"
+      }
+    ],
+    "context_grammar": [
+      "～を冠された：動詞「冠する」的受身形（被動語態）連體形，用於修飾後面的名詞「アウディのメインモデル」，表示「被冠以～之名的……」。",
+      "ご＋動詞連用形＋いたします：謙讓語句型，表示說話者非常禮貌地為對方進行某項動作（介紹）。在商業宣傳影片開頭極為常見。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:08",
+    "japanese": "アウディの頭文字であるとともに、物事の始まりや世界で最もアトラクティブ（魅力的）な欧州車という思いが込められた、アウディが誇るメインモデルの魅力を、アウディA1からアウディA8までのAファミリー全モデルの特徴を踏まえお伝えしていきます。",
+    "furigana": "アウディの<ruby>頭<rt>かしら</rt></ruby><ruby>文<rt>も</rt></ruby><ruby>字<rt>じ</rt></ruby>であるとともに、<ruby>物<rt>もの</rt></ruby><ruby>事<rt>ごと</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まりや<ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もアトラクティブ（<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby><ruby>的<rt>てき</rt></ruby>）な<ruby>欧<rt>おう</rt></ruby><ruby>州<rt>しゅう</rt></ruby><ruby>車<rt>しゃ</rt></ruby>という<ruby>思<rt>おも</rt></ruby>いが<ruby>込<rt>こ</rt></ruby>められた、アウディが<ruby>誇<rt>ほこ</rt></ruby>るメインモデルの<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>を、アウディA1からアウディA8までのAファミリー<ruby>全<rt>ぜん</rt></ruby>モデルの<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえ<ruby>お<rt></rt></ruby><ruby>伝<rt>つた</rt></ruby>えしていきます。",
+    "segmentation": "アウディの頭文字であるとともに、| 物事の始まりや | 世界で最もアトラクティブ、| 魅力的な欧州車という思いが | 込められた、| アウディが誇る | メインモデルの魅力を、| アウディA1から | アウディA8までの | Aファミリー全モデルの特徴を踏まえ | お伝えしていきます。",
+    "translation": {
+      "natural": "「A」既是 Audi 的首字母，也寄托了象徵萬物開端以及打造「歐洲最吸引人的車款」之理念。接下來我們將基於 A 車族全車型的特點，為您介紹 Audi 傲以為榮的主力車款魅力（從 A1 到 A8）。",
+      "literal": "作為Audi的首字母的同時，包含了萬物開始以及世界上最吸引人的歐洲車這樣的想法， Audi所自豪的主力車款的魅力，踏著從Audi A1到Audi A8為止的A車族全車型特徵傳達下去。"
+    },
+    "words": [
+      {
+        "word": "頭文字",
+        "reading": "かしらもじ",
+        "note": "名詞，首字母"
+      },
+      {
+        "word": "物事",
+        "reading": "ものごと",
+        "note": "名詞，事物、萬物"
+      },
+      {
+        "word": "アトラクティブ",
+        "reading": "アトラクティブ",
+        "note": "形容動詞，有吸引力的（Attractive）"
+      },
+      {
+        "word": "込める",
+        "reading": "こめる",
+        "note": "動詞，注入、包含（感情或想法）"
+      },
+      {
+        "word": "誇る",
+        "reading": "ほこる",
+        "note": "動詞，引以為傲、誇耀"
+      },
+      {
+        "word": "踏まえる",
+        "reading": "ふまえる",
+        "note": "動詞，依據、基於"
+      }
+    ],
+    "context_grammar": [
+      "～であるとともに：接續名詞或動詞終止形，表示「既是……同時也是……」。",
+      "込める → 込められた：動詞「込める」的受身形（被動態）連體形，用於修飾「アウディが誇るメインモデル」，表示「被注入/寄託了……理念的車型」。",
+      "お＋動詞連用形＋していく：自謙語結構「お～する」結合「～していく」（持續進行），展現品牌對受眾的尊崇態度與節目鋪陳感。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:33",
+    "japanese": "動画最後にはYouTube限定のキャンペーン情報もございますので、ぜひ最後までご覧ください。",
+    "furigana": "<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby><ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>にはYouTube<ruby>限<rt>げん</rt></ruby><ruby>定<rt>てい</rt></ruby>のキャンペーン<ruby>情<rt>じょう</rt></ruby><ruby>報<rt>ほう</rt></ruby>もございますので、ぜひ<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>までご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "動画最後には | YouTube限定のキャンペーン情報も | ございますので、| ぜひ最後まで | ご覧ください。",
+    "translation": {
+      "natural": "影片最後還有 YouTube 限定的優惠活動資訊，請務必觀看到最後喔！",
+      "literal": "因為在影片最後也有YouTube限定的活動資訊，請务必看至最後。"
+    },
+    "words": [
+      {
+        "word": "動画",
+        "reading": "どうが",
+        "note": "名詞，影片"
+      },
+      {
+        "word": "限定",
+        "reading": "げんてい",
+        "note": "名詞/形容動詞，限定"
+      },
+      {
+        "word": "キャンペーン",
+        "reading": "キャンペーン",
+        "note": "名詞，促銷活動（Campaign）"
+      },
+      {
+        "word": "ございます",
+        "reading": "ございます",
+        "note": "動詞，「ある」的極鄭重語（丁寧語）"
+      },
+      {
+        "word": "ご覧ください",
+        "reading": "ごらんください",
+        "note": "動詞，請觀看（「見る」的尊敬語）"
+      }
+    ],
+    "context_grammar": [
+      "ございますので：由鄭重語「ございます」接續原因助詞「ので」，比起「ありますので」更能營造高級品牌宣傳片的端莊與商務質感。",
+      "ご覧ください：尊敬語句型（ご＋覧＋ください），常用於旁白呼籲觀眾採取特定行動（如收看、訂閱）。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:40",
+    "japanese": "それでは始めていきましょう。",
+    "furigana": "それでは<ruby>始<rt>はじ</rt></ruby>めていきましょう。",
+    "segmentation": "それでは | 始めていきましょう。",
+    "translation": {
+      "natural": "那麼，我們就開始吧！",
+      "literal": "那麼，開始進行吧。"
+    },
+    "words": [
+      {
+        "word": "それでは",
+        "reading": "それでは",
+        "note": "接續詞，那麼"
+      },
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "note": "動詞，開始"
+      }
+    ],
+    "context_grammar": [
+      "～ていきましょう：動詞連用形＋て＋いく（方向/推移）＋ましょう（提議/邀請）。用於轉折話題或正式進入影片主體內容的過渡句。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:57",
+    "japanese": "今回ご紹介する車両は、アウディA1からA8の全7モデルです。",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>ご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>する<ruby>車<rt>しゃ</rt></ruby><ruby>両<rt>りょう</rt></ruby>は、アウディA1からA8の<ruby>全<rt>ぜん</rt></ruby>7モデルです。",
+    "segmentation": "今回ご紹介する車両は、| アウディA1からA8の | 全7モデルです。",
+    "translation": {
+      "natural": "這次要為大家介紹的車款，是從 Audi A1 到 A8 共計 7 款車型。",
+      "literal": "這次介紹的車輛是，Audi A1至A8的全7個模型。"
+    },
+    "words": [
+      {
+        "word": "車両",
+        "reading": "しゃりょう",
+        "note": "名詞，車輛、車款"
+      },
+      {
+        "word": "全",
+        "reading": "ぜん",
+        "note": "前綴，全部、全體"
+      }
+    ],
+    "context_grammar": [
+      "ご＋動詞連用形＋する：謙讓語連體形，直接修飾後方的名詞「車両」，表示「（我們）要介紹的車款」。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "01:06",
+    "japanese": "Aの後ろについた1から8までの数字は、数が大きくなるにつれてボディサイズやエンジンサイズがアップします。",
+    "furigana": "Aの<ruby>後<rt>うし</rt></ruby>ろについた1から8までの<ruby>数<rt>すう</rt></ruby><ruby>字<rt>じ</rt></ruby>は、<ruby>数<rt>かず</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きくなるにつれてボディサイズやエンジンサイズがアップします。",
+    "segmentation": "Aの後ろについた | 1から8までの数字は、| 数が大きくなるにつれて | ボディサイズやエンジンサイズが | アップします。",
+    "translation": {
+      "natural": "「A」後方的數字 1 到 8，隨著數字越大，車身尺寸與引擎排氣量也會隨之升級。",
+      "literal": "附在A後面的1至8的數字，隨著數字變大，車身尺寸與引擎尺寸會提升。"
+    },
+    "words": [
+      {
+        "word": "つく",
+        "reading": "つく",
+        "note": "動詞，附著、帶有"
+      },
+      {
+        "word": "数字",
+        "reading": "すうじ",
+        "note": "名詞，數字"
+      },
+      {
+        "word": "～につれて",
+        "reading": "につれて",
+        "note": "句型，隨著……"
+      },
+      {
+        "word": "アップする",
+        "reading": "アップする",
+        "note": "動詞，提升、增加（Up）"
+      }
+    ],
+    "context_grammar": [
+      "～につれて：接續動詞連體形或動作性名詞，表示「隨著前項的變化，後項也相應地發生變化」。在產品規格與等級階層介紹中非常普及。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "01:19",
+    "japanese": "アウディA1がコンパクトなボディに排気量の小さいエンジンを積載したエントリーモデルであるのに対し、アウディA8はボディサイズもエンジンサイズも大きなハイエンドモデルとなっています。",
+    "furigana": "アウディA1がコンパクトなボディに<ruby>排<rt>はい</rt></ruby><ruby>気<rt>き</rt></ruby><ruby>量<rt>りょう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さいエンジンを<ruby>積<rt>せき</rt></ruby><ruby>載<rt>さい</rt></ruby>したエントリーモデルであるのに対し、アウディA8はボディサイズもエンジンサイズも<ruby>大<rt>おお</rt></ruby>きなハイエンドモデルとなっています。",
+    "segmentation": "アウディA1が | コンパクトなボディに | 排気量の小さいエンジンを積載した | エントリーモデルであるのに対し、| アウディA8は | ボディサイズもエンジンサイズも大きな | ハイエンドモデルとなっています。",
+    "translation": {
+      "natural": "相較於 Audi A1 是款擁有緊湊車身與小排氣量引擎的入門車型，Audi A8 則是車身與引擎規格皆屬頂級的旗艦車款。",
+      "literal": "相對於Audi A1是在緊湊車身搭載小排氣量引擎的入門模型，Audi A8則是車身尺寸與引擎尺寸都大的高端模型。"
+    },
+    "words": [
+      {
+        "word": "排気量",
+        "reading": "はいきりょう",
+        "note": "名詞，排氣量"
+      },
+      {
+        "word": "積載",
+        "reading": "せきさい",
+        "note": "名詞/動詞，搭載、裝載"
+      },
+      {
+        "word": "エントリーモデル",
+        "reading": "エントリーモデル",
+        "note": "名詞，入門車款（Entry Model）"
+      },
+      {
+        "word": "～に対し",
+        "reading": "に対し（にたいし）",
+        "note": "句型，與……相對/相較之下"
+      },
+      {
+        "word": "ハイエンドモデル",
+        "reading": "ハイエンドモデル",
+        "note": "名詞，高階/旗艦車款（High-end Model）"
+      }
+    ],
+    "context_grammar": [
+      "～であるのに対し：接續名詞＋である，用於對比兩種截然不同的事物或規格（入門款 vs. 旗艦款）。",
+      "～となっています：表示狀態演變後的客觀事實或既定規格配置，比單純用「です」更具正式說明感。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "01:31",
+    "japanese": "また、各モデルごとに個性的な特徴を有しているのもアウディの魅力の一つです。",
+    "furigana": "また、<ruby>各<rt>かく</rt></ruby>モデルごとに<ruby>個<rt>こ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>を<ruby>有<rt>ゆう</rt></ruby>しているのもアウディの<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。",
+    "segmentation": "また、| 各モデルごとに | 個性的な特徴を有しているのも | アウディの魅力の一つです。",
+    "translation": {
+      "natural": "此外，每款車型都擁有獨具特色的魅力，這也是 Audi 的吸引力之一。",
+      "literal": "此外，每個模型都擁有個性特徵這點，也是Audi的魅力之一。"
+    },
+    "words": [
+      {
+        "word": "各",
+        "reading": "かく",
+        "note": "前綴，各個"
+      },
+      {
+        "word": "有する",
+        "reading": "ゆうする",
+        "note": "動詞，擁有、具備（較正式用語）"
+      }
+    ],
+    "context_grammar": [
+      "～ごとに：接在名詞後，表示「每一個……都有所不同/按……分類」。",
+      "動詞連體形（有している）＋の（名詞化）＋も：將「擁有獨特特徵」這一整句事件名詞化作為主語。 "
+    ]
+  },
+  {
+    "id": "009",
+    "time": "01:37",
+    "japanese": "例えばアウディの先進テクノロジーを象徴するヘッドライトには、そのモデルのキャラクターを印象付けるデザインが採用され、モデルごとに異なるライトシグネチャーとなっています。",
+    "furigana": "<ruby>例<rt>たと</rt></ruby>えばアウディの<ruby>先<rt>せん</rt></ruby><ruby>進<rt>しん</rt></ruby>テクノロジーを<ruby>象<rt>しょう</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>するヘッドライトには、そのモデルのキャラクターを<ruby>印<rt>いん</rt></ruby><ruby>象<rt>しょう</rt></ruby><ruby>付<rt>づ</rt></ruby>けるデザインが<ruby>採<rt>さい</rt></ruby><ruby>用<rt>よう</rt></ruby>され、モデルごとに<ruby>異<rt>こと</rt></ruby>なるライトシグネチャーとなっています。",
+    "segmentation": "例えば | アウディの先進テクノロジーを象徴するヘッドライトには、| そのモデルのキャラクターを印象付けるデザインが | 採用され、| モデルごとに異なる | ライトシグネチャーとなっています。",
+    "translation": {
+      "natural": "例如象徵 Audi 先進科技的大燈，便採用了能彰顯該車型特性的設計，打造出每款車獨一無二的燈光標誌（Light Signature）。",
+      "literal": "例如在象徵Audi先進科技的大燈上，採用了給予該模型角色印象的設計，成為每個模型不同的燈光標誌。"
+    },
+    "words": [
+      {
+        "word": "象徴",
+        "reading": "しょうちょう",
+        "note": "名詞/動詞，象徵"
+      },
+      {
+        "word": "ヘッドライト",
+        "reading": "ヘッドライト",
+        "note": "名詞，頭燈、大燈（Headlight）"
+      },
+      {
+        "word": "印象付ける",
+        "reading": "いんしょうづける",
+        "note": "動詞，給人深刻印象"
+      },
+      {
+        "word": "採用する",
+        "reading": "さいようする",
+        "note": "動詞，採用"
+      },
+      {
+        "word": "ライトシグネチャー",
+        "reading": "ライトシグネチャー",
+        "note": "名詞，燈光標誌/特徵燈語（Light Signature）"
+      }
+    ],
+    "context_grammar": [
+      "採用され：動詞「採用する」的受身形（被動語態）中連形（省略 stem），用於句中連續敘述，表示「（設計）被採用，從而形成了……」。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "01:53",
+    "japanese": "それではまず、アウディA1 Sportbackからご紹介します。",
+    "furigana": "それではまず、アウディA1 Sportbackからご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>します。",
+    "segmentation": "それではまず、| アウディA1 Sportbackから | ご紹介します。",
+    "translation": {
+      "natural": "首先，讓我們從 Audi A1 Sportback 開始介紹。",
+      "literal": "那麼首先，從Audi A1 Sportback開始介紹。"
+    },
+    "words": [
+      {
+        "word": "まず",
+        "reading": "まず",
+        "note": "副詞，首先"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋から＋ご紹介します：用「～から」（從……起）強調介紹的順序開端。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "01:59",
+    "japanese": "このモデルの特徴は、スポーティーで愛嬌のあるダイナミックなデザインです。",
+    "furigana": "このモデルの<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>は、スポーティーで<ruby>愛<rt>あいきょう</rt></ruby><ruby>嬌<rt>きょう</rt></ruby>のあるダイナミックなデザインです。",
+    "segmentation": "このモデルの特徴は、| スポーティーで | 愛嬌のある | ダイナミックなデザインです。",
+    "translation": {
+      "natural": "這款車型的特色，在於其兼具運動感與靈動可愛的動感設計。",
+      "literal": "這個模型的特徵是，運動風格且有可愛感的動感設計。"
+    },
+    "words": [
+      {
+        "word": "スポーティー",
+        "reading": "スポーティー",
+        "note": "形容動詞，運動風的（Sporty）"
+      },
+      {
+        "word": "愛嬌",
+        "reading": "あいきょう",
+        "note": "名詞，討人喜歡、可愛、親和力"
+      },
+      {
+        "word": "ダイナミック",
+        "reading": "ダイナミック",
+        "note": "形容動詞，動感的、充滿活力的（Dynamic）"
+      }
+    ],
+    "context_grammar": [
+      "愛嬌のある：名詞＋の＋動詞，這裡的「の」代替主格助詞「が」，用於修飾後方的名詞「デザイン」（擁有可愛感/親和力的設計）。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "02:05",
+    "japanese": "ボンネット下のエアインレット、ブリスターフェンダー、Cピラーなど、伝説のラリーマシンであるアウディ・スポーツクワトロからインスパイアされた、他のモデルにはないデザイン性を秘めています。",
+    "furigana": "ボンネット<ruby>下<rt>した</rt></ruby>のエアインレット、ブリスターフェンダー、Cピラーなど、<ruby>伝<rt>でん</rt></ruby><ruby>説<rt>せつ</rt></ruby>のラリーマシンであるアウディ・スポーツクワトロからインスパイアされた、<ruby>他<rt>ほか</rt></ruby>のモデルにはないデザイン<ruby>性<rt>せい</rt></ruby>を<ruby>秘<rt>ひ</rt></ruby meています。",
+    "segmentation": "ボンネット下のエアインレット、| ブリスターフェンダー、| Cピラーなど、| 伝説のラリーマシンである | アウディ・スポーツクワトロから | インスパイアされた、| 他のモデルにはない | デザイン性を秘めています。",
+    "translation": {
+      "natural": "引擎蓋下方的進氣口、外擴式輪拱（Blister Fender）以及 C 柱等設計，皆靈感源自傳奇賽車 Audi Sport Quattro，蘊含著其他車型所沒有的獨特設計感。",
+      "literal": "引擎蓋下進氣口、外擴輪拱、C柱等，從作為傳奇拉力賽車的Audi Sport Quattro獲得靈感的、其他模型所沒有的設計感隱藏於其中。"
+    },
+    "words": [
+      {
+        "word": "エアインレット",
+        "reading": "エアインレット",
+        "note": "名詞，進氣口（Air inlet）"
+      },
+      {
+        "word": "ブリスターフェンダー",
+        "reading": "ブリスターフェンダー",
+        "note": "名詞，外擴式鈑金輪拱（Blister fender）"
+      },
+      {
+        "word": "インスパイアする",
+        "reading": "インスパイアする",
+        "note": "動詞，賦予靈感（Inspire）"
+      },
+      {
+        "word": "秘める",
+        "reading": "ひめる",
+        "note": "動詞，隱藏、蘊含"
+      }
+    ],
+    "context_grammar": [
+      "インスパイアされた：受身形連體修飾，修飾後方的「デザイン性」，表示「深受……啟發/賦予靈感的獨特設計」。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "02:18",
+    "japanese": "また、大人がゆったりくつろげる室内空間も魅力の一つです。",
+    "furigana": "また、<ruby>大<rt>おとな</rt></ruby><ruby>人<rt>ひと</rt></ruby>がゆったりくつろげる<ruby>室<rt>しつ</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>空<rt>くう</rt></ruby><ruby>間<rt>かん</rt></ruby>も<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。",
+    "segmentation": "また、| 大人がゆったりくつろげる | 室内空間も | 魅力の一つです。",
+    "translation": {
+      "natural": "此外，能讓成年人舒適放鬆的車室空間也是其魅力之一。",
+      "literal": "此外，大人能悠閒放鬆的車內空間也是魅力之一。"
+    },
+    "words": [
+      {
+        "word": "ゆったり",
+        "reading": "ゆったり",
+        "note": "副詞，寬敞地、悠閒地"
+      },
+      {
+        "word": "くつろぐ",
+        "reading": "くつろぐ",
+        "note": "動詞，放鬆、輕鬆休息"
+      }
+    ],
+    "context_grammar": [
+      "くつろげる：動詞「くつろぐ」的可能形連體形，用於修飾名詞「室内空間」，表示「能夠讓人放鬆的空間」。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "02:22",
+    "japanese": "快適で広々としたフロントシートは言うまでもなく、スポーティーに絞り込まれたルーフラインにもかかわらず、後席空間も十分なスペースが確保されています。",
+    "furigana": "<ruby>快<rt>かい</rt></ruby><ruby>適<rt>てき</rt></ruby>で<ruby>広<rt>ひろ</rt></ruby>々としたフロントシートは<ruby>言<rt>い</rt></ruby>うまでもなく、スポーティーに<ruby>絞<rt>しぼ</rt></ruby>り<ruby>込<rt>こ</rt></ruby>まれたルーフラインにもかかわらず、<ruby>後<rt>こう</rt></ruby><ruby>席<rt>せき</rt></ruby><ruby>空<rt>くう</rt></ruby><ruby>間<rt>かん</rt></ruby>も<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ぶん</rt></ruby>なスペースが<ruby>確<rt>かく</rt></ruby><ruby>保<rt>ほ</rt></ruby>されています。",
+    "segmentation": "快適で広々としたフロントシートは | 言うまでもなく、| スポーティーに絞り込まれた | ルーフラインにもかかわらず、| 後席空間も | 十分なスペースが | 確保されています。",
+    "translation": {
+      "natural": "舒適寬敞的前座自不必說，儘管車頂線條採用了流線緊湊的運動化設計，後座依然確保了充足的空間。",
+      "literal": "舒適且寬廣的前座自不用說，儘管是有運動感地收緊的車頂線條，後座空間也確保了充分的空間。"
+    },
+    "words": [
+      {
+        "word": "広々",
+        "reading": "ひろひろ",
+        "note": "副詞/形容動詞，寬敞"
+      },
+      {
+        "word": "言うまでもなく",
+        "reading": "いうまでもなく",
+        "note": "慣用語，不用說、自不必說"
+      },
+      {
+        "word": "絞り込む",
+        "reading": "しぼりこむ",
+        "note": "動詞，收緊、收窄"
+      },
+      {
+        "word": "～にもかかわらず",
+        "reading": "にもかかわらず",
+        "note": "句型，儘管……"
+      },
+      {
+        "word": "確保する",
+        "reading": "かくほする",
+        "note": "動詞，確保"
+      }
+    ],
+    "context_grammar": [
+      "絞り込まれた：動詞「絞り込む」的受身形，修飾ルーフライン（車頂線條）。",
+      "～にもかかわらず：接續名詞或動詞連體形，表示逆接（儘管有前述限制，後果卻出乎意料地好）。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "02:35",
+    "japanese": "さらにバランスのとれたウェイト配分と軽量でコンパクトなボディ、軽快で俊敏なハンドリングがドラマチックな走りを実現してくれます。",
+    "furigana": "さらにバランスのとれたウェイト<ruby>配<rt>はい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>と<ruby>軽<rt>けい</rt></ruby><ruby>量<rt>りょう</rt></ruby>でコンパクトなボディ、<ruby>軽<rt>けい</rt></ruby><ruby>快<rt>かい</rt></ruby>で<ruby>俊<rt>しゅん</rt></ruby><ruby>敏<rt>びん</rt></ruby>なハンドリングがドラマチックな<ruby>走<rt>はし</rt></ruby>りを<ruby>実<rt>じっ</rt></ruby><ruby>現<rt>げん</rt></ruby>してくれます。",
+    "segmentation": "さらにバランスのとれたウェイト配分と | 軽量でコンパクトなボディ、| 軽快で俊敏なハンドリングが | ドラマチックな走りを | 実現してくれます。",
+    "translation": {
+      "natural": "此外，均衡的重量分配、輕量緊湊的車身，搭配輕快靈敏的操控性能，為您實現充滿激情與戲劇性的駕駛體驗。",
+      "literal": "更加上取得平衡的重量分配與輕量緊湊車身、輕快俊敏的操控，為我們實現戲劇性的奔馳。"
+    },
+    "words": [
+      {
+        "word": "ウェイト配分",
+        "reading": "ウェイトはいぶん",
+        "note": "名詞，配重、重量分配（Weight distribution）"
+      },
+      {
+        "word": "俊敏",
+        "reading": "しゅんびん",
+        "note": "形容動詞，敏捷、靈敏"
+      },
+      {
+        "word": "ハンドリング",
+        "reading": "ハンドリング",
+        "note": "名詞，操控性（Handling）"
+      },
+      {
+        "word": "ドラマチック",
+        "reading": "ドラマチック",
+        "note": "形容動詞，戲劇性的、引人入勝的（Dramatic）"
+      }
+    ],
+    "context_grammar": [
+      "～してくれます：授受動詞句型（動詞連用形＋てくれる），表示車輛的優異規格「為駕駛者帶來/提供」了充滿樂趣的駕馭體驗。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "02:46",
+    "japanese": "アウディA1 Sportbackのエクステリアやインテリアデザインの詳細が気になる方は、画面右上のリンクをご覧ください。",
+    "furigana": "アウディA1 Sportbackのエクステリアやインテリアデザインの<ruby>詳<rt>しょう</rt></ruby><ruby>細<rt>さい</rt></ruby>が<ruby>気<rt>き</rt></ruby>になる<ruby>方<rt>かた</rt></ruby>は、<ruby>画<rt>が</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>右<rt>みぎ</rt></ruby><ruby>上<rt>うえ</rt></ruby>のリンクをご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "アウディA1 Sportbackのエクステリアや | インテリアデザインの詳細が気になる方は、| 画面右上のリンクをご覧ください。",
+    "translation": {
+      "natural": "若想了解 Audi A1 Sportback 的外觀與內裝設計細節，請點擊畫面右上方的連結觀看。",
+      "literal": "對Audi A1 Sportback的外觀與內裝設計詳細感興趣的人，請看畫面右上方的連結。"
+    },
+    "words": [
+      {
+        "word": "エクステリア",
+        "reading": "エクステリア",
+        "note": "名詞，車身外觀（Exterior）"
+      },
+      {
+        "word": "インテリア",
+        "reading": "インテリア",
+        "note": "名詞，車室內裝（Interior）"
+      },
+      {
+        "word": "気になる",
+        "reading": "きになる",
+        "note": "慣用語，在意、感興趣"
+      }
+    ],
+    "context_grammar": [
+      "～気になる方：連體修飾，將句子「詳細が気になる」（對細節感興趣）修飾名詞「方」（人/觀眾）。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "02:55",
+    "japanese": "続いてアウディA3をご紹介します。",
+    "furigana": "<ruby>続<rt>つづ</rt></ruby>いてアウディA3をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>します。",
+    "segmentation": "続いて | アウディA3をご紹介します。",
+    "translation": {
+      "natural": "接下來為您介紹 Audi A3。",
+      "literal": "緊接著介紹Audi A3。"
+    },
+    "words": [
+      {
+        "word": "続いて",
+        "reading": "つづいて",
+        "note": "副詞/動詞連用形，接下來、緊接著"
+      }
+    ],
+    "context_grammar": [
+      "続いて：動詞「続く」的 て 形，轉化為副詞功能，常用於節目或簡報中切換下一個主題。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "02:59",
+    "japanese": "アウディA3ではハッチバックタイプのアウディA3 Sportback、セダンタイプのアウディA3 Sedanの2つのモデルが設定されています。",
+    "furigana": "アウディA3ではハッチバックタイプのアウディA3 Sportback、セダンタイプのアウディA3 Sedanの2つのモデルが<ruby>設<rt>せっ</rt></ruby><ruby>定<rt>てい</rt></ruby>されています。",
+    "segmentation": "アウディA3では | ハッチバックタイプのアウディA3 Sportback、| セダンタイプのアウディA3 Sedanの | 2つのモデルが設定されています。",
+    "translation": {
+      "natural": "Audi A3 系列推出了掀背車款 Audi A3 Sportback 以及房車車款 Audi A3 Sedan 兩種車型供選擇。",
+      "literal": "在Audi A3，掀背類型的Audi A3 Sportback、房車類型的Audi A3 Sedan這2個模型被設定著。"
+    },
+    "words": [
+      {
+        "word": "ハッチバック",
+        "reading": "ハッチバック",
+        "note": "名詞，掀背車（Hatchback）"
+      },
+      {
+        "word": "セダン",
+        "reading": "セダン",
+        "note": "名詞，轎車/房車（Sedan）"
+      },
+      {
+        "word": "設定する",
+        "reading": "せっていする",
+        "note": "動詞，設定、配置（在車款陣容中特指「提供該車型規格」）"
+      }
+    ],
+    "context_grammar": [
+      "設定されています：設定する ＋ 受身形（設定される）＋ ている（狀態持續）。日文商業介紹中常用受身形表達「原廠產品線提供/配置了……」。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "03:10",
+    "japanese": "このモデルの特徴は、デザイン、テクノロジー、パフォーマンス、あらゆる面でのクオリティが高く、コンパクトサイズクラスを超えた上級感を備えている点です。",
+    "furigana": "このモデルの<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>は、デザイン、テクノロジー、パフォーマンス、あらゆる<ruby>面<rt>めん</rt></ruby>でのクオリティが<ruby>高<rt>たか</rt></ruby>く、コンパクトサイズクラスを<ruby>超<rt>こ</rt></ruby>えた<ruby>上<rt>じょう</rt></ruby><ruby>級<rt>きゅう</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えている<ruby>点<rt>てん</rt></ruby>です。",
+    "segmentation": "このモデルの特徴は、| デザイン、| テクノロジー、| パフォーマンス、| あらゆる面でのクオリティが高く、| コンパクトサイズクラスを超えた | 上級感を備えている点です。",
+    "translation": {
+      "natural": "該車型的特徵在於：無論在設計、科技還是性能等各方面都擁有高品質，具備超越緊湊型車級距的奢華高級感。",
+      "literal": "這個模型的特徵是，設計、科技、性能，所有面向的品質都很高，具備超越緊湊車身等級的上級感的點。"
+    },
+    "words": [
+      {
+        "word": "あらゆる",
+        "reading": "あらゆる",
+        "note": "連体詞，所有、各個"
+      },
+      {
+        "word": "超える",
+        "reading": "こえる",
+        "note": "動詞，超越、超過"
+      },
+      {
+        "word": "上級感",
+        "reading": "じょうきゅうかん",
+        "note": "名詞，高級感、奢華感"
+      },
+      {
+        "word": "備える",
+        "reading": "そなえる",
+        "note": "動詞，具備、擁有"
+      }
+    ],
+    "context_grammar": [
+      "クオリティが高く（中連形）：形容詞連用形，用於連接後續句，表示「品質極高，且……」。",
+      "～備えている点です：名詞化結尾「～点です」（特點在於……），常用於條理分明地歸納商品賣點。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "03:22",
+    "japanese": "デザインでは低くワイドなシングルフレームグリル、大きく角張ったエアインテークを備えたフロントバンパー、アウディ初となるサイドが内側に入り込んだデザインによって立体感が生まれ、洗練されたスポーティさが表現されています。",
+    "furigana": "デザインでは<ruby>低<rt>ひく</rt></ruby>くワイドなシングルフレームグリル、<ruby>大<rt>おお</rt></ruby>きく<ruby>角<rt>かど</rt></ruby><ruby>張<rt>ば</rt></ruby>ったエアインテークを<ruby>備<rt>そな</rt></ruby>えたフロントバンパー、アウディ<ruby>初<rt>はつ</rt></ruby>となるサイドが<ruby>内<rt>うち</rt></ruby><ruby>側<rt>がわ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>り<ruby>込<rt>こ</rt></ruby>んだデザインによって<ruby>立<rt>りっ</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>感<rt>かん</rt></ruby>が<ruby>生<rt>うま</rt></ruby>れ、<ruby>洗<rt>せん</rt></ruby><ruby>練<rt>れん</rt></ruby>されたスポーティさが<ruby>表<rt>ひょう</rt></ruby><ruby>現<rt>げん</rt></ruby>されています。",
+    "segmentation": "デザインでは | 低くワイドなシングルフレームグリル、| 大きく角張ったエアインテークを備えた | フロントバンパー、| アウディ初となる | サイドが内側に入り込んだデザインによって | 立体感が生まれ、| 洗練されたスポーティさが | 表現されています。",
+    "translation": {
+      "natural": "外觀設計上，寬扁的單體式水箱護罩、配置大型稜角進氣口的前保桿，加上 Audi 首創車側向內收攏的線條，打造出豐富的立體感，展現出洗鍊精緻的運動風格。",
+      "literal": "在設計方面，透過低且寬的單體格柵、備有大且稜角分明進氣口的在前保險桿、成為Audi首次車側向內凹入的設計，產生了立體感，洗鍊的運動感被表現著。"
+    },
+    "words": [
+      {
+        "word": "シングルフレームグリル",
+        "reading": "シングルフレームグリル",
+        "note": "名詞，單體式水箱護罩（Singleframe grille）"
+      },
+      {
+        "word": "角張る",
+        "reading": "かどばる",
+        "note": "動詞，有稜角的"
+      },
+      {
+        "word": "入り込む",
+        "reading": "はいりこむ",
+        "note": "動詞，進入、凹入"
+      },
+      {
+        "word": "洗練",
+        "reading": "せんれん",
+        "note": "名詞/動詞，洗鍊、精緻"
+      }
+    ],
+    "context_grammar": [
+      "アウディ初となる：名詞＋格助詞（と）＋動詞（なる），修飾後方的「デザイン」，表示「成為 Audi 品牌的首創……」。",
+      "～によって：表示原因或手段（透過……設計，從而誕生了立體感）。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "03:39",
+    "japanese": "テクノロジーではハイエンドモデルと同じ最新のインフォテインメントシステムが採用され、また、コンパクトでシンプルなデザインのシフトレバーなど、アウディの先進性を見て取ることができます。",
+    "furigana": "テクノロジーではハイエンドモデルと<ruby>同<rt>おな</rt></ruby>じ<ruby>最<rt>さい</rt></ruby><ruby>新<rt>しん</rt></ruby>のインフォテインメントシステムが<ruby>採<rt>さい</rt></ruby><ruby>用<rt>よう</rt></ruby>され、また、コンパクトでシンプルなデザインのシフトレバーなど、アウディの<ruby>先<rt>せん</rt></ruby><ruby>進<rt>しん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>取<rt>と</rt></ruby>ることができます。",
+    "segmentation": "テクノロジーでは | ハイエンドモデルと同じ | 最新のインフォテインメントシステムが採用され、| また、| コンパクトでシンプルなデザインのシフトレバーなど、| アウディの先進性を | 見て取ることができます。",
+    "translation": {
+      "natural": "科技配備方面，採用了與旗艦車型相同的最新資訊娛樂系統，加上精緻簡約的排檔桿設計，無不展現出 Audi 的前瞻科技感。",
+      "literal": "在科技方面採用了與高端模型相同的最新資訊娛樂系統，此外，緊湊且簡潔設計的排檔桿等，可以觀察出Audi的前進性。"
+    },
+    "words": [
+      {
+        "word": "インフォテインメントシステム",
+        "reading": "インフォテインメントシステム",
+        "note": "名詞，資訊娛樂系統（Infotainment system）"
+      },
+      {
+        "word": "シフトレバー",
+        "reading": "シフトレバー",
+        "note": "名詞，排檔桿（Shift lever）"
+      },
+      {
+        "word": "見て取る",
+        "reading": "みてとる",
+        "note": "動詞，看出、察覺、體會"
+      }
+    ],
+    "context_grammar": [
+      "～を見て取ることができます：動詞連體形＋こと＋ができる（能力/可能性）。慣用語「看出來/體會到」，常出現在評論或鑑賞類宣傳片中。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "03:53",
+    "japanese": "1リッター TFSI エンジンモデルでは、アウディのコンパクトサイズでは初となる 48V マイルドハイブリッドシステムが搭載されています。",
+    "furigana": "1リッター TFSI エンジンモデルでは、アウディのコンパクトサイズでは<ruby>初<rt>はつ</rt></ruby>となる 48V マイルドハイブリッドシステムが<ruby>搭<rt>とう</rt></ruby><ruby>載<rt>さい</rt></ruby>されています。",
+    "segmentation": "1リッター TFSI エンジンモデルでは、| アウディのコンパクトサイズでは初となる | 48V マイルドハイブリッドシステムが | 搭載されています。",
+    "translation": {
+      "natural": "在 1.0升 TFSI 引擎車型上，更是配備了 Audi 緊湊型車款中首見的 48V 輕油電混合動力系統。",
+      "literal": "在1公升TFSI引擎模型， Audi的緊湊尺寸中成為首次的48V輕混合動力系統被搭載著。"
+    },
+    "words": [
+      {
+        "word": "マイルドハイブリッドシステム",
+        "reading": "マイルドハイブリッドシステム",
+        "note": "名詞，輕油電混合動力系統（Mild hybrid system）"
+      },
+      {
+        "word": "搭載する",
+        "reading": "とうさいする",
+        "note": "動詞，搭載、裝載"
+      }
+    ],
+    "context_grammar": [
+      "搭載されています：動詞「搭載する」的受身持續態（受身形＋ている），客觀強調車款配備了該項科技。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "04:02",
+    "japanese": "減速時やブレーキング時に回生したエネルギーを活用することでエンジンをアシスト、発進に移る際には非常に滑らかで気持ちの良い加速フィールを味わうことができます。",
+    "furigana": "<ruby>減<rt>げん</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>時<rt>じ</rt></ruby>やブレーキング<ruby>時<rt>じ</rt></ruby>に<ruby>回<rt>かい</rt></ruby><ruby>生<rt>せい</rt></ruby>したエネルギーを<ruby>活<rt>かつ</rt></ruby><ruby>用<rt>よう</rt></ruby>することでエンジンをアシスト、<ruby>発<rt>はっ</rt></ruby><ruby>進<rt>しん</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>る<ruby>際<rt>さい</rt></ruby>には<ruby>非<rt>ひ</rt></ruby><ruby>常<rt>じょう</rt></ruby>に<ruby>滑<rt>なめ</rt></ruby>らかで<ruby>気<rt>き</rt></ruby><ruby>持<rt>も</rt></ruby>ちの<ruby>良<rt>よ</rt></ruby>い<ruby>加<rt>か</rt></ruby><ruby>速<rt>そく</rt></ruby>フィールを<ruby>味<rt>あじ</rt></ruby>わうことができます。",
+    "segmentation": "減速時やブレーキング時に | 回生したエネルギーを活用することで | エンジンをアシスト、| 発進に移る際には | 非常に滑らかで気持ちの良い | 加速フィールを | 味わうことができます。",
+    "translation": {
+      "natural": "透過善用減速與煞車時回收的能量來輔助引擎運作，起步時能帶給您極為平順且暢快的加速體感。",
+      "literal": "透過活用在減速時與煞車時回收的能量來輔助引擎，在轉移至起步時，可以品嚐到非常平滑且心情好的加速感覺。"
+    },
+    "words": [
+      {
+        "word": "回生する",
+        "reading": "かいせいする",
+        "note": "動詞，（能量）回收、動能回充"
+      },
+      {
+        "word": "アシスト",
+        "reading": "アシスト",
+        "note": "名詞/動詞，輔助（Assist）"
+      },
+      {
+        "word": "発進",
+        "reading": "はっしん",
+        "note": "名詞/動詞，起步、出發"
+      },
+      {
+        "word": "加速フィール",
+        "reading": "かそくフィール",
+        "note": "名詞，加速體感/體感感受（Accelerating feel）"
+      },
+      {
+        "word": "味わう",
+        "reading": "あじわう",
+        "note": "動詞，品嚐、體驗"
+      }
+    ],
+    "context_grammar": [
+      "活用することで：名詞化（活用すること）＋格助詞（で），表示手段方法（「透過活用回收能量……」）。",
+      "発進に移る際には：動詞連體形＋際（さい）＋に＋は，用於強調特定的駕駛時機（當車輛進行起步時）。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "04:18",
+    "japanese": "アウディA3 Sportback、アウディA3 Sedanについては別の動画で詳しくご紹介しておりますので、ご興味のある方はぜひチェックしてみてください。",
+    "furigana": "アウディA3 Sportback、アウディA3 Sedanについては<ruby>別<rt>べつ</rt></ruby>の<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>で<ruby>詳<rt>くわ</rt></ruby>しくご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>しておりますので、ご<ruby>興<rt>きょう</rt></ruby><ruby>味<rt>み</rt></ruby>のある<ruby>方<rt>かた</rt></ruby>はぜひチェックしてみてください。",
+    "segmentation": "アウディA3 Sportback、| アウディA3 Sedanについては | 別の動画で詳しく | ご紹介しておりますので、| ご興味のある方は | ぜひチェックしてみてください。",
+    "translation": {
+      "natural": "關於 Audi A3 Sportback 與 Audi A3 Sedan，我們在另一支影片有更詳細的介紹，感興趣的朋友不妨點擊看看喔！",
+      "literal": "關於Audi A3 Sportback、Audi A3 Sedan，因為在別的影片詳細地介紹著，有興趣的人請務必檢查嘗試看看。"
+    },
+    "words": [
+      {
+        "word": "～について",
+        "reading": "について",
+        "note": "句型，關於……"
+      },
+      {
+        "word": "ご紹介する",
+        "reading": "ごしょうかいする",
+        "note": "動詞，介紹（謙讓表達為ご紹介しております）"
+      },
+      {
+        "word": "チェックする",
+        "reading": "チェックする",
+        "note": "動詞，點擊觀看、確認（Check）"
+      }
+    ],
+    "context_grammar": [
+      "ご＋紹介＋しております：謙讓語句型（ご＋サ變動詞詞幹＋おります，為「～している」的謙讓態），對觀眾展現誠懇謙遜。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "04:31",
+    "japanese": "次にアウディA4をご紹介します。",
+    "furigana": "<ruby>次<rt>つぎ</rt></ruby>にアウディA4をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>します。",
+    "segmentation": "次に | アウディA4をご紹介します。",
+    "translation": {
+      "natural": "接下來為您介紹 Audi A4。",
+      "literal": "次之介紹Audi A4。"
+    },
+    "words": [
+      {
+        "word": "次に",
+        "reading": "つぎに",
+        "note": "副詞，接下來"
+      }
+    ],
+    "context_grammar": [
+      "簡潔的過渡句，引導觀眾進入下一個產品段落。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "04:35",
+    "japanese": "アウディA4はセダンタイプであるアウディA4と、ワゴンタイプであるアウディA4 Avantがラインナップされています。",
+    "furigana": "アウディA4はセダンタイプであるアウディA4と、ワゴンタイプであるアウディA4 Avantがラインナップされています。",
+    "segmentation": "アウディA4は | セダンタイプであるアウディA4と、| ワゴンタイプであるアウディA4 Avantが | ラインナップされています。",
+    "translation": {
+      "natural": "Audi A4 車系包含房車車型的 Audi A4，以及旅行車型的 Audi A4 Avant。",
+      "literal": "Audi A4是作為房車類型的Audi A4，與作為旅行車類型的Audi A4 Avant被列入陣容。"
+    },
+    "words": [
+      {
+        "word": "ワゴン",
+        "reading": "ワゴン",
+        "note": "名詞，旅行車（Station wagon）"
+      },
+      {
+        "word": "ラインナップ",
+        "reading": "ラインナップ",
+        "note": "名詞/動詞，產品陣容（Lineup）"
+      }
+    ],
+    "context_grammar": [
+      "～である：斷定助動詞「だ」的正式連體形，用於修飾車款名稱（作為房車車型的 Audi A4）。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "04:46",
+    "japanese": "また、オフロードも想定したアウディA4 allroad quattroモデルが発売されています。",
+    "furigana": "また、オフロードも<ruby>想<rt>そう</rt></ruby><ruby>定<rt>てい</rt></ruby>したアウディA4 allroad quattroモデルが<ruby>発<rt>はつ</rt></ruby><ruby>売<rt>ばい</rt></ruby>されています。",
+    "segmentation": "また、| オフロードも想定した | アウディA4 allroad quattroモデルが | 発売されています。",
+    "translation": {
+      "natural": "此外，專為越野路況考量而設計的 Audi A4 allroad quattro 也已上市販售。",
+      "literal": "此外，設想了越野的Audi A4 allroad quattro模型被發售著。"
+    },
+    "words": [
+      {
+        "word": "オフロード",
+        "reading": "オフロード",
+        "note": "名詞，越野/非鋪裝路面（Off-road）"
+      },
+      {
+        "word": "想定する",
+        "reading": "そうていする",
+        "note": "動詞，設想、預先考量"
+      }
+    ],
+    "context_grammar": [
+      "想定した：動詞過去形（連體形）修飾車型，表示「已經納入越野考量所開發出的車款」。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "04:50",
+    "japanese": "このモデルの特徴は、長きにわたって人気を集めたブランドを代表するミッドサイズクラスのモデルである点です。",
+    "furigana": "このモデルの<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>きにわたって<ruby>人<rt>にん</rt></ruby><ruby>気<rt>き</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めたブランドを<ruby>代<rt>だい</rt></ruby><ruby>表<rt>ひょう</rt></ruby>するミッドサイズクラスのモデルである<ruby>点<rt>てん</rt></ruby>です。",
+    "segmentation": "このモデルの特徴は、| 長きにわたって人気を集めた | ブランドを代表する | ミッドサイズクラスのモデルである点です。",
+    "translation": {
+      "natural": "該車型的特點在於，它是長期深受歡迎、代表 Audi 品牌的經典中型級距車款。",
+      "literal": "這個模型的特徵是，跨越漫長時間聚集了人氣、代表品牌的客中型尺寸等級的模型這樣的點。"
+    },
+    "words": [
+      {
+        "word": "長きにわたって",
+        "reading": "ながきにわたって",
+        "note": "句型，長久以來、歷經漫長時間"
+      },
+      {
+        "word": "ミッドサイズクラス",
+        "reading": "ミッドサイズクラス",
+        "note": "名詞，中型級距（Mid-size class）"
+      }
+    ],
+    "context_grammar": [
+      "～にわたって：表示時間或空間的涵蓋範圍廣闊（長年以來）。",
+      "代表する：連體形修飾名詞「ミッドサイズクラスのモデル」。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "04:59",
+    "japanese": "デザイン、走行性能、先進性のすべてにおいてアウディの魅力を持ち合わせています。",
+    "furigana": "デザイン、<ruby>走<rt>そう</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>能<rt>のう</rt></ruby>、<ruby>先<rt>せん</rt></ruby><ruby>進<rt>しん</rt></ruby><ruby>性<rt>せい</rt></ruby>のすべてにおいてアウディの<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせています。",
+    "segmentation": "デザイン、| 走行性能、| 先進性のすべてにおいて | アウディの魅力を持ち合わせています。",
+    "translation": {
+      "natural": "不論是造型設計、駕馭性能還是前瞻科技，它全方位兼備了 Audi 的核心魅力。",
+      "literal": "在設計、走行性能、先進性的全部之中，兼具著Audi的魅力。"
+    },
+    "words": [
+      {
+        "word": "～において",
+        "reading": "において",
+        "note": "句型，在……方面"
+      },
+      {
+        "word": "持ち合わせる",
+        "reading": "もちあわせる",
+        "note": "動詞，兼備、同時擁有"
+      }
+    ],
+    "context_grammar": [
+      "～のすべてにおいて：接續名詞，強調在列舉的所有面向中（設計、性能、科技）無一例外。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "05:08",
+    "japanese": "ワイド＆ローの精悍な顔つきをはじめ、美しいデザインにもかかわらず機能性にも優れているのが魅力の一つです。",
+    "furigana": "ワイド＆ローの<ruby>精<rt>せい</rt></ruby><ruby>悍<rt>かん</rt></ruby>な<ruby>顔<rt>かお</rt></ruby>つきをはじめ、<ruby>美<rt>うつく</rt></ruby>しいデザインにもかかわらず<ruby>機<rt>き</rt></ruby><ruby>能<rt>のう</rt></ruby><ruby>性<rt>せい</rt></ruby>にも<ruby>優<rt>ぐん</rt></ruby>れているのが<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。",
+    "segmentation": "ワイド＆ローの精悍な顔つきをはじめ、| 美しいデザインにもかかわらず | 機能性にも優れているのが | 魅力の一つです。",
+    "translation": {
+      "natural": "以寬矮霸氣的精悍前臉為首，儘管擁有優雅迷人的外型設計，卻依然兼具卓越實用性，這正是其魅力所在。",
+      "literal": "以寬且低的精悍臉龐為首，儘管是美麗的設計，在機能性上也卓越這點是魅力之一。"
+    },
+    "words": [
+      {
+        "word": "ワイド＆ロー",
+        "reading": "ワイドアンドロー",
+        "note": "形容語，低寬平穩的比例（Wide & Low）"
+      },
+      {
+        "word": "精悍",
+        "reading": "せいかん",
+        "note": "形容動詞，精悍、霸氣"
+      },
+      {
+        "word": "顔つき",
+        "reading": "かおつき",
+        "note": "名詞，車頭表情、前臉造型"
+      },
+      {
+        "word": "優れる",
+        "reading": "すぐれる",
+        "note": "動詞，卓越、優秀"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋をはじめ：表示「以……為代表/首要例子」。",
+      "優れているのが：動詞連體形＋の（名詞化）＋が（主格），將「功能性極佳」這件事名詞化作為句子的核心魅力點。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "05:17",
+    "japanese": "ワゴンタイプであるアウディA4 Avantでは、優れたパッケージングによる広々とした空間を備え、マルチユースな魅力を両立しています。",
+    "furigana": "ワゴンタイプであるアウディA4 Avantでは、<ruby>優<rt>ぐん</rt></ruby>れたパッケージングによる<ruby>広<rt>ひろ</rt></ruby>々とした<ruby>空<rt>くう</rt></ruby><ruby>間<rt>かん</rt></ruby>を<ruby>備<rt>そな</rt></ruby>え、マルチユースな<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>両<rt>りょう</rt></ruby><ruby>立<rt>りつ</rt></ruby>しています。",
+    "segmentation": "ワゴンタイプであるアウディA4 Avantでは、| 優れたパッケージングによる | 広々とした空間を備え、| マルチユースな魅力を | 両立しています。",
+    "translation": {
+      "natural": "作為旅行車款的 Audi A4 Avant，得益於出色的空間佈局而擁有寬廣車室，完美融合了多元用途的實用魅力。",
+      "literal": "在作為旅行車類型的Audi A4 Avant，具備由優異封裝所帶來的寬廣空間，並立著多用途的魅力。"
+    },
+    "words": [
+      {
+        "word": "パッケージング",
+        "reading": "パッケージング",
+        "note": "名詞，空間封裝/佈局（Packaging）"
+      },
+      {
+        "word": "マルチユース",
+        "reading": "マルチユース",
+        "note": "形容動詞/名詞，多用途的（Multi-use）"
+      },
+      {
+        "word": "両立する",
+        "reading": "りょうりつする",
+        "note": "動詞，兼顧、兩全"
+      }
+    ],
+    "context_grammar": [
+      "～による：接續名詞，表示原因或手段（「源自於出色空間佈局的寬廣空間」）。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "05:27",
+    "japanese": "アウディA4以上のクラスからは、力強いトルクフルな動力性能と卓越した燃費効率と静粛性、経済性を同時に兼ね備えた TDI エンジンがラインナップされています。",
+    "furigana": "アウディA4<ruby>以<rt>い</rt></ruby><ruby>上<rt>じょう</rt></ruby>のクラスからは、<ruby>力<rt>ちから</rt></ruby><ruby>強<rt>つよ</rt></ruby>いトルクフルな<ruby>動<rt>どう</rt></ruby><ruby>力<rt>りょく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>能<rt>のう</rt></ruby>と<ruby>卓<rt>たく</rt></ruby><ruby>越<rt>えつ</rt></ruby>した<ruby>燃<rt>ねん</rt></ruby><ruby>費<rt>ひ</rt></ruby><ruby>效<rt>こう</rt></ruby><ruby>率<rt>りつ</rt></ruby>と<ruby>静<rt>せい</rt></ruby><ruby>粛<rt>しゅく</rt></ruby><ruby>性<rt>せい</rt></ruby>、<ruby>経<rt>けい</rt></ruby><ruby>済<rt>ざい</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>同<rt>どう</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>兼<rt>かね</rt></ruby>ね<ruby>備<rt>そな</rt></ruby>えた TDI エンジンがラインナップされています。",
+    "segmentation": "アウディA4以上のクラスからは、| 力強いトルクフルな動力性能と | 卓越した燃費効率と静粛性、| 経済性を同時に兼ね備えた | TDI エンジンが | ラインナップされています。",
+    "translation": {
+      "natural": "從 Audi A4 起的高階車系中，皆提供了 TDI 柴油引擎選項，同時兼具強勁充沛的扭力性能、出色的省油效率、寧靜度與經濟效益。",
+      "literal": "從Audi A4以上的等級開始，同時兼具強大扭力充滿的動力性能與卓越的燃料效率、靜肅性、經濟性的TDI引擎被列入陣容。"
+    },
+    "words": [
+      {
+        "word": "トルクフル",
+        "reading": "トルクフル",
+        "note": "形容動詞，扭力充沛的（Torqueful）"
+      },
+      {
+        "word": "静粛性",
+        "reading": "せいしゅくせい",
+        "note": "名詞，車室靜肅性/隔音性"
+      },
+      {
+        "word": "TDI",
+        "reading": "ティーディーアイ",
+        "note": "專有名詞，Audi 的柴油直噴渦輪引擎（Turbocharged Direct Injection）"
+      },
+      {
+        "word": "兼ね備える",
+        "reading": "かねそなえる",
+        "note": "動詞，同時兼備"
+      }
+    ],
+    "context_grammar": [
+      "兼ね備えた：動詞過去形（連體形），修飾「TDI エンジン」，表示「兼具多項頂級性能優點的 TDI 引擎」。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "05:42",
+    "japanese": "低回転域のまま高速走行を可能とするため、長い航続距離を実現。また効率的な燃焼により燃料消費を抑え、優れた燃費を達成しています。",
+    "furigana": "<ruby>低<rt>てい</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>転<rt>てん</rt></ruby><ruby>域<rt>いき</rt></ruby>のまま<ruby>高<rt>こう</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>走<rt>そう</rt></ruby><ruby>行<rt>こう</rt></ruby>を<ruby>可<rt>か</rt></ruby><ruby>能<rt>のう</rt></ruby>とするため、<ruby>長<rt>なが</rt></ruby>い<ruby>航<rt>こう</rt></ruby><ruby>続<rt>ぞく</rt></ruby><ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>実<rt>じっ</rt></ruby><ruby>現<rt>げん</rt></ruby>。<ruby>大<rt>おお</rt></ruby>きく<ruby>效<rt>こう</rt></ruby><ruby>率<rt>りつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>燃<rt>ねん</rt></ruby><ruby>焼<rt>しょう</rt></ruby>により<ruby>燃<rt>ねん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>消<rt>しょう</rt></ruby><ruby>費<rt>ひ</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>え、<ruby>優<rt>ぐん</rt></ruby>れた<ruby>燃<rt>ねん</rt></ruby><ruby>費<rt>ひ</rt></ruby>を<ruby>達<rt>たっ</rt></ruby><ruby>成<rt>せい</rt></ruby>しています。",
+    "segmentation": "低回転域のまま | 高速走行を可能とするため、| 長い航続距離を実現。| また効率的な燃焼により | 燃料消費を抑え、| 優れた燃費を達成しています。",
+    "translation": {
+      "natural": "由於能維持低轉速進行高速巡航，因而實現了極長的續航距離。此外，高效率的燃燒技術降低了油耗，達成優異的油耗表現。",
+      "literal": "為了使維持低轉速域的高速巡航成為可能，實現了長的航續距離。此外藉由高效的燃燒抑制燃料消費，達成著優異油耗。"
+    },
+    "words": [
+      {
+        "word": "低回転域",
+        "reading": "ていかいてんいき",
+        "note": "名詞，低轉速域"
+      },
+      {
+        "word": "航続距離",
+        "reading": "こうぞくきょり",
+        "note": "名詞，巡航/續航距離"
+      },
+      {
+        "word": "燃焼",
+        "reading": "ねんしょう",
+        "note": "名詞/動詞，燃燒"
+      },
+      {
+        "word": "抑える",
+        "reading": "おさえる",
+        "note": "動詞，壓低、抑制"
+      }
+    ],
+    "context_grammar": [
+      "～を可能とするため：動詞連體形＋ため（目的/原因），表示「為了使高速巡航成為可能」。",
+      "燃焼により：名詞＋により，表示原因或手段（「得益於高效燃燒」）。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "05:56",
+    "japanese": "アウディA4、アウディA4 Avantで昼と夜で異なるアウディの魅力をご紹介しておりますので、こちらもぜひご覧ください。",
+    "furigana": "アウディA4、アウディA4 Avantで<ruby>昼<rt>ひる</rt></ruby>と<ruby>夜<rt>よる</rt></ruby>で<ruby>異<rt>こと</rt></ruby>なるアウディの<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>しておりますので、こちらもぜひご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "アウディA4、| アウディA4 Avantで | 昼と夜で異なる | アウディの魅力をご紹介しておりますので、| こちらもぜひご覧ください。",
+    "translation": {
+      "natural": "我們也在相關影片中介紹了 Audi A4 及 A4 Avant 白天與夜晚各具特色的風采，敬請一併觀看！",
+      "literal": "在Audi A4、Audi A4 Avant介紹著晝與夜不同的Audi魅力，這邊也請務必觀看。"
+    },
+    "words": [
+      {
+        "word": "昼と夜",
+        "reading": "ひるとよる",
+        "note": "名詞，白晝與夜晚"
+      }
+    ],
+    "context_grammar": [
+      "昼と夜で異なる：格助詞「で」表示範圍或基準，修飾「アウディの魅力」（在晝夜不同情境下展現的魅力）。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "06:08",
+    "japanese": "次にアウディA5をご紹介します。",
+    "furigana": "<ruby>次<rt>つぎ</rt></ruby>にアウディA5をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>します。",
+    "segmentation": "次に | アウディA5をご紹介します。",
+    "translation": {
+      "natural": "接下來為您介紹 Audi A5。",
+      "literal": "次之介紹Audi A5。"
+    },
+    "words": [
+      {
+        "word": "次に",
+        "reading": "つぎに",
+        "note": "副詞，接下來"
+      }
+    ],
+    "context_grammar": [
+      "銜接下一段車型的介紹用語。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "06:11",
+    "japanese": "アウディA5はアウディA5 Coupé、アウディA5 Sportbackの2種類のモデルが発売されています。",
+    "furigana": "アウディA5はアウディA5 Coupé、アウディA5 Sportbackの2<ruby>種<rt>しゅ</rt></ruby><ruby>類<rt>るい</rt></ruby>のモデルが<ruby>発<rt>はつ</rt></ruby><ruby>売<rt>ばい</rt></ruby>されています。",
+    "segmentation": "アウディA5は | アウディA5 Coupé、| アウディA5 Sportbackの | 2種類のモデルが発売されています。",
+    "translation": {
+      "natural": "Audi A5 共推出 Audi A5 Coupé 與 Audi A5 Sportback 兩種車型款式。",
+      "literal": "Audi A5發售著Audi A5 Coupé、Audi A5 Sportback這2種類型的模型。"
+    },
+    "words": [
+      {
+        "word": "Coupé",
+        "reading": "クーペ",
+        "note": "名詞，雙門轎跑車（Coupé）"
+      },
+      {
+        "word": "種類",
+        "reading": "しゅるい",
+        "note": "名詞，種類"
+      }
+    ],
+    "context_grammar": [
+      "発売されています：動詞「発売する」的受身持續態，表示公開上市販售狀態。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "06:20",
+    "japanese": "このモデルの特徴は、美しいクーペスタイルでありながらも実用性が兼ね備えられている点です。",
+    "furigana": "このモデルの<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>は、<ruby>美<rt>うつく</rt></ruby>しいクーペスタイルでありながらも<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>兼<rt>かね</rt></ruby>ね<ruby>備<rt>そな</rt></ruby>えられている<ruby>点<rt>てん</rt></ruby>です。",
+    "segmentation": "このモデルの特徴は、| 美しいクーペスタイルでありながらも | 実用性が兼ね備えられている点です。",
+    "translation": {
+      "natural": "該車款的特徵在於：雖然擁有絕美的 Coupe 轎跑造型，卻同時兼備了高度的日常實用性。",
+      "literal": "這個模型的特徵是，雖然是美麗的雙門轎跑造型，實用性也被兼備著的點。"
+    },
+    "words": [
+      {
+        "word": "～でありながら",
+        "reading": "でありながら",
+        "note": "句型，雖然是……卻……"
+      },
+      {
+        "word": "実用性",
+        "reading": "じつようせい",
+        "note": "名詞，實用性"
+      }
+    ],
+    "context_grammar": [
+      "～でありながらも：斷定「である」＋逆接「ながら」＋強調「も」，突出「帥氣流線造型與日常實用性」兩者並存的極佳賣點。",
+      "兼ね備えられている：動詞「兼ね備える」的受身態連體形，用於強調車輛整體被賦予了實用機能。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "06:29",
+    "japanese": "アウディA5の人気の一つであるデザインは、美しく張り出し柔らかな波のようにうねるサイドラインと、ゆったりと弧を描く流れるような美しいルーフラインがエレガントでスポーティな印象を与えてくれます。",
+    "furigana": "アウディA5の<ruby>人<rt>にん</rt></ruby><ruby>気<rt>き</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つであるデザインは、<ruby>美<rt>うつく</rt></ruby>しく<ruby>張<rt>は</rt></ruby>り<ruby>出<rt>だ</rt></ruby>し<ruby>柔<rt>やわ</rt></ruby>らかにうねるサイドラインと、ゆったりと<ruby>弧<rt>こ</rt></rubyを<ruby>描<rt>えが</rt></ruby>く<ruby>流<rt>なが</rt></ruby>れるような<ruby>美<rt>うつく</rt></ruby>しいルーフラインがエレガントでスポーティな<ruby>印<rt>いん</rt></ruby><ruby>象<rt>しょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてくれます。",
+    "segmentation": "アウディA5の人気の概念であるデザインは、| 美しく張り出し | 柔らかな波のようにうねるサイドラインと、| ゆったりと弧を描く | 流れるような美しいルーフラインが | エレガントでスポーティな印象を | 与えてくれます。",
+    "translation": {
+      "natural": "作為 Audi A5 最受喜愛的元素之一——外觀設計，其張力十足且如波浪般柔美起伏的車身腰線，搭配優雅勾勒弧度的流線型車頂，營造出高雅而具運動感的視覺印象。",
+      "literal": "作為Audi A5人氣之一的設計，美妙伸展且如波浪起伏的側面線條，與悠閒描繪弧度般流暢的美麗車頂線條，給予著高雅且運動風格的印象。"
+    },
+    "words": [
+      {
+        "word": "張り出す",
+        "reading": "はりだす",
+        "note": "動詞，張出、外擴"
+      },
+      {
+        "word": "うねる",
+        "reading": "うねる",
+        "note": "動詞，起伏、彎曲"
+      },
+      {
+        "word": "弧を描く",
+        "reading": "こをえがく",
+        "note": "動詞，劃出弧線"
+      },
+      {
+        "word": "エレガント",
+        "reading": "エレガント",
+        "note": "形容動詞，優雅的（Elegant）"
+      }
+    ],
+    "context_grammar": [
+      "流れるような：形容詞修飾（流れる ＋ よう ＋ な），比喻車頂線條如流水般順暢自然。",
+      "印象を与えてくれます：授受動詞（てくれる），表達車款美學「帶給觀者」驚艷的印象與視覺享受。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "06:45",
+    "japanese": "それでいて後席でも快適に過ごすことができる居住性も十分に確保されており、リアドアとハッチゲートを備えた4ドアサルーンのフォーマル感と使いやすさに、クーペの流麗なスタイルが完璧に調和しています。",
+    "furigana": "それでいて<ruby>後<rt>こう</rt></ruby><ruby>席<rt>せき</rt></ruby>でも<ruby>快<rt>かい</rt></ruby><ruby>適<rt>てき</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごすことができる<ruby>居<rt>きょ</rt></ruby><ruby>住<rt>じゅう</rt></ruby><ruby>性<rt>せい</rt></ruby>も<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ぶん</rt></ruby>に<ruby>確<rt>かく</rt></ruby><ruby>保<rt>ほ</rt></ruby>されており、リアドアとハッチゲートを<ruby>備<rt>そな</rt></ruby>えた4ドアサルーンのフォーマル<ruby>感<rt>かん</rt></ruby>と<ruby>使<rt>つか</rt></ruby>いやすさに、クーペの<ruby>流<rt>りゅう</rt></ruby><ruby>麗<rt>れい</rt></ruby>なスタイルが<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>に<ruby>調<rt>ちょう</rt></ruby><ruby>和<rt>わ</rt></ruby>しています。",
+    "segmentation": "それでいて | 後席でも快適に過ごすことができる | 居住性も十分に確保されており、| リアドアとハッチゲートを備えた | 4ドアサルーンのフォーマル感と使いやすさに、| クーペの流麗なスタイルが | 完璧に調和しています。",
+    "translation": {
+      "natural": "儘管如此，後座依然確保了極佳的乘坐舒適度。擁有後門與斜背尾門的四門轎跑兼具正式感與便利性，與 Coupe 的流線美感達成完美和諧。",
+      "literal": "即便如此，在後座也能舒適度過的居住性也被充分確保著，在備有後門與掀背尾門的4門房車的正式感與易用性中，雙門轎跑的流麗造型完美地調和著。"
+    },
+    "words": [
+      {
+        "word": "それでいて",
+        "reading": "それでいて",
+        "note": "接續詞，儘管如此、話雖如此"
+      },
+      {
+        "word": "居住性",
+        "reading": "きょじゅうせい",
+        "note": "名詞，車室乘坐舒適性/空間感"
+      },
+      {
+        "word": "サルーン",
+        "reading": "サルーン",
+        "note": "名詞，轎車/房車（Saloon）"
+      },
+      {
+        "word": "流麗",
+        "reading": "りゅうれい",
+        "note": "形容動詞，流暢優美"
+      },
+      {
+        "word": "調和する",
+        "reading": "ちょうわする",
+        "note": "動詞，調和、融為一體"
+      }
+    ],
+    "context_grammar": [
+      "過ごすことができる：動詞連體形＋こと＋ができる，表達「能舒適度過時間」。",
+      "～に……が調和しています：格助詞「に」標示調和的對象基準（在四門房車的實用性上，完美融入了雙門轎跑的美感）。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "07:00",
+    "japanese": "また広大な開口部を備えた美しく開閉する斜めタイプのテールゲートによって、荷物の出入れも容易に行うことができ、たくさんの荷物も余裕を持って積み込めます。",
+    "furigana": "また<ruby>広<rt>こう</rt></ruby><ruby>大<rt>だい</rt></ruby>な<ruby>開<rt>かい</rt></ruby><ruby>口<rt>こう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>を<ruby>備<rt>そな</rt></ruby>えた<ruby>美<rt>うつく</rt></ruby>しく<ruby>開<rt>かい</rt></ruby><ruby>閉<rt>へい</rt></ruby>する<ruby>斜<rt>なな</rt></ruby>めタイプのテールゲートによって、<ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>の<ruby>出<rt>で</rt></ruby><ruby>入<rt>い</rt></ruby>れも<ruby>容<rt>よう</rt></ruby><ruby>易<rt>い</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>うことができ、たくさんの<ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>も<ruby>余<rt>よ</rt></ruby><ruby>裕<rt>ゆう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>積<rt>つ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>めます。",
+    "segmentation": "また広大な開口部を備えた | 美しく開閉する斜めタイプのテールゲートによって、| 荷物の出入れも容易に行うことができ、| たくさんの荷物も | 余裕を持って | 積み込めます。",
+    "translation": {
+      "natural": "此外，寬敞的大開口斜背式尾門作動優雅，讓取放行李變得輕而易舉，大件行李也能輕鬆裝載。",
+      "literal": "此外透過備有廣大開口部且美麗開閉的傾斜類型尾門，行李的拿取也能容易地進行，許多行李也能帶有餘裕地裝載進去。"
+    },
+    "words": [
+      {
+        "word": "開口部",
+        "reading": "かいこうぶ",
+        "note": "名詞，開口處"
+      },
+      {
+        "word": "テールゲート",
+        "reading": "テールゲート",
+        "note": "名詞，尾門（Tailgate）"
+      },
+      {
+        "word": "出入れ",
+        "reading": "でいれ",
+        "note": "名詞，進出、裝卸拿取"
+      },
+      {
+        "word": "積み込む",
+        "reading": "つみこむ",
+        "note": "動詞，裝載、裝入（可能形為積み込める）"
+      }
+    ],
+    "context_grammar": [
+      "～によって：表示原因或途徑（「得益於開口寬敞的尾門」）。",
+      "積み込めます：動詞「積み込む」的可能形，表達「能夠輕鬆裝載大量行李」的優良空間機能。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "07:15",
+    "japanese": "このように美しさと実用性の高さを両立しているのも、アウディA5の魅力の一つです。",
+    "furigana": "このように<ruby>美<rt>うつく</rt></ruby>しさと<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<ruby>両<rt>りょう</rt></ruby><ruby>立<rt>りつ</rt></ruby>しているのも、アウディA5の<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。",
+    "segmentation": "このように | 美しさと実用性の高さを両立しているのも、| アウディA5の魅力の一つです。",
+    "translation": {
+      "natural": "像這樣將高顏值美感與絕佳實用性兼收並蓄，正是 Audi A5 的核心魅力之一。",
+      "literal": "像這樣並立著美感與高實用性這點，也是Audi A5的魅力之一。"
+    },
+    "words": [
+      {
+        "word": "このように",
+        "reading": "このように",
+        "note": "副詞，像這樣、如此"
+      },
+      {
+        "word": "～さ",
+        "reading": "さ",
+        "note": "後綴，將形容詞名詞化（美しさ、高さ）"
+      }
+    ],
+    "context_grammar": [
+      "美しさ / 高さ：接尾詞「さ」接在形容詞詞幹後，轉化為抽象名詞（「美感」與「高度」）。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "07:23",
+    "japanese": "美しいスタイリングと実用性の高さを実感いただけるアウディA5的新モデルと、従来モデルを比較した動画もご用意しておりますので、ぜひご覧ください。",
+    "furigana": "<ruby>美<rt>うつく</rt></ruby>しいスタイリングと<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<ruby>実<rt>じっ</rt></ruby><ruby>感<rt>かん</rt></ruby>いただけるアウディA5の<ruby>新<rt>しん</rt></ruby>モデルと、<ruby>従<rt>じゅう</rt></ruby><ruby>来<rt>らい</rt></ruby>モデルを<ruby>比<rt>ひ</rt></ruby><ruby>較<rt>かく</rt></ruby>した<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>もご<ruby>用<rt>よう</rt></ruby><ruby>意<rt>い</rt></ruby>しておりますので、ぜひご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "美しいスタイリングと | 実用性の高さを実感いただける | アウディA5的新モデルと、| 従来モデルを比較した動画も | ご用意しておりますので、| ぜひご覧ください。",
+    "translation": {
+      "natural": "我們也準備了 Audi A5 新舊款式的對比影片，能讓您切身感受其美型設計與優異實用性，歡迎觀看！",
+      "literal": "能實感美妙造型與高實用性的Audi A5新模型與傳統模型比較了的影片也準備著，請務必觀看。"
+    },
+    "words": [
+      {
+        "word": "実感する",
+        "reading": "じっかんする",
+        "note": "動詞，切身感受、實感（謙讓/謙敬為実感いただく）"
+      },
+      {
+        "word": "従来",
+        "reading": "じゅうらい",
+        "note": "名詞，以往的、過往的"
+      },
+      {
+        "word": "用意する",
+        "reading": "よういする",
+        "note": "動詞，準備（謙讓語為ご用意しております）"
+      }
+    ],
+    "context_grammar": [
+      "～実感いただける：謙讓授受表現（実感する ＋ いただく 的可能形），修飾「新モデル」，意為「能讓貴賓您切身感受到的車型」。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "07:37",
+    "japanese": "それではここから、アウディが誇るハイエンドモデルのアウディA6、A7、A8をご紹介しましょう。",
+    "furigana": "それではここから、アウディが<ruby>誇<rt>ほこ</rt></ruby>るハイエンドモデルのアウディA6、A7、A8をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>しましょう。",
+    "segmentation": "それではここから、| アウディが誇る | ハイエンドモデルのアウディA6、A7、A8を | ご紹介しましょう。",
+    "translation": {
+      "natural": "接下來，讓我們為您介紹 Audi 引以為傲的頂級旗艦車款——Audi A6、A7 與 A8。",
+      "literal": "那麼從這裡開始，介紹Audi所自豪的高端模型Audi A6、A7、A8吧。"
+    },
+    "words": [
+      {
+        "word": "誇る",
+        "reading": "ほこる",
+        "note": "動詞，以……為傲"
+      }
+    ],
+    "context_grammar": [
+      "ご紹介しましょう：動詞謙讓語（ご紹介）＋ 勸誘/意志形（しましょう），常用於影片中段宣布開啟全新大章節的開場白。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "07:43",
+    "japanese": "まずはアウディA6をご紹介していきます。",
+    "furigana": "まずはアウディA6をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>していきます。",
+    "segmentation": "まずは | アウディA6をご紹介していきます。",
+    "translation": {
+      "natural": "首先為您介紹 Audi A6。",
+      "literal": "首先介紹下去Audi A6。"
+    },
+    "words": [
+      {
+        "word": "まずは",
+        "reading": "まずは",
+        "note": "副詞，首先"
+      }
+    ],
+    "context_grammar": [
+      "～ていきます：表示動作的推進過程，引導觀眾順著影片脈絡了解 A6 的細節。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "07:51",
+    "japanese": "アウディA6には、エレガントなプロポーションが特徴のセダンタイプであるアウディA6と、上質さと機能性を両立したワゴンタイプであるアウディA6 Avantの2つのモデルが設定されています。",
+    "furigana": "アウディA6には、エレガントなプロポーションが<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>のセダンタイプであるアウディA6と、<ruby>上<rt>じょう</rt></ruby><ruby>質<rt>しつ</rt></ruby>さと<ruby>機<rt>き</rt></ruby><ruby>能<rt>のう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>両<rt>りょう</rt></ruby><ruby>立<rt>りつ</rt></ruby>したワゴンタイプであるアウディA6 Avantの2つのモデルが<ruby>設<rt>せっ</rt></ruby><ruby>定<rt>てい</rt></ruby>されています。",
+    "segmentation": "アウディA6には、| エレガントなプロポーションが特徴の | セダンタイプであるアウディA6と、| 上質さと機能性を両立した | ワゴンタイプであるアウディA6 Avantの | 2つのモデルが設定されています。",
+    "translation": {
+      "natural": "Audi A6 系列推出了以優雅車身比例為特色的房車款 Audi A6，以及完美兼顧尊榮質感與實用功能的旅行車款 Audi A6 Avant。",
+      "literal": "在Audi A6，以優雅比例為特徵的房車類型Audi A6，與並立著高質感與機能性的旅行車類型Audi A6 Avant這2個模型被設定著。"
+    },
+    "words": [
+      {
+        "word": "プロポーション",
+        "reading": "プロポーション",
+        "note": "名詞，車身比例（Proportion）"
+      },
+      {
+        "word": "上質",
+        "reading": "じょうしつ",
+        "note": "名詞/形容動詞，高品質、質感高"
+      }
+    ],
+    "context_grammar": [
+      "～が特徴の：名詞＋格助詞（が）＋名詞＋の（修飾連體形），修飾後方的「セダンタイプ」（以優雅比例為特徵的房車款式）。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "08:08",
+    "japanese": "流麗なラインを描くセダンが欲しいという方ならアウディA6、露營などで広大なラゲッジスペースが欲しいという方はアウディA6 Avantというように、プロポーションや使用用途によってお選びいただけるのも魅力の一つです。",
+    "furigana": "<ruby>流<rt>りゅう</rt></ruby><ruby>麗<rt>れい</rt></ruby>なラインを<ruby>描<rt>えが</rt></ruby>くセダンが<ruby>欲<rt>ほ</rt></ruby>しいという<ruby>方<rt>かた</rt></ruby>ならアウディA6、キャンプなどで<ruby>広<rt>こう</rt></ruby><ruby>大<rt>だい</rt></ruby>なラゲッジスペースが<ruby>欲<rt>ほ</rt></ruby>しいという<ruby>方<rt>かた</rt></ruby>はアウディA6 Avantというように、プロポーションや<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>途<rt>と</rt></ruby>によってお<ruby>選<rt>えら</rt></ruby>びいただけるのも<ruby>魅<rt>み</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。",
+    "segmentation": "流麗なラインを描くセダンが欲しいという方なら | アウディA6、| キャンプなどで広大なラゲッジスペースが欲しいという方は | アウディA6 Avantというように、| プロポーションや使用用途によって | お選びいただけるのも | 魅力の一つです。",
+    "translation": {
+      "natural": "想要流線迷人房車的朋友可以選擇 Audi A6，而露營等戶外活動需要超大行李空間的朋友則可選擇 Audi A6 Avant。能根據車身造型與使用需求自由挑選，也是這款車的優勢之一。",
+      "literal": "如果是想要描繪流麗線條房車的人就是Audi A6，想要露營等廣大行李箱空間的人就是Audi A6 Avant這樣，能根據比例與使用用途選擇也是魅力之一。"
+    },
+    "words": [
+      {
+        "word": "ラゲッジスペース",
+        "reading": "ラゲッジスペース",
+        "note": "名詞，行李廂空間（Luggage space）"
+      },
+      {
+        "word": "使用用途",
+        "reading": "しようようと",
+        "note": "名詞，使用用途、習慣"
+      },
+      {
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "note": "動詞，選擇（謙敬可選型態為お選びいただける）"
+      }
+    ],
+    "context_grammar": [
+      "～というように：表示列舉舉例說明（「像……這樣」）。",
+      "お＋動詞連用形＋いただく：尊敬兼讓表現（お選びいただける = 貴賓顧客能夠挑選），充分展現尊崇顧客的商業語氣。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "08:27",
+    "japanese": "アウディA6の一つ目の特徴としては、数々の先進テクノロジーが採用されていることが挙げられます。",
+    "furigana": "アウディA6の<ruby>一<rt>ひと</rt></ruby>つ<ruby>目<rt>め</rt></ruby>の<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>としては、<ruby>数<rt>かず</rt></ruby><ruby>々<rt>かず</rt></ruby>の<ruby>先<rt>せん</rt></ruby><ruby>進<rt>しん</rt></ruby>テクノロジーが<ruby>採<rt>さい</rt></ruby><ruby>用<rt>よう</rt></ruby>されていることが<ruby>挙<rt>あ</rt></ruby>げられます。",
+    "segmentation": "アウディA6の一つ目の特徴としては、| 数々の先進テクノロジーが | 採用されていることが | 挙げられます。",
+    "translation": {
+      "natural": "Audi A6 的首要亮點，莫過於導入了大量尖端的前瞻科技。",
+      "literal": "作為Audi A6第一個特徵，無數的先進科技被採用這件事被舉出。"
+    },
+    "words": [
+      {
+        "word": "～つ目",
+        "reading": "つめ",
+        "note": "量詞接尾辭，第……個"
+      },
+      {
+        "word": "挙げられる",
+        "reading": "あげられる",
+        "note": "動詞，被列舉、提及（「挙げる」的可能/被動形）"
+      }
+    ],
+    "context_grammar": [
+      "～ことが挙げられます：名詞化句型（動詞連體形＋こと）＋挙げられる（被列舉出來），用於條理分明地列出幾點核心優勢。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "08:36",
+    "japanese": "最新のタッチレスポンス付きの埋め込み式 MMI ディスプレイ、後輪も操舵して回転半径を縮めるダイナミックオールホイールステアリング、高速道路で前の車と白線を認識して運転を支援してくれるアダプティブクルーズアシストなど、この動画ではご紹介しきれない数々のテクノロジーが詰め込まれています。",
+    "furigana": "<ruby>最<rt>さい</rt></ruby><ruby>新<rt>しん</rt></ruby>のタッチレスポンス<ruby>付<rt>つ</rt></ruby>きの<ruby>埋<rt>う</rt></ruby>め<ruby>込<rt>こ</rt></ruby>み<ruby>式<rt>しき</rt></ruby> MMI ディスプレイ、<ruby>後<rt>こう</rt></ruby><ruby>輪<rt>りん</rt></ruby>も<ruby>操<rt>そう</rt></ruby><ruby>舵<rt>だ</rt></ruby>して<ruby>回<rt>かい</rt></ruby><ruby>転<rt>てん</rt></ruby><ruby>半<rt>はん</rt></ruby><ruby>径<rt>けい</rt></ruby>を<ruby>縮<rt>ちぢ</rt></ruby>めるダイナミックオールホイールステアリング、<ruby>高<rt>こう</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>道<rt>どう</rt></ruby><ruby>路<rt>ろ</rt></ruby>で<ruby>前<rt>まえ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>と<ruby>白<rt>はく</rt></ruby><ruby>線<rt>せん</rt></ruby>を<ruby>認<rt>にん</rt></ruby><ruby>識<rt>しき</rt></ruby>して<ruby>運<rt>うん</rt></ruby><ruby>転<rt>てん</rt></ruby>を<ruby>支<rt>し</rt></ruby><ruby>援<rt>えん</rt></ruby>してくれるアダプティブクルーズアシストなど、この<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>ではご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>しきれない<ruby>数<rt>かず</rt></ruby><ruby>々<rt>かず</rt></ruby>のテクノロジーが<ruby>詰<rt>つ</rt></ruby>め<ruby>込<rt>こ</rt></ruby>まれています。",
+    "segmentation": "最新のタッチレスポンス付きの埋め込み式 MMI ディスプレイ、| 後輪も操舵して回転半径を縮める | ダイナミックオールホイールステアリング、| 高速道路で前の車と白線を認識して | 運転を支援してくれる | アダプティブクルーズアシストなど、| この動画ではご紹介しきれない | 数々のテクノロジーが詰め込まれています。",
+    "translation": {
+      "natural": "包含支援觸控回饋的最新內嵌式 MMI 螢幕、能轉動後輪以縮小迴轉半徑的動態全輪轉向系統，以及在高速公路上能辨識前車與車道標線以輔助駕駛的自適應巡航控制系統等，蘊含了這支影片無法盡數介紹的多項黑科技。",
+      "literal": "附有最新觸控回應的嵌入式MMI顯示器、連後輪也操舵來縮小旋轉半徑的動態全輪轉向、在高速公路認識前車與白線來支援駕駛的自適應巡航輔助等，在這部影片無法完全介紹的無數科技被塞滿著。"
+    },
+    "words": [
+      {
+        "word": "操舵する",
+        "reading": "そうだする",
+        "note": "動詞，轉向、轉動車輪方向"
+      },
+      {
+        "word": "ダイナミックオールホイールステアリング",
+        "reading": "ダイナミックオールホイールステアリング",
+        "note": "名詞，動態全輪轉向系統（Dynamic all-wheel steering）"
+      },
+      {
+        "word": "アダプティブクルーズアシスト",
+        "reading": "アダプティブクルーズアシスト",
+        "note": "名詞，自適應巡航輔助系統（Adaptive cruise assist）"
+      },
+      {
+        "word": "詰め込む",
+        "reading": "つめこむ",
+        "note": "動詞，塞滿、滿載"
+      }
+    ],
+    "context_grammar": [
+      "～しきれない：動詞連用形＋切る（完成/盡數）＋可能否定（不可盡），表示「內容過於豐富以至於無法在此全數講完」。",
+      "詰め込まれています：動詞「詰め込む」的受身持續態，形容科技陣容滿載豐富。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "09:01",
+    "japanese": "また、ハイエンドモデルのラインナップで唯一ワゴンタイプであるアウディA6 Avantが設定されていることも大きな特徴です。",
+    "furigana": "また、ハイエンドモデルのラインナップで<ruby>唯<rt>ゆい</rt></ruby><ruby>一<rt>いつ</rt></ruby>ワゴンタイプであるアウディA6 Avantが<ruby>設<rt>せっ</rt></ruby><ruby>定<rt>てい</rt></ruby>されていることも<ruby>大<rt>おお</rt></ruby>きな<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>です。",
+    "segmentation": "また、| ハイエンドモデルのラインナップで唯一 | ワゴンタイプであるアウディA6 Avantが | 設定されていることも | 大きな特徴です。",
+    "translation": {
+      "natural": "此外，身為頂級車系中唯一提供旅行車款（Audi A6 Avant）的代表，也是其一大亮點。",
+      "literal": "此外，在高端模型的陣容中唯一作為旅行車類型的Audi A6 Avant被設定著這件事也是大的特徵。"
+    },
+    "words": [
+      {
+        "word": "唯一",
+        "reading": "ゆいいつ",
+        "note": "名詞/副詞，唯一"
+      }
+    ],
+    "context_grammar": [
+      "設定されていることも：名詞化標籤「こと」＋「も」，強調「提供旅行車款式」也是一項非常重要的特色。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "09:13",
+    "japanese": "実際にどれくらいの荷物が積めるのかをチェックしたり、アウディA6とアウディA6 Avantのデザイン、車内空間を比較した動画もご用意しておりますので、画面右上のリンクからチェックしてみてください。",
+    "furigana": "<ruby>実<rt>じっ</rt></ruby><ruby>際<rt>さい</rt></ruby>にどれくらいの<ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>が<ruby>積<rt>つ</rt></ruby>めるのかをチェックしたり、アウディA6とアウディA6 Avantのデザイン、<ruby>車<rt>しゃ</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>空<rt>くう</rt></ruby><ruby>間<rt>かん</rt></ruby>を<ruby>比<rt>ひ</rt></ruby><ruby>較<rt>かく</rt></ruby>した<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>もご<ruby>用<rt>よう</rt></ruby><ruby>意<rt>い</rt></ruby>しておりますので、<ruby>画<rt>が</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>右<rt>みぎ</rt></ruby><ruby>上<rt>うえ</rt></ruby>のリンクからチェックしてみてください。",
+    "segmentation": "実際にどれくらいの荷物が積めるのかを | チェックしたり、| アウディA6とアウディA6 Avantのデザイン、| 車内空間を比較した動画も | ご用意しておりますので、| 画面右上のリンクから | チェックしてみてください。",
+    "translation": {
+      "natural": "想實測具體能放入多少行李，或是觀看 A6 與 A6 Avant 的外觀和後座空間比較，我們都有準備專門影片，請點擊右上角連結查看喔！",
+      "literal": "實際能裝載多少行李進行檢查，以及比較了Audi A6與Audi A6 Avant設計與車內空間的影片也準備著，請從畫面右上方的連結檢查嘗試看看。"
+    },
+    "words": [
+      {
+        "word": "積める",
+        "reading": "つめる",
+        "note": "動詞，「積む」（裝載）的可能形"
+      },
+      {
+        "word": "～たり",
+        "reading": "たり",
+        "note": "助詞，列舉動作（如……或……等）"
+      }
+    ],
+    "context_grammar": [
+      "～積めるのかを：動詞可能形＋疑問終助詞「のか」＋格助詞「を」，把「究竟能載多少行李」這個問題作為動詞 check 的賓語。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "09:31",
+    "japanese": "では次に、アウディA7をご紹介します。",
+    "furigana": "では<ruby>次<rt>つぎ</rt></ruby>に、アウディA7をご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>します。",
+    "segmentation": "では次に、| アウディA7をご紹介します。",
+    "translation": {
+      "natural": "那麼接下來，為您介紹 Audi A7。",
+      "literal": "那麼次之，介紹Audi A7。"
+    },
+    "words": [
+      {
+        "word": "では",
+        "reading": "では",
+        "note": "接續詞，那麼"
+      }
+    ],
+    "context_grammar": [
+      "簡潔切換話題的銜接表達。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "09:36",
+    "japanese": "アウディA7にはプレミアム4ドアクーペとして、アウディA7 Sportbackの1モデルのみがラインナップされています。",
+    "furigana": "アウディA7にはプレミアム4ドアクーペとして、アウディA7 Sportbackの1モデルのみがラインナップされています。",
+    "segmentation": "アウディA7には | プレミアム4ドアクーペとして、| アウディA7 Sportbackの | 1モデルのみが | ラインナップされています。",
+    "translation": {
+      "natural": "在 Audi A7 車系中，作為頂級四門轎跑車，僅列入 Audi A7 Sportback 這唯一一款車型。",
+      "literal": "在Audi A7，作為尊榮4門雙門轎跑，只有Audi A7 Sportback這1個模型被列入陣容。"
+    },
+    "words": [
+      {
+        "word": "～として",
+        "reading": "として",
+        "note": "句型，作為……"
+      },
+      {
+        "word": "～のみ",
+        "reading": "のみ",
+        "note": "副助詞，僅僅、只有（比「だけ」更具正式商務感）"
+      }
+    ],
+    "context_grammar": [
+      "～として：接續名詞，定位 A7 Sportback 的車格定位（尊榮四門轎跑）。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "09:46",
+    "japanese": "2011年に初めてアウディA7 Sportbackが登場して以来、そのDNAは最新モデルにも継承され、後方へと流れるような息をのむほど美しいデザインは、アウディのデザイン言語そのものを体現しています。",
+    "furigana": "2011<ruby>年<rt>ねん</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めてアウディA7 Sportbackが<ruby>登<rt>とう</rt></ruby><ruby>場<rt>じょう</rt></ruby>して<ruby>以<rt>い</rt></ruby><ruby>来<rt>らい</rt></ruby>、そのDNAは<ruby>最<rt>さい</rt></ruby><ruby>新<rt>しん</rt></ruby>モデルにも<ruby>継<rt>けい</rt></ruby><ruby>承<rt>しょう</rt></ruby>され、<ruby>後<rt>こう</rt></ruby><ruby>方<rt>ほう</rt></ruby>へと<ruby>流<rt>なが</rt></ruby>れるような<ruby>息<rt>いき</rt></rubyをのむほど<ruby>美<rt>うつく</rt></ruby>しいデザインは、アウディのデザイン<ruby>言<rt>げん</rt></ruby><ruby>語<rt>ご</rt></ruby>そのものを<ruby>体<rt>たい</rt></ruby><ruby>現<rt>げん</rt></ruby>しています。",
+    "segmentation": "2011年に初めてアウディA7 Sportbackが登場して以来、| そのDNAは最新モデルにも継承され、| 後方へと流れるような | 息をのむほど美しいデザインは、| アウディのデザイン言語そのものを | 体現しています。",
+    "translation": {
+      "natural": "自 2011 年 Audi A7 Sportback 首度問世以來，其跑格 DNA 傳承至今。向後延伸流暢且令人屏息的絕美線條，完滿體現了 Audi 的設計語言本身。",
+      "literal": "自2011年首次Audi A7 Sportback登場以來，該DNA也傳承至最新模型，向後方流暢般吞息程度美麗的設計，體現著Audi的設計語言本身。"
+    },
+    "words": [
+      {
+        "word": "～以来",
+        "reading": "いらい",
+        "note": "句型，自從……以來"
+      },
+      {
+        "word": "息をのむ",
+        "reading": "いきをのむ",
+        "note": "慣用語，令人屏息、讚嘆不已"
+      },
+      {
+        "word": "デザイン言語",
+        "reading": "デザインげんご",
+        "note": "名詞，設計語言（Design language）"
+      },
+      {
+        "word": "体現する",
+        "reading": "たいげんする",
+        "note": "動詞，體現、具象化"
+      }
+    ],
+    "context_grammar": [
+      "～て以来：動詞 て 形＋以来，強調從 2011 年歷史傳承至今的連續性。",
+      "息をのむほど：慣用語「息をのむ」＋副助詞「ほど」（達到……程度），極致修飾「美しい」，是高階車款旁白常見的讚嘆語彙。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "10:02",
+    "japanese": "ワイド＆ローなフロントマスクはエレガントでありながらスポーティな走りを予感させ、まるでコンセプトカーが現実の路上に舞い降りたかのようなスタイリングを実現。",
+    "furigana": "ワイド＆ローなフロントマスクはエレガントでありながらスポーティな<ruby>走<rt>はし</rt></ruby>りを<ruby>予<rt>よ</rt></ruby><ruby>感<rt>かん</rt></ruby>させ、まるでコンセプトカーが<ruby>現<rt>げん</rt></ruby><ruby>実<rt>じつ</rt></ruby>の<ruby>路<rt>ろ</rt></ruby><ruby>上<rt>じょう</rt></ruby>に<ruby>舞<rt>まい</rt></ruby>い<ruby>降<rt>お</rt></ruby>りたかのようなスタイリングを<ruby>実<rt>じっ</rt></ruby><ruby>現<rt>げん</rt></ruby>。",
+    "segmentation": "ワイド＆ローなフロントマスクは | エレガントでありながら | スポーティな走りを予感させ、| まるでコンセプトカーが | 現実の路上に舞い降りたかのような | スタイリングを実現。",
+    "translation": {
+      "natural": "低寬霸氣的車頭造型在展現優雅之餘，更預告了優異的運動駕馭感，實現了彷彿概念車直接降臨於現實路面般的夢幻造型。",
+      "literal": "寬且低的前臉造型雖然優雅但讓人預感運動風格的馳騁，實現了宛如概念車在現實路上降臨一般的造型。"
+    },
+    "words": [
+      {
+        "word": "フロントマスク",
+        "reading": "フロントマスク",
+        "note": "名詞，車頭造型/前臉（Front mask）"
+      },
+      {
+        "word": "予感させる",
+        "reading": "よかんさせる",
+        "note": "動詞，使人預感到（使役形）"
+      },
+      {
+        "word": "舞い降りる",
+        "reading": "まいおりる",
+        "note": "動詞，降臨、飄落"
+      }
+    ],
+    "context_grammar": [
+      "予感させ：動詞「予感する」的使役連用形，表示車頭的外觀「讓人聯想到/預感到」其優異性能。",
+      "まるで～かのような：比喻句型（まるで ＋ 動詞過去形 ＋ かのような ＋ 名詞），修飾「スタイリング」，極具視覺渲染力。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "10:17",
+    "japanese": "ライティングテクノロジーの面では、アウディA7 Sportbackだと一目で分かるセグメント分けされたデイタイムランニングライトが特徴的です。",
+    "furigana": "ライティングテクノロジーの<ruby>面<rt>めん</rt></ruby>では、アウディA7 Sportbackだと<ruby>一<rt>ひと</rt></ruby><ruby>目<rt>め</rt></ruby>で<ruby>分<rt>わ</rt></ruby>かるセグメント<ruby>分<rt>わ</rt></ruby>けされたデイタイムランニングライトが<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "ライティングテクノロジーの面では、| アウディA7 Sportbackだと一目で分かる | セグメント分けされた | デイタイムランニングライトが特徴的です。",
+    "translation": {
+      "natural": "在照明科技方面，一眼就能辨識出為 Audi A7 Sportback 的分段式日行燈設計尤為吸睛。",
+      "literal": "在照明科技的面，是一眼就知道是Audi A7 Sportback的分段切割的日照行車燈是有特徵的。"
+    },
+    "words": [
+      {
+        "word": "ライティングテクノロジー",
+        "reading": "ライティングテクノロジー",
+        "note": "名詞，照明科技（Lighting technology）"
+      },
+      {
+        "word": "一目で分かる",
+        "reading": "ひとめでわかる",
+        "note": "慣用語，一眼就能看出來"
+      },
+      {
+        "word": "デイタイムランニングライト",
+        "reading": "デイタイムランニングライト",
+        "note": "名詞，日間行車燈（Daytime running light）"
+      }
+    ],
+    "context_grammar": [
+      "～だと一目で分かる：連體修飾（「一眼就能知道是……」），修飾後方的「デイタイムランニングライト」。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "10:24",
+    "japanese": "さらにリアコンビネーションライトは、横一直線に伸びた独特のデザインにより、スポーティーで未来的な印象を与えてくれます。",
+    "furigana": "さらにリアコンビネーションライトは、<ruby>横<rt>よこ</rt></ruby><ruby>一<rt>いっ</rt></ruby><ruby>直<rt>ちょく</rt></ruby><ruby>線<rt>せん</rt></ruby>に<ruby>伸<rt>の</rt></ruby>びた<ruby>獨<rt>どく</rt></ruby><ruby>特<rt>とく</rt></ruby>なデザインにより、スポーティーで<ruby>未<rt>み</rt></ruby><ruby>来<rt>らい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>印<rt>いん</rt></ruby><ruby>象<rt>しょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてくれます。",
+    "segmentation": "さらにリアコンビネーションライトは、| 横一直線に伸びた | 独特のデザインにより、| スポーティーで未来的な印象を | 与えてくれます。",
+    "translation": {
+      "natural": "此外，橫向貫穿貫通的尾燈組以獨特的造型設計，賦予車尾兼具動感與未來科技感的高度印象。",
+      "literal": "更加上後複合燈透過橫向一直線伸展的獨特設計，給予運動風格且未來的印象。"
+    },
+    "words": [
+      {
+        "word": "リアコンビネーションライト",
+        "reading": "リアコンビネーションライト",
+        "note": "名詞，後尾燈組（Rear combination light）"
+      },
+      {
+        "word": "横一直線",
+        "reading": "よこいっちょくせん",
+        "note": "名詞，橫向一直線"
+      },
+      {
+        "word": "未來的な",
+        "reading": "みらいてきな",
+        "note": "形容動詞，未來的、具科技感的"
+      }
+    ],
+    "context_grammar": [
+      "横一直線に伸びた：動詞過去形連體修飾（向橫伸展的），修飾「デザイン」。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "10:33",
+    "japanese": "この動画では紹介しきれないアウディA7 Sportbackのエクステリアやインテリアデザインの詳細は、画面右上のリンクからご覧ください。",
+    "furigana": "この<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>では<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>しきれないアウディA7 Sportbackのエクステリアやインテリアデザインの<ruby>詳<rt>しょう</rt></ruby><ruby>細<rt>さい</rt></ruby>は、<ruby>画<rt>が</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>右<rt>みぎ</rt></ruby><ruby>上<rt>うえ</rt></ruby>のリンクからご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "この動画では紹介しきれない | アウディA7 Sportbackのエクステリアや | インテリアデザインの詳細は、| 画面右上のリンクからをご覧ください。",
+    "translation": {
+      "natural": "關於這支影片無法盡述的 Audi A7 Sportback 外觀與內裝設計細節，請點擊畫面右上角的連結觀看。",
+      "literal": "在這部影片無法完全介紹的Audi A7 Sportback的外觀與內裝設計詳細，請從畫面右上方的連結觀看。"
+    },
+    "words": [
+      {
+        "word": "詳細",
+        "reading": "しょうさい",
+        "note": "名詞，細節、詳細內容"
+      }
+    ],
+    "context_grammar": [
+      "～紹介しきれない：動詞複合可能否定，連體修飾「詳細」。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "10:51",
+    "japanese": "最後にアウディA8を見ていきましょう。",
+    "furigana": "<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>にアウディA8を<ruby>見<rt>み</rt></ruby>ていきましょう。",
+    "segmentation": "最後に | アウディA8を見ていきましょう。",
+    "translation": {
+      "natural": "最後，讓我們一起來看看 Audi A8。",
+      "literal": "最後觀看下去Audi A8吧。"
+    },
+    "words": [
+      {
+        "word": "最後に",
+        "reading": "さいごに",
+        "note": "副詞，最後"
+      }
+    ],
+    "context_grammar": [
+      "～ていきましょう：過渡句，引導觀眾前往全片最後一款旗艦車型。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "10:57",
+    "japanese": "アウディA8はアウディが誇る最高峰サルーンとして2つのモデルがラインナップされており、プレミアムセダンのアウディA8と、ホイールベースを13センチ伸ばして車内空間を広げたロングタイプのアウディA8 Lです。",
+    "furigana": "アウディA8はアウディが<ruby>誇<rt>ほこ</rt></ruby>る<ruby>最<rt>さい</rt></ruby><ruby>高<rt>こう</rt></ruby><ruby>峰<rt>ほう</rt></ruby>サルーンとして2つのモデルがラインナップされており、プレミアムセダンのアウディA8と、ホイールベースを13センチ<ruby>伸<rt>の</rt></ruby>ばして<ruby>車<rt>しゃ</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>空<rt>くう</rt></ruby><ruby>間<rt>かん</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げたロングタイプのアウディA8 Lです。",
+    "segmentation": "アウディA8は | アウディが誇る最高峰サルーンとして | 2つのモデルがラインナップされており、| プレミアムセダンのアウディA8と、| ホイールベースを13センチ伸ばして | 車内空間を広げた | ロングタイプのアウディA8 Lです。",
+    "translation": {
+      "natural": "Audi A8 作為 Audi 傲視群雄的頂級旗艦房車，共推出兩款車型：尊榮房車 Audi A8，以及軸距延伸 13 公分、打造更寬敞車室空間長軸版 Audi A8 L。",
+      "literal": "Audi A8作為Audi自豪的最高峰房車被列入2個模型的陣容，是尊榮房車Audi A8，與將軸距伸長13公分擴大車內空間的長類型Audi A8 L。"
+    },
+    "words": [
+      {
+        "word": "最高峰",
+        "reading": "さいこうほう",
+        "note": "名詞，最高峰、頂級"
+      },
+      {
+        "word": "ホイールベース",
+        "reading": "ホイールベース",
+        "note": "名詞，車輛軸距（Wheelbase）"
+      },
+      {
+        "word": "伸ばす",
+        "reading": "のばす",
+        "note": "動詞，延伸、拉長"
+      },
+      {
+        "word": "広げる",
+        "reading": "ひろげる",
+        "note": "動詞，擴大、拓寬"
+      }
+    ],
+    "context_grammar": [
+      "伸ばして……広げた：動詞 て 形接續（動作順序：拉長軸距從而拓寬空間），修飾後方的「アウディA8 L」。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "11:12",
+    "japanese": "アウディA8の特徴は何といっても「魔法のじゅうたん」とも形容される滑らかな乗り心地であり、これを実現するためにアウディの先進テクノロジーであるプレディクティブアクティブサスペンションが採用されています。",
+    "furigana": "アウディA8の<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>は<ruby>何<rt>なに</rt></ruby>といっても「<ruby>魔<rt>ま</rt></ruby><ruby>法<rt>ほう</rt></ruby>のじゅうたん」とも<ruby>形<rt>けい</rt></ruby><ruby>容<rt>よう</rt></ruby>される<ruby>滑<rt>なめ</rt></ruby>らかな<ruby>乗<rt>の</rt></ruby>り<ruby>心<rt>ごこ</rt></ruby>ちであり、これを<ruby>実<rt>じっ</rt></ruby><ruby>現<rt>げん</rt></ruby>するためにアウディの<ruby>先<rt>せん</rt></ruby><ruby>進<rt>しん</rt></ruby>テクノロジーであるプレディクティブアクティブサスペンションが<ruby>採<rt>さい</rt></ruby><ruby>用<rt>よう</rt></ruby>されています。",
+    "segmentation": "アウディA8の特徴は何といっても | 「魔法のじゅうたん」とも形容される | 滑らかな乗り心地であり、| これを実現するために | アウディの先進テクノロジーである | プレディクティブアクティブサスペンションが | 採用されています。",
+    "translation": {
+      "natural": "Audi A8 最出色的特點，莫過於被喻為「神奇飛毯」般無比平穩舒適的行路質感。為實現這一點，特別裝備了 Audi 的頂尖科技——主動預測式懸吊系統（Predictive Active Suspension）。",
+      "literal": "Audi A8的特徵無論如何說是也被形容為「魔法地毯」的平滑乘座感覺，為了實現這個，採用著作為Audi先進科技的預測式主動懸吊系統。"
+    },
+    "words": [
+      {
+        "word": "何といっても",
+        "reading": "なんといっても",
+        "note": "慣用語，無論如何、畢竟、莫過於"
+      },
+      {
+        "word": "形容する",
+        "reading": "けいようする",
+        "note": "動詞，形容、比喻"
+      },
+      {
+        "word": "乗り心地",
+        "reading": "のりごこち",
+        "note": "名詞，乘坐舒適度/行路質感"
+      },
+      {
+        "word": "プレディクティブアクティブサスペンション",
+        "reading": "プレディクティブアクティブサスペンション",
+        "note": "名詞，主動預測式懸吊系統（Predictive active suspension）"
+      }
+    ],
+    "context_grammar": [
+      "～とも形容される：動詞「形容する」的受身形，修飾「乗り心地」（被比喻為飛毯的行路質感）。",
+      "～を実現するために：動詞連體形＋ために（目的），說明導入該懸吊系統的目的。 "
+    ]
+  },
+  {
+    "id": "061",
+    "time": "11:27",
+    "japanese": "プレディクティブアクティブサスペンションという名称の通り、前方路面の凹凸を各種センサーを用いて予測した上で、サスペンションを制御するシステムになっています。",
+    "furigana": "プレディクティブアクティブサスペンションという<ruby>名<rt>めい</rt></ruby><ruby>称<rt>しょう</rt></ruby>の<ruby>通<rt>とお</rt></ruby>り、<ruby>前<rt>ぜん</rt></ruby><ruby>方<rt>ほう</rt></ruby><ruby>路<rt>ろ</rt></ruby><ruby>面<rt>めん</rt></ruby>の<ruby>凹<rt>おう</rt></ruby><ruby>凸<rt>とつ</rt></ruby>を<ruby>各<rt>かく</rt></ruby><ruby>種<rt>しゅ</rt></ruby>センサーを<ruby>用<rt>もち</rt></ruby>いて<ruby>予<rt>よ</rt></ruby><ruby>測<rt>そく</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で、サスペンションを<ruby>制<rt>せい</rt></ruby><ruby>御<rt>ぎょ</rt></ruby>するシステムになっています。",
+    "segmentation": "プレディクティブアクティブサスペンションという名称の通り、| 前方路面の凹凸を各種センサーを用いて | 予測した上で、| サスペンションを制御する | システムになっています。",
+    "translation": {
+      "natural": "正如「主動預測式」之名，該系統透過各種感知器預先判讀前方路面的起伏，進而主動精準控制懸吊運作。",
+      "literal": "如稱為預測式主動懸吊系統的名稱一樣，使用各種感測器預測前方路面凹凸之後，成為控制懸吊的系統。"
+    },
+    "words": [
+      {
+        "word": "～の通り",
+        "reading": "のとおり",
+        "note": "句型，正如……一樣"
+      },
+      {
+        "word": "凹凸",
+        "reading": "おうとつ",
+        "note": "名詞，路面顛簸/凹凸不平"
+      },
+      {
+        "word": "用いる",
+        "reading": "もちいる",
+        "note": "動詞，使用、採用"
+      },
+      {
+        "word": "制御する",
+        "reading": "せいぎょする",
+        "note": "動詞，控制、調控"
+      }
+    ],
+    "context_grammar": [
+      "～した上で：動詞過去形＋上で，表示「先完成前項（掃描預測路面），在此基礎上再進行後項（調控懸吊）」。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "11:42",
+    "japanese": "各サスペンションには強い力を発生するモーターが装備されており、予測した路面凹凸に応じてストロークを個別コントロールすることで振動が抑えられ、宙に浮きながら進んでいるような滑らかな乗り心地を実現します。",
+    "furigana": "<ruby>各<rt>かく</rt></ruby>サスペンションには<ruby>強<rt>つよ</rt></ruby>い<ruby>力<rt>ちから</rt></ruby>を<ruby>發<rt>はつ</rt></ruby><ruby>生<rt>せい</rt></ruby>するモーターが<ruby>裝<rt>そう</rt></ruby><ruby>備<rt>び</rt></ruby>されており、<ruby>予<rt>よ</rt></ruby><ruby>測<rt>そく</rt></ruby>した<ruby>路<rt>ろ</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>凹<rt>おう</rt></ruby><ruby>凸<rt>とつ</rt></ruby>に<ruby>應<rt>おう</rt></ruby>じてストロークを<ruby>個<rt>こ</rt></ruby><ruby>別<rt>べつ</rt></ruby>コントロールすることで<ruby>振<rt>しん</rt></ruby><ruby>動<rt>どう</rt></ruby>が<ruby>抑<rt>おさ</rt></ruby>えられ、<ruby>宙<rt>ちゅう</rt></ruby>に<ruby>浮<rt>う</rt></ruby>きながら<ruby>進<rt>すす</rt></ruby>んでいるような<ruby>滑<rt>なめ</rt></ruby>らかな<ruby>乗<rt>の</rt></ruby>り<ruby>心<rt>ごこ</rt></ruby>ちを<ruby>實<rt>じっ</rt></ruby><ruby>現<rt>げん</rt></ruby>します。",
+    "segmentation": "各サスペンションには強い力を発生するモーターが | 装備されており、| 予測した路面凹凸に応じて | ストロークを個別コントロールすることで | 振動が抑えられ、| 宙に浮きながら進んでいるような | 滑らかな乗り心地を実現します。",
+    "translation": {
+      "natural": "每個懸吊機構皆配備了能產生強大出力馬達，可根據預測的路面狀況獨自調整懸吊行程以有效抑制震動，實現如懸浮空中前行般平穩極致的駕乘體驗。",
+      "literal": "在各懸吊裝備著產生強大力量的馬達，透過對應預測的路面凹凸個別控制行程，振動被抑制，實現宛如浮在空中前進般的平滑乘座感覺。"
+    },
+    "words": [
+      {
+        "word": "ストローク",
+        "reading": "ストローク",
+        "note": "名詞，懸吊行程（Stroke）"
+      },
+      {
+        "word": "～に応じて",
+        "reading": "におうじて",
+        "note": "句型，根據……/對應……"
+      },
+      {
+        "word": "宙に浮く",
+        "reading": "ちゅうにうく",
+        "note": "動詞，懸浮空中"
+      }
+    ],
+    "context_grammar": [
+      "～に応じて：接續名詞，表示根據狀況變化做出相應調整。",
+      "宙に浮きながら：動作同時進行（浮在空中 ＋ ながら ＋ 前進）。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "12:00",
+    "japanese": "実際にプレディクティブアクティブサスペンションを動作させながらドライブした様子は、画面右上のリンクからご覧ください。",
+    "furigana": "<ruby>実<rt>じっ</rt></ruby><ruby>際<rt>さい</rt></ruby>にプレディクティブアクティブサスペンションを<ruby>動<rt>どう</rt></ruby><ruby>作<rt>さく</rt></ruby>させながらドライブした<ruby>様<rt>よう</rt></ruby><ruby>子<rt>す</rt></ruby>は、<ruby>画<rt>が</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>右<rt>みぎ</rt></ruby><ruby>上<rt>うえ</rt></ruby>のリンクからご<ruby>覧<rt>らん</rt></ruby>ください。",
+    "segmentation": "実際にプレディクティブアクティブサスペンションを | 動作させながらドライブした様子は、| 画面右上のリンクからをご覧ください。",
+    "translation": {
+      "natural": "若想觀看實際啟動主動預測式懸吊系統時的試駕畫面，請點擊畫面右上角的連結！",
+      "literal": "實際一邊使預測式主動懸吊系統動作一邊試駕的樣子，請從畫面右上方的連結觀看。"
+    },
+    "words": [
+      {
+        "word": "動作させる",
+        "reading": "どうささせる",
+        "note": "動詞，使……運作（使役形）"
+      },
+      {
+        "word": "様子",
+        "reading": "ようす",
+        "note": "名詞，樣子、實況過程"
+      }
+    ],
+    "context_grammar": [
+      "動作させながら：動詞「動作する」使役形（使之作動）＋連接助詞「ながら」，表示一邊讓科技發揮作用一邊行駛。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "12:10",
+    "japanese": "今回は多數あるアウディのラインナップより、AファミリーであるアウディA1からA8までをハイライトにご紹介しましたが、いかがでしたでしょうか。",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>は<ruby>多<rt>た</rt></ruby><ruby>數<rt>すう</rt></ruby>あるアウディのラインナップより、AファミリーであるアウディA1からA8までをハイライトにご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>しましたが、いかがでしたでしょうか。",
+    "segmentation": "今回は | 多數あるアウディのラインナップより、| AファミリーであるアウディA1からA8までを | ハイライトにご紹介しましたが、| いかがでしたでしょうか。",
+    "translation": {
+      "natural": "這次我們從 Audi 豐富的產品陣容中，精華摘要介紹了 A 車族從 A1 到 A8 的各款車型，不知您覺得如何呢？",
+      "literal": "這次從有許多的Audi陣容中，介紹了作為A車族的Audi A1至A8作為精華，覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "ハイライト",
+        "reading": "ハイライト",
+        "note": "名詞，精華、亮點（Highlight）"
+      },
+      {
+        "word": "いかが",
+        "reading": "いかが",
+        "note": "副詞，如何（「どう」的禮貌說法）"
+      }
+    ],
+    "context_grammar": [
+      "いかがでしたでしょうか：極其禮貌的詢問感感想用語（いかが ＋ でした ＋ でしょうか），是商業影片結尾標準的親切提問。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "12:21",
+    "japanese": "コンパクトで取り回しのしやすいアウディA1やA3、流麗なラインが美しさを放つアウディA5、上質な乗り心地を実現した最高峰サルーンのアウディA8など、モデルによって異なる個性とさまざまな特徴が垣間見えましたね。",
+    "furigana": "コンパクトで<ruby>取<rt>と</rt></ruby>り<ruby>回<rt>まわ</rt></ruby>しのしやすいアウディA1やA3、<ruby>流<rt>りゅう</rt></ruby><ruby>麗<rt>れい</rt></ruby>なラインが<ruby>美<rt>うつく</rt></ruby>しさを<ruby>放<rt>はな</rt></ruby>つアウディA5、<ruby>上<rt>じょう</rt></ruby><ruby>質<rt>しつ</rt></ruby>な<ruby>乗<rt>の</rt></ruby>り<ruby>心<rt>ごこ</rt></ruby>ちを<ruby>実<rt>じっ</rt></ruby><ruby>現<rt>げん</rt></ruby>した<ruby>最<rt>さい</rt></ruby><ruby>高<rt>こう</rt></ruby><ruby>峰<rt>ほう</rt></ruby>サルーンのアウディA8など、モデルによって<ruby>異<rt>こと</rt></ruby>なる<ruby>個<rt>こ</rt></ruby><ruby>性<rt>せい</rt></ruby>とさまざまな<ruby>特<rt>とく</rt></ruby><ruby>徴<rt>ちょう</rt></ruby>が<ruby>垣<rt>かき</rt></ruby><ruby>間<rt>ま</rt></ruby><ruby>見<rt>み</rt></ruby>えましたね。",
+    "segmentation": "コンパクトで取り回しのしやすい | アウディA1やA3、| 流麗なラインが美しさを放つ | アウディA5、| 上質な乗り心地を実現した | 最高峰サルーンのアウディA8など、| モデルによって異なる個性と | さまざまな特徴が | 垣間見えましたね。",
+    "translation": {
+      "natural": "從靈巧好駕馭的 Audi A1 與 A3、展現流線美感線條的 Audi A5，到擁有至高尊榮乘坐質感 的頂級房車 Audi A8，相信大家都感受到了各車款截然不同的獨特魅力與特色吧！",
+      "literal": "緊湊且好操控的Audi A1與A3、流麗線條散發美感Audi A5、實現高質感乘座感覺的最高峰房車Audi A8等，依據模型不同的個性與各種特徵被隱約看到了呢。"
+    },
+    "words": [
+      {
+        "word": "取り回し",
+        "reading": "とりまわし",
+        "note": "名詞，車輛轉向/操控靈巧度"
+      },
+      {
+        "word": "～しやすい",
+        "reading": "しやすい",
+        "note": "句型，容易做……"
+      },
+      {
+        "word": "垣間見える",
+        "reading": "かいまみえる",
+        "note": "動詞，一窺、隱約看見"
+      }
+    ],
+    "context_grammar": [
+      "取り回しのしやすい：名詞＋の＋形容動詞句型，代替主格「が」，修飾 A1 和 A3（容易駕駛靈巧操縱的車款）。",
+      "垣間見えましたね：動詞「垣間見える」過去形＋感嘆終助詞「ね」，與觀眾產生共鳴與總結。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "12:44",
+    "japanese": "この動画を通じて皆様にピッタリなアウディが見つかれば幸いです。",
+    "furigana": "この<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて<ruby>皆<rt>みな</rt></ruby><ruby>様<rt>さま</rt></ruby>にピッタリなアウディが<ruby>見<rt>み</rt></ruby>つかれば<ruby>幸<rt>さいわ</rt></ruby>いです。",
+    "segmentation": "この動画を通じて | 皆様にピッタリなアウディが | 見つかれば幸いです。",
+    "translation": {
+      "natural": "希望透過這支影片，能協助您找到最適合自己的 Audi 愛車。",
+      "literal": "透過這部影片如果能找到適合各位的Audi的話是幸運的。"
+    },
+    "words": [
+      {
+        "word": "～を通じて",
+        "reading": "をつうじて",
+        "note": "句型，透過……"
+      },
+      {
+        "word": "ピッタリ",
+        "reading": "ピッタリ",
+        "note": "副詞/形容動詞，完美契合、極為適合"
+      },
+      {
+        "word": "～ば幸いです",
+        "reading": "ばさいわいです",
+        "note": "句型，若能……將不勝榮幸（商業用語）"
+      }
+    ],
+    "context_grammar": [
+      "見つかれば幸いです：條件形（見つかる ＋ ば）＋幸いです，日本商業結語極為經典的客氣表達（若能找到的話將是我們的榮幸）。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "12:50",
+    "japanese": "今回ご紹介したアウディAファミリーをはじめ、お好きなモデルのオーナー体験ができるキャンペーンをこの動画をご覧になられた方限定で開催しておりますので、概要欄やエンディング画面のボタンから詳細をチェックしてみてください。",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>ご<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>したアウディAファミリーをはじめ、お<ruby>好<rt>す</rt></ruby>きなモデルのオーナー<ruby>體<rt>たい</rt></ruby><ruby>験<rt>けん</rt></ruby>ができるキャンペーンをこの<ruby>動<rt>どう</rt></ruby><ruby>画<rt>が</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>になられた<ruby>方<rt>かた</rt></ruby><ruby>限<rt>げん</rt></ruby><ruby>定<rt>てい</rt></ruby>で<ruby>開<rt>かい</rt></ruby><ruby>催<rt>さい</rt></ruby>しておりますので、<ruby>概<rt>がい</rt></ruby><ruby>要<rt>よう</rt></ruby><ruby>欄<rt>らん</rt></ruby>やエンディング<ruby>畫<rt>が</rt></ruby><ruby>面<rt>めん</rt></ruby>のボタンから<ruby>詳<rt>しょう</rt></ruby><ruby>細<rt>さい</rt></ruby>をチェックしてみてください。",
+    "segmentation": "今回ご紹介したアウディAファミリーをはじめ、| お好きなモデルのオーナー体験ができるキャンペーンを | この動画をご覧になられた方限定で | 開催しておりますので、| 概要欄やエンディング画面のボタンから | 詳細をチェックしてみてください。",
+    "translation": {
+      "natural": "我們現正舉辦專屬於本影片觀眾的限定活動！包含本次介紹的 Audi A 車族在內，讓您有機會試駕體驗喜愛的車款。歡迎透過資訊欄或片尾畫面按鈕查看活動詳情！",
+      "literal": "以這次介紹的Audi A車族為首，能進行喜愛模型車主體驗的活動在看這部影片的人限定舉辦著，請從概要欄或片尾畫面的按鈕檢查詳細。"
+    },
+    "words": [
+      {
+        "word": "オーナー",
+        "reading": "オーナー",
+        "note": "名詞，車主（Owner）"
+      },
+      {
+        "word": "概要欄",
+        "reading": "がいようらん",
+        "note": "名詞，資訊欄/簡介欄（YouTube 頻道用語）"
+      },
+      {
+        "word": "ご覧になる",
+        "reading": "ごらんになる",
+        "note": "動詞，觀看（「見る」的尊敬語）"
+      }
+    ],
+    "context_grammar": [
+      "ご覧になられた：雙重敬語結構（尊敬語「ご覧になる」＋ 尊敬助動詞「られる」），極致尊崇收看影片的觀眾。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "13:07",
+    "japanese": "我々アウディジャパン販売は関東で13店舗、関西で6店舗を展開し、皆様の快適なアウディカーライフをサポートしております。",
+    "furigana": "<ruby>我<rt>われ</rt></ruby><ruby>々<rt>われ</rt></ruby>アウディジャパン<ruby>販<rt>はん</rt></ruby><ruby>売<rt>ばい</rt></ruby>は<ruby>關<rt>かん</rt></ruby><ruby>東<rt>とう</rt></ruby>で13<ruby>店<rt>てん</rt></ruby><ruby>舗<rt>ぽ</rt></ruby>、<ruby>關<rt>かん</rt></ruby><ruby>西<rt>さい</rt></ruby>で6<ruby>店<rt>てん</rt></ruby><ruby>舗<rt>ぽ</rt></ruby>を<ruby>展<rt>てん</rt></ruby><ruby>開<rt>かい</rt></ruby>し、<ruby>皆<rt>みな</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>快<rt>かい</rt></ruby><ruby>適<rt>てき</rt></ruby>なアウディカーライフをサポートしております。",
+    "segmentation": "我々アウディジャパン販売は | 関東で13店舗、| 関西で6店舗を展開し、| 皆様の快適なアウディカーライフを | サポートしております。",
+    "translation": {
+      "natural": "我們 Audi Japan Sales 在關東擁有 13 家展示中心、關西擁有 6 家展示中心，全力為您提供最舒適無憂的 Audi 用車生活。",
+      "literal": "我們Audi Japan Sales在關東展開13店面、在關西展開6店面，支援著各位舒適的Audi車生活。"
+    },
+    "words": [
+      {
+        "word": "我々",
+        "reading": "われわれ",
+        "note": "代名詞，我們"
+      },
+      {
+        "word": "カーライフ",
+        "reading": "カーライフ",
+        "note": "名詞，用車生活（Car life）"
+      },
+      {
+        "word": "サポートする",
+        "reading": "サポートする",
+        "note": "動詞，支援、協助（謙讓語為サポートしております）"
+      }
+    ],
+    "context_grammar": [
+      "サポートしております：謙讓語（しております），說明官方營運團隊支援顧客服務的企業承諾。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "13:18",
+    "japanese": "弊社のスペシャリストがお客様お一人お一人にぴったりなアウディが見つかるようお手伝いさせていただきますので、いつでもお気軽にショールームまで遊びにいらしてください。",
+    "furigana": "<ruby>幣<rt>へい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>のスペシャリストが<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>お<ruby>一<rt>ひと</rt></ruby><ruby>人<rt>り</rt></ruby>お<ruby>一<rt>ひと</rt></ruby><ruby>人<rt>り</rt></ruby>にピッタリなアウディが<ruby>見<rt>み</rt></ruby>つかるようお<ruby>手<rt>て</rt></ruby><ruby>伝<rt>つだ</rt></ruby>いさせていただきますので、いつでもお<ruby>氣<rt>き</rt></ruby><ruby>輕<rt>かる</rt></ruby>にショールームまで<ruby>遊<rt>あそ</rt></ruby>びにいらしてください。",
+    "segmentation": "弊社のスペシャリストが | お客様お一人お一人にピッタリな | アウディが見つかるよう | お手伝いさせていただきますので、| いつでもお気軽に | ショールームまで | 遊びにいらしてください。",
+    "translation": {
+      "natural": "我們的銷售專家將全心協助每一位顧客找到最合適的 Audi 愛車，歡迎隨時撥冗至展示中心蒞臨參觀！",
+      "literal": "敝公司的專家為了能找到適合顧客每一位人的Audi幫忙著，請隨時輕鬆地來展示間遊玩。"
+    },
+    "words": [
+      {
+        "word": "弊社",
+        "reading": "へいしゃ",
+        "note": "名詞，敝公司（謙稱）"
+      },
+      {
+        "word": "お手伝いする",
+        "reading": "おてつだいする",
+        "note": "動詞，協助（謙讓為お手伝いさせていただきます）"
+      },
+      {
+        "word": "いらっしゃる",
+        "reading": "いらっしゃる",
+        "note": "動詞，來/光臨（「来る」的尊敬語）"
+      }
+    ],
+    "context_grammar": [
+      "～見つかるよう：動詞連體形＋よう（目的），表示「為了達到能找到適合車款的目的」。",
+      "お手伝いさせていただきます：極其標準的日文商務謙讓表達（お＋連用形＋させていただく）。",
+      "いらしてください：尊敬語動詞（いらっしゃる 的連用形 いらし ＋ てください），親切邀請顧客光臨。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "13:33",
+    "japanese": "皆様のお越しをお待ちしております。",
+    "furigana": "<ruby>皆<rt>みな</rt></ruby><ruby>様<rt>さま</rt></ruby>のお<ruby>越<rt>こ</rt></ruby>しをお<ruby>待<rt>ま</rt></ruby>ちしております。",
+    "segmentation": "皆様のお越しを | お待ちしております。",
+    "translation": {
+      "natural": "誠摯期待您的光臨。",
+      "literal": "等待著各位的大駕光臨。"
+    },
+    "words": [
+      {
+        "word": "お越し",
+        "reading": "おこし",
+        "note": "名詞，光臨、大駕光臨（「行く/来る」的名詞化敬語）"
+      },
+      {
+        "word": "お待ちする",
+        "reading": "おまちする",
+        "note": "動詞，等候（謙讓語為お待ちしております）"
+      }
+    ],
+    "context_grammar": [
+      "お＋待ち＋しております：謙讓語句型（お＋動詞連用形＋しております），日本店面與品牌影片最經典的標準結尾敬語。"
+    ]
+  }
+]
