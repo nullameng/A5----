@@ -72,12 +72,15 @@
       </div>
 
       <!-- 播放屬性控制項 -->
-      <div style="display: flex; gap: 15px; align-items: center; font-size: 0.95rem; margin-top: 8px;">
+      <div style="display: flex; gap: 10px; align-items: center; font-size: 0.95rem; margin-top: 8px; flex-wrap: wrap;">
         <label>語速: <span id="rateVal">1.0</span>x</label>
         <input type="range" id="rate" min="0.5" max="1.5" step="0.1" value="1.0">
         
         <label><input type="checkbox" id="loopCheck" checked> 自動循環朗讀/播放</label>
         <button id="speechBtn" onclick="togglePlay()" style="padding: 4px 12px; font-weight: bold;">播放 / 暫停</button>
+        
+        <!-- 新增校正按鈕 -->
+        <button id="offsetBtn" onclick="adjustOffset()" style="padding: 4px 10px; font-weight: bold; cursor: pointer;">段落起點校正</button>
       </div>
 
       <!-- 語音聲音選擇 (TTS 專用) -->
@@ -101,8 +104,10 @@
 
     let rawTranscriptData = [];
     let currentItem = null;
+    let currentItemIndex = -1; // 紀錄目前點選的段落 index
     let currentStartTime = 0;
     let currentEndTime = 0;
+    let timeOffset = 0.0; // 時間位移校正秒數
     let voices = [];
     let synth = window.speechSynthesis;
 
@@ -151,6 +156,33 @@
       const m = Math.floor(sec / 60).toString().padStart(2, '0');
       const s = Math.floor(sec % 60).toString().padStart(2, '0');
       return `${m}:${s}`;
+    }
+
+    // --- 校正按鈕點擊處理邏輯 ---
+    function adjustOffset() {
+      const input = prompt("請輸入要調整的校正秒數（可包含小數位，正數延遲，負數提前）：", timeOffset.toFixed(1));
+      if (input !== null && input.trim() !== "") {
+        const val = parseFloat(input);
+        if (!isNaN(val)) {
+          timeOffset = Math.round(val * 10) / 10; // 限制至小數點第一位
+          const btn = document.getElementById('offsetBtn');
+          if (timeOffset !== 0) {
+            btn.innerText = `段落起點校正 (${timeOffset > 0 ? '+' : ''}${timeOffset}s)`;
+            btn.style.color = '#0066cc';
+          } else {
+            btn.innerText = `段落起點校正`;
+            btn.style.color = '';
+          }
+          
+          // 如果目前已選取段落，立即更新播放區間並重新播放
+          if (currentItem && currentItemIndex !== -1) {
+            const activeElem = document.querySelectorAll('.segment-item')[currentItemIndex];
+            selectSegment(currentItem, currentItemIndex, activeElem);
+          }
+        } else {
+          alert("請輸入有效的數字！");
+        }
+      }
     }
 
     // --- TTS 邏輯 ---
@@ -290,22 +322,27 @@
 
     function selectSegment(item, index, element) {
       document.querySelectorAll('.segment-item').forEach(el => el.classList.remove('active'));
-      element.classList.add('active');
+      if (element) element.classList.add('active');
       
       currentItem = item;
-      currentStartTime = parseTimeToSeconds(item.time);
+      currentItemIndex = index;
 
-      // 計算結束時間：取下一個段落的時間點，並自動加上 1 秒 Buffer，確保尾音不被切掉
+      // 原始基礎時間 + 位移校正秒數
+      const rawStart = parseTimeToSeconds(item.time);
+      currentStartTime = Math.max(0, rawStart + timeOffset);
+
       if (index < rawTranscriptData.length - 1) {
-        currentEndTime = parseTimeToSeconds(rawTranscriptData[index + 1].time) + 1;
+        const rawEnd = parseTimeToSeconds(rawTranscriptData[index + 1].time);
+        currentEndTime = Math.max(currentStartTime + 0.5, rawEnd + timeOffset + 1); // +1 秒緩衝
       } else {
         currentEndTime = audioPlayer.duration || (currentStartTime + 13);
       }
 
       const mode = getAudioMode();
       if (mode === 'mp3') {
+        const offsetInfo = timeOffset !== 0 ? ` (校正 ${timeOffset > 0 ? '+' : ''}${timeOffset}s)` : '';
         document.getElementById('rangeDisplay').innerText = 
-          `MP3 區間: ${formatSeconds(currentStartTime)} ~ ${formatSeconds(currentEndTime)} (含 +1s 緩衝)`;
+          `MP3 區間: ${formatSeconds(currentStartTime)} ~ ${formatSeconds(currentEndTime)}${offsetInfo}`;
         playMp3Segment();
       } else {
         document.getElementById('rangeDisplay').innerText = `TTS 朗讀中：[${item.time}]`;
