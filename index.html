@@ -2,7 +2,7 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <title>日文影片逐字稿學習工具</title>
+  <title>日文影片逐字稿學習工具 (自動比對同名 MP3 版)</title>
   <style>
     body { font-family: sans-serif; display: flex; gap: 20px; padding: 20px; background: #f9f9f9; }
     .transcript-list { width: 40%; border-right: 2px solid #ccc; padding-right: 15px; height: 90vh; overflow-y: auto; }
@@ -10,15 +10,12 @@
     .segment-item { padding: 10px; margin-bottom: 8px; background: #fff; border: 1px solid #ddd; cursor: pointer; border-radius: 5px; }
     .segment-item:hover { background: #eef6ff; }
     .active { border-color: #0066cc; background: #e0f0ff; }
-    .controls { margin-bottom: 15px; padding: 10px; background: #eee; border-radius: 5px; }
     
-    /* 檔案選擇區塊樣式 */
     .file-select-box { margin-bottom: 15px; padding: 12px; background: #fff; border: 1px solid #ddd; border-radius: 6px; font-size: 0.9rem; }
-    .file-select-box select { width: 100%; padding: 6px; margin-top: 5px; border-radius: 4px; border: 1px solid #ccc; }
     .github-btn { width: 100%; padding: 8px; background: #24292e; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; }
     .github-btn:hover { background: #444d56; }
+    .controls { margin-bottom: 15px; padding: 15px; background: #eee; border-radius: 5px; }
     
-    /* 詳細解析區塊樣式 */
     .japanese-text { font-size: 1.25rem; line-height: 2.2; margin-bottom: 15px; color: #1a1a1a; }
     .translation-box { background: #f0f4f8; padding: 10px 15px; border-left: 4px solid #0066cc; margin-bottom: 15px; border-radius: 4px; }
     .section-title { font-weight: bold; margin-top: 15px; margin-bottom: 8px; color: #333; border-bottom: 1px solid #eee; padding-bottom: 4px; }
@@ -27,78 +24,306 @@
     .word-title { font-weight: bold; color: #0066cc; }
     .word-reading { color: #666; font-size: 0.85rem; margin-left: 5px; }
     .grammar-item { background: #fff8e6; padding: 10px; border-left: 4px solid #ffc107; margin-bottom: 8px; border-radius: 4px; line-height: 1.6; }
-    ruby rt { color: #555; font-size: 0.65em; }
+    
+    .audio-source-toggle { margin-bottom: 10px; padding: 6px; background: #e0e0e0; border-radius: 4px; display: flex; gap: 15px; align-items: center; }
   </style>
 </head>
 <body>
 
-  <!-- 左側：分段列表 -->
-  <div class="transcript-list" id="transcriptList">
+  <!-- 左側：分段列表與檔案載入 -->
+  <div class="transcript-list">
     <div class="file-select-box">
-      <!-- 選擇器 1：本地開啟檔案選擇器 -->
-      <label for="fileInput"><b>📁 1. 本地開啟檔案 (.json / .js)：</b></label><br>
+      <label for="fileInput"><b>📁 1. 本地開啟字幕檔 (.json / .js)：</b></label><br>
       <input type="file" id="fileInput" accept=".json,.js" style="margin-top: 6px; margin-bottom: 12px; width: 100%;">
 
       <hr style="border: 0; border-top: 1px dashed #ccc; margin: 12px 0;">
 
-      <!-- 選擇器 2：GitHub 線上教材選擇器 -->
       <label><b>☁️ 2. 選擇 GitHub 線上教材：</b></label><br>
       <button id="fetchGithubBtn" class="github-btn" onclick="fetchGithubFiles()" style="margin-top: 6px;">載入 GitHub data/ 檔案列表</button>
       
       <div id="githubSelectContainer" style="display: none; margin-top: 8px;">
-        <select id="githubDatasetSelect"></select>
+        <select id="githubDatasetSelect" style="width: 100%; padding: 6px;"></select>
       </div>
     </div>
 
     <h3>逐字稿分段（點擊播放與解析）</h3>
     <div id="listContent">
-      <p style="color:#888; text-align: center; margin-top: 30px;">請從上方「開啟本地檔案」或「載入 GitHub 列表」</p>
+      <p style="color:#888; text-align: center; margin-top: 30px;">請從上方開啟字幕檔</p>
     </div>
   </div>
 
-  <!-- 右側：控制區與文法解析展示 -->
+  <!-- 右側：雙模播放器與文法解析展現 -->
   <div class="analysis-panel">
     <div class="controls">
-      <label>語速 (Rate): <span id="rateVal">1.0</span>x</label>
-      <input type="range" id="rate" min="0.5" max="1.5" step="0.1" value="1.0"><br><br>
       
-      <div id="voicePickerGroup" style="display: none; margin-bottom: 15px;">
-        <label>選擇語音:</label>
-        <select id="voiceSelect"></select>
+      <!-- 音訊來源選擇切換開關 -->
+      <div class="audio-source-toggle">
+        <b>🔊 聲音來源：</b>
+        <label style="cursor: pointer;"><input type="radio" name="audioType" value="tts" checked id="typeTts"> 🤖 電腦語音 (TTS)</label>
+        <label style="cursor: pointer;"><input type="radio" name="audioType" value="mp3" id="typeMp3"> 🎵 MP3 音訊檔</label>
       </div>
 
-      <label><input type="checkbox" id="loopCheck" checked> 自動循環朗讀</label>
-      <button id="speechBtn" onclick="toggleSpeech()" style="margin-left: 10px;">停止朗讀</button>
+      <!-- MP3 選檔與播放器 -->
+      <div id="mp3ControlsContainer" style="display: none; margin-bottom: 10px;">
+        <label for="audioFileInput"><b id="mp3Label">🎵 MP3 音訊：</b></label>
+        <input type="file" id="audioFileInput" accept="audio/mp3,audio/*" style="margin-top: 4px; margin-bottom: 6px; width: 100%;">
+        <audio id="audioPlayer" controls style="width: 100%; margin-top: 4px;"></audio>
+        <div id="mp3StatusMsg" style="font-size: 0.8rem; color: #0066cc; margin-top: 4px;"></div>
+      </div>
+
+      <!-- 播放屬性控制項 -->
+      <div style="display: flex; gap: 15px; align-items: center; font-size: 0.95rem; margin-top: 8px;">
+        <label>語速: <span id="rateVal">1.0</span>x</label>
+        <input type="range" id="rate" min="0.5" max="1.5" step="0.1" value="1.0">
+        
+        <label><input type="checkbox" id="loopCheck" checked> 自動循環朗讀/播放</label>
+        <button id="speechBtn" onclick="togglePlay()" style="padding: 4px 12px; font-weight: bold;">播放 / 暫停</button>
+      </div>
+
+      <!-- 語音聲音選擇 (TTS 專用) -->
+      <div id="ttsVoiceContainer" style="margin-top: 8px; font-size: 0.85rem;">
+        <label for="voiceSelect">語音發音員：</label>
+        <select id="voiceSelect" style="width: 70%;"></select>
+      </div>
+
+      <div style="font-size: 0.85rem; color: #666; margin-top: 8px;">
+        目前狀態：<span id="rangeDisplay">未點選段落</span>
+      </div>
     </div>
 
     <h2>詳細解析</h2>
     <div id="grammarOutput">請從左側載入檔案並點選任意段落...</div>
   </div>
 
-  <!-- 主程式邏輯 -->
   <script>
-    // ⚠️ 請修改為你的 GitHub 帳號與 Repo 名稱
-    const GITHUB_USER = 'nullameng';
+    const GITHUB_USER = 'nullameng'; 
     const GITHUB_REPO = 'A5----';
 
-    let currentSegment = null;
-    let selectedVoice = null;
-    let isPlaying = false;
-    const synth = window.speechSynthesis;
+    let rawTranscriptData = [];
+    let currentItem = null;
+    let currentStartTime = 0;
+    let currentEndTime = 0;
+    let voices = [];
+    let synth = window.speechSynthesis;
 
+    const audioPlayer = document.getElementById('audioPlayer');
     const listContentEl = document.getElementById('listContent');
     const githubDatasetSelect = document.getElementById('githubDatasetSelect');
     const githubSelectContainer = document.getElementById('githubSelectContainer');
+    const voiceSelect = document.getElementById('voiceSelect');
+    const mp3StatusMsg = document.getElementById('mp3StatusMsg');
 
-    // 渲染列表的通用函式
+    function getAudioMode() {
+      return document.querySelector('input[name="audioType"]:checked').value;
+    }
+
+    document.querySelectorAll('input[name="audioType"]').forEach(radio => {
+      radio.addEventListener('change', (e) => {
+        const mode = e.target.value;
+        const mp3Container = document.getElementById('mp3ControlsContainer');
+        const ttsContainer = document.getElementById('ttsVoiceContainer');
+        
+        stopAllAudio();
+
+        if (mode === 'mp3') {
+          mp3Container.style.display = 'block';
+          ttsContainer.style.display = 'none';
+        } else {
+          mp3Container.style.display = 'none';
+          ttsContainer.style.display = 'block';
+        }
+      });
+    });
+
+    function parseTimeToSeconds(timeStr) {
+      if (!timeStr) return 0;
+      const parts = timeStr.toString().replace('[', '').replace(']', '').split(':');
+      if (parts.length === 3) {
+        return parseInt(parts[0], 10) * 3600 + parseInt(parts[1], 10) * 60 + parseInt(parts[2], 10);
+      } else if (parts.length === 2) {
+        return parseInt(parts[0], 10) * 60 + parseInt(parts[1], 10);
+      }
+      return 0;
+    }
+
+    function formatSeconds(sec) {
+      if (isNaN(sec) || sec === Infinity) return "00:00";
+      const m = Math.floor(sec / 60).toString().padStart(2, '0');
+      const s = Math.floor(sec % 60).toString().padStart(2, '0');
+      return `${m}:${s}`;
+    }
+
+    // --- TTS 邏輯 ---
+    function populateVoiceList() {
+      if (!synth) return;
+      voices = synth.getVoices().filter(v => v.lang.includes('ja') || v.lang.includes('JP'));
+      if (voices.length === 0) voices = synth.getVoices();
+
+      voiceSelect.innerHTML = '';
+      voices.forEach((voice, i) => {
+        const option = document.createElement('option');
+        option.textContent = `${voice.name} (${voice.lang})`;
+        option.setAttribute('data-name', voice.name);
+        voiceSelect.appendChild(option);
+      });
+    }
+
+    populateVoiceList();
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+      speechSynthesis.onvoiceschanged = populateVoiceList;
+    }
+
+    function playTTS(text) {
+      synth.cancel();
+      if (!text) return;
+
+      const utterThis = new SpeechSynthesisUtterance(text);
+      utterThis.rate = parseFloat(document.getElementById('rate').value);
+
+      const selectedOption = voiceSelect.selectedOptions[0]?.getAttribute('data-name');
+      const selectedVoice = voices.find(v => v.name === selectedOption);
+      if (selectedVoice) utterThis.voice = selectedVoice;
+
+      utterThis.onend = function() {
+        if (document.getElementById('loopCheck').checked && getAudioMode() === 'tts') {
+          playTTS(text);
+        }
+      };
+
+      synth.speak(utterThis);
+    }
+
+    // --- MP3 播放控制 ---
+    function playMp3Segment() {
+      if (!audioPlayer.src) return;
+      audioPlayer.playbackRate = parseFloat(document.getElementById('rate').value);
+      audioPlayer.currentTime = currentStartTime;
+      audioPlayer.play().catch(err => console.log("自動播放被瀏覽器阻擋或未準備就緒：", err));
+    }
+
+    // --- 自動偵測與載入同名 MP3 ---
+    async function tryAutoLoadMp3(jsonFilePath) {
+      const mp3Path = jsonFilePath.replace(/\.(json|js)$/i, '.mp3');
+      mp3StatusMsg.innerText = '正在自動尋找同名 MP3...';
+
+      try {
+        const response = await fetch(mp3Path, { method: 'HEAD' });
+        if (response.ok) {
+          audioPlayer.src = mp3Path;
+          mp3StatusMsg.innerText = `✅ 已成功自動載入對應 MP3：${mp3Path.split('/').pop()}`;
+          
+          document.getElementById('typeMp3').checked = true;
+          document.getElementById('typeMp3').dispatchEvent(new Event('change'));
+          
+          if (currentItem) {
+            playMp3Segment();
+          }
+        } else {
+          throw new Error('未找到對應 MP3 檔');
+        }
+      } catch (err) {
+        mp3StatusMsg.innerText = `⚠️ 未找到同名 MP3 (${mp3Path.split('/').pop()})，已切換回電腦語音模式。`;
+        audioPlayer.removeAttribute('src');
+        document.getElementById('typeTts').checked = true;
+        document.getElementById('typeTts').dispatchEvent(new Event('change'));
+      }
+    }
+
+    // --- 手動選擇 MP3 音訊檔案並直接播放 ---
+    document.getElementById('audioFileInput').addEventListener('change', function(e) {
+      const file = e.target.files[0];
+      if (file) {
+        const fileURL = URL.createObjectURL(file);
+        audioPlayer.src = fileURL;
+        mp3StatusMsg.innerText = `已載入聲音檔案：${file.name}`;
+        
+        document.getElementById('typeMp3').checked = true;
+        document.getElementById('typeMp3').dispatchEvent(new Event('change'));
+
+        playMp3Segment();
+      }
+    });
+
+    audioPlayer.addEventListener('timeupdate', function() {
+      if (getAudioMode() === 'mp3' && currentEndTime > 0 && audioPlayer.currentTime >= currentEndTime) {
+        const isLoop = document.getElementById('loopCheck').checked;
+        if (isLoop) {
+          audioPlayer.currentTime = currentStartTime;
+          audioPlayer.play();
+        } else {
+          audioPlayer.pause();
+        }
+      }
+    });
+
+    function stopAllAudio() {
+      if (synth) synth.cancel();
+      if (audioPlayer) audioPlayer.pause();
+    }
+
+    function togglePlay() {
+      const mode = getAudioMode();
+
+      if (mode === 'tts') {
+        if (synth.speaking) {
+          synth.cancel();
+        } else if (currentItem) {
+          playTTS(currentItem.japanese || currentItem.text);
+        } else {
+          alert("請先從左側點選任一段落！");
+        }
+      } else if (mode === 'mp3') {
+        if (!audioPlayer.src) {
+          alert("請先載入 MP3 音訊檔案！");
+          return;
+        }
+        if (audioPlayer.paused) {
+          if (audioPlayer.currentTime < currentStartTime || audioPlayer.currentTime >= currentEndTime) {
+            audioPlayer.currentTime = currentStartTime;
+          }
+          audioPlayer.play();
+        } else {
+          audioPlayer.pause();
+        }
+      }
+    }
+
+    function selectSegment(item, index, element) {
+      document.querySelectorAll('.segment-item').forEach(el => el.classList.remove('active'));
+      element.classList.add('active');
+      
+      currentItem = item;
+      currentStartTime = parseTimeToSeconds(item.time);
+
+      // 計算結束時間：取下一個段落的時間點，並自動加上 1 秒 Buffer，確保尾音不被切掉
+      if (index < rawTranscriptData.length - 1) {
+        currentEndTime = parseTimeToSeconds(rawTranscriptData[index + 1].time) + 1;
+      } else {
+        currentEndTime = audioPlayer.duration || (currentStartTime + 13);
+      }
+
+      const mode = getAudioMode();
+      if (mode === 'mp3') {
+        document.getElementById('rangeDisplay').innerText = 
+          `MP3 區間: ${formatSeconds(currentStartTime)} ~ ${formatSeconds(currentEndTime)} (含 +1s 緩衝)`;
+        playMp3Segment();
+      } else {
+        document.getElementById('rangeDisplay').innerText = `TTS 朗讀中：[${item.time}]`;
+        playTTS(item.japanese || item.text);
+      }
+
+      renderAnalysis(item);
+    }
+
     function renderList(data) {
+      rawTranscriptData = data;
       listContentEl.innerHTML = '';
       if (Array.isArray(data) && data.length > 0) {
-        data.forEach(item => {
+        data.forEach((item, index) => {
           const div = document.createElement('div');
           div.className = 'segment-item';
-          div.innerText = `[${item.time}] ${item.japanese}`;
-          div.onclick = () => selectSegment(item, div);
+          div.innerText = `[${item.time}] ${item.japanese || item.text}`;
+          div.onclick = () => selectSegment(item, index, div);
           listContentEl.appendChild(div);
         });
       } else {
@@ -106,7 +331,6 @@
       }
     }
 
-    // 通用動態讀取網址路徑 JSON/JS
     async function fetchJsonData(filePath) {
       listContentEl.innerHTML = '<p style="color:#666;">載入資料中...</p>';
       try {
@@ -114,8 +338,6 @@
         if (!response.ok) throw new Error(`HTTP 錯誤狀態碼: ${response.status}`);
         
         let text = await response.text();
-        
-        // 自動截取中括號 [...] 內的 JSON 陣列
         const startIdx = text.indexOf('[');
         const endIdx = text.lastIndexOf(']');
         if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
@@ -124,13 +346,15 @@
 
         const data = JSON.parse(text);
         renderList(data);
+
+        tryAutoLoadMp3(filePath);
+
       } catch (err) {
         console.error('Fetch 錯誤：', err);
         listContentEl.innerHTML = `<p style="color:red;">無法讀取檔案 (${filePath})，請確認路徑或檔案格式。</p>`;
       }
     }
 
-    // 選擇器 1 邏輯：監聽手動選擇本地檔案 (.json 或 .js)
     document.getElementById('fileInput').addEventListener('change', function(e) {
       const file = e.target.files[0];
       if (!file) return;
@@ -139,35 +363,31 @@
       reader.onload = function(evt) {
         try {
           let content = evt.target.result;
-
           const startIdx = content.indexOf('[');
           const endIdx = content.lastIndexOf(']');
-
           if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
             content = content.substring(startIdx, endIdx + 1);
           }
-
           const parsedData = JSON.parse(content);
           renderList(parsedData);
+
+          const expectedMp3Name = file.name.replace(/\.(json|js)$/i, '.mp3');
+          mp3StatusMsg.innerText = `💡 提示：請開啟同名的音訊檔 👉 ${expectedMp3Name}`;
         } catch (err) {
           alert("檔案讀取失敗，請確認檔案格式是否正確。");
-          console.error(err);
         }
       };
       reader.readAsText(file, "UTF-8");
     });
 
-    // 選擇器 2 邏輯：點擊向 GitHub API 請求 data/ 資料夾檔案清單
     async function fetchGithubFiles() {
       const btn = document.getElementById('fetchGithubBtn');
       btn.innerText = '🔄 掃描中...';
-      
       const apiUrl = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/data`;
 
       try {
         const res = await fetch(apiUrl);
-        if (!res.ok) throw new Error('API 請求失敗，請確認使用者名稱與 Repo 設定。');
-        
+        if (!res.ok) throw new Error('API 請求失敗');
         const files = await res.json();
         const validFiles = files.filter(f => f.name.endsWith('.json') || f.name.endsWith('.js'));
 
@@ -187,37 +407,20 @@
 
         githubSelectContainer.style.display = 'block';
         btn.innerText = '✅ 已取得 GitHub 清單';
-        
-        // 自動讀取列表中第一個檔案
         fetchJsonData(validFiles[0].path);
-
       } catch (err) {
-        alert('無法取得 GitHub 檔案清單，請確認網路或 GitHub 帳號設定。');
-        console.error(err);
+        alert('無法取得 GitHub 檔案清單。');
         btn.innerText = '載入 GitHub data/ 檔案列表';
       }
     }
 
-    // 選擇器 2 邏輯：監聽 GitHub 下拉選單切換
     githubDatasetSelect.addEventListener('change', (e) => {
       fetchJsonData(e.target.value);
     });
 
-    // 選取段落邏輯
-    function selectSegment(item, element) {
-      document.querySelectorAll('.segment-item').forEach(el => el.classList.remove('active'));
-      element.classList.add('active');
-      
-      currentSegment = item;
-      renderAnalysis(item);
-      playSpeech();
-    }
-
-    // 渲染右側詳細解析欄位
     function renderAnalysis(item) {
       let html = '';
-
-      const japaneseDisplay = item.furigana || item.japanese;
+      const japaneseDisplay = item.furigana || item.japanese || item.text;
       html += `<div class="japanese-text"><b>【日文】</b> ${japaneseDisplay}</div>`;
 
       if (item.translation) {
@@ -247,107 +450,12 @@
       document.getElementById('grammarOutput').innerHTML = html;
     }
 
-    // 語音朗讀邏輯
-    function playSpeech() {
-      synth.cancel();
-      if (!currentSegment) return;
-
-      const utterThis = new SpeechSynthesisUtterance(currentSegment.japanese);
-      utterThis.lang = 'ja-JP';
-      utterThis.rate = parseFloat(document.getElementById('rate').value);
-
-      const voiceSelect = document.getElementById('voiceSelect');
-      const voices = synth.getVoices();
-      
-      if (voiceSelect && voiceSelect.value) {
-        const picked = voices.find(v => v.name === voiceSelect.value);
-        if (picked) utterThis.voice = picked;
-      } else if (selectedVoice) {
-        utterThis.voice = selectedVoice;
-      }
-
-      utterThis.onstart = function() {
-        isPlaying = true;
-        updateSpeechBtnText();
-      };
-
-      utterThis.onend = function() {
-        const loop = document.getElementById('loopCheck').checked;
-        if (loop && isPlaying && currentSegment) {
-          playSpeech();
-        } else {
-          isPlaying = false;
-          updateSpeechBtnText();
-        }
-      };
-
-      synth.speak(utterThis);
-    }
-
-    function toggleSpeech() {
-      if (!currentSegment) return;
-
-      if (isPlaying) {
-        isPlaying = false;
-        synth.cancel();
-        updateSpeechBtnText();
-      } else {
-        playSpeech();
-      }
-    }
-
-    function updateSpeechBtnText() {
-      const btn = document.getElementById('speechBtn');
-      if (btn) {
-        btn.innerText = isPlaying ? '停止朗讀' : '繼續朗讀';
-      }
-    }
-
-    // 載入系統可用語音
-    function populateVoiceList() {
-      const voices = synth.getVoices();
-      const voiceSelect = document.getElementById('voiceSelect');
-      const pickerGroup = document.getElementById('voicePickerGroup');
-      
-      voiceSelect.innerHTML = '';
-      
-      const jaVoices = voices.filter(v => v.lang.includes('ja') || v.lang.includes('JA'));
-      
-      if (jaVoices.length === 0) {
-        pickerGroup.style.display = 'none';
-        return;
-      }
-
-      const maleKeywords = ['male', 'ichiro', 'keita', 'otoya', 'naoki', 'daichi'];
-      let maleVoice = jaVoices.find(v => maleKeywords.some(kw => v.name.toLowerCase().includes(kw)));
-      
-      selectedVoice = maleVoice || jaVoices[0];
-
-      if (jaVoices.length > 1) {
-        pickerGroup.style.display = 'block';
-        jaVoices.forEach(voice => {
-          const option = document.createElement('option');
-          option.textContent = `${voice.name} (${voice.lang})`;
-          option.value = voice.name;
-          if (voice.name === selectedVoice.name) {
-            option.selected = true;
-          }
-          voiceSelect.appendChild(option);
-        });
-      } else {
-        pickerGroup.style.display = 'none';
-      }
-    }
-
-    populateVoiceList();
-    if (speechSynthesis.onvoiceschanged !== undefined) {
-      speechSynthesis.onvoiceschanged = populateVoiceList;
-    }
-
-    // 監聽語速滑桿變化
     document.getElementById('rate').addEventListener('input', (e) => {
-      document.getElementById('rateVal').innerText = e.target.value;
-      if (isPlaying) playSpeech();
+      const val = e.target.value;
+      document.getElementById('rateVal').innerText = val;
+      if (getAudioMode() === 'mp3' && audioPlayer.src) {
+        audioPlayer.playbackRate = parseFloat(val);
+      }
     });
   </script>
 </body>
