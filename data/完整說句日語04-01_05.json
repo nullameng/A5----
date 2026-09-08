@@ -1,0 +1,1846 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "Part 4.",
+    "furigana": "Part 4.",
+    "segmentation": "Part 4.",
+    "translation": {
+      "natural": "第四部分",
+      "literal": "第四部分"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題單元說明。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:03",
+    "japanese": "136.たらいいですよ",
+    "furigana": "136.たらいいですよ",
+    "segmentation": "136. | たらいいですよ",
+    "translation": {
+      "natural": "136. 這樣做比較好喔（建議）",
+      "literal": "136. 如果～的話就好了喔"
+    },
+    "words": [
+      {
+        "word": "たらいい",
+        "reading": "たらいい",
+        "note": "句型，建議對方「如果做某事就好了」"
+      }
+    ],
+    "context_grammar": [
+      "標題句型「動詞過去式 (た形) + ら + いいですよ」：用於給予對方具體建議或指點時的親切表達方式。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:08",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "第一步驟",
+      "literal": "第一步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "練習步驟標題。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:10",
+    "japanese": "1.これにしたらいいですよ。",
+    "furigana": "1.これにしたらいいですよ。",
+    "segmentation": "1. これに | したら | いいですよ。",
+    "translation": {
+      "natural": "1. 選這個比較好喔。",
+      "literal": "1. 如果做成這個的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "note": "代名詞，這個"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做、決定（選定目標時用「Nにする」）"
+      }
+    ],
+    "context_grammar": [
+      "「これにする」中格助詞「に」表示決定的目標/選擇結果。",
+      "「したら」為動詞「する」的た形+ら（假定形），後接「いいですよ」組成建議句型，語氣溫和且帶有引導效果。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:13",
+    "japanese": "2.薬を飲んだらいいですよ。",
+    "furigana": "2.<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んだらいいですよ。",
+    "segmentation": "2. 薬を | 飲んだら | いいですよ。",
+    "translation": {
+      "natural": "2. 吃點藥比較好喔。",
+      "literal": "2. 如果喝了藥的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "薬",
+        "reading": "くすり",
+        "note": "名詞，藥"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝、吃（藥）"
+      }
+    ],
+    "context_grammar": [
+      "「薬を飲む」中「を」為賓格助詞，標示動作對象；日文中「吃藥」慣用動詞「飲む」而非「食べる」。",
+      "「飲んだら」為「飲む」的撥音便過去式（飲んだ）加上「ら」，表示條件假定後接建議。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:17",
+    "japanese": "3.ここへ行ったらいいですよ。",
+    "furigana": "3.ここへ<ruby>行<rt>い</rt></ruby>ったらいいですよ。",
+    "segmentation": "3. ここへ | 行ったら | いいですよ。",
+    "translation": {
+      "natural": "3. 去這裡比較好喔。",
+      "literal": "3. 如果去這裡的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「へ」表示移動的方向與目的地。",
+      "「行ったら」為五段動詞「行く」的促音便過去式（行った）加上「ら」，引導後續的建議提案。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:21",
+    "japanese": "4.ここを参観したらいいですよ。",
+    "furigana": "4.ここを<ruby>参<rt>さん</rt></ruby><ruby>観<rt>かん</rt></ruby>したらいいですよ。",
+    "segmentation": "4. ここを | 参観したら | いいですよ。",
+    "translation": {
+      "natural": "4. 參觀這裡比較好喔。",
+      "literal": "4. 如果參觀這裡的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "参観する",
+        "reading": "さんかんする",
+        "note": "動詞，參觀"
+      }
+    ],
+    "context_grammar": [
+      "「ここを」中「を」表示經過、穿越或動作作用的場所領域。",
+      "「参観する」屬於サ變動詞，變化為た形「参観した」加上「ら」構成條件句。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:25",
+    "japanese": "5.このホテルに泊まったらいいですよ。",
+    "furigana": "5.このホテルに<ruby>泊<rt>と</rt></ruby>まったらいいですよ。",
+    "segmentation": "5. このホテルに | 泊まったら | いいですよ。",
+    "translation": {
+      "natural": "5. 住在這家飯店比較好喔。",
+      "literal": "5. 如果在這家飯店住宿的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "ホテル",
+        "reading": "ほてる",
+        "note": "名詞，飯店"
+      },
+      {
+        "word": "泊まる",
+        "reading": "とまる",
+        "note": "動詞，住宿、過夜"
+      }
+    ],
+    "context_grammar": [
+      "「この」連體詞修飾後方的名詞「ホテル」；格助詞「に」表示住宿停留的附著點與地點。",
+      "「泊まったら」為五段動詞「泊まる」的促音便連用形「泊まっ」+た+ら。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:30",
+    "japanese": "6.花火大会を見たらいいですよ。",
+    "furigana": "6.<ruby>花<rt>は</rt></ruby><ruby>火<rt>な</rt></ruby><ruby>大<rt>び</rt></ruby><ruby>会<rt>たい</rt></ruby><ruby>を<rt>かい</rt></ruby><ruby>見<rt>み</rt></ruby>たらいいですよ。",
+    "segmentation": "6. 花火大会を | 見たら | いいですよ。",
+    "translation": {
+      "natural": "6. 去看煙火大會比較好喔。",
+      "literal": "6. 如果看了煙火大會的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "花火大会",
+        "reading": "はなびたいかい",
+        "note": "名詞，煙火大會"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看"
+      }
+    ],
+    "context_grammar": [
+      "「花火大会を」中「を」標示觀看動作的目標對象。",
+      "一段動詞「見る」去「る」接「た」變為「見た」，再加上「ら」引導建言。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:34",
+    "japanese": "7.お祭りへ行ったらいいですよ。",
+    "furigana": "7.お<ruby>祭<rt>まつ</rt></ruby>りへ<ruby>行<rt>い</rt></ruby>ったらいいですよ。",
+    "segmentation": "7. お祭りへ | 行ったら | いいですよ。",
+    "translation": {
+      "natural": "7. 去參加祭典比較好喔。",
+      "literal": "7. 如果去祭典的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "お祭り",
+        "reading": "おまつり",
+        "note": "名詞，慶典、祭典（「お」為美化語接頭詞）"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "接頭詞「お」用於名詞「祭り」前增加禮貌美化語氣；助詞「へ」標示前往的方向與目的地。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:38",
+    "japanese": "8.ここへ連絡したらいいですよ。",
+    "furigana": "8.ここへ<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>したらいいですよ。",
+    "segmentation": "8. ここへ | 連絡したら | いいですよ。",
+    "translation": {
+      "natural": "8. 聯絡這裡比較好喔。",
+      "literal": "8. 如果向這裡聯絡的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "連絡する",
+        "reading": "れんらくする",
+        "note": "動詞，聯絡"
+      }
+    ],
+    "context_grammar": [
+      "「ここへ」助詞「へ」表示聯絡對象的方向/對象。",
+      "サ變動詞「連絡する」轉為た形「連絡した」接「ら」構成提案建議。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:43",
+    "japanese": "9.ここでチケットを買ったらいいですよ。",
+    "furigana": "9.ここでチケットを<ruby>買<rt>か</rt></ruby>ったらいいですよ。",
+    "segmentation": "9. ここで | チケットを | 買ったら | いいですよ。",
+    "translation": {
+      "natural": "9. 在這裡買票比較好喔。",
+      "literal": "9. 如果在這裡買了票的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "チケット",
+        "reading": "ちけっと",
+        "note": "名詞，票、入場券"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，購買"
+      }
+    ],
+    "context_grammar": [
+      "「ここで」中格助詞「で」標示動作（購買）發生的地點場所。",
+      "「買う」為五段動詞，促音便連用形為「買っ」，加「たら」構成「買ったら」。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:47",
+    "japanese": "10.ここで食事をしたらいいですよ。",
+    "furigana": "10.ここで<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>をしたらいいですよ。",
+    "segmentation": "10. ここで | 食事をしたら | いいですよ。",
+    "translation": {
+      "natural": "10. 在這裡用餐比較好喔。",
+      "literal": "10. 如果在這裡做了用餐的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "note": "名詞，用餐、吃飯"
+      }
+    ],
+    "context_grammar": [
+      "「食事をする」將名詞「食事」搭配動詞「する」轉化為動作表示「用餐」。",
+      "「で」標示動作地點，「したらいいですよ」提供明確親切的建議觀光資訊。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:52",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "第三步驟",
+      "literal": "第三步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "對話應用步驟標題。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:54",
+    "japanese": "どこに泊まったらいいですか。",
+    "furigana": "どこに<ruby>泊<rt>と</rt></ruby>まったらいいですか。",
+    "segmentation": "どこに | 泊まったら | いいですか。",
+    "translation": {
+      "natural": "住在哪裡比較好呢？",
+      "literal": "如果在何處住宿的話就好了呢？"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "疑問詞，哪裡"
+      }
+    ],
+    "context_grammar": [
+      "疑問詞「どこ」配合助詞「に」（表示住宿點）。",
+      "「～たらいいですか」為尋求建議、諮詢意見的標準客氣問句。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:57",
+    "japanese": "このホテルに泊まったらいいですよ。",
+    "furigana": "このホテルに<ruby>泊<rt>と</rt></ruby>まったらいいですよ。",
+    "segmentation": "このホテルに | 泊まったら | いいですよ。",
+    "translation": {
+      "natural": "住在這家飯店比較好喔。",
+      "literal": "如果在這家飯店住宿的話就好了喔。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      }
+    ],
+    "context_grammar": [
+      "答句呼應前一問句，使用「～たらいいですよ」給予明確解答與推薦。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:01",
+    "japanese": "137.たらどうですか",
+    "furigana": "137.たらどうですか",
+    "segmentation": "137. | たらどうですか",
+    "translation": {
+      "natural": "137. 要不要嘗試看看～呢？（建議/提議）",
+      "literal": "137. 如果～的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "どう",
+        "reading": "どう",
+        "note": "副詞，如何、怎樣"
+      }
+    ],
+    "context_grammar": [
+      "句型「動詞た形 + らどうですか」：委婉地向對方提出提議或勸誘，問對方「要不要試試看」。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:05",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "第一步驟",
+      "literal": "第一步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "練習步驟標題。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:07",
+    "japanese": "1.北海道へ行ってみたらどうですか。",
+    "furigana": "1.<ruby>北<rt>ほっ</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>道<rt>どう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ってみたらどうですか。",
+    "segmentation": "1. 北海道へ | 行ってみたら | どうですか。",
+    "translation": {
+      "natural": "1. 要不要去北海道看看呢？",
+      "literal": "1. 如果嘗試去北海道看看的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "北海道",
+        "reading": "ほっかいどう",
+        "note": "專有名詞，北海道"
+      },
+      {
+        "word": "てみる",
+        "reading": "てみる",
+        "note": "句型，嘗試做做看"
+      }
+    ],
+    "context_grammar": [
+      "「行って」為「行く」的て形，結合補助動詞「みる」（試試看）組成「行ってみる」（去看看）。",
+      "「行ってみる」轉為た形「行ってみた」加「らどうですか」，形成「要不要去去看呢」的雙重委婉勸誘。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:11",
+    "japanese": "2.納豆を食べてみたらどうですか。",
+    "furigana": "2.<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてみたらどうですか。",
+    "segmentation": "2. 納豆を | 食べてみたら | どうですか。",
+    "translation": {
+      "natural": "2. 要不要吃吃看納豆呢？",
+      "literal": "2. 如果嘗試吃了納豆的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "「食べて」為一段動詞「食べる」的て形，接「みる」表示嘗試嚐鮮體驗。",
+      "「～てみたらどうですか」常用於推薦他人體驗新文化、美食等觀光語境。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:16",
+    "japanese": "3.これを使ってみたらどうですか。",
+    "furigana": "3.これを<ruby>使<rt>つか</rt></ruby>ってみたらどうですか。",
+    "segmentation": "3. これを | 使ってみたら | どうですか。",
+    "translation": {
+      "natural": "3. 要不要用用看這個呢？",
+      "literal": "3. 如果嘗試使用了這個的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "note": "動詞，使用"
+      }
+    ],
+    "context_grammar": [
+      "「使って」為五段動詞「使う」的促音便て形，後接「みたらどうですか」。",
+      "在商業展示或推銷產品時，非常高頻用於親切邀請客戶試用。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:20",
+    "japanese": "4.留学フェアに行ってみたらどうですか。",
+    "furigana": "4.<ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>フェアに<ruby>行<rt>い</rt></ruby>ってみたらどうですか。",
+    "segmentation": "4. 留学フェアに | 行ってみたら | どうですか。",
+    "translation": {
+      "natural": "4. 要不要去留學展看看呢？",
+      "literal": "4. 如果嘗試去留學展看看的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "留学",
+        "reading": "りゅうがく",
+        "note": "名詞，留學"
+      },
+      {
+        "word": "フェア",
+        "reading": "ふぇあ",
+        "note": "名詞，展覽會、博覽會（Fair）"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「留学フェア」外來語，「に」表示前往參觀的目標地點。",
+      "「行ってみたらどうですか」提供方向性的實用建議。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:24",
+    "japanese": "5.パレードを見たらどうですか。",
+    "furigana": "5.パレードを<ruby>見<rt>み</rt></ruby>たらどうですか。",
+    "segmentation": "5. パレードを | 見たら | どうですか。",
+    "translation": {
+      "natural": "5. 要不要看看遊行呢？",
+      "literal": "5. 如果看了遊行的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "パレード",
+        "reading": "ぱれーど",
+        "note": "名詞，遊行（Parade）"
+      }
+    ],
+    "context_grammar": [
+      "直接使用「見る」的た形「見た」加「らどうですか」，沒有加「てみる」，語氣較為直接地建議「觀賞」該活動。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:28",
+    "japanese": "6.花火大会へ行ってみたらどうですか。",
+    "furigana": "6.<ruby>花<rt>は</rt></ruby><ruby>火<rt>な</rt></ruby><ruby>大<rt>び</rt></ruby><ruby>会<rt>たい</rt></ruby><ruby>へ<rt>かい</rt></ruby><ruby>行<rt>い</rt></ruby>ってみたらどうですか。",
+    "segmentation": "6. 花火大会へ | 行ってみたら | どうですか。",
+    "translation": {
+      "natural": "6. 要不要去煙火大會看看呢？",
+      "literal": "6. 如果嘗試去煙火大會看看的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "花火大会",
+        "reading": "はなびたいかい",
+        "note": "名詞，煙火大會"
+      }
+    ],
+    "context_grammar": [
+      "「花火大会へ」助詞「へ」強調移動的方向，搭配「行ってみたらどうですか」給予休閒活動的提議。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:33",
+    "japanese": "7.祇園祭を見学したらどうですか。",
+    "furigana": "7.<ruby>祇<rt>ぎ</rt></ruby><ruby>園<rt>おん</rt></ruby><ruby>祭<rt>まつり</rt></ruby>を<ruby>見<rt>けん</rt></ruby><ruby>学<rt>がく</rt></ruby>したらどうですか。",
+    "segmentation": "7. 祇園祭を | 見学したら | どうですか。",
+    "translation": {
+      "natural": "7. 要不要參觀祇園祭呢？",
+      "literal": "7. 如果參觀了祇園祭的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "祇園祭",
+        "reading": "ぎおんまつり",
+        "note": "專有名詞，京都祇園祭"
+      },
+      {
+        "word": "見学する",
+        "reading": "けんがくする",
+        "note": "動詞，參觀、見習"
+      }
+    ],
+    "context_grammar": [
+      "「祇園祭を」動作對象，サ變動詞「見学する」轉「見学した」+「らどうですか」。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:37",
+    "japanese": "8.茶道を体験してみたらどうですか。",
+    "furigana": "8.<ruby>茶<rt>さ</rt></ruby><ruby>道<rt>どう</rt></ruby>を<ruby>対<rt>たい</rt></ruby><ruby>験<rt>けん</rt></ruby>してみたらどうですか。",
+    "segmentation": "8. 茶道を | 体験してみたら | どうですか。",
+    "translation": {
+      "natural": "8. 要不要體驗看看茶道呢？",
+      "literal": "8. 如果嘗試體驗了茶道的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "茶道",
+        "reading": "さどう",
+        "note": "名詞，茶道"
+      },
+      {
+        "word": "体験する",
+        "reading": "たいけんする",
+        "note": "動詞，體驗"
+      }
+    ],
+    "context_grammar": [
+      "「体験する」的連用形「体験し」接「てみる」變為「体験してみる」（體驗看看）。",
+      "將文化體驗包裝成輕柔的建議行程。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:42",
+    "japanese": "9.ここで写真を撮ったらどうですか。",
+    "furigana": "9.ここで<ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったらどうですか。",
+    "segmentation": "9. ここで | 写真を | 撮ったら | どうですか。",
+    "translation": {
+      "natural": "9. 要不要在這裡拍張照呢？",
+      "literal": "9. 如果在這裡拍了照片的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "note": "名詞，照片"
+      },
+      {
+        "word": "撮る",
+        "reading": "とる",
+        "note": "動詞，拍攝"
+      }
+    ],
+    "context_grammar": [
+      "「写真を撮る」固定動詞搭配（拍照）。「撮る」為五段動詞，促音便形為「撮った」。",
+      "「ここで...撮ったらどうですか」為旅遊拍照熱點極常見的互相提議用語。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:46",
+    "japanese": "10.ここに連絡してみたらどうですか。",
+    "furigana": "10.ここに<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>してみたらどうですか。",
+    "segmentation": "10. ここに | 連絡してみたら | どうですか。",
+    "translation": {
+      "natural": "10. 要不要試著聯絡這裡看看呢？",
+      "literal": "10. 如果嘗試對這裡做了聯絡的話覺得如何呢？"
+    },
+    "words": [
+      {
+        "word": "連絡する",
+        "reading": "れんらくする",
+        "note": "動詞，聯絡"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「に」表示聯絡的目標對象，「連絡してみる」加上「たらどうですか」提供諮詢管道的建言。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:51",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "第三步驟",
+      "literal": "第三步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "對話應用步驟標題。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:53",
+    "japanese": "ここで写真を撮ったらどうですか。",
+    "furigana": "ここで<ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ったらどうですか。",
+    "segmentation": "ここで | 写真を | 撮ったら | どうですか。",
+    "translation": {
+      "natural": "要不要在這裡拍照呢？",
+      "literal": "如果在這裡拍了照片的話覺得如何呢？"
+    },
+    "words": [],
+    "context_grammar": [
+      "提議對方在目前景點合影拍照。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:56",
+    "japanese": "いい場所ですね。",
+    "furigana": "いい<ruby>場<rt>ば</rt></ruby><ruby>所<rt>しょ</rt></ruby>ですね。",
+    "segmentation": "いい場所 | ですね。",
+    "translation": {
+      "natural": "真是個好地方呢。",
+      "literal": "是好的場所呢。"
+    },
+    "words": [
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "note": "名詞，場所、地點"
+      }
+    ],
+    "context_grammar": [
+      "形容詞「いい」直接連體修飾名詞「場所」。",
+      "終助詞「ね」表示共鳴、同意對方的看法。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "01:59",
+    "japanese": "138.たら",
+    "furigana": "138.たら",
+    "segmentation": "138. | たら",
+    "translation": {
+      "natural": "138. 一旦～就…… / 如果～的話（假定與條件）",
+      "literal": "138. 如果～的話"
+    },
+    "words": [
+      {
+        "word": "たら",
+        "reading": "たら",
+        "note": "接續助詞，如果、做了～之後"
+      }
+    ],
+    "context_grammar": [
+      "標題句型「たら」：表示順接條件（如果...）或確定條件（一旦做了某事之後，就...）。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:02",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "第一步驟",
+      "literal": "第一步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "練習步驟標題。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:03",
+    "japanese": "1.到着したら連絡します。",
+    "furigana": "1.<ruby>到<rt>とう</rt></ruby><ruby>着<rt>ちゃく</rt></ruby>したら<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>します。",
+    "segmentation": "1. 到着したら | 連絡します。",
+    "translation": {
+      "natural": "1. 一到達就會聯絡您。",
+      "literal": "1. 如果到達了的話就會進行聯絡。"
+    },
+    "words": [
+      {
+        "word": "到着する",
+        "reading": "とうちゃくする",
+        "note": "動詞，到達、抵達"
+      },
+      {
+        "word": "連絡する",
+        "reading": "れんらくする",
+        "note": "動詞，聯絡"
+      }
+    ],
+    "context_grammar": [
+      "「到着したら」在此為確定條件（表示「在抵達動作完成之後」），後續動作為「連絡します」。",
+      "日文商業溝通中回覆客戶時間說明的標準句型。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:07",
+    "japanese": "2.道に迷ったら電話してください。",
+    "furigana": "2.<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ったら<ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby>してください。",
+    "segmentation": "2. 道に迷ったら | 電話してください。",
+    "translation": {
+      "natural": "2. 如果迷路的話請打電話。",
+      "literal": "2. 如果在路上迷茫了的話請打電話。"
+    },
+    "words": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "note": "名詞，道路"
+      },
+      {
+        "word": "迷う",
+        "reading": "まよう",
+        "note": "動詞，迷失、迷路（「道に迷う」迷路）"
+      },
+      {
+        "word": "電話する",
+        "reading": "でんわする",
+        "note": "動詞，打電話"
+      }
+    ],
+    "context_grammar": [
+      "「道に迷う」慣用語，促音便た形「迷った」加「ら」表示假設發生的狀況。",
+      "「～てください」表輕柔請求命令。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:11",
+    "japanese": "3.よろしかったら電話番号を教えてください。",
+    "furigana": "3.よろしかったら<ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>号<rt>ごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+    "segmentation": "3. よろしかったら | 電話番号を | 教えてください。",
+    "translation": {
+      "natural": "3. 如果方便的話，請告訴我電話號碼。",
+      "literal": "3. 如果可以的話請把電話號碼告訴我。"
+    },
+    "words": [
+      {
+        "word": "よろしい",
+        "reading": "よろしい",
+        "note": "形容詞，好的、可以的（「いい」的敬語形式）"
+      },
+      {
+        "word": "電話番号",
+        "reading": "でんわばんごう",
+        "note": "名詞，電話號碼"
+      },
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "note": "動詞，告訴、教授"
+      }
+    ],
+    "context_grammar": [
+      "「よろしかったら」為形容詞「よろしい」過去式「よろしかった」加「ら」，是日文服務業極度常用的客氣前置詞（如果合適的話/方便的話）。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:16",
+    "japanese": "4.日程が決まったらお知らせします。",
+    "furigana": "4.<ruby>日<rt>にち</rt></ruby><ruby>程<rt>てい</rt></ruby>が<ruby>決<rt>き</rt></ruby>まったらお<ruby>知<rt>し</rt></ruby>らせします。",
+    "segmentation": "4. 日程が決まったら | お知らせします。",
+    "translation": {
+      "natural": "4. 日程確定後會通知您。",
+      "literal": "4. 如果日程決定了的話會通知。"
+    },
+    "words": [
+      {
+        "word": "日程",
+        "reading": "にちてい",
+        "note": "名詞，日程、行程"
+      },
+      {
+        "word": "決まる",
+        "reading": "きまる",
+        "note": "動詞，決定、確定（自動詞）"
+      },
+      {
+        "word": "お知らせする",
+        "reading": "おしらせする",
+        "note": "動詞，通知、告知（「お知らせします」為謙讓語語氣）"
+      }
+    ],
+    "context_grammar": [
+      "「日程が決まる」主格助詞「が」，「決まったら」表確定條件。",
+      "「お＋動詞連用形＋する」謙讓語型態，為商務通信中常用句子。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:21",
+    "japanese": "5.雨だったら中止です。",
+    "furigana": "5.<ruby>雨<rt>あめ</rt></ruby>だったら<ruby>中<rt>ちゅう</rt></ruby><ruby>止<rt>し</rt></ruby>です。",
+    "segmentation": "5. 雨だったら | 中止です。",
+    "translation": {
+      "natural": "5. 下雨的話就取消。",
+      "literal": "5. 如果是雨天的話就是中止。"
+    },
+    "words": [
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "note": "名詞，雨"
+      },
+      {
+        "word": "中止",
+        "reading": "ちゅうし",
+        "note": "名詞，中止、取消"
+      }
+    ],
+    "context_grammar": [
+      "名詞「雨」接續斷定助動詞「だ」的過去形「だった」+「ら」，形成名詞的假設條件「雨だったら」。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:24",
+    "japanese": "6.暑かったらクーラーをつけましょう。",
+    "furigana": "6.<ruby>暑<rt>あつ</rt></ruby>かったらクーラーをつけましょう。",
+    "segmentation": "6. 暑かったら | クーラーを | つけましょう。",
+    "translation": {
+      "natural": "6. 熱的話就把冷氣打開吧。",
+      "literal": "6. 如果熱的話就開啟冷氣吧。"
+    },
+    "words": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "note": "形容詞，炎熱的"
+      },
+      {
+        "word": "クーラー",
+        "reading": "くーらー",
+        "note": "名詞，冷氣（Cooler）"
+      },
+      {
+        "word": "つける",
+        "reading": "つける",
+        "note": "動詞，開啟（電器）"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「暑い」去「い」加「かったら」形成條件子句。",
+      "「つけましょう」為動詞意志形/提議形，表示主動提議共同做某事。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:28",
+    "japanese": "7.寒かったら窓を閉めましょうか。",
+    "furigana": "7.<ruby>寒<rt>さむ</rt></ruby>かったら<ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めましょうか。",
+    "segmentation": "7. 寒かったら | 窓を | 閉めましょうか。",
+    "translation": {
+      "natural": "7. 冷的話要不要關窗戶呢？",
+      "literal": "7. 如果冷的話要關閉窗戶嗎？"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "形容詞，寒冷的"
+      },
+      {
+        "word": "窓",
+        "reading": "まど",
+        "note": "名詞，窗戶"
+      },
+      {
+        "word": "閉める",
+        "reading": "しめる",
+        "note": "動詞，關閉"
+      }
+    ],
+    "context_grammar": [
+      "「寒かったら」い形容詞假定形。",
+      "「～ましょうか」為說話者主動提出為對方服務或詢問意向的體貼表現。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:33",
+    "japanese": "8.天気がよかったらハイキングしましょう。",
+    "furigana": "8.<ruby>天<rt>てん</rt></ruby><ruby>気<rt>き</rt></ruby>がよかったらハイキングしましょう。",
+    "segmentation": "8. 天気がよかったら | ハイキングしましょう。",
+    "translation": {
+      "natural": "8. 天氣好的話，我們去健行吧。",
+      "literal": "8. 如果天氣好的話就健行吧。"
+    },
+    "words": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "note": "名詞，天氣"
+      },
+      {
+        "word": "いい/よい",
+        "reading": "いい/よい",
+        "note": "形容詞，好的（活用形使用よい：よかったら）"
+      },
+      {
+        "word": "ハイキング",
+        "reading": "はいきんぐ",
+        "note": "名詞，健行、徒步旅行（Hiking）"
+      }
+    ],
+    "context_grammar": [
+      "不規則變化形容詞「いい」的假定形固定使用「よかったら」。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:37",
+    "japanese": "9.時間があったら来てください。",
+    "furigana": "9.<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>があったら<ruby>来<rt>き</rt></ruby>てください。",
+    "segmentation": "9. 時間があったら | 来てください。",
+    "translation": {
+      "natural": "9. 有時間的話請過來。",
+      "literal": "9. 如果有時間的話請來。"
+    },
+    "words": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "note": "名詞，時間"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "動詞，來（「来てください」為くる的て形＋ください）"
+      }
+    ],
+    "context_grammar": [
+      "「時間がある」中助詞「が」標示存在的對象；「あったら」為「ある」的た形加「ら」。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:41",
+    "japanese": "10.安かったら買います。",
+    "furigana": "10.<ruby>安<rt>やす</rt></ruby>かったら<ruby>買<rt>か</rt></ruby>います。",
+    "segmentation": "10. 安かったら | 買います。",
+    "translation": {
+      "natural": "10. 便宜的話我就買。",
+      "literal": "10. 如果便宜的話會買。"
+    },
+    "words": [
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "note": "形容詞，便宜的"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，購買"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「安い」去「い」+「かったら」表購物中的前提決策條件。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:44",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "第三步驟",
+      "literal": "第三步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "對話應用步驟標題。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:46",
+    "japanese": "寒かったら窓を閉めましょうか。",
+    "furigana": "<ruby>寒<rt>さむ</rt></ruby>かったら<ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めましょうか。",
+    "segmentation": "寒かったら | 窓を | 閉めましょうか。",
+    "translation": {
+      "natural": "冷的話要不要關窗戶呢？",
+      "literal": "如果冷的話要關閉窗戶嗎？"
+    },
+    "words": [],
+    "context_grammar": [
+      "主動詢問對方體感並提議關窗。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:49",
+    "japanese": "はい、お願いします。",
+    "furigana": "はい、お<ruby>願<rt>ねが</rt></ruby>いします。",
+    "segmentation": "はい、| お願いします。",
+    "translation": {
+      "natural": "好的，麻煩你了。",
+      "literal": "是的，拜託了。"
+    },
+    "words": [
+      {
+        "word": "お願いします",
+        "reading": "おねがいします",
+        "note": "慣用語，拜託了、麻煩您了"
+      }
+    ],
+    "context_grammar": [
+      "接受對方好意的標準客氣答覆。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:52",
+    "japanese": "139.たら",
+    "furigana": "139.たら",
+    "segmentation": "139. | たら",
+    "translation": {
+      "natural": "139. 萬一/假使～的話（假設問答）",
+      "literal": "139. 如果～的話"
+    },
+    "words": [],
+    "context_grammar": [
+      "本單元重點練習反實實事或想像性問題的「～たらどうしますか」（假使...該怎麼辦呢？）。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:55",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "第一步驟",
+      "literal": "第一步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "練習步驟標題。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "02:56",
+    "japanese": "1.ロトで巨額の賞金が当たったらどうしますか。",
+    "furigana": "1.ロトで<ruby>巨<rt>きょ</rt></ruby><ruby>額<rt>がく</rt></ruby>の<ruby>賞<rt>しょう</rt></ruby><ruby>金<rt>きん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たったらどうしますか。",
+    "segmentation": "1. ロトで | 巨額の賞金が | 当たったら | どうしますか。",
+    "translation": {
+      "natural": "1. 如果中彩券獲得巨額獎金的話，你會怎麼做呢？",
+      "literal": "1. 如果在彩券中了巨額的獎金的話，要怎麼做呢？"
+    },
+    "words": [
+      {
+        "word": "ロト",
+        "reading": "ろと",
+        "note": "名詞，樂透彩券（Lotto）"
+      },
+      {
+        "word": "巨額",
+        "reading": "きょがく",
+        "note": "名詞，巨額"
+      },
+      {
+        "word": "賞金",
+        "reading": "しょうきん",
+        "note": "名詞，獎金"
+      },
+      {
+        "word": "当たる",
+        "reading": "あたる",
+        "note": "動詞，中獎"
+      }
+    ],
+    "context_grammar": [
+      "「ロトで」助詞「で」標示途徑工具；「賞金が当たる」中「が」標示主語；「当たったら」促音便假定形。",
+      "「どうしますか」為標準詢問應對策略的疑問句。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:01",
+    "japanese": "2.大地震が起きたらどうしたらいいですか。",
+    "furigana": "2.<ruby>大<rt>だい</rt></ruby><ruby>地<rt>じ</rt></ruby><ruby>震<rt>しん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたらどうしたらいいですか。",
+    "segmentation": "2. 大地震が | 起きたら | どうしたらいいですか。",
+    "translation": {
+      "natural": "2. 如果發生大地震的話，該怎麼做才好呢？",
+      "literal": "2. 如果大地震發生的話，怎麼做的話才好呢？"
+    },
+    "words": [
+      {
+        "word": "大地震",
+        "reading": "だいじしん",
+        "note": "名詞，大地震"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "note": "動詞，發生、起來"
+      }
+    ],
+    "context_grammar": [
+      "「起きたら」一段動詞「起きる」去る加たら。",
+      "「どうしたらいいですか」結合了疑問詞「どう」與「～たらいいですか」（做～就好了嗎），表示尋求危機處理指示。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:06",
+    "japanese": "3.火事が起きたらどうしますか。",
+    "furigana": "3.<ruby>火<rt>か</rt></ruby><ruby>事<rt>じ</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたらどうしますか。",
+    "segmentation": "3. 火事が | 起きたら | どうしますか。",
+    "translation": {
+      "natural": "3. 如果發生火災的話，你要怎麼做呢？",
+      "literal": "3. 如果火災發生的話要怎麼做呢？"
+    },
+    "words": [
+      {
+        "word": "火事",
+        "reading": "かじ",
+        "note": "名詞，火災"
+      }
+    ],
+    "context_grammar": [
+      "「火事」為發生自然/人為災害的主語，搭配「起きたら」。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:10",
+    "japanese": "4.大企業の社長になったら何をしますか。",
+    "furigana": "4.<ruby>大<rt>だい</rt></ruby><ruby>企<rt>き</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>の<ruby>社<rt>しゃ</rt></ruby><ruby>長<rt>ちょう</rt></ruby>になったら<ruby>何<rt>なに</rt></ruby>をしますか。",
+    "segmentation": "4. 大企業の社長に | なったら | 何をしますか。",
+    "translation": {
+      "natural": "4. 如果成為大公司的社長，你會做些什麼呢？",
+      "literal": "4. 如果變成了大企業的社長的話，要做什麼呢？"
+    },
+    "words": [
+      {
+        "word": "大企業",
+        "reading": "だいきぎょう",
+        "note": "名詞，大企業"
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "note": "名詞，社長、總裁"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，成為、變成"
+      }
+    ],
+    "context_grammar": [
+      "「社長になる」中格助詞「に」標示變化的結果，「なった」促音便接「ら」。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:14",
+    "japanese": "5.玉の輿に乗ったら何を買ってもらいますか。",
+    "furigana": "5.<ruby>玉<rt>たま</rt></ruby>の<ruby>輿<rt>こし</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったら<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってもらいますか。",
+    "segmentation": "5. 玉の輿に乗ったら | 何を | 買ってもらいますか。",
+    "translation": {
+      "natural": "5. 如果嫁入豪門的話，想要讓對方買什麼給你呢？",
+      "literal": "5. 如果乘坐了玉輿的話，要請對方買什麼呢？"
+    },
+    "words": [
+      {
+        "word": "玉の輿に乗る",
+        "reading": "たまのこしにのる",
+        "note": "慣用語，嫁入豪門、釣到金龜婿"
+      },
+      {
+        "word": "買ってもらう",
+        "reading": "かってもらう",
+        "note": "句型，請/讓別人買給自己（受惠）"
+      }
+    ],
+    "context_grammar": [
+      "「玉の輿に乗る」日文傳統慣用語（比喻女子嫁給有錢人）。",
+      "「買ってもらう」動詞「買う」的て形加授受動詞「もらう」，表示請對方為自己付款購買。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:20",
+    "japanese": "6.アラジンのランプがあったら願い事は何ですか。",
+    "furigana": "6.アラジンのランプがあったら<ruby>願<rt>ねが</rt></ruby>い<ruby>事<rt>ごと</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか。",
+    "segmentation": "6. アラジンのランプが | あったら | 願い事は何ですか。",
+    "translation": {
+      "natural": "6. 如果有阿拉丁神燈的話，你的願望是什麼呢？",
+      "literal": "6. 如果有阿拉丁的神燈的話，許願事項是什麼呢？"
+    },
+    "words": [
+      {
+        "word": "ランプ",
+        "reading": "らんぷ",
+        "note": "名詞，神燈、油燈（Lamp）"
+      },
+      {
+        "word": "願い事",
+        "reading": "ねがいごと",
+        "note": "名詞，願望、許願的事項"
+      }
+    ],
+    "context_grammar": [
+      "「あったら」動詞「ある」假設形，「願い事は何ですか」中「は」為主題助詞。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:25",
+    "japanese": "7.ドラえもんがいたらどの道具が一番欲しいですか。",
+    "furigana": "7.ドラえもんがいたらどの<ruby>道<rt>どう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>が<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>欲<rt>ほ</rt></ruby>しいですか。",
+    "segmentation": "7. ドラえもんがいたら | どの道具が | 一番欲しいですか。",
+    "translation": {
+      "natural": "7. 如果有哆啦A夢的話，你最想要哪一個道具呢？",
+      "literal": "7. 如果哆啦A夢在的話，哪個道具是最想要呢？"
+    },
+    "words": [
+      {
+        "word": "ドラえもん",
+        "reading": "どらえもん",
+        "note": "專有名詞，哆啦A夢"
+      },
+      {
+        "word": "道具",
+        "reading": "どうぐ",
+        "note": "名詞，道具、工具"
+      },
+      {
+        "word": "欲しい",
+        "reading": "ほしい",
+        "note": "形容詞，想要的"
+      }
+    ],
+    "context_grammar": [
+      "針對有生命的存在（哆啦A夢）使用動詞「いる」的た形+ら變為「いたら」。",
+      "副詞「一番」修飾感情形容詞「欲しい」，表示「最想要」。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:31",
+    "japanese": "8.航空券が当たったらどこへ行きたいですか。",
+    "furigana": "8.<ruby>航<rt>こう</rt></ruby><ruby>空<rt>くう</rt></ruby><ruby>券<rt>けん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たったらどこへ<ruby>行<rt>い</rt></ruby>きたいですか。",
+    "segmentation": "8. 航空券が当たったら | どこへ | 行きたいですか。",
+    "translation": {
+      "natural": "8. 如果抽中機票的話，你想去哪裡呢？",
+      "literal": "8. 如果航空券中了的話，要往哪裡去呢？"
+    },
+    "words": [
+      {
+        "word": "航空券",
+        "reading": "こうくうけん",
+        "note": "名詞，機票"
+      },
+      {
+        "word": "行きたい",
+        "reading": "いきたい",
+        "note": "動詞願望形，想去"
+      }
+    ],
+    "context_grammar": [
+      "動詞「行く」的連用形「行き」接願望助動詞「たい」構成「行きたい」（想去）。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:36",
+    "japanese": "9.高額商品券をもらったらどうしますか。",
+    "furigana": "9.<ruby>高<rt>こう</rt></ruby><ruby>額<rt>がく</rt></ruby><ruby>商<rt>しょう</rt></ruby><ruby>品<rt>ひん</rt></ruby><ruby>券<rt>けん</rt></ruby>をもらったらどうしますか。",
+    "segmentation": "9. 高額商品券を | もらったら | どうしますか。",
+    "translation": {
+      "natural": "9. 如果拿到高額禮券的話，你會怎麼做呢？",
+      "literal": "9. 如果收到了高額商品券的話，要怎麼做呢？"
+    },
+    "words": [
+      {
+        "word": "高額",
+        "reading": "こうがく",
+        "note": "名詞，高額"
+      },
+      {
+        "word": "商品券",
+        "reading": "しょうひんけん",
+        "note": "名詞，禮券、商品券"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "動詞，收到、拿到"
+      }
+    ],
+    "context_grammar": [
+      "「もらう」的五段動詞促音便連用形「もらっ」加「たら」構成條件假定。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:41",
+    "japanese": "10.恋人が選べたらどんな人がいいですか。",
+    "furigana": "10.<ruby>恋<rt>こい</rt></ruby><ruby>人<rt>びと</rt></ruby>が<ruby>選<rt>えら</rt></ruby>べたらどんな<ruby>人<rt>ひと</rt></ruby>がいいですか。",
+    "segmentation": "10. 恋人が選べたら | どんな人が | いいですか。",
+    "translation": {
+      "natural": "10. 如果能選擇戀人的話，什麼樣的人比較好呢？",
+      "literal": "10. 如果戀人能夠選擇的話，怎樣的人才好呢？"
+    },
+    "words": [
+      {
+        "word": "恋人",
+        "reading": "こいびと",
+        "note": "名詞，情人、戀人"
+      },
+      {
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "note": "動詞，選擇（可能形為選べる）"
+      },
+      {
+        "word": "どんな",
+        "reading": "どんな",
+        "note": "連體詞，什麼樣的"
+      }
+    ],
+    "context_grammar": [
+      "「選べる」為五段動詞「選ぶ」的可能形（機能/能力表示），轉為過去式「選べた」+「ら」表示「如果能夠選擇的話」。",
+      "「どんな人」連體修飾，問對象特質風格。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:46",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "第三步驟",
+      "literal": "第三步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "對話應用步驟標題。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:48",
+    "japanese": "ロトで巨額の賞金が当たったらどうしますか。",
+    "furigana": "ロトで<ruby>巨<rt>きょ</rt></ruby><ruby>額<rt>がく</rt></ruby>の<ruby>賞<rt>しょう</rt></ruby><ruby>金<rt>きん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たったらどうしますか。",
+    "segmentation": "ロトで | 巨額の賞金が | 当たったら | どうしますか。",
+    "translation": {
+      "natural": "如果中彩券獲得巨額獎金的話，你會怎麼做呢？",
+      "literal": "如果在彩券中了巨額的獎金的話，要怎麼做呢？"
+    },
+    "words": [],
+    "context_grammar": [
+      "情境提問對話。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:52",
+    "japanese": "寄付します。",
+    "furigana": "<ruby>寄<rt>き</rt></ruby><ruby>付<rt>ふ</rt></ruby>します。",
+    "segmentation": "寄付します。",
+    "translation": {
+      "natural": "我會捐出去。",
+      "literal": "會進行寄付。"
+    },
+    "words": [
+      {
+        "word": "寄付する",
+        "reading": "きふする",
+        "note": "動詞，捐贈、捐款"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「寄付する」的叮嚀語表達「寄付します」。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "03:55",
+    "japanese": "140.と",
+    "furigana": "140.と",
+    "segmentation": "140. | と",
+    "translation": {
+      "natural": "140. 一～就……（必然結果/自然現象）",
+      "literal": "140. 與/一……就"
+    },
+    "words": [
+      {
+        "word": "と",
+        "reading": "と",
+        "note": "接續助詞，一……就……（表必然/恆常現象）"
+      }
+    ],
+    "context_grammar": [
+      "句型「動詞辭書形 + と」：用於表示自然規律、習慣、機器操作必然後果或路線指引。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:58",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "第一步驟",
+      "literal": "第一步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "練習步驟標題。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "03:59",
+    "japanese": "1.まっすぐ行くと銀行があります。",
+    "furigana": "1.まっすぐ<ruby>行<rt>い</rt></ruby>くと<ruby>銀<rt>ぎん</rt></ruby><ruby>行<rt>こう</rt></ruby>があります。",
+    "segmentation": "1. まっすぐ行くと | 銀行が | あります。",
+    "translation": {
+      "natural": "1. 直直走就會有一家銀行。",
+      "literal": "1. 一直前進的話就會有銀行。"
+    },
+    "words": [
+      {
+        "word": "まっすぐ",
+        "reading": "まっすぐ",
+        "note": "副詞，筆直地、直直地"
+      },
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "note": "名詞，銀行"
+      }
+    ],
+    "context_grammar": [
+      "「まっすぐ行く」副詞修飾動詞；「行くと」接續助詞「と」表示「只要一往前走，必然就會看到（結果）」。導覽指路必備經典句型。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:03",
+    "japanese": "2.ここを押すと切符が出ます。",
+    "furigana": "2.ここを<ruby>押<rt>お</rt></ruby>すと<ruby>切<rt>きっ</rt></ruby><ruby>符<rt>ぷ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。",
+    "segmentation": "2. ここを押すと | 切符が | 出ます。",
+    "translation": {
+      "natural": "2. 按這裡就會出票。",
+      "literal": "2. 一按這裡車票就會出來。"
+    },
+    "words": [
+      {
+        "word": "押す",
+        "reading": "おす",
+        "note": "動詞，按壓、推"
+      },
+      {
+        "word": "切符",
+        "reading": "きっぷ",
+        "note": "名詞，車票、票券"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "note": "動詞，出來、出現"
+      }
+    ],
+    "context_grammar": [
+      "「押すと」為機器操作說明（必然發生的動作結果）。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:07",
+    "japanese": "3.北海道に行くとカニを食べます。",
+    "furigana": "3.<ruby>北<rt>ほっ</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>道<rt>どう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くとカニを<ruby>食<rt>た</rt></ruby>べます。",
+    "segmentation": "3. 北海道に行くと | カニを | 食べます。",
+    "translation": {
+      "natural": "3. 只要一去北海道就會吃螃蟹。",
+      "literal": "3. 一去北海道的話就會吃螃蟹。"
+    },
+    "words": [
+      {
+        "word": "カニ",
+        "reading": "かに",
+        "note": "名詞，螃蟹"
+      }
+    ],
+    "context_grammar": [
+      "「行くと」表示每次去都會做的習慣或必定發生的常規行為。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:12",
+    "japanese": "4.生の玉ねぎを食べると涙が出ます。",
+    "furigana": "4.<ruby>生<rt>なま</rt></ruby>の<ruby>玉<rt>たま</rt></ruby>ねぎを<ruby>食<rt>た</rt></ruby>べると<ruby>涙<rt>なみだ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。",
+    "segmentation": "4. 生の玉ねぎを食べると | 涙が出ます。",
+    "translation": {
+      "natural": "4. 一吃生的洋蔥就會流眼淚。",
+      "literal": "4. 一吃生的洋蔥的話眼淚就會出來。"
+    },
+    "words": [
+      {
+        "word": "生",
+        "reading": "なま",
+        "note": "名詞/形容動詞，生的、未煮熟的"
+      },
+      {
+        "word": "玉ねぎ",
+        "reading": "たまねぎ",
+        "note": "名詞，洋蔥"
+      },
+      {
+        "word": "涙",
+        "reading": "なみだ",
+        "note": "名詞，眼淚"
+      }
+    ],
+    "context_grammar": [
+      "「生の玉ねぎ」連體修飾；「食べると」接續助詞「と」表生理機制的必然反應。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:16",
+    "japanese": "5.こしょうをかけるとくしゃみが出ます。",
+    "furigana": "5.こしょうをかけるとくしゃみが<ruby>出<rt>で</rt></ruby>ます。",
+    "segmentation": "5. こしょうをかけると | くしゃみが | 出ます。",
+    "translation": {
+      "natural": "5. 一灑胡椒就會打噴嚏。",
+      "literal": "5. 一淋上胡椒打噴嚏就會出來。"
+    },
+    "words": [
+      {
+        "word": "こしょう",
+        "reading": "こしょう",
+        "note": "名詞，胡椒"
+      },
+      {
+        "word": "かける",
+        "reading": "かける",
+        "note": "動詞，撒、淋上"
+      },
+      {
+        "word": "くしゃみ",
+        "reading": "くしゃみ",
+        "note": "名詞，噴嚏"
+      }
+    ],
+    "context_grammar": [
+      "「かけると」下一段動詞「かける」+「と」，表示自然生理反應連鎖。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:21",
+    "japanese": "6.春になると花粉症患者が出ます。",
+    "furigana": "6.<ruby>春<rt>はる</rt></rubyになると<ruby>花<rt>か</rt></ruby><ruby>粉<rt>ふん</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>患<rt>かん</rt></ruby><ruby>者<rt>じゃ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。",
+    "segmentation": "6. 春になると | 花粉症患者が | 出ます。",
+    "translation": {
+      "natural": "6. 一到了春天，就會出現花粉症患者。",
+      "literal": "6. 一變成春天的花粉症患者就會出現。"
+    },
+    "words": [
+      {
+        "word": "春",
+        "reading": "はる",
+        "note": "名詞，春天"
+      },
+      {
+        "word": "花粉症患者",
+        "reading": "かふんしょうかんじゃ",
+        "note": "名詞，花粉症患者"
+      }
+    ],
+    "context_grammar": [
+      "「春になる」表示季節自然的轉變與推移，加「と」表示季節循環引發的自然現象。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:25",
+    "japanese": "7.夏になると夕立があります。",
+    "furigana": "7.<ruby>夏<rt>なつ</rt></ruby>になると<ruby>夕<rt>ゆう</rt></ruby><ruby>立<rt>だち</rt></ruby>があります。",
+    "segmentation": "7. 夏になると | 夕立が | あります。",
+    "translation": {
+      "natural": "7. 一到了夏天，就會有午後雷陣雨。",
+      "literal": "7. 一變成夏天的午後陣雨就會有。"
+    },
+    "words": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "note": "名詞，夏天"
+      },
+      {
+        "word": "夕立",
+        "reading": "ゆうだち",
+        "note": "名詞，午後雷陣雨、夕立"
+      }
+    ],
+    "context_grammar": [
+      "「夏になると」季節推移必然現象的經典講法。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "04:29",
+    "japanese": "8.秋になると紅葉します。",
+    "furigana": "8.<ruby>秋<rt>あき</rt></ruby>になると<ruby>紅<rt>こう</rt></ruby><ruby>葉<rt>よう</rt></ruby>します。",
+    "segmentation": "8. 秋になると | 紅葉します。",
+    "translation": {
+      "natural": "8. 一到了秋天，樹葉就會變紅（賞楓）。",
+      "literal": "8. 一變成秋天就會紅葉。"
+    },
+    "words": [
+      {
+        "word": "秋",
+        "reading": "あき",
+        "note": "名詞，秋天"
+      },
+      {
+        "word": "紅葉する",
+        "reading": "こうようする",
+        "note": "動詞，樹葉變紅、賞楓"
+      }
+    ],
+    "context_grammar": [
+      "「紅葉する」サ變動詞表示樹葉變色的自然現象變化。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "04:33",
+    "japanese": "9.冬になると雪が降ります。",
+    "furigana": "9.<ruby>冬<rt>ふゆ</rt></ruby>になると<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。",
+    "segmentation": "9. 冬になると | 雪が | 降ります。",
+    "translation": {
+      "natural": "9. 一到了冬天，就會下雪。",
+      "literal": "9. 一變成冬天雪就會下。"
+    },
+    "words": [
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "note": "名詞，冬天"
+      },
+      {
+        "word": "雪",
+        "reading": "ゆき",
+        "note": "名詞，雪"
+      },
+      {
+        "word": "降る",
+        "reading": "ふる",
+        "note": "動詞，降下、下（雨雪）"
+      }
+    ],
+    "context_grammar": [
+      "氣候天候自然的規律表達。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "04:37",
+    "japanese": "10.台風の上陸すると会社と学校が休みになります。",
+    "furigana": "10.<ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>が<ruby>上<rt>じょう</rt></ruby><ruby>陸<rt>りく</rt></ruby>すると<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>と<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みになります。",
+    "segmentation": "10. 台風が上陸すると | 会社と学校が | 休みになります。",
+    "translation": {
+      "natural": "10. 一旦颱風登陸，公司和學校就會放假。",
+      "literal": "10. 一旦颱風登陸的話，公司與學校就會變成休假。"
+    },
+    "words": [
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "note": "名詞，颱風"
+      },
+      {
+        "word": "上陸する",
+        "reading": "じょうりくする",
+        "note": "動詞，登陸"
+      },
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "note": "名詞，公司"
+      },
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "note": "名詞，學校"
+      },
+      {
+        "word": "休み",
+        "reading": "やすみ",
+        "note": "名詞，休息、放假"
+      }
+    ],
+    "context_grammar": [
+      "「台風が上陸する」主語「台風」，「すると」為サ變動詞辭書形加「と」。",
+      "「休みになる」中「に」標示變化的結果（變成了放假狀態）。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "04:43",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "第三步驟",
+      "literal": "第三步驟"
+    },
+    "words": [],
+    "context_grammar": [
+      "對話應用步驟標題。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "04:45",
+    "japanese": "台風の上陸すると会社と学校が休みになります。",
+    "furigana": "<ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>が<ruby>上<rt>じょう</rt></ruby><ruby>陸<rt>りく</rt></ruby>すると<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>と<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みになります。",
+    "segmentation": "台風が上陸すると | 会社と学校が | 休みになります。",
+    "translation": {
+      "natural": "一旦颱風登陸，公司和學校就會放假。",
+      "literal": "一旦颱風登陸的話，公司與學校就會變成休假。"
+    },
+    "words": [],
+    "context_grammar": [
+      "對話中的情境陳述。"
+    ]
+  },
+  {
+    "id": "076",
+    "time": "04:50",
+    "japanese": "それは大変ですね。",
+    "furigana": "それは<ruby>大<rt>たい</rt></ruby><ruby>変<rt>へん</rt></ruby>ですね。",
+    "segmentation": "それは | 大変ですね。",
+    "translation": {
+      "natural": "那還真是辛苦/不得了呢。",
+      "literal": "那是辛苦的呢。"
+    },
+    "words": [
+      {
+        "word": "それ",
+        "reading": "それ",
+        "note": "代名詞，那件事"
+      },
+      {
+        "word": "大変",
+        "reading": "たいへん",
+        "note": "形容動詞，辛苦的、嚴重的、不得了的"
+      }
+    ],
+    "context_grammar": [
+      "「それ」指對方剛才說的「颱風登陸放假」狀況。",
+      "「大変ですね」為日語同理、表達同情或回應驚訝的常用社交客套語。"
+    ]
+  }
+]

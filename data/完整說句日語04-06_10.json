@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "141. と",
+    "furigana": "141. と",
+    "segmentation": "141. | と",
+    "translation": {
+      "natural": "141. 接續助詞「と」",
+      "literal": "141. と"
+    },
+    "words": [
+      {
+        "word": "と",
+        "reading": "と",
+        "note": "接續助詞，表示一……就……（順接條件）"
+      }
+    ],
+    "context_grammar": [
+      "標題與文法重點呈現，無複雜語法結構。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "章節段落提示，外來語標示。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:06",
+    "japanese": "1. ドアを開けると、母が立っていました。",
+    "furigana": "1. ドアを<ruby>開<rt>あ</rt></ruby>けると、<ruby>母<rt>はは</rt></ruby>が<ruby>立<rt>た</rt></ruby>っていました。",
+    "segmentation": "1. ドアを | 開けると、| 母が | 立っていました。",
+    "translation": {
+      "natural": "一打開門，就看到媽媽站在那裡。",
+      "literal": "打開門的話，母親正站著。"
+    },
+    "words": [
+      {
+        "word": "ドア",
+        "reading": "どあ",
+        "note": "名詞，門"
+      },
+      {
+        "word": "開ける",
+        "reading": "あける",
+        "note": "動詞，打開"
+      },
+      {
+        "word": "母",
+        "reading": "はは",
+        "note": "名詞，母親"
+      },
+      {
+        "word": "立つ",
+        "reading": "たつ",
+        "note": "動詞，站立"
+      }
+    ],
+    "context_grammar": [
+      "動詞基本形＋と：接續助詞「と」在此表示前項動作一發生，隨即注意到或發生後項狀況（發現的「と」）。",
+      "立っていました：動詞「立つ」的連用形「立ち」接續「て」形成持續態「立っている」，再轉為過去丁寧形「いました」，修飾整體狀態描繪。",
+      "在敘事語境中，此句型常用於營造畫面感，帶出出乎意料或目擊現場的生動視覺效果。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:11",
+    "japanese": "2. 箱を開けると、中身は壊れていました。",
+    "furigana": "2. <ruby>箱<rt>はこ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>中<rt>なか</rt></ruby><ruby>身<rt>み</rt></ruby>は<ruby>壊<rt>こわ</rt></ruby>れていました。",
+    "segmentation": "2. 箱を | 開けると、| 中身は | 壊れていました。",
+    "translation": {
+      "natural": "一打開盒子，發現裡面的東西已經壞掉了。",
+      "literal": "打開盒子的話，裡面的東西壞掉了。"
+    },
+    "words": [
+      {
+        "word": "箱",
+        "reading": "はこ",
+        "note": "名詞，盒子"
+      },
+      {
+        "word": "中身",
+        "reading": "なかみ",
+        "note": "名詞，內容物、裡面"
+      },
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "note": "動詞，破壞、壞掉（自動詞）"
+      }
+    ],
+    "context_grammar": [
+      "箱を開けると：利用「と」表示打開動作觸發了對於後項「狀況已存在」的發現。",
+      "壊れていました：自動詞「壊れる」的連用形＋ていた，表示物品狀態壞掉的結果殘留及過去狀況。",
+      "日常與商業開箱檢驗語境中，常用此結構呈現「一檢視即發現瑕疵」的客觀客觀描述。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:16",
+    "japanese": "3. それを食べると、お腹が痛くなりました。",
+    "furigana": "3. それを<ruby>食<rt>た</rt></ruby>べると、お<ruby>腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなりました。",
+    "segmentation": "3. それを | 食べると、| お腹が | 痛くなりました。",
+    "translation": {
+      "natural": "一吃那個，肚子就痛了起來。",
+      "literal": "吃那個的話，肚子變痛了。"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      },
+      {
+        "word": "お腹",
+        "reading": "おなか",
+        "note": "名詞，肚子"
+      },
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "note": "い形容詞，疼痛的"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，變成"
+      }
+    ],
+    "context_grammar": [
+      "痛くなりました：い形容詞「痛い」去「い」加「く」轉為副詞修飾動詞「なる」，並結合過去丁寧形「なりました」，表示狀態的變化過程。",
+      "前項動作與後項生理反應具備極高的因果緊密性，透過「と」呈現必然產生的結果。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:22",
+    "japanese": "4. トンネルを出ると、大雨でした。",
+    "furigana": "4. トンネルを<ruby>出<rt>で</rt></ruby>ると、<ruby>大<rt>おお</rt></ruby><ruby>雨<rt>あめ</rt></ruby>でした。",
+    "segmentation": "4. トンネルを | 出ると、| 大雨でした。",
+    "translation": {
+      "natural": "一出了隧道，外面竟下著大雨。",
+      "literal": "出隧道的話，是大雨。"
+    },
+    "words": [
+      {
+        "word": "トンネル",
+        "reading": "とんねる",
+        "note": "名詞，隧道"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "note": "動詞，出來、通過"
+      },
+      {
+        "word": "大雨",
+        "reading": "おおあめ",
+        "note": "名詞，大雨"
+      }
+    ],
+    "context_grammar": [
+      "トンネルを出ると：通過特定空間後景致或氣候的瞬間轉換，以「と」接續呈現強烈的視覺/情境對比。",
+      "名詞＋でした：過去判斷助動詞，說明當時當下的天氣狀況。",
+      "類似川端康成《雪國》名句的結構，常用於旅行宣傳片或紀實旁白中營造空間轉換的情境感。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:27",
+    "japanese": "5. 本人に会うと、写真とは別人物でした。",
+    "furigana": "5. <ruby>本<rt>ほん</rt></ruby><ruby>人<rt>にん</rt></ruby>に<ruby>会<rt>あ</rt></ruby>うと、<ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>とは<ruby>別<rt>べつ</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>でした。",
+    "segmentation": "5. 本人に | 会うと、| 写真とは | 別人物でした。",
+    "translation": {
+      "natural": "一見到本人，發現簡直跟照片裡判若兩人。",
+      "literal": "與本人見面話，與照片是不同人物。"
+    },
+    "words": [
+      {
+        "word": "本人",
+        "reading": "ほんにん",
+        "note": "名詞，本人"
+      },
+      {
+        "word": "会う",
+        "reading": "あう",
+        "note": "動詞，見面"
+      },
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "note": "名詞，照片"
+      },
+      {
+        "word": "別人物",
+        "reading": "べつじんぶつ",
+        "note": "名詞，另一個人、判若兩人"
+      }
+    ],
+    "context_grammar": [
+      "写真とは：格助詞「と」表示比較的基準對象，後接提示助詞「は」做強調對比。",
+      "以「会うと」連結後面的客觀結論「別人物でした」，表現實際體驗與預期產生的落差。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:32",
+    "japanese": "6. その下着を着ると、痩せて見えます。",
+    "furigana": "6. その<ruby>下<rt>した</rt></ruby><ruby>着<rt>ぎ</rt></ruby>を<ruby>着<rt>き</rt></ruby>ると、<ruby>痩<rt>や</rt></ruby>せて<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "6. その下着を | 着ると、| 痩せて見えます。",
+    "translation": {
+      "natural": "穿上那件內衣，看起來就會很顯瘦。",
+      "literal": "穿那件內衣的話，看起來瘦。"
+    },
+    "words": [
+      {
+        "word": "下着",
+        "reading": "したぎ",
+        "note": "名詞，內衣、貼身衣物"
+      },
+      {
+        "word": "着る",
+        "reading": "きる",
+        "note": "動詞，穿（衣服）"
+      },
+      {
+        "word": "痩せる",
+        "reading": "やせる",
+        "note": "動詞，變瘦"
+      },
+      {
+        "word": "見える",
+        "reading": "みえる",
+        "note": "動詞，看得見、顯得（可能/自發）"
+      }
+    ],
+    "context_grammar": [
+      "痩せて見えます：動詞「痩せる」連用形「痩せ」接「て」，結合「見える」形成複合表達「顯得瘦/看起來瘦」。",
+      "「と」在此表達「必然發生的效果/功能」，是產品廣告旁白（如塑身衣、美妝）中非常典型的主張句型。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:37",
+    "japanese": "7. お祭りが終わると、誰にいなくなりました。",
+    "furigana": "7. お<ruby>祭<rt>まつ</rt></ruby>りが<ruby>完<rt>お</rt></ruby>わると、<ruby>誰<rt>だれ</rt></ruby>もいなくなりました。",
+    "segmentation": "7. お祭りが | 終わると、| 誰も | いなくなりました。",
+    "translation": {
+      "natural": "祭典一結束，就一個人也不剩了。",
+      "literal": "祭典結束的話，誰也不在了。"
+    },
+    "words": [
+      {
+        "word": "お祭り",
+        "reading": "おまつり",
+        "note": "名詞，祭典、節慶"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，結束"
+      },
+      {
+        "word": "誰も",
+        "reading": "だれも",
+        "note": "副詞/代名詞，誰也（後接否定）"
+      },
+      {
+        "word": "いる",
+        "reading": "いる",
+        "note": "動詞，存在（人/生物）"
+      }
+    ],
+    "context_grammar": [
+      "いなくなりました：動詞「いる」否定形「いない」，去「い」加「く」副詞化，修飾變化動詞「なる」的過去形「なりました」，表示「變得不在了」。",
+      "「誰も～ない」為全面否定，搭配「と」強調熱鬧過後迅速冷清的客觀現象對比。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:43",
+    "japanese": "8. 電話をかけると、知らない人が出ました。",
+    "furigana": "8. <ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby>をかけると、<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。",
+    "segmentation": "8. 電話を | かけると、| 知らない人が | 出ました。",
+    "translation": {
+      "natural": "打電話過去，結果是一個不認識的人接的。",
+      "literal": "打電話的話，不知道的人接了。"
+    },
+    "words": [
+      {
+        "word": "電話をかける",
+        "reading": "でんわをかける",
+        "note": "片語，打電話"
+      },
+      {
+        "word": "知る",
+        "reading": "しる",
+        "note": "動詞，知道、認識"
+      },
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "note": "動詞，接電話、出來"
+      }
+    ],
+    "context_grammar": [
+      "知らない人：動詞「知る」的未然形「知ら」＋否定助動詞「ない」，直接作連體修飾，修飾名詞「人」（不認識的人）。",
+      "動作「かける」後加上「と」，引出意料之外的接電話狀況。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:49",
+    "japanese": "9. ハイキングに行くと、雷雨になりました。",
+    "furigana": "9. ハイキングに<ruby>行<rt>い</rt></ruby>くと、<ruby>雷<rt>らい</rt></ruby><ruby>雨<rt>う</rt></ruby>になりました。",
+    "segmentation": "9. ハイキングに | 行くと、| 雷雨になりました。",
+    "translation": {
+      "natural": "一去健行，就遇上了雷陣雨。",
+      "literal": "去健行的時候，變成了雷雨。"
+    },
+    "words": [
+      {
+        "word": "ハイキング",
+        "reading": "はいきんぐ",
+        "note": "名詞，健行、遠足"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      },
+      {
+        "word": "雷雨",
+        "reading": "らいう",
+        "note": "名詞，雷雨"
+      }
+    ],
+    "context_grammar": [
+      "ハイキングに行く：目的格助詞「に」表示行動的目的與方向。",
+      "雷雨になりました：名詞＋格助詞「に」＋「なる」，表示自然環境或狀態的演變結果。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:54",
+    "japanese": "10. 店に行くと、本日休業と書いてありました。",
+    "furigana": "10. <ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>本<rt>ほん</rt></ruby><ruby>日<rt>じつ</rt></ruby><ruby>休<rt>きゅう</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>と<ruby>書<rt>か</rt></ruby>いてありました。",
+    "segmentation": "10. 店に | 行くと、| 本日休業と | 書いでありました。",
+    "translation": {
+      "natural": "到了店家一看，上面寫著「今日公休」。",
+      "literal": "去店裡的話，寫著本日休業。"
+    },
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "note": "名詞，店家"
+      },
+      {
+        "word": "本日休業",
+        "reading": "ほんじつきゅうぎょう",
+        "note": "名詞，本日公休"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，書寫"
+      }
+    ],
+    "context_grammar": [
+      "本日休業と：引用助詞「と」，用於提示告示牌或標籤上寫著的具體內容。",
+      "書いてありました：他動詞「書く」連用形「書いて」＋「ある」（存續態），表示人刻意留下的文字狀態持續存在，採過去丁寧形呈現當時看見的情景。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:00",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "章節段落標示。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:03",
+    "japanese": "店に行くと、本日休業と書いてありました。",
+    "furigana": "<ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと、<ruby>本<rt>ほん</rt></ruby><ruby>日<rt>じつ</rt></ruby><ruby>休<rt>きゅう</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>と<ruby>書<rt>か</rt></ruby>いてありました。",
+    "segmentation": "店に | 行くと、| 本日休業と | 書いてありました。",
+    "translation": {
+      "natural": "到了店裡一看，發現上面寫著今日公休。",
+      "literal": "去店裡的話，寫著本日休業。"
+    },
+    "words": [
+      {
+        "word": "本日休業",
+        "reading": "ほんじつきゅうぎょう",
+        "note": "名詞，本日公休"
+      },
+      {
+        "word": "書いてある",
+        "reading": "かいてある",
+        "note": "片語，寫著（狀態存續）"
+      }
+    ],
+    "context_grammar": [
+      "與前面句10相同，情境會話中的對話前項敘述，作為對答背景。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:08",
+    "japanese": "それは残念でしたね。",
+    "furigana": "それは<ruby>残<rt>ざん</rt></ruby><ruby>念<rt>ねん</rt></ruby>でしたね。",
+    "segmentation": "それは | 残念でしたね。",
+    "translation": {
+      "natural": "那還真是可惜呢。",
+      "literal": "那個是殘念呢。"
+    },
+    "words": [
+      {
+        "word": "残念",
+        "reading": "ざんねん",
+        "note": "な形容詞/名詞，遺憾、可惜"
+      }
+    ],
+    "context_grammar": [
+      "それは：指示代名詞「それ」＋提示助詞「は」，指代對方剛才提到的遭遇。",
+      "終助詞「ね」：用於表示共鳴、同情與回應情緒。",
+      "會話日常表達中高度頻繁出現的社交同理回應。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:11",
+    "japanese": "142. といいですよ",
+    "furigana": "142. といいですよ",
+    "segmentation": "142. | といいですよ",
+    "translation": {
+      "natural": "142. 建議句型「～的話會比較好喔」",
+      "literal": "142. といいですよ"
+    },
+    "words": [
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "標題語法提示：「～といい」為表建議或希望的句型。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:16",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落單元標示。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:18",
+    "japanese": "1. お土産はこれにするといいですよ。",
+    "furigana": "1. お<ruby>土<rt>み</rt></ruby><ruby>産<rt>やげ</rt></ruby>はこれにするといいですよ。",
+    "segmentation": "1. お土産は | これにすると | いいですよ。",
+    "translation": {
+      "natural": "伴手禮建議選這個會比較好喔。",
+      "literal": "伴手禮的話，做成這個的話好喔。"
+    },
+    "words": [
+      {
+        "word": "お土産",
+        "reading": "おみやげ",
+        "note": "名詞，伴手禮、土產"
+      },
+      {
+        "word": "これ",
+        "reading": "これ",
+        "note": "代名詞，這個"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做、選擇（名詞＋にする表示決定）"
+      }
+    ],
+    "context_grammar": [
+      "～にする：動詞「する」結合格助詞「に」，表達「做選擇、決定」。",
+      "～といいですよ：條件接續「と」＋形容詞「いい」＋終助詞「よ」（告知/推薦），形成向對方給予輕柔建議的實用句型。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:23",
+    "japanese": "2. 旅行社はここにするといいですよ。",
+    "furigana": "2. <ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>社<rt>しゃ</rt></ruby>はここにするといいですよ。",
+    "segmentation": "2. 旅行社は | ここにすると | いいですよ。",
+    "translation": {
+      "natural": "旅行社建議選這家會比較好喔。",
+      "literal": "旅行社的話，做成這裡的話好喔。"
+    },
+    "words": [
+      {
+        "word": "旅行社",
+        "reading": "りょこうしゃ",
+        "note": "名詞，旅行社"
+      },
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡/這家"
+      }
+    ],
+    "context_grammar": [
+      "ここにする：將場所/對象作為選擇的結果。",
+      "與前句同為「～選這～比較好」的諮詢推薦用語。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:28",
+    "japanese": "3. 航空会社はここにするといいですよ。",
+    "furigana": "3. <ruby>航<rt>こう</rt></ruby><ruby>空<rt>くう</rt></ruby><ruby>会<rt>がい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>はここにするといいですよ。",
+    "segmentation": "3. 航空会社は | ここにすると | いいですよ。",
+    "translation": {
+      "natural": "航空公司建議選這家會比較好喔。",
+      "literal": "航空公司的話，做成這裡的話好喔。"
+    },
+    "words": [
+      {
+        "word": "航空会社",
+        "reading": "こうくうがいしゃ",
+        "note": "名詞，航空公司"
+      }
+    ],
+    "context_grammar": [
+      "主題助詞「は」提起討論對象「航空会社」，後接針對該項目的具體建議組合句型。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:33",
+    "japanese": "4. 食事の後でこれを飲むといいですよ。",
+    "furigana": "4. <ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>でこれを<ruby>飲<rt>の</rt></ruby>むといいですよ。",
+    "segmentation": "4. 食事の後で | これを飲むと | いいですよ。",
+    "translation": {
+      "natural": "飯後喝這個會比較好喔。",
+      "literal": "食事的後面，喝這個的話好喔。"
+    },
+    "words": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "note": "名詞，用餐、吃飯"
+      },
+      {
+        "word": "後",
+        "reading": "あと",
+        "note": "名詞，之後"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝、服用"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋の＋後で：時間順序表現，表示「在～之後」。格助詞「で」標示時間範圍條件。",
+      "飲むといい：動詞辭書形＋といい，保健食品或藥品衛教宣導時極常見的親切指引。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:38",
+    "japanese": "5. ここに連絡するといいですよ。",
+    "furigana": "5. ここに<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>するといいですよ。",
+    "segmentation": "5. ここに | 連絡すると | いいですよ。",
+    "translation": {
+      "natural": "建議您聯絡這裡會比較好喔。",
+      "literal": "向這裡聯絡的話好喔。"
+    },
+    "words": [
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "note": "名詞/動詞，聯絡"
+      }
+    ],
+    "context_grammar": [
+      "ここに：格助詞「に」標示聯絡動作的對象與到達點。",
+      "連絡する：サ變動詞，辭書形直接接續「といいですよ」，給予客服或申訴管道時的標準禮貌指引。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:43",
+    "japanese": "6. この人に相談するといいですよ。",
+    "furigana": "6. この<ruby>人<rt>ひと</rt></ruby>に<ruby>相<rt>そう</rt></ruby><ruby>談<rt>だん</rt></ruby>するといいですよ。",
+    "segmentation": "6. この人に | 相談すると | いいですよ。",
+    "translation": {
+      "natural": "建議跟這個人商量會比較好喔。",
+      "literal": "向這個人商量的的話好喔。"
+    },
+    "words": [
+      {
+        "word": "この人",
+        "reading": "このひと",
+        "note": "代名詞，這個人"
+      },
+      {
+        "word": "相談する",
+        "reading": "そうだんする",
+        "note": "動詞，商量、諮詢"
+      }
+    ],
+    "context_grammar": [
+      "人に相談する：對象補格「に」修飾動作「相談する」。",
+      "常用於職場顧問或前輩給予新人窗口引薦時的語境。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:48",
+    "japanese": "7. このジムで運動するといいですよ。",
+    "furigana": "7. このジムで<ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>するといいですよ。",
+    "segmentation": "7. このジムで | 運動すると | いいですよ。",
+    "translation": {
+      "natural": "在這家健身房運動會比較好喔。",
+      "literal": "在這個健身房運動的話好喔。"
+    },
+    "words": [
+      {
+        "word": "ジム",
+        "reading": "じむ",
+        "note": "名詞，健身房（Gym）"
+      },
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動"
+      }
+    ],
+    "context_grammar": [
+      "ジムで：場所格助詞「で」標示動作「運動する」進行的地點。",
+      "宣導健康生活或運動設施宣傳時的實用推薦型態。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:53",
+    "japanese": "8. この駐車場に止めるといいですよ。",
+    "furigana": "8. この<ruby>駐<rt>ちゅう</rt></ruby><ruby>車<rt>しゃ</rt></ruby><ruby>場<rt>じょう</rt></ruby>に<ruby>止<rt>と</rt></ruby>めるといいですよ。",
+    "segmentation": "8. この駐車場に | 止めると | いいですよ。",
+    "translation": {
+      "natural": "車子停在這個停車場會比較好喔。",
+      "literal": "停在這個停車場的話好喔。"
+    },
+    "words": [
+      {
+        "word": "駐車場",
+        "reading": "ちゅうしゃじょう",
+        "note": "名詞，停車場"
+      },
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "note": "動詞，停放（車輛）"
+      }
+    ],
+    "context_grammar": [
+      "駐車場に止める：目的地/附著點助詞「に」修飾他動詞「止める」。",
+      "生活指引或在地店家導覽時常用的親切提醒。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:58",
+    "japanese": "9. この喫茶店で勉強するといいですよ。",
+    "furigana": "9. この<ruby>喫<rt>きっ</rt></ruby><ruby>茶<rt>さ</rt></ruby><ruby>店<rt>てん</rt></ruby>で<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>するといいですよ。",
+    "segmentation": "9. この喫茶店で | 勉強すると | いいですよ。",
+    "translation": {
+      "natural": "在這家咖啡廳讀書會比較好喔。",
+      "literal": "在這個喫茶店學習的話好喔。"
+    },
+    "words": [
+      {
+        "word": "喫茶店",
+        "reading": "きっさてん",
+        "note": "名詞，咖啡店、茶館"
+      },
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "note": "動詞，學習、讀書"
+      }
+    ],
+    "context_grammar": [
+      "喫茶店で：場所格助詞「で」連結動作「勉強する」。",
+      "「～といいですよ」在此表達對環境空間適宜度的推薦。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "02:04",
+    "japanese": "10. 会食はこのレストランにするといいですよ。",
+    "furigana": "10. <ruby>会<rt>かい</rt></ruby><ruby>食<rt>しょく</rt></ruby>はこのレストランにするといいですよ。",
+    "segmentation": "10. 会食は | このレストランにすると | いいですよ。",
+    "translation": {
+      "natural": "聚餐建議選這家餐廳會比較好喔。",
+      "literal": "會食的話，做成這個餐廳的話好喔。"
+    },
+    "words": [
+      {
+        "word": "会食",
+        "reading": "かいしょく",
+        "note": "名詞，會餐、聚餐"
+      },
+      {
+        "word": "レストラン",
+        "reading": "れすとらん",
+        "note": "名詞，餐廳（Restaurant）"
+      }
+    ],
+    "context_grammar": [
+      "會話主題「会食は」置於句首，後接「レストランにする」（決定選擇該餐廳），結構完整且極具商務協調感。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:09",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落單元標示。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:11",
+    "japanese": "会食はこのレストランにするといいですよ。",
+    "furigana": "<ruby>会<rt>かい</rt></ruby><ruby>食<rt>しょく</rt></ruby>はこのレストランにするといいですよ。",
+    "segmentation": "会食は | このレストランにすると | いいですよ。",
+    "translation": {
+      "natural": "聚餐建議選這家餐廳會比較好喔。",
+      "literal": "會食的話，做成這個餐廳的話好喔。"
+    },
+    "words": [
+      {
+        "word": "会食",
+        "reading": "かいしょく",
+        "note": "名詞，聚餐"
+      }
+    ],
+    "context_grammar": [
+      "對話發問/建議發起句，同句27結構。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:16",
+    "japanese": "はい、そうします。",
+    "furigana": "はい、そうします。",
+    "segmentation": "はい、| そうします。",
+    "translation": {
+      "natural": "好的，那我就這麼辦。",
+      "literal": "是的，那樣做。"
+    },
+    "words": [
+      {
+        "word": "そう",
+        "reading": "そう",
+        "note": "副詞，那樣地"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做"
+      }
+    ],
+    "context_grammar": [
+      "そうします：副詞「そう」＋動詞「する」丁寧形，表示接受對方建議後的決定與遵從立場。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:18",
+    "japanese": "143. なら",
+    "furigana": "143. なら",
+    "segmentation": "143. | なら",
+    "translation": {
+      "natural": "143. 假定/主題接續「如果是～的話」",
+      "literal": "143. なら"
+    },
+    "words": [
+      {
+        "word": "なら",
+        "reading": "なら",
+        "note": "助動詞，如果是……的話（主題假定）"
+      }
+    ],
+    "context_grammar": [
+      "標題語法提示：「なら」承接前文主題並做條件假定。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:22",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落標記。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:24",
+    "japanese": "1. 抹茶ならあそこのが一番いいですよ。",
+    "furigana": "1. <ruby>抹<rt>まっ</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby>ならあそこのが<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby>いいですよ。",
+    "segmentation": "1. 抹茶なら | あそこのが | 一番いいですよ。",
+    "translation": {
+      "natural": "要是說到抹茶的話，那家的是最好的喔。",
+      "literal": "抹茶的話，那裡的最棒喔。"
+    },
+    "words": [
+      {
+        "word": "抹茶",
+        "reading": "まっちゃ",
+        "note": "名詞，抹茶"
+      },
+      {
+        "word": "あそこ",
+        "reading": "あそこ",
+        "note": "代名詞，那裡"
+      },
+      {
+        "word": "一番",
+        "reading": "いちばん",
+        "note": "副詞，第一、最"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋なら：接續助動詞「なら」標示特定主題範圍（「要是～的話」）。",
+      "あそこのが：「の」在此作為形式名詞替代「抹茶」，「が」為主格助詞，修飾「一番いい」。",
+      "觀光/美食介紹旁白中極常用的主題推薦語態。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:29",
+    "japanese": "2. アフタヌーンティーならあのホテルがいいですよ。",
+    "furigana": "2. アフタヌーンティーならあのホテルがいいですよ。",
+    "segmentation": "2. アフタヌーンティーなら | あのホテルが | いいですよ。",
+    "translation": {
+      "natural": "如果是下午茶的話，那家飯店很不錯喔。",
+      "literal": "下午茶的話，那個飯店好喔。"
+    },
+    "words": [
+      {
+        "word": "アフタヌーンティー",
+        "reading": "あふたぬーんてぃー",
+        "note": "名詞，下午茶（Afternoon Tea）"
+      },
+      {
+        "word": "ホテル",
+        "reading": "ほてる",
+        "note": "名詞，飯店"
+      }
+    ],
+    "context_grammar": [
+      "アフタヌーンティーなら：外來語直接接續「なら」提頭，縮小對話主題焦點。",
+      "あのホテルが：指示代名詞「あの」修飾名詞「ホテル」，主格助詞「が」指定推薦目標。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:35",
+    "japanese": "3. コーヒーならあの喫茶店のがおいしいです。",
+    "furigana": "3. コーヒーならあの<ruby>喫<rt>きっ</rt></ruby><ruby>茶<rt>さ</rt></ruby><ruby>店<rt>てん</rt></ruby>のがおいしいです。",
+    "segmentation": "3. コーヒーなら | あの喫茶店のが | おいしいです。",
+    "translation": {
+      "natural": "如果是咖啡的話，那家咖啡店的比較好吃/好喝。",
+      "literal": "咖啡的話，那個喫茶店的好吃。"
+    },
+    "words": [
+      {
+        "word": "コーヒー",
+        "reading": "こーひー",
+        "note": "名詞，咖啡"
+      },
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "note": "い形容詞，美味的"
+      }
+    ],
+    "context_grammar": [
+      "あの喫茶店のが：形式名詞「の」指代前述的「コーヒー」，省去重複名詞，使口語表達更顯自然精練。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:40",
+    "japanese": "4. 古本ならこの店の本の質がいいですよ。",
+    "furigana": "4. <ruby>古<rt>ふる</rt></ruby><ruby>本<rt>ほん</rt></ruby>ならこの<ruby>店<rt>みせ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>がいいですよ。",
+    "segmentation": "4. 古本なら | この店の本の質が | いいですよ。",
+    "translation": {
+      "natural": "如果是二手書的話，這家店書籍的品質很不錯喔。",
+      "literal": "二手書的話，這個店的書的品質好喔。"
+    },
+    "words": [
+      {
+        "word": "古本",
+        "reading": "ふるほん",
+        "note": "名詞，二手書、舊書"
+      },
+      {
+        "word": "質",
+        "reading": "しつ",
+        "note": "名詞，品質、質地"
+      }
+    ],
+    "context_grammar": [
+      "この店の本の質：連續使用連體修飾格助詞「の」進行三層範疇遞進限制（店的 -> 書的 -> 品質）。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:46",
+    "japanese": "5. カメラならこのメーカーが一番おすすめです。",
+    "furigana": "5. カメラならこのメーカーが<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby>おすすめです。",
+    "segmentation": "5. カメラなら | このメーカーが | 一番おすすめです。",
+    "translation": {
+      "natural": "若是相機的話，最推薦這個品牌。",
+      "literal": "相機的話，這個廠商最推薦。"
+    },
+    "words": [
+      {
+        "word": "カメラ",
+        "reading": "かめら",
+        "note": "名詞，相機"
+      },
+      {
+        "word": "メーカー",
+        "reading": "めーかー",
+        "note": "名詞，製造商、品牌（Maker）"
+      },
+      {
+        "word": "おすすめ",
+        "reading": "おすすめ",
+        "note": "名詞，推薦"
+      }
+    ],
+    "context_grammar": [
+      "一番おすすめです：「お」為美化語頭綴，「おすすめ」作名詞語尾接「です」，典型之商品介紹用語。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:51",
+    "japanese": "6. 旅行社ならここが親切ですよ。",
+    "furigana": "6. <ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>社<rt>しゃ</rt></ruby>ならここが<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>ですよ。",
+    "segmentation": "6. 旅行社なら | ここが | 親切ですよ。",
+    "translation": {
+      "natural": "如果是旅行社的話，這家服務很熱心喔。",
+      "literal": "旅行社的話，這裡親切喔。"
+    },
+    "words": [
+      {
+        "word": "親切",
+        "reading": "しんせつ",
+        "note": "な形容詞，親切、熱心"
+      }
+    ],
+    "context_grammar": [
+      "ここが親切：主格助詞「が」鎖定「這裡（這家）」，接「親切（です）」表示特質描述。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:56",
+    "japanese": "7. お祭りなら時代祭が面白いですよ。",
+    "furigana": "7. お<ruby>祭<rt>まつ</rt></ruby>りなら<ruby>時<rt>じ</rt></ruby><ruby>代<rt>だい</rt></ruby><ruby>祭<rt>まつり</rt></ruby>が<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いですよ。",
+    "segmentation": "7. お祭りなら | 時代祭が | 面白いですよ。",
+    "translation": {
+      "natural": "要是祭典的話，時代祭很有趣喔。",
+      "literal": "祭典的話，時代祭有趣喔。"
+    },
+    "words": [
+      {
+        "word": "時代祭",
+        "reading": "じだいまつり",
+        "note": "專有名詞，時代祭（京都三大祭之一）"
+      },
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "note": "い形容詞，有趣的"
+      }
+    ],
+    "context_grammar": [
+      "お祭りなら：從「祭典」這個大分類中，以「なら」提出討論，並以主格「が」帶出特定標的「時代祭」。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:01",
+    "japanese": "8. 嫌いなら食べなくてもいいですよ。",
+    "furigana": "8. <ruby>嫌<rt>きら</rt></ruby>いなら<ruby>食<rt>た</rt></ruby>べなくてもいいですよ。",
+    "segmentation": "8. 嫌いなら | 食べなくても | いいですよ。",
+    "translation": {
+      "natural": "如果不喜歡的話，不吃也沒關係喔。",
+      "literal": "討厭的話，不吃也可以喔。"
+    },
+    "words": [
+      {
+        "word": "嫌い",
+        "reading": "きらい",
+        "note": "な形容詞，不喜歡的、討厭的"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "嫌いなら：な形容詞詞幹直接接「なら」，形成條件假定（「如果討厭的話」）。",
+      "～なくてもいい：動詞未然形「食べ」＋否定「ない」去「い」加「くて」＋「もいい」，表示「不～也可以」許可句型。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:06",
+    "japanese": "9. 辛すぎるなら他のものを注文しましょう。",
+    "furigana": "9. <ruby>辛<rt>から</rt></ruby>すぎるなら<ruby>他<rt>ほか</rt></ruby>のものを<ruby>注<rt>ちゅう</rt></ruby><ruby>文<rt>もん</rt></ruby>しましょう。",
+    "segmentation": "9. 辛すぎるなら | 他のものを | 注文しましょう。",
+    "translation": {
+      "natural": "要是太辣的話，我們點別的吧。",
+      "literal": "太辣的話，點其他的東西吧。"
+    },
+    "words": [
+      {
+        "word": "辛い",
+        "reading": "からい",
+        "note": "い形容詞，辣的"
+      },
+      {
+        "word": "すぎる",
+        "reading": "すぎる",
+        "note": "複合動詞/尾綴，過度、太……"
+      },
+      {
+        "word": "他",
+        "reading": "ほか",
+        "note": "名詞，其他"
+      },
+      {
+        "word": "注文する",
+        "reading": "ちゅうもんする",
+        "note": "動詞，點餐、訂購"
+      }
+    ],
+    "context_grammar": [
+      "辛すぎる：い形容詞去「い」＋「すぎる」形成過度狀態（太辣），直接接續假定「なら」。",
+      "注文しましょう：サ變動詞「注文する」連用形「注文し」＋提議/邀約語尾「ましょう」（我們～吧）。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:12",
+    "japanese": "10. 疲れたなら休んだほうがいいですよ。",
+    "furigana": "10. <ruby>疲<rt>つか</rt></ruby>れたなら<ruby>休<rt>やす</rt></ruby>んだほうがいいですよ。",
+    "segmentation": "10. 疲れたなら | 休んだほうが | いいですよ。",
+    "translation": {
+      "natural": "要是累了的話，休息一下會比較好喔。",
+      "literal": "累了的話，休息比較好喔。"
+    },
+    "words": [
+      {
+        "word": "疲れる",
+        "reading": "つかれる",
+        "note": "動詞，疲勞、累"
+      },
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "note": "動詞，休息"
+      }
+    ],
+    "context_grammar": [
+      "疲れたなら：動詞過去形（た形）＋「なら」，表示已成事實的動態假定（「既然已經累了的話」）。",
+      "休んだほうがいい：動詞た形＋「ほうがいい」，提供具體行動方案的強烈建言句型。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:17",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落標記。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:19",
+    "japanese": "嫌いなら食べなくてもいいですよ。",
+    "furigana": "<ruby>嫌<rt>きら</rt></ruby>いなら<ruby>食<rt>た</rt></ruby>べなくてもいいですよ。",
+    "segmentation": "嫌いなら | 食べなくても | いいですよ。",
+    "translation": {
+      "natural": "如果不喜歡的話，不吃也沒關係喔。",
+      "literal": "討厭的話，不吃也可以喔。"
+    },
+    "words": [
+      {
+        "word": "嫌い",
+        "reading": "きらい",
+        "note": "な形容詞，不喜歡"
+      }
+    ],
+    "context_grammar": [
+      "對話實踐句，與句40結構完全一致。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:23",
+    "japanese": "はい、そうします。",
+    "furigana": "はい、そうします。",
+    "segmentation": "はい、| そうします。",
+    "translation": {
+      "natural": "好的，那我就這麼辦。",
+      "literal": "是的，那樣做。"
+    },
+    "words": [
+      {
+        "word": "はい",
+        "reading": "はい",
+        "note": "感嘆詞，是的"
+      }
+    ],
+    "context_grammar": [
+      "標準的對答回應，接受意見。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:25",
+    "japanese": "144. なら",
+    "furigana": "144. なら",
+    "segmentation": "144. | なら",
+    "translation": {
+      "natural": "144. 假定接續「～的話（後項結果）」",
+      "literal": "144. なら"
+    },
+    "words": [
+      {
+        "word": "なら",
+        "reading": "なら",
+        "note": "助動詞，如果……的話"
+      }
+    ],
+    "context_grammar": [
+      "語法單元標題。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:29",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落標記。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:31",
+    "japanese": "1. 高いなら買いません。",
+    "furigana": "1. <ruby>高<rt>たか</rt></ruby>いなら<ruby>買<rt>か</rt></ruby>いません。",
+    "segmentation": "1. 高いなら | 買いません。",
+    "translation": {
+      "natural": "要是太貴的話，我就不買了。",
+      "literal": "貴的話不買。"
+    },
+    "words": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "note": "い形容詞，昂貴的"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，購買"
+      }
+    ],
+    "context_grammar": [
+      "高いなら：い形容詞終止形直接加接續助動詞「なら」，呈現條件假定（「如果很貴的話」）。",
+      "買いません：動詞否定丁寧形，明確表達個人的決策立場。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:34",
+    "japanese": "2. あなたが行くなら私も行きます。",
+    "furigana": "2. あなたが<ruby>行<rt>い</rt></ruby>くなら<ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>きます。",
+    "segmentation": "2. あなたが行くなら | 私も行きます。",
+    "translation": {
+      "natural": "如果你去的話，我也要跟著去。",
+      "literal": "你去的話我也去。"
+    },
+    "words": [
+      {
+        "word": "あなた",
+        "reading": "あなた",
+        "note": "代名詞，你"
+      },
+      {
+        "word": "私",
+        "reading": "わたし",
+        "note": "代名詞，我"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋なら：以對方的未來行為作為條件進行呼應，後項用同調動作「私も行きます」表現隨同之意。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:39",
+    "japanese": "3. 遠いなら行きません。",
+    "furigana": "3. <ruby>遠<rt>とお</rt></ruby>いなら<ruby>行<rt>い</rt></ruby>きません。",
+    "segmentation": "3. 遠いなら | 行きません。",
+    "translation": {
+      "natural": "要是太遠的話，我就不去了。",
+      "literal": "遠的話不去。"
+    },
+    "words": [
+      {
+        "word": "遠い",
+        "reading": "とおい",
+        "note": "い形容詞，遙遠的"
+      }
+    ],
+    "context_grammar": [
+      "遠いなら：い形容詞＋なら。後接否定表達「行きません」，表示拒絕或放棄該行程之決斷。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:42",
+    "japanese": "4. 雨なら延期です。",
+    "furigana": "4. <ruby>雨<rt>あめ</rt></ruby>なら<ruby>延<rt>えん</rt></ruby><ruby>期<rt>き</rt></ruby>です。",
+    "segmentation": "4. 雨なら | 延期です。",
+    "translation": {
+      "natural": "如果下雨的話，活動就順延。",
+      "literal": "雨的話是延期。"
+    },
+    "words": [
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "note": "名詞，雨"
+      },
+      {
+        "word": "延期",
+        "reading": "えんき",
+        "note": "名詞/動詞，延期"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋なら：直接條件接續，活動公告或商務約定中極高頻率出現的應變備案表達。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:46",
+    "japanese": "5. 晴れなら山に登ります。",
+    "furigana": "5. <ruby>晴<rt>は</rt></ruby>れなら<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。",
+    "segmentation": "5. 晴れなら | 山に登ります。",
+    "translation": {
+      "natural": "若是大晴天的話，我們就去爬山。",
+      "literal": "晴天的畫登山。"
+    },
+    "words": [
+      {
+        "word": "晴れ",
+        "reading": "はれ",
+        "note": "名詞，晴天"
+      },
+      {
+        "word": "山",
+        "reading": "やま",
+        "note": "名詞，山"
+      },
+      {
+        "word": "登る",
+        "reading": "のぼる",
+        "note": "動詞，攀登"
+      }
+    ],
+    "context_grammar": [
+      "山に登ります：格助詞「に」標示攀登動作的標的與對象環境。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:50",
+    "japanese": "6. 精進料理なら食べます。",
+    "furigana": "6. <ruby>精<rt>しょう</rt></ruby><ruby>進<rt>じん</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>なら<ruby>食<rt>た</rt></ruby>べます。",
+    "segmentation": "6. 精進料理なら | 食べます。",
+    "translation": {
+      "natural": "要是素食精進料理的話，我就吃。",
+      "literal": "精進料理的話吃。"
+    },
+    "words": [
+      {
+        "word": "精進料理",
+        "reading": "しょうじんりょうり",
+        "note": "名詞，精進料理（日式素食齋飯）"
+      }
+    ],
+    "context_grammar": [
+      "精進料理なら：限定飲食範疇作為會吃的唯一條件。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:54",
+    "japanese": "7. 少しなら分かります。",
+    "furigana": "7. <ruby>少<rt>すこ</rt></ruby>しなら<ruby>分<rt>わ</rt></ruby>かります。",
+    "segmentation": "7. 少しなら | 分かります。",
+    "translation": {
+      "natural": "如果是一點點的話，我還聽得懂。",
+      "literal": "稍微的話懂。"
+    },
+    "words": [
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "note": "副詞/名詞，稍微、一點點"
+      },
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "note": "動詞，明白、理解"
+      }
+    ],
+    "context_grammar": [
+      "副詞轉名詞用法直接接「なら」，表達謙遜程度（如回答外語能力時的常見客套話）。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:58",
+    "japanese": "8. 費用がかかるなら修理しません。",
+    "furigana": "8. <ruby>費<rt>ひ</rt></ruby><ruby>用<rt>よう</rt></ruby>がかかるなら<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>しません。",
+    "segmentation": "8. 費用がかかるなら | 修理しません。",
+    "translation": {
+      "natural": "要花費很多錢的話，那我就不修了。",
+      "literal": "花費用的話不修理。"
+    },
+    "words": [
+      {
+        "word": "費用",
+        "reading": "ひよう",
+        "note": "名詞，費用"
+      },
+      {
+        "word": "かかる",
+        "reading": "かかる",
+        "note": "動詞，花費（時間/金錢）"
+      },
+      {
+        "word": "修理する",
+        "reading": "しゅうりする",
+        "note": "動詞，修理"
+      }
+    ],
+    "context_grammar": [
+      "費用がかかる：主動詞組表示產生開銷。",
+      "加上「なら」帶出消費者在評估成本時的決策條件。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:03",
+    "japanese": "9. バイキングなら行きたいです。",
+    "furigana": "9. バイキングなら<ruby>行<rt>い</rt></ruby>きたいです。",
+    "segmentation": "9. バイキングなら | 行きたいです。",
+    "translation": {
+      "natural": "如果是吃到飽自助餐的話，我很想去。",
+      "literal": "自助餐的話想去。"
+    },
+    "words": [
+      {
+        "word": "バイキング",
+        "reading": "ばいきんぐ",
+        "note": "名詞，自助餐、吃到飽（Viking）"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "行きたいです：動詞連用形「行き」＋願望助動詞「たい」＋丁寧語「です」，表達強烈的參與意願。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:08",
+    "japanese": "10. 時間がかかるなら直しません。",
+    "furigana": "10. <ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>がかかるなら<ruby>直<rt>なお</rt></ruby>しません。",
+    "segmentation": "10. 時間がかかるなら | 直しません。",
+    "translation": {
+      "natural": "要是太耗费時間的話，我就不修了。",
+      "literal": "花時間的話不修復。"
+    },
+    "words": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "note": "名詞，時間"
+      },
+      {
+        "word": "直す",
+        "reading": "なおす",
+        "note": "動詞，修理、改正"
+      }
+    ],
+    "context_grammar": [
+      "時間がかかる：時間成本考量條件，接「なら」引出後項不實施修復（直しません）的結論。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:13",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落標示。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:15",
+    "japanese": "費用がかかるなら修理しません。",
+    "furigana": "<ruby>費<rt>ひ</rt></ruby><ruby>用<rt>よう</rt></ruby>がかかるなら<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>しません。",
+    "segmentation": "費用がかかるなら | 修理しません。",
+    "translation": {
+      "natural": "要花錢的話我就不修理了。",
+      "literal": "花費用的話不修理。"
+    },
+    "words": [
+      {
+        "word": "費用",
+        "reading": "ひよう",
+        "note": "名詞，費用"
+      }
+    ],
+    "context_grammar": [
+      "情境會話發問句，同句55結構。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:20",
+    "japanese": "分かりました。",
+    "furigana": "<ruby>分<rt>わ</rt></ruby>かりました。",
+    "segmentation": "分かりました。",
+    "translation": {
+      "natural": "好的，我知道了。",
+      "literal": "明白了。"
+    },
+    "words": [
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "note": "動詞，明白、理解"
+      }
+    ],
+    "context_grammar": [
+      "動詞過去丁寧形，商務與日常中表達「確認接收對方決定」的標準回覆。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:22",
+    "japanese": "145. なら",
+    "furigana": "145. なら",
+    "segmentation": "145. | なら",
+    "translation": {
+      "natural": "145. 假定接續「既然～的話（請求/指示）」",
+      "literal": "145. なら"
+    },
+    "words": [
+      {
+        "word": "なら",
+        "reading": "なら",
+        "note": "助動詞，如果……的話"
+      }
+    ],
+    "context_grammar": [
+      "單元標題。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:26",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落標記。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:28",
+    "japanese": "1. スーパーに行くなら牛乳を買ってきてください。",
+    "furigana": "1. スーパーに<ruby>行<rt>い</rt></ruby>くなら<ruby>牛<rt>ぎゅう</rt></ruby><ruby>乳<rt>にゅう</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってきてください。",
+    "segmentation": "1. スーパーに行くなら | 牛乳を | 買ってきてください。",
+    "translation": {
+      "natural": "如果你要去超市的話，順便幫我買瓶牛奶回來吧。",
+      "literal": "去超市的話，請買牛奶過來。"
+    },
+    "words": [
+      {
+        "word": "スーパー",
+        "reading": "すーぱー",
+        "note": "名詞，超市（Supermarket）"
+      },
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "note": "名詞，牛奶"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，買"
+      },
+      {
+        "word": "くる",
+        "reading": "くる",
+        "note": "動詞，來"
+      }
+    ],
+    "context_grammar": [
+      "行くなら：得知對方即將執行的動作，並以此動作為前提下達請求。",
+      "買ってきてください：動詞「買う」連用形「買って」＋補助動詞「くる」連用形「き」＋「て」＋「ください」（請買來），表示去買了之後再回來的動作鏈。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:35",
+    "japanese": "2. 部屋を出るならエアコンを消してください。",
+    "furigana": "2. <ruby>部屋<rt>へや</rt></ruby>を<ruby>出<rt>で</rt></ruby>るならエアコンを<ruby>消<rt>け</rt></ruby>してください。",
+    "segmentation": "2. 部屋を出るなら | エアコンを | 消してください。",
+    "translation": {
+      "natural": "如果要離開房間的話，請把冷氣關掉。",
+      "literal": "出房間的話，請關冷氣。"
+    },
+    "words": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "エアコン",
+        "reading": "えあこん",
+        "note": "名詞，冷氣、空調（Air conditioner）"
+      },
+      {
+        "word": "消す",
+        "reading": "けす",
+        "note": "動詞，關閉、熄滅"
+      }
+    ],
+    "context_grammar": [
+      "消してください：他動詞「消す」連用形「消し」＋「て」＋「ください」，口語中給予對方提醒或指引的警示標語用語。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:41",
+    "japanese": "3. コンビニに行くならお弁当を買ってきてください。",
+    "furigana": "3. コンビニに<ruby>行<rt>い</rt></ruby>くならお<ruby>弁<rt>べん</rt></ruby><ruby>当<rt>とう</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってきてください。",
+    "segmentation": "3. コンビニに行くなら | お弁当を | 買ってきてください。",
+    "translation": {
+      "natural": "如果要順道去便利商店的話，請幫我買個便當回來。",
+      "literal": "去便利商店的話，請買便當過來。"
+    },
+    "words": [
+      {
+        "word": "コンビニ",
+        "reading": "こんびに",
+        "note": "名詞，便利商店（Convenience store）"
+      },
+      {
+        "word": "お弁当",
+        "reading": "おべんとう",
+        "note": "名詞，便當"
+      }
+    ],
+    "context_grammar": [
+      "「目的地＋に行くなら」＋「～買ってきてください」：生活日文中順帶請託極高頻率出現的完整句構。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:47",
+    "japanese": "4. 京都に行くなら秋がいいですよ。",
+    "furigana": "4. <ruby>京<rt>きょう</rt></ruby><ruby>都<rt>と</rt></ruby>に<ruby>行<rt>い</rt></ruby>くなら<ruby>秋<rt>あき</rt></ruby>がいいですよ。",
+    "segmentation": "4. 京都に行くなら | 秋が | いいですよ。",
+    "translation": {
+      "natural": "如果要安排去京都的話，秋天去是最棒的喔。",
+      "literal": "去京都的話，秋天好喔。"
+    },
+    "words": [
+      {
+        "word": "京都",
+        "reading": "きょうと",
+        "note": "專有名詞，京都"
+      },
+      {
+        "word": "秋",
+        "reading": "あき",
+        "note": "名詞，秋天"
+      }
+    ],
+    "context_grammar": [
+      "秋がいいですよ：主格助詞「が」強調最佳季節「秋天」。旅遊宣傳常用的時節推薦句法。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:52",
+    "japanese": "5. 北海道に行くなら冬がいいですよ。",
+    "furigana": "5. <ruby>北<rt>ほっ</rt></ruby><ruby>海<rt>かい</rt></ruby><ruby>道<rt>どう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くなら<ruby>冬<rt>ふゆ</rt></ruby>がいいですよ。",
+    "segmentation": "5. 北海道に行くなら | 冬が | いいですよ。",
+    "translation": {
+      "natural": "如果是去北海道的話，冬天去最合適喔。",
+      "literal": "去北海道的話，冬天好喔。"
+    },
+    "words": [
+      {
+        "word": "北海道",
+        "reading": "ほっかいどう",
+        "note": "專有名詞，北海道"
+      },
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "note": "名詞，冬天"
+      }
+    ],
+    "context_grammar": [
+      "與句66對稱，以「目的地＋に行くなら」搭配最適合季節。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:57",
+    "japanese": "6. 宿題が終わったなら遊んでもいいですよ。",
+    "furigana": "6. <ruby>宿<rt>しゅく</rt></ruby><ruby>題<rt>だい</rt></ruby>が<ruby>完<rt>お</rt></ruby>わったなら<ruby>遊<rt>あそ</rt></ruby>んでもいいですよ。",
+    "segmentation": "6. 宿題が終わったなら | 遊んでも | いいですよ。",
+    "translation": {
+      "natural": "要是作業已經做完了的話，去玩也沒關係喔。",
+      "literal": "作業結束了的話，玩也可以喔。"
+    },
+    "words": [
+      {
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "note": "名詞，作業、功課"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，結束"
+      },
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "note": "動詞，遊玩"
+      }
+    ],
+    "context_grammar": [
+      "終わったなら：動詞過去形（た形）＋「なら」，表示完成前置條件之後（「既然作業做完的話」）。",
+      "遊んでもいい：動詞連用形＋「てもいい」，給予許可之用語。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "05:03",
+    "japanese": "7. 日本に行くなら櫻の季節がいいですよ。",
+    "furigana": "7. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くなら<ruby>櫻<rt>さくら</rt></ruby>の<ruby>季<rt>き</rt></ruby><ruby>節<rt>せつ</rt></ruby>がいいですよ。",
+    "segmentation": "7. 日本に行くなら | 櫻の季節が | いいですよ。",
+    "translation": {
+      "natural": "要是去日本的話，櫻花綻放的季節是最推薦的喔。",
+      "literal": "去日本的話，櫻花的季節好喔。"
+    },
+    "words": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "note": "名詞，日本"
+      },
+      {
+        "word": "櫻",
+        "reading": "さくら",
+        "note": "名詞，櫻花"
+      },
+      {
+        "word": "季節",
+        "reading": "きせつ",
+        "note": "名詞，季節"
+      }
+    ],
+    "context_grammar": [
+      "櫻の季節：連體修飾格「の」結合植物與時節，打造強烈的景象意象。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "05:09",
+    "japanese": "8. 海に行くなら夏がいいですよ。",
+    "furigana": "8. <ruby>海<rt>うみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くなら<ruby>夏<rt>なつ</rt></ruby>がいいですよ。",
+    "segmentation": "8. 海に行くなら | 夏が | いいですよ。",
+    "translation": {
+      "natural": "要是去海邊的話，夏天最合適不過了喔。",
+      "literal": "去海邊的話，夏天好喔。"
+    },
+    "words": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "note": "名詞，海邊、海洋"
+      },
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "note": "名詞，夏天"
+      }
+    ],
+    "context_grammar": [
+      "海に行くなら：典型景點/目的＋季節配對的主題推薦。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "05:14",
+    "japanese": "9. 車を借りるなら予約したほうがいいですよ。",
+    "furigana": "9. <ruby>車<rt>くるま</rt></ruby>を<ruby>借<rt>か</rt></ruby>りるなら<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>したほうがいいですよ。",
+    "segmentation": "9. 車を借りるなら | 予約したほうが | いいですよ。",
+    "translation": {
+      "natural": "如果打算要租車的話，最好先預約喔。",
+      "literal": "借車的話，預約了比較好喔。"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，汽車"
+      },
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "note": "動詞，租借"
+      },
+      {
+        "word": "予約する",
+        "reading": "よやくする",
+        "note": "動詞，預約"
+      }
+    ],
+    "context_grammar": [
+      "借りるなら：辭書形＋「なら」，代表未發生的意志或打算。",
+      "予約したほうがいい：動詞た形＋「ほうがいい」，給予防患未然的實用建議。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "05:20",
+    "japanese": "10. 家に帰るならパンを買ってきてください。",
+    "furigana": "10. <ruby>家<rt>うち</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>るならパンを<ruby>買<rt>か</rt></ruby>ってきてください。",
+    "segmentation": "10. 家に帰るなら | パンを | 買ってきてください。",
+    "translation": {
+      "natural": "要是你要回家了的話，順便買麵包回來吧。",
+      "literal": "回家的話，請買麵包過來。"
+    },
+    "words": [
+      {
+        "word": "家",
+        "reading": "うち",
+        "note": "名詞，家、住宅"
+      },
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "note": "動詞，回去、回家"
+      },
+      {
+        "word": "パン",
+        "reading": "ぱん",
+        "note": "名詞，麵包（Bread）"
+      }
+    ],
+    "context_grammar": [
+      "家に帰るなら：告知對方預計歸家動作時，所隨之提起的順帶委託請求。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "05:25",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "段落標示。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "05:27",
+    "japanese": "車を借りるなら予約したほうがいいですよ。",
+    "furigana": "<ruby>車<rt>くるま</rt></ruby>を<ruby>借<rt>か</rt></ruby>りるなら<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>したほうがいいですよ。",
+    "segmentation": "車を借りるなら | 予約したほうが | いいですよ。",
+    "translation": {
+      "natural": "如果要租車的話，最好提早預約喔。",
+      "literal": "借車的話，預約了比較好喔。"
+    },
+    "words": [
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "note": "動詞，租借"
+      }
+    ],
+    "context_grammar": [
+      "對話實踐發問句，同句71。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "05:32",
+    "japanese": "分かりました。そうします。",
+    "furigana": "<ruby>分<rt>わ</rt></ruby>かりました。そうします。",
+    "segmentation": "分かりました。| そうします。",
+    "translation": {
+      "natural": "我知道了，我會這麼做。",
+      "literal": "明白了。那樣做。"
+    },
+    "words": [
+      {
+        "word": "そう",
+        "reading": "そう",
+        "note": "副詞，那樣地"
+      }
+    ],
+    "context_grammar": [
+      "理解並完全採納建議的標準完整口語答覆組合。"
+    ]
+  }
+]

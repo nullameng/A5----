@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "61. はありますか？",
+    "furigana": "61. はありますか？",
+    "segmentation": "61. | はありますか？",
+    "translation": {
+      "natural": "61. 有……嗎？",
+      "literal": "61. 有……嗎？"
+    },
+    "words": [
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，存在、有（用於非生物、物品）"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 ＋ はありますか」：詢問某處是否有某物品或某物是否有在庫的標準疑問句型。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:05",
+    "japanese": "ステップ1.",
+    "furigana": "ステップ1.",
+    "segmentation": "ステップ1.",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "步驟 1。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:08",
+    "japanese": "1. 赤はありますか？",
+    "furigana": "1. <ruby>赤<rt>あか</rt></ruby>はありますか？",
+    "segmentation": "1. 赤は | ありますか？",
+    "translation": {
+      "natural": "1. 有紅色的嗎？",
+      "literal": "1. 紅色的有嗎？"
+    },
+    "words": [
+      {
+        "word": "赤",
+        "reading": "あか",
+        "note": "名詞，紅色"
+      }
+    ],
+    "context_grammar": [
+      "提示主題助詞「は」強調詢問的對象「紅色」。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:12",
+    "japanese": "2. 黒はありますか？",
+    "furigana": "2. <ruby>黒<rt>くろ</rt></ruby>はありますか？",
+    "segmentation": "2. 黒は | ありますか？",
+    "translation": {
+      "natural": "2. 有黑色的嗎？",
+      "literal": "2. 黑色的有嗎？"
+    },
+    "words": [
+      {
+        "word": "黒",
+        "reading": "くろ",
+        "note": "名詞，黑色"
+      }
+    ],
+    "context_grammar": [
+      "購物時用來詢問是否有特定顏色的常用表示。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:17",
+    "japanese": "3. 唐辛子はありますか？",
+    "furigana": "3. <ruby>唐<rt>とう</rt></ruby><ruby>辛<rt>がらし</rt></ruby><ruby>子<rt>し</rt></ruby>はありますか？",
+    "segmentation": "3. 唐辛子は | ありますか？",
+    "translation": {
+      "natural": "3. 有辣椒嗎？",
+      "literal": "3. 辣椒有嗎？"
+    },
+    "words": [
+      {
+        "word": "唐辛子",
+        "reading": "とうがらし",
+        "note": "名詞，辣椒"
+      }
+    ],
+    "context_grammar": [
+      "餐廳或超市詢問有無調味品的用語。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:23",
+    "japanese": "4. お酢はありますか？",
+    "furigana": "4. お<ruby>酢<rt>す</rt></ruby>はありますか？",
+    "segmentation": "4. お酢は | ありますか？",
+    "translation": {
+      "natural": "4. 有醋嗎？",
+      "literal": "4. 醋有嗎？"
+    },
+    "words": [
+      {
+        "word": "お酢",
+        "reading": "おす",
+        "note": "名詞，醋（加上美化語「お」）"
+      }
+    ],
+    "context_grammar": [
+      "前綴「お」為美化語，使用語更加禮貌體面。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:28",
+    "japanese": "5. もっと大きいのはありますか？",
+    "furigana": "5. もっと<ruby>大<rt>おお</rt></ruby>きいのはありますか？",
+    "segmentation": "5. もっと | 大きいのは | ありますか？",
+    "translation": {
+      "natural": "5. 有更大一點的嗎？",
+      "literal": "5. 更加大的有嗎？"
+    },
+    "words": [
+      {
+        "word": "もっと",
+        "reading": "もっと",
+        "note": "副詞，更加、再"
+      },
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "note": "形容詞，大的"
+      },
+      {
+        "word": "の",
+        "reading": "の",
+        "note": "形式名詞，指的是「東西/尺寸」"
+      }
+    ],
+    "context_grammar": [
+      "「形容詞 ＋ の」：將形容詞名詞化，代表「……的尺寸/東西」。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:35",
+    "japanese": "6. もっと小さいのはありますか？",
+    "furigana": "6. もっと<ruby>小<rt>ちい</rt></ruby>さいのはありますか？",
+    "segmentation": "6. もっと | 小さいのは | ありますか？",
+    "translation": {
+      "natural": "6. 有更小一點的嗎？",
+      "literal": "6. 更加小的有嗎？"
+    },
+    "words": [
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "note": "形容詞，小的"
+      }
+    ],
+    "context_grammar": [
+      "「もっと ＋ 形容詞 ＋ の」：用於要求更換尺寸時的日常對話必備句法。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:41",
+    "japanese": "7. この本はありますか？",
+    "furigana": "7. この<ruby>本<rt>ほん</rt></ruby>はありますか？",
+    "segmentation": "7. この本は | ありますか？",
+    "translation": {
+      "natural": "7. 有這本書嗎？",
+      "literal": "7. 這本書有嗎？"
+    },
+    "words": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "note": "名詞，書本"
+      }
+    ],
+    "context_grammar": [
+      "連体詞「この」直接修飾後方的名詞「本」。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:47",
+    "japanese": "8. お酒はありますか？",
+    "furigana": "8. お<ruby>酒<rt>さけ</rt></ruby>はありますか？",
+    "segmentation": "8. お酒は | ありますか？",
+    "translation": {
+      "natural": "8. 有酒嗎？",
+      "literal": "8. 酒有嗎？"
+    },
+    "words": [
+      {
+        "word": "お酒",
+        "reading": "おさけ",
+        "note": "名詞，酒類（加美化語「お」）"
+      }
+    ],
+    "context_grammar": [
+      "「お酒」泛指酒類，在餐飲場所詢問是否提供酒精飲料。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:52",
+    "japanese": "9. のど飴はありますか？",
+    "furigana": "9. のど<ruby>飴<rt>あめ</rt></ruby>はありますか？",
+    "segmentation": "9. のど飴は | ありますか？",
+    "translation": {
+      "natural": "9. 有潤喉糖嗎？",
+      "literal": "9. 潤喉糖有嗎？"
+    },
+    "words": [
+      {
+        "word": "のど飴",
+        "reading": "のどあめ",
+        "note": "名詞，潤喉糖、喉糖"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「のど（喉）＋ 飴（糖果）」。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:58",
+    "japanese": "10. マスクはありますか？",
+    "furigana": "10. マスクはありますか？",
+    "segmentation": "10. マスクは | ありますか？",
+    "translation": {
+      "natural": "10. 有口罩嗎？",
+      "literal": "10. 口罩有嗎？"
+    },
+    "words": [
+      {
+        "word": "マスク",
+        "reading": "ますく",
+        "note": "名詞，口罩（外來語）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞接續主題助詞「は」進行詢問。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:03",
+    "japanese": "ステップ3.",
+    "furigana": "ステップ3.",
+    "segmentation": "ステップ3.",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "步驟 3。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:06",
+    "japanese": "これは少し大きいですね。もっと小さいのはありますか？",
+    "furigana": "これは<ruby>少<rt>すこ</rt></ruby>し<ruby>大<rt>おお</rt></ruby>きいですね。もっと<ruby>小<rt>ちい</rt></ruby>さいのはありますか？",
+    "segmentation": "これは | 少し大きいですね。| もっと | 小さいのは | ありますか？",
+    "translation": {
+      "natural": "這個有點太大了呢。有更小一點的嗎？",
+      "literal": "這個稍微大呢。更加小的有嗎？"
+    },
+    "words": [
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "note": "副詞，稍微、一點點"
+      },
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "終助詞，表示感嘆或尋求同意"
+      }
+    ],
+    "context_grammar": [
+      "前句表達對現有商品尺寸的婉轉評價，後句以「もっと...の」提出調整需求。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:13",
+    "japanese": "はい、少々お待ちください。",
+    "furigana": "はい、<ruby>少<rt>しょう</rt></ruby><ruby>々<rt>しょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。",
+    "segmentation": "はい、| 少々 | お待ちください。",
+    "translation": {
+      "natural": "好的，請稍等片刻。",
+      "literal": "是的，請稍作等待。"
+    },
+    "words": [
+      {
+        "word": "少々",
+        "reading": "しょうしょう",
+        "note": "副詞，稍微、一下子（比「少し」更正式）"
+      },
+      {
+        "word": "お待ちください",
+        "reading": "おまちください",
+        "note": "動詞，請等待（尊敬語句型）"
+      }
+    ],
+    "context_grammar": [
+      "「お ＋ 動詞連用形 ＋ ください」：服務業標準接待尊敬語，表示請對方做某事。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:17",
+    "japanese": "62. はいますか？",
+    "furigana": "62. はいますか？",
+    "segmentation": "62. | はいますか？",
+    "translation": {
+      "natural": "62. 有……（人／動物）嗎？",
+      "literal": "62. 有……（人／動物）嗎？"
+    },
+    "words": [
+      {
+        "word": "いる",
+        "reading": "いる",
+        "note": "動詞，存在、有（用於人、動物等有生命體）"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 ＋ はいますか」：專用於詢問「有生命的物體（人、動物）」存在與否。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:22",
+    "japanese": "ステップ1.",
+    "furigana": "ステップ1.",
+    "segmentation": "ステップ1.",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "步驟 1。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:25",
+    "japanese": "1. マネージャーはいますか？",
+    "furigana": "1. マネージャーはいますか？",
+    "segmentation": "1. マネージャーは | いますか？",
+    "translation": {
+      "natural": "1. 經理在嗎？",
+      "literal": "1. 經理有在嗎？"
+    },
+    "words": [
+      {
+        "word": "マネージャー",
+        "reading": "まねーじゃー",
+        "note": "名詞，經理、管理者"
+      }
+    ],
+    "context_grammar": [
+      "對人使用動詞「いる（います）」。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:29",
+    "japanese": "2. 上野動物園にパンダはいますか？",
+    "furigana": "2. <ruby>上<rt>うえ</rt></ruby><ruby>野<rt>の</rt></ruby><ruby>動<rt>どう</rt></ruby><ruby>物<rt>ぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>にパンダはいますか？",
+    "segmentation": "2. 上野動物園に | パンダは | いますか？",
+    "translation": {
+      "natural": "2. 上野動物園有熊貓嗎？",
+      "literal": "2. 在上野動物園熊貓有嗎？"
+    },
+    "words": [
+      {
+        "word": "上野動物園",
+        "reading": "うえのどうぶつえん",
+        "note": "專有名詞，上野動物園"
+      },
+      {
+        "word": "パンダ",
+        "reading": "ぱんだ",
+        "note": "名詞，熊貓"
+      }
+    ],
+    "context_grammar": [
+      "補格助詞「に」標示存在的地點（上野動物園）。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:36",
+    "japanese": "3. ここにコアラはいますか？",
+    "furigana": "3. ここにコアラはいますか？",
+    "segmentation": "3. ここに | コアラは | いますか？",
+    "translation": {
+      "natural": "3. 這裡有無尾熊嗎？",
+      "literal": "3. 在這裡無尾熊有嗎？"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡"
+      },
+      {
+        "word": "コアラ",
+        "reading": "こあら",
+        "note": "名詞，無尾熊"
+      }
+    ],
+    "context_grammar": [
+      "「場所 ＋ に ＋ 主體 ＋ はいますか」的基本存在句構。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:42",
+    "japanese": "4. この海にサメはいますか？",
+    "furigana": "4. この<ruby>海<rt>うみ</rt></ruby>にサメはいますか？",
+    "segmentation": "4. この海に | サメは | いますか？",
+    "translation": {
+      "natural": "4. 這片海域有鯊魚嗎？",
+      "literal": "4. 在這片海鯊魚有嗎？"
+    },
+    "words": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "note": "名詞，海洋、海邊"
+      },
+      {
+        "word": "サメ",
+        "reading": "さめ",
+        "note": "名詞，鯊魚"
+      }
+    ],
+    "context_grammar": [
+      "「この海に」作為地點修飾語，修飾動詞「います」。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:48",
+    "japanese": "5. この山にクマはいますか？",
+    "furigana": "5. この<ruby>山<rt>やま</rt></ruby>にクマはいますか？",
+    "segmentation": "5. この山に | クマは | いますか？",
+    "translation": {
+      "natural": "5. 這座山上有熊嗎？",
+      "literal": "5. 在這座山熊有嗎？"
+    },
+    "words": [
+      {
+        "word": "山",
+        "reading": "やま",
+        "note": "名詞，山"
+      },
+      {
+        "word": "クマ",
+        "reading": "くま",
+        "note": "名詞，熊"
+      }
+    ],
+    "context_grammar": [
+      "生物（動物）存在句型。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:54",
+    "japanese": "6. この公園にリスはいますか？",
+    "furigana": "6. この<ruby>公<rt>こう</rt></ruby><ruby>園<rt>えん</rt></ruby>にリスはいますか？",
+    "segmentation": "6. この公園に | リスは | いますか？",
+    "translation": {
+      "natural": "6. 這個公園裡有松鼠嗎？",
+      "literal": "6. 在這個公園松鼠有嗎？"
+    },
+    "words": [
+      {
+        "word": "公園",
+        "reading": "こうえん",
+        "note": "名詞，公園"
+      },
+      {
+        "word": "リス",
+        "reading": "りす",
+        "note": "名詞，松鼠"
+      }
+    ],
+    "context_grammar": [
+      "指示代名詞連體形「この」＋「公園」。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "02:00",
+    "japanese": "7. この山にサルはいますか？",
+    "furigana": "7. この<ruby>山<rt>やま</rt></ruby>にサルはいますか？",
+    "segmentation": "7. この山に | サルは | いますか？",
+    "translation": {
+      "natural": "7. 這座山上有猴子嗎？",
+      "literal": "7. 在這座山猴子有嗎？"
+    },
+    "words": [
+      {
+        "word": "サル",
+        "reading": "さる",
+        "note": "名詞，猴子"
+      }
+    ],
+    "context_grammar": [
+      "地點助詞「に」與主題助詞「は」結合詢問特定地點的生物。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "02:06",
+    "japanese": "8. この川に魚はいますか？",
+    "furigana": "8. この<ruby>川<rt>かわ</rt></ruby>に<ruby>魚<rt>さかな</rt></ruby>はいますか？",
+    "segmentation": "8. この川に | 魚は | いますか？",
+    "translation": {
+      "natural": "8. 這條河裡有魚嗎？",
+      "literal": "8. 在這條河魚有嗎？"
+    },
+    "words": [
+      {
+        "word": "川",
+        "reading": "かわ",
+        "note": "名詞，河流"
+      },
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "note": "名詞，魚"
+      }
+    ],
+    "context_grammar": [
+      "魚屬於生物，故使用「います」。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "02:12",
+    "japanese": "9. 日本にカブトムシはいますか？",
+    "furigana": "9. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>にカブトムシはいますか？",
+    "segmentation": "9. 日本に | カブトムシは | いますか？",
+    "translation": {
+      "natural": "9. 日本有獨角仙嗎？",
+      "literal": "9. 在日本獨角仙有嗎？"
+    },
+    "words": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "note": "專有名詞，日本"
+      },
+      {
+        "word": "カブトムシ",
+        "reading": "かぶとむし",
+        "note": "名詞，獨角仙"
+      }
+    ],
+    "context_grammar": [
+      "昆蟲等動物在日文中亦視為有生命體，使用「います」。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "02:18",
+    "japanese": "10. あなたの家に犬はいますか？",
+    "furigana": "10. あなたの<ruby>家<rt>うち</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>はいますか？",
+    "segmentation": "10. あなたの家に | 犬は | いますか？",
+    "translation": {
+      "natural": "10. 你家有養狗嗎？",
+      "literal": "10. 在你的家狗有嗎？"
+    },
+    "words": [
+      {
+        "word": "家",
+        "reading": "うち",
+        "note": "名詞，家、住處"
+      },
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "note": "名詞，狗"
+      }
+    ],
+    "context_grammar": [
+      "「あなたの家に」：領屬格助詞「の」連接「あなた」與「家」。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:24",
+    "japanese": "ステップ3.",
+    "furigana": "ステップ3.",
+    "segmentation": "ステップ3.",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "步驟 3。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:28",
+    "japanese": "この山にクマはいますか？",
+    "furigana": "この<ruby>山<rt>やま</rt></ruby>にクマはいますか？",
+    "segmentation": "この山に | クマは | いますか？",
+    "translation": {
+      "natural": "這座山上有熊嗎？",
+      "literal": "在這座山熊有嗎？"
+    },
+    "words": [
+      {
+        "word": "クマ",
+        "reading": "くま",
+        "note": "名詞，熊"
+      }
+    ],
+    "context_grammar": [
+      "對話中的情意疑問句型。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:32",
+    "japanese": "ええ、いますよ。気をつけましょう。",
+    "furigana": "ええ、いますよ。<ruby>気<rt>き</rt></rubyをつけましょう。",
+    "segmentation": "ええ、| いますよ。| 気をつけましょう。",
+    "translation": {
+      "natural": "嗯，有喔。我們小心一點吧。",
+      "literal": "是的，有喔。注意吧。"
+    },
+    "words": [
+      {
+        "word": "気を付ける",
+        "reading": "きをつける",
+        "note": "動詞短語，注意、小心（「気をつけましょう」為勸誘形）"
+      }
+    ],
+    "context_grammar": [
+      "「いますよ」：終助詞「よ」告知對方新資訊。",
+      "「〜ましょう」：動詞意志形/勸誘形，意為「讓我們一同……吧」。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:37",
+    "japanese": "63. ことがありますか？",
+    "furigana": "63. ことがありますか？",
+    "segmentation": "63. | ことがありますか？",
+    "translation": {
+      "natural": "63. 會有……的情況嗎？",
+      "literal": "63. 有……的事情嗎？"
+    },
+    "words": [
+      {
+        "word": "こと",
+        "reading": "こと",
+        "note": "形式名詞，事情、狀況"
+      }
+    ],
+    "context_grammar": [
+      "「動詞連體形（辭書形）＋ ことがあります」：表示偶爾或有時會發生的習慣/情況。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:43",
+    "japanese": "ステップ1.",
+    "furigana": "ステップ1.",
+    "segmentation": "ステップ1.",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "步驟 1。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:45",
+    "japanese": "1. 日本へ出張することがありますか？",
+    "furigana": "1. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>へ<ruby>出<rt>しゅっ</rt></ruby><ruby>張<rt>ちょう</rt></ruby>することがありますか？",
+    "segmentation": "1. 日本へ | 出張することが | ありますか？",
+    "translation": {
+      "natural": "1. 你會有去日本出差的情況嗎？",
+      "literal": "1. 到日本去出差的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "出張する",
+        "reading": "しゅっちょうする",
+        "note": "動詞，出差"
+      }
+    ],
+    "context_grammar": [
+      "「出張する」直接修飾形式名詞「こと」，作為「あります」的主語。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:51",
+    "japanese": "2. 残業することがありますか？",
+    "furigana": "2. <ruby>残<rt>ざん</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>することがありますか？",
+    "segmentation": "2. 残業することが | ありますか？",
+    "translation": {
+      "natural": "2. 你會有需要加班的情況嗎？",
+      "literal": "2. 加班的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "残業する",
+        "reading": "ざんぎょうする",
+        "note": "動詞，加班"
+      }
+    ],
+    "context_grammar": [
+      "「動詞辭書形 ＋ こと」將動作名詞化。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:57",
+    "japanese": "3. 故障することがありますか？",
+    "furigana": "3. <ruby>故<rt>こ</rt></ruby><ruby>障<rt>しょう</rt></ruby>することがありますか？",
+    "segmentation": "3. 故障することが | ありますか？",
+    "translation": {
+      "natural": "3. 會有故障的情形嗎？",
+      "literal": "3. 故障的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "故障する",
+        "reading": "こしょうする",
+        "note": "動詞，故障、損壞"
+      }
+    ],
+    "context_grammar": [
+      "詢問機械設備是否偶爾會發生特定狀況。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "03:03",
+    "japanese": "4. 停止することがありますか？",
+    "furigana": "4. <ruby>停<rt>てい</rt></ruby><ruby>止<rt>し</rt></ruby>することがありますか？",
+    "segmentation": "4. 停止することが | ありますか？",
+    "translation": {
+      "natural": "4. 會有停止運作的情況嗎？",
+      "literal": "4. 停止的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "停止する",
+        "reading": "ていしする",
+        "note": "動詞，停止、停擺"
+      }
+    ],
+    "context_grammar": [
+      "「サ變動詞詞幹 ＋ する」接續「ことがあります」。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "03:08",
+    "japanese": "5. 中止することがありますか？",
+    "furigana": "5. <ruby>中<rt>ちゅう</rt></ruby><ruby>止<rt>し</rt></ruby>することがありますか？",
+    "segmentation": "5. 中止することが | ありますか？",
+    "translation": {
+      "natural": "5. 會有取消活動的情況嗎？",
+      "literal": "5. 中止的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "中止する",
+        "reading": "ちゅうしする",
+        "note": "動詞，中止、取消"
+      }
+    ],
+    "context_grammar": [
+      "用於詢問活動或計畫是否有可能暫停。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "03:14",
+    "japanese": "6. 延期することがありますか？",
+    "furigana": "6. <ruby>延<rt>えん</rt></ruby><ruby>期<rt>き</rt></ruby>することがありますか？",
+    "segmentation": "6. 延期することが | ありますか？",
+    "translation": {
+      "natural": "6. 會有延期的情況嗎？",
+      "literal": "6. 延期的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "延期する",
+        "reading": "えんきする",
+        "note": "動詞，延期"
+      }
+    ],
+    "context_grammar": [
+      "「延期する」作為連體修飾語修飾「こと」。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "03:20",
+    "japanese": "7. 空港を閉鎖することがありますか？",
+    "furigana": "7. <ruby>空<rt>くう</rt></ruby><ruby>港<rt>こう</rt></ruby>を<ruby>閉<rt>へい</rt></ruby><ruby>鎖<rt>さ</rt></ruby>することがありますか？",
+    "segmentation": "7. 空港を | 閉鎖することが | ありますか？",
+    "translation": {
+      "natural": "7. 會有關閉機場的情況嗎？",
+      "literal": "7. 關閉機場的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "note": "名詞，機場"
+      },
+      {
+        "word": "閉鎖する",
+        "reading": "へいさする",
+        "note": "動詞，關閉、封鎖"
+      }
+    ],
+    "context_grammar": [
+      "目的格助詞「を」指示「閉鎖する」的對象（空港）。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:26",
+    "japanese": "8. 4月に雪が降ることがありますか？",
+    "furigana": "8. 4<ruby>月<rt>がつ</rt></ruby>に<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ることがありますか？",
+    "segmentation": "8. 4月に | 雪が降ることが | ありますか？",
+    "translation": {
+      "natural": "8. 4月會有下雪的情況嗎？",
+      "literal": "8. 在4月下雪的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "降る",
+        "reading": "ふる",
+        "note": "動詞，下（雨、雪）"
+      }
+    ],
+    "context_grammar": [
+      "時間點助詞「に」＋「現象主語＋が＋降る」的連體修飾結構。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:33",
+    "japanese": "9. 停電することがありますか？",
+    "furigana": "9. <ruby>停<rt>てい</rt></ruby><ruby>電<rt>でん</rt></ruby>することがありますか？",
+    "segmentation": "9. 停電することが | ありますか？",
+    "translation": {
+      "natural": "9. 會有停電的情況嗎？",
+      "literal": "9. 停電的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "停電する",
+        "reading": "ていでんする",
+        "note": "動詞，停電"
+      }
+    ],
+    "context_grammar": [
+      "表達非經常性但偶爾發生的自然或設備現象。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:39",
+    "japanese": "10. 断水することがありますか？",
+    "furigana": "10. <ruby>断<rt>だん</rt></ruby><ruby>水<rt>すい</rt></ruby>することがありますか？",
+    "segmentation": "10. 断水することが | ありますか？",
+    "translation": {
+      "natural": "10. 會有停水的情況嗎？",
+      "literal": "10. 停水的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "断水する",
+        "reading": "だんすいする",
+        "note": "動詞，停水"
+      }
+    ],
+    "context_grammar": [
+      "「サ變動詞 ＋ ことがありますか」。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:45",
+    "japanese": "ステップ3.",
+    "furigana": "ステップ3.",
+    "segmentation": "ステップ3.",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "步驟 3。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:48",
+    "japanese": "停電することがありますか？",
+    "furigana": "ときどき<ruby>停<rt>てい</rt></ruby><ruby>電<rt>でん</rt></ruby>することがありますか？",
+    "segmentation": "停電することが | ありますか？",
+    "translation": {
+      "natural": "會有停電的情況嗎？",
+      "literal": "停電的事情有嗎？"
+    },
+    "words": [
+      {
+        "word": "停電する",
+        "reading": "ていでんする",
+        "note": "動詞，停電"
+      }
+    ],
+    "context_grammar": [
+      "對話開啟問句。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:51",
+    "japanese": "台風が来ると、ときどき停電しますよ。",
+    "furigana": "<ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>が<ruby>来<rt>く</rt></ruby>ると、ときどき<ruby>停<rt>てい</rt></ruby><ruby>電<rt>でん</rt></ruby>しますよ。",
+    "segmentation": "台風が来ると、| ときどき | 停電しますよ。",
+    "translation": {
+      "natural": "颱風一來的話，偶爾會停電喔。",
+      "literal": "颱風來的話，有時會停電喔。"
+    },
+    "words": [
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "note": "名詞，颱風"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "動詞，來"
+      },
+      {
+        "word": "ときどき",
+        "reading": "ときどき",
+        "note": "副詞，有時、偶爾"
+      }
+    ],
+    "context_grammar": [
+      "「動詞辭書形 ＋ と」：順接條件假定/必然結果，表示「一……就……」。",
+      "「～よ」：告知對方確定資訊的終助詞。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:57",
+    "japanese": "64. つもりですか？",
+    "furigana": "64. つもりですか？",
+    "segmentation": "64. | つもりですか？",
+    "translation": {
+      "natural": "64. 打算（做……）嗎？",
+      "literal": "64. 是打算嗎？"
+    },
+    "words": [
+      {
+        "word": "つもり",
+        "reading": "つもり",
+        "note": "形式名詞，打算、意圖"
+      }
+    ],
+    "context_grammar": [
+      "「動詞辭書形 ＋ つもりです」：表達個人的意圖或預定計畫。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "04:02",
+    "japanese": "ステップ1.",
+    "furigana": "ステップ1.",
+    "segmentation": "ステップ1.",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "步驟 1。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "04:05",
+    "japanese": "1. 今日は何をするつもりですか？",
+    "furigana": "1. <ruby>今<rt>きょう</rt></ruby><ruby>日<rt>は</rt></ruby>はなにをするつもりですか？",
+    "segmentation": "1. 今日は | なにをする | つもりですか？",
+    "translation": {
+      "natural": "1. 你今天打算做什麼呢？",
+      "literal": "1. 今天打算做什麼？"
+    },
+    "words": [
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "note": "名詞，今天"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做"
+      }
+    ],
+    "context_grammar": [
+      "疑問詞「なに」＋ 目的格助詞「を」＋ 動詞辭書形「する」修飾「つもり」。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "04:10",
+    "japanese": "2. どこへ行くつもりですか？",
+    "furigana": "2. どこへ<ruby>行<rt>い</rt></ruby>くつもりですか？",
+    "segmentation": "2. どこへ | 行くつもりですか？",
+    "translation": {
+      "natural": "2. 你打算去哪裡呢？",
+      "literal": "2. 打算前往何處？"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "方向助詞「へ」標示前往的地點。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "04:15",
+    "japanese": "3. 何を食べるつもりですか？",
+    "furigana": "3. <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるつもりですか？",
+    "segmentation": "3. 何を | 食べるつもりですか？",
+    "translation": {
+      "natural": "3. 你打算吃什麼呢？",
+      "literal": "3. 打算吃什麼？"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「食べる」辭書形修飾「つもり」。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "04:20",
+    "japanese": "4. これからどうするつもりですか？",
+    "furigana": "4. これからどうするつもりですか？",
+    "segmentation": "4. これから | どうするつもりですか？",
+    "translation": {
+      "natural": "4. 你接下來打算怎麼做？",
+      "literal": "4. 從現在起打算如何做？"
+    },
+    "words": [
+      {
+        "word": "これから",
+        "reading": "これから",
+        "note": "副詞，接下來、從現在開始"
+      },
+      {
+        "word": "どう",
+        "reading": "どう",
+        "note": "副詞，如何、怎樣"
+      }
+    ],
+    "context_grammar": [
+      "「これから」標示時間起點，「どう」詢問執行方式。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "04:26",
+    "japanese": "5. いつレストランを予約するつもりですか？",
+    "furigana": "5. いつレストランを<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>するつもりですか？",
+    "segmentation": "5. いつ | レストランを | 予約するつもりですか？",
+    "translation": {
+      "natural": "5. 你打算什麼時候預約餐廳？",
+      "literal": "5. 何時打算預約餐廳？"
+    },
+    "words": [
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "副詞/疑問詞，何時"
+      },
+      {
+        "word": "予約する",
+        "reading": "よやくする",
+        "note": "動詞，預約"
+      }
+    ],
+    "context_grammar": [
+      "疑問詞「いつ」放在句首詢問特定動作的執行時間點。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "04:33",
+    "japanese": "6. いつ旅行に行くつもりですか？",
+    "furigana": "6. いつ<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くつもりですか？",
+    "segmentation": "6. いつ | 旅行に | 行くつもりですか？",
+    "translation": {
+      "natural": "6. 你打算什麼時候去旅行？",
+      "literal": "6. 何時打算去旅行？"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "目的助詞「に」連接「旅行」與行動動詞「行く」。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "04:39",
+    "japanese": "7. パスポートを申請するつもりですか？",
+    "furigana": "7. パスポートを<ruby>申<rt>しん</rt></ruby><ruby>請<rt>せい</rt></ruby>するつもりですか？",
+    "segmentation": "7. パスポートを | 申請するつもりですか？",
+    "translation": {
+      "natural": "7. 你打算申請護照嗎？",
+      "literal": "7. 打算申請護照嗎？"
+    },
+    "words": [
+      {
+        "word": "パスポート",
+        "reading": "ぱすぽーと",
+        "note": "名詞，護照"
+      },
+      {
+        "word": "申請する",
+        "reading": "しんせいする",
+        "note": "動詞，申請"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 ＋ を ＋ 動詞辭書形 ＋ つもりです」的典型疑問態。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "04:45",
+    "japanese": "8. 予定を変更するつもりですか？",
+    "furigana": "8. <ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>を<ruby>変<rt>へん</rt></ruby><ruby>更<rt>こう</rt></ruby>するつもりですか？",
+    "segmentation": "8. 予定を | 変更するつもりですか？",
+    "translation": {
+      "natural": "8. 你打算變更行程嗎？",
+      "literal": "8. 打算變更預定嗎？"
+    },
+    "words": [
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "note": "名詞，預定、行程"
+      },
+      {
+        "word": "変更する",
+        "reading": "へんこうする",
+        "note": "動詞，變更、修改"
+      }
+    ],
+    "context_grammar": [
+      "動作對象「予定」接受詞助詞「を」。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:51",
+    "japanese": "9. 部屋を変えるつもりですか？",
+    "furigana": "9. <ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>を<ruby>変<rt>か</rt></ruby>えるつもりですか？",
+    "segmentation": "9. 部屋を | 変えるつもりですか？",
+    "translation": {
+      "natural": "9. 你打算換房間嗎？",
+      "literal": "9. 打算改變房間嗎？"
+    },
+    "words": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "変える",
+        "reading": "かえる",
+        "note": "動詞，更換、改變"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「変える」辭書形修飾名詞「つもり」。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:56",
+    "japanese": "10. 整形するつもりですか？",
+    "furigana": "10. <ruby>整<rt>せい</rt></ruby><ruby>形<rt>けい</rt></ruby>するつもりですか？",
+    "segmentation": "10. 整形するつもりですか？",
+    "translation": {
+      "natural": "10. 你打算做整形手術嗎？",
+      "literal": "10. 打算整形嗎？"
+    },
+    "words": [
+      {
+        "word": "整形する",
+        "reading": "せいけいする",
+        "note": "動詞，整形（整容）"
+      }
+    ],
+    "context_grammar": [
+      "「整形する」直接修飾「つもり」。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "05:01",
+    "japanese": "ステップ3.",
+    "furigana": "ステップ3.",
+    "segmentation": "ステップ3.",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "步驟 3。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "05:04",
+    "japanese": "今日は大雨ですね。困りましたね。",
+    "furigana": "<ruby>今<rt>きょう</rt></ruby><ruby>日<rt>は</rt></ruby>は<ruby>大<rt>おお</rt></ruby><ruby>雨<rt>あめ</rt></ruby>ですね。<ruby>困<rt>こま</rt></ruby>りましたね。",
+    "segmentation": "今日は | 大雨ですね。| 困りましたね。",
+    "translation": {
+      "natural": "今天下大雨呢。真是令人傷腦筋啊。",
+      "literal": "今天是傾盆大雨呢。困擾了呢。"
+    },
+    "words": [
+      {
+        "word": "大雨",
+        "reading": "おおあめ",
+        "note": "名詞，大雨、暴雨"
+      },
+      {
+        "word": "困る",
+        "reading": "こまる",
+        "note": "動詞，困擾、感到為難（「困りました」為過去式）"
+      }
+    ],
+    "context_grammar": [
+      "「困りましたね」：動詞過去式加上感嘆助詞「ね」，用來對發生的狀況表達感嘆或共鳴。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "05:10",
+    "japanese": "予定を変更するつもりですか？",
+    "furigana": "<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>を<ruby>変<rt>へん</rt></ruby><ruby>更<rt>こう</rt></ruby>するつもりですか？",
+    "segmentation": "予定を | 変更するつもりですか？",
+    "translation": {
+      "natural": "你打算變更行程嗎？",
+      "literal": "打算變更預定嗎？"
+    },
+    "words": [
+      {
+        "word": "変更する",
+        "reading": "へんこうする",
+        "note": "動詞，變更"
+      }
+    ],
+    "context_grammar": [
+      "因應前文大雨狀況而提出的相應對策詢問。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "05:15",
+    "japanese": "65. から／か",
+    "furigana": "65. から／か",
+    "segmentation": "65. | から／か",
+    "translation": {
+      "natural": "65. 因為……所以……嗎？",
+      "literal": "65. 因為……嗎？"
+    },
+    "words": [
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接續助詞，因為、由於"
+      }
+    ],
+    "context_grammar": [
+      "表示因果關係的「〜から」，句尾加上疑問助詞「か」。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "05:20",
+    "japanese": "ステップ1.",
+    "furigana": "ステップ1.",
+    "segmentation": "ステップ1.",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "步驟 1。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "05:23",
+    "japanese": "1. 暑いからエアコンをつけますか？",
+    "furigana": "1. <ruby>暑<rt>あつ</rt></ruby>いからエアコンをつけますか？",
+    "segmentation": "1. 暑いから | エアコンを | つけますか？",
+    "translation": {
+      "natural": "1. 因為很熱，要開冷氣嗎？",
+      "literal": "1. 因為熱，要開啟空調嗎？"
+    },
+    "words": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "note": "形容詞，炎熱的"
+      },
+      {
+        "word": "エアコン",
+        "reading": "えあこん",
+        "note": "名詞，冷氣、空調"
+      },
+      {
+        "word": "つける",
+        "reading": "つける",
+        "note": "動詞，打開（電源、電器）"
+      }
+    ],
+    "context_grammar": [
+      "「形容詞普通形 ＋ から」引導原因理由子句。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "05:28",
+    "japanese": "2. 傷物だから換えてもらえますか？",
+    "furigana": "2. <ruby>傷<rt>きず</rt></ruby><ruby>物<rt>もの</rt></ruby>だから<ruby>換<rt>か</rt></ruby>えてもらえますか？",
+    "segmentation": "2. 傷物だから | 換えてもらえますか？",
+    "translation": {
+      "natural": "2. 因為是瑕疵品，能幫我更換一個嗎？",
+      "literal": "2. 因為是瑕疵品，能得到更換嗎？"
+    },
+    "words": [
+      {
+        "word": "傷物",
+        "reading": "きずもの",
+        "note": "名詞，瑕疵品、有瑕疵的商品"
+      },
+      {
+        "word": "換える",
+        "reading": "かえる",
+        "note": "動詞，更換"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "補助動詞，請（對方為自己做某事）"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 ＋ だから」：名詞接續原因助詞「から」必須加「だ」。",
+      "「動詞て形 ＋ もらえますか」：以可能形表達請求對方的客氣說法。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "05:34",
+    "japanese": "3. 辛いから薄めてもらえますか？",
+    "furigana": "3. <ruby>辛<rt>から</rt></ruby>いから<ruby>薄<rt>うす</rt></ruby>めてもらえますか？",
+    "segmentation": "3. 辛いから | 薄めてもらえますか？",
+    "translation": {
+      "natural": "3. 因為太辣了，可以幫我幫口味弄淡一點嗎？",
+      "literal": "3. 因為辣，能得到稀釋（弄淡）嗎？"
+    },
+    "words": [
+      {
+        "word": "辛い",
+        "reading": "からい",
+        "note": "形容詞，辣的"
+      },
+      {
+        "word": "薄める",
+        "reading": "うすめる",
+        "note": "動詞，稀釋、使變淡"
+      }
+    ],
+    "context_grammar": [
+      "「薄めてもらえますか」：動詞て形結合授受補助動詞「もらう」的可能疑問態。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "05:40",
+    "japanese": "4. 寒いからエアコンを弱くしてもらえますか？",
+    "furigana": "4. <ruby>寒<rt>さむ</rt></ruby>いからエアコンを<ruby>弱<rt>よわ</rt></ruby>くしてもらえますか？",
+    "segmentation": "4. 寒いから | エアコンを | 弱くしてもらえますか？",
+    "translation": {
+      "natural": "4. 因為很冷，可以請您把冷氣關小一點嗎？",
+      "literal": "4. 因為冷，能將空調變弱嗎？"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "形容詞，寒冷的"
+      },
+      {
+        "word": "弱くする",
+        "reading": "よわくする",
+        "note": "動詞短語，調弱、調小（「弱く」為形容詞連用形）"
+      }
+    ],
+    "context_grammar": [
+      "「形容詞連用形（く）＋ する」：表示人為改變某種狀態。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "05:47",
+    "japanese": "5. 汚れているから新しいのに換えてもらえますか？",
+    "furigana": "5. <ruby>汚<rt>よご</rt></ruby>れているから<ruby>新<rt>あたら</rt></ruby>しいのに<ruby>換<rt>か</rt></ruby>えてもらえますか？",
+    "segmentation": "5. 汚れているから | 新しいのに | 換えてもらえますか？",
+    "translation": {
+      "natural": "5. 因為髒掉了，可以幫我換成新的嗎？",
+      "literal": "5. 因為髒著，能換成新的嗎？"
+    },
+    "words": [
+      {
+        "word": "汚れる",
+        "reading": "よごれる",
+        "note": "動詞，弄髒（「汚れている」為持續狀態）"
+      },
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "note": "形容詞，新的"
+      }
+    ],
+    "context_grammar": [
+      "「動詞て形 ＋ いる」：表示動作完成後的狀態持續（髒掉了）。",
+      "「新しいの（名詞化）＋ に（變化目標助詞）」。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "05:54",
+    "japanese": "6. 暗いから電気をつけてもらえますか？",
+    "furigana": "6. <ruby>暗<rt>くら</rt></ruby>いから<ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけてもらえますか？",
+    "segmentation": "6. 暗いから | 電気をつけてもらえますか？",
+    "translation": {
+      "natural": "6. 因為太暗了，可以請您開燈嗎？",
+      "literal": "6. 因為暗，能請您開啟電燈嗎？"
+    },
+    "words": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "note": "形容詞，黑暗的"
+      },
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "note": "名詞，電燈、電力"
+      }
+    ],
+    "context_grammar": [
+      "提出請求前先說明客觀理由（暗いから）。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "06:00",
+    "japanese": "7. 分からないから地図を書いてもらえますか？",
+    "furigana": "7. <ruby>分<rt>わ</rt></ruby>からからのど<ruby>地<rt>ち</rt></ruby><ruby>図<rt>ず</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてもらえますか？",
+    "segmentation": "7. 分からないから | 地図を | 書いてもらえますか？",
+    "translation": {
+      "natural": "7. 因為我不清楚路線，可以幫我畫張地圖嗎？",
+      "literal": "7. 因為不明白，能請您畫地圖嗎？"
+    },
+    "words": [
+      {
+        "word": "分からない",
+        "reading": "わからない",
+        "note": "動詞否定形，不知道、不清楚"
+      },
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "note": "名詞，地圖"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，畫、寫"
+      }
+    ],
+    "context_grammar": [
+      "「動詞未然形 ＋ ない ＋ から」：否定式理由接續。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "06:07",
+    "japanese": "8. 苦いから砂糖を入れてもらえますか？",
+    "furigana": "8. <ruby>苦<rt>にが</rt></ruby>いから<ruby>砂<rt>さ</rt></ruby><ruby>糖<rt>とう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてもらえますか？",
+    "segmentation": "8. 苦いから | 砂糖を入れてもらえますか？",
+    "translation": {
+      "natural": "8. 因為太苦了，可以幫我加點糖嗎？",
+      "literal": "8. 因為苦，能請您放入砂糖嗎？"
+    },
+    "words": [
+      {
+        "word": "苦い",
+        "reading": "にがい",
+        "note": "形容詞，苦的"
+      },
+      {
+        "word": "砂糖",
+        "reading": "さとう",
+        "note": "名詞，砂糖"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，放入、加進去"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 ＋ を ＋ 動詞て形 ＋ もらえますか」。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "06:13",
+    "japanese": "9. 人気のある映画だから見に行きません？",
+    "furigana": "9. <ruby>人<rt>にん</rt></ruby><ruby>気<rt>き</rt></ruby>のある<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>だから<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか？",
+    "segmentation": "9. 人気のある映画だから | 見に行きませんか？",
+    "translation": {
+      "natural": "9. 因為這是一部熱門電影，要不要一起去看呢？",
+      "literal": "9. 因為是有人氣的電影，不去看嗎？"
+    },
+    "words": [
+      {
+        "word": "人気",
+        "reading": "にんき",
+        "note": "名詞，受歡迎、人氣"
+      },
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      },
+      {
+        "word": "見に行く",
+        "reading": "みにいく",
+        "note": "動詞短語，去看（「見に」為目的）"
+      }
+    ],
+    "context_grammar": [
+      "「人気のある」：主格助詞「が」轉為「の」連體修飾名詞（映画）。",
+      "「動詞連用形 ＋ に行きませんか」：提議與邀約句型。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "06:20",
+    "japanese": "10. 今日はオートバイだからお酒を飲みませんか？",
+    "furigana": "10. <ruby>今<rt>きょう</rt></ruby><ruby>日<rt>は</rt></ruby>はオートバイだからお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みませんか？",
+    "segmentation": "10. 今日はオートバイだから | お酒を飲みませんか？",
+    "translation": {
+      "natural": "10. 因為今天騎摩托車來，所以不喝點酒嗎？（或：不喝酒吧？）",
+      "literal": "10. 因為今天是摩托車，不喝酒嗎？"
+    },
+    "words": [
+      {
+        "word": "オートバイ",
+        "reading": "おーとばい",
+        "note": "名詞，摩托車"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      }
+    ],
+    "context_grammar": [
+      "名詞判定「だから」表原因。",
+      "「飲みませんか」語境上亦可用於提醒/確認對方是否因為騎車而不喝酒。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "06:27",
+    "japanese": "ステップ3.",
+    "furigana": "ステップ3.",
+    "segmentation": "ステップ3.",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "步驟 3。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元段落指示詞。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "06:30",
+    "japanese": "寒いですね。",
+    "furigana": "<ruby>寒<rt>さむ</rt></ruby>いですね。",
+    "segmentation": "寒いですね。",
+    "translation": {
+      "natural": "好冷喔。",
+      "literal": "很冷呢。"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "形容詞，寒冷的"
+      }
+    ],
+    "context_grammar": [
+      "日常開場寒暄用語。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "06:33",
+    "japanese": "寒いからエアコンを弱くしてもらえますか？",
+    "furigana": "<ruby>寒<rt>さむ</rt></ruby>いからエアコンを<ruby>弱<rt>よわ</rt></ruby>くしてもらえますか？",
+    "segmentation": "寒いから | エアコンを | 弱くしてもらえますか？",
+    "translation": {
+      "natural": "因為很冷，可以請您把冷氣關小一點嗎？",
+      "literal": "因為冷，能請您把空調調弱嗎？"
+    },
+    "words": [
+      {
+        "word": "エアコン",
+        "reading": "えあこん",
+        "note": "名詞，冷氣、空調"
+      },
+      {
+        "word": "弱くする",
+        "reading": "よわくする",
+        "note": "動詞短語，調弱"
+      }
+    ],
+    "context_grammar": [
+      "因應感覺到冷（寒いから）而向對方發出的禮貌請求（〜してもらえますか）。"
+    ]
+  }
+]
