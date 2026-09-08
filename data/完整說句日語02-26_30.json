@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "76. どこか～ませんか。",
+    "furigana": "76. どこか～ませんか。",
+    "segmentation": "76. | どこか | ～ませんか。",
+    "translation": {
+      "natural": "76. 要不要去哪裡～呢？",
+      "literal": "76. 哪裡不～嗎。"
+    },
+    "words": [
+      {
+        "word": "どこか",
+        "reading": "どこか",
+        "note": "副詞/代名詞，某處、哪裡"
+      }
+    ],
+    "context_grammar": [
+      "どこか：疑問詞「どこ」加上副助詞「か」，表示不特定的地點（某處）。",
+      "～ませんか：動詞否定形「～ない」加上終助詞「か」，用於禮貌地提議、邀請對方一起做某事。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "ステップ1：外來語單字，用於教學或教學音訊中標示階段標題。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:06",
+    "japanese": "1. どこかで休みませんか。",
+    "furigana": "1. どこかで<ruby>休<rt>やす</rt></ruby>みませんか。",
+    "segmentation": "1. | どこかで | 休みませんか。",
+    "translation": {
+      "natural": "1. 要不要在哪裡休息一下呢？",
+      "literal": "1. 某處不休息嗎。"
+    },
+    "words": [
+      {
+        "word": "どこか",
+        "reading": "どこか",
+        "note": "代名詞，某處"
+      },
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "note": "動詞，休息（連用形為休み）"
+      }
+    ],
+    "context_grammar": [
+      "どこかで：格助詞「で」接在「どこか」後面，標示動作發生的場所。",
+      "休みませんか：五段活用動詞「休む」的未然形「休み」+ 否定禮貌語「ません」+ 疑問助詞「か」，組成邀約句型。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:10",
+    "japanese": "2. どこかで食事しませんか。",
+    "furigana": "2. どこかで<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>しませんか。",
+    "segmentation": "2. | どこかで | 食事しませんか。",
+    "translation": {
+      "natural": "2. 要不要在哪裡吃個飯呢？",
+      "literal": "2. 某處不用餐嗎。"
+    },
+    "words": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "note": "名詞/サ變動詞，用餐、吃飯"
+      }
+    ],
+    "context_grammar": [
+      "食事しませんか：サ變動詞「食事する」的未然形「食事し」+「ません」+「か」，常用於商務或日常約定用餐時的禮貌提議。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:14",
+    "japanese": "3. どこかで飲み物を買いませんか。",
+    "furigana": "3. どこかで<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>いませんか。",
+    "segmentation": "3. | どこかで | 飲み物を | 買いませんか。",
+    "translation": {
+      "natural": "3. 要不要在哪裡買杯飲料呢？",
+      "literal": "3. 某處不買飲料嗎。"
+    },
+    "words": [
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "note": "名詞，飲料"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，購買（連用形為買い）"
+      }
+    ],
+    "context_grammar": [
+      "飲み物を買います：格助詞「を」表示動詞「買う」的直接賓語。",
+      "買いませんか：五段活用動詞「買う」連用形「買い」接「ません＋か」，表達對他人的提議。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:18",
+    "japanese": "4. どこかへ旅行に行きませんか。",
+    "furigana": "4. どこかへ<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "4. | どこかへ | 旅行に | 行きませんか。",
+    "translation": {
+      "natural": "4. 要不要去哪裡旅行呢？",
+      "literal": "4. 往某處不去旅行嗎。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去（連用形為行き）"
+      }
+    ],
+    "context_grammar": [
+      "どこかへ：格助詞「へ」指示移動的方向（往某處）。",
+      "旅行に行く：名詞「旅行」+ 格助詞「に」（表示目的）+ 動詞「行く」，構成「去進行某目的」的經典結構。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:22",
+    "japanese": "5. どこかに車を止めませんか。",
+    "furigana": "5. どこかに<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めませんか。",
+    "segmentation": "5. | どこかに | 車を | 止めませんか。",
+    "translation": {
+      "natural": "5. 要不要在哪裡停個車呢？",
+      "literal": "5. 於某處不停車嗎。"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，車子、汽車"
+      },
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "note": "動詞，停止、停放（下一段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "どこかに：格助詞「に」表示附著、停放的靜態目的地點。",
+      "止めませんか：下一段動詞「止める」去「る」接連用形「止め」+「ません」+「か」。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:26",
+    "japanese": "6. どこでお土産を買いませんか。",
+    "furigana": "6. どこでお<ruby>土<rt>み</rt></ruby><ruby>産<rt>やげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いませんか。",
+    "segmentation": "6. | どこで | お土産を | 買いませんか。",
+    "translation": {
+      "natural": "6. 要不要在哪裡買紀念品呢？",
+      "literal": "6. 在何處不買伴手禮嗎。"
+    },
+    "words": [
+      {
+        "word": "お土産",
+        "reading": "おみやげ",
+        "note": "名詞，伴手禮、紀念品（「お」為美化語）"
+      }
+    ],
+    "context_grammar": [
+      "どこで：疑問詞「どこ」加上格助詞「で」，詢問購買動作進行的場所。",
+      "お土産：加上美話語接頭辭「お」，使用語感更加軟化且有禮貌。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:30",
+    "japanese": "7. どこかで散歩しませんか。",
+    "furigana": "7. どこかで<ruby>散<rt>さん</rt></ruby><ruby>歩<rt>ぽ</rt></ruby>しませんか。",
+    "segmentation": "7. | どこかで | 散歩しませんか。",
+    "translation": {
+      "natural": "7. 要不要在哪裡散散步呢？",
+      "literal": "7. 某處不散步嗎。"
+    },
+    "words": [
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "note": "名詞/サ變動詞，散步"
+      }
+    ],
+    "context_grammar": [
+      "散歩しませんか：「散歩する」變形為否定邀請「散歩しませんか」，常用於休閒邀約場景。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:34",
+    "japanese": "8. どこかで運動しませんか。",
+    "furigana": "8. どこかで<ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>しませんか。",
+    "segmentation": "8. | どこかで | 運動しませんか。",
+    "translation": {
+      "natural": "8. 要不要在哪裡運動一下呢？",
+      "literal": "8. 某處不運動嗎。"
+    },
+    "words": [
+      {
+        "word": "運動",
+        "reading": "うんどう",
+        "note": "名詞/サ變動詞，運動"
+      }
+    ],
+    "context_grammar": [
+      "どこかで：格助詞「で」說明運動動作的執行範圍地點。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:38",
+    "japanese": "9. どこかで温泉に入りませんか。",
+    "furigana": "9. どこかで<ruby>温<rt>おん</rt></ruby><ruby>泉<rt>せん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りませんか。",
+    "segmentation": "9. | どこかで | 温泉に | 入りませんか。",
+    "translation": {
+      "natural": "9. 要不要在哪裡泡個溫泉呢？",
+      "literal": "9. 某處不進入溫泉嗎。"
+    },
+    "words": [
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "note": "名詞，溫泉"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入、泡（溫泉/澡）（五段活用）"
+      }
+    ],
+    "context_grammar": [
+      "温泉に入る：格助詞「に」表示進入或加入的標的場所。五段動詞「入る」連用形為「入り」。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:42",
+    "japanese": "10. どこかにいい温泉はありませんか。",
+    "furigana": "10. どこかにいい<ruby>温<rt>おん</rt></ruby><ruby>泉<rt>せん</rt></ruby>はありのせんか。",
+    "segmentation": "10. | どこかに | いい温泉は | ありませんか。",
+    "translation": {
+      "natural": "10. 哪裡有沒有不錯的溫泉呢？",
+      "literal": "10. 某處好的溫泉是沒有嗎。"
+    },
+    "words": [
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的、不錯的"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有、存在"
+      }
+    ],
+    "context_grammar": [
+      "いい温泉：形容詞「いい」直接連體修飾名詞「温泉」。",
+      "温泉はありませんか：提示助詞「は」替換了主格「が」，將「いい温泉」提為主詞並帶有尋求推薦與對比的語氣。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:46",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ3：代表進入實用對話情境的演練步驟。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:48",
+    "japanese": "どこかにいい温泉はありませんか。いろいろありますよ。",
+    "furigana": "どこかにいい<ruby>温<rt>おん</rt></ruby><ruby>泉<rt>せん</rt></ruby>はありませんか。いろいろありますよ。",
+    "segmentation": "どこかに | いい温泉は | ありませんか。| いろいろ | ありますよ。",
+    "translation": {
+      "natural": "「哪裡有沒有不錯的溫泉呢？」「有很多各式各樣的喔。」",
+      "literal": "某處好的溫泉沒有嗎。各種各樣有喔。"
+    },
+    "words": [
+      {
+        "word": "いろいろ",
+        "reading": "いろいろ",
+        "note": "副詞/形動，各式各樣、許多"
+      }
+    ],
+    "context_grammar": [
+      "ありますよ：存在動詞「ある」敬體「あります」+ 終助詞「よ」，用於傳達新資訊並加強親切確信的告知語氣。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:54",
+    "japanese": "77. どこですか。",
+    "furigana": "77. どこですか。",
+    "segmentation": "77. | どこですか。",
+    "translation": {
+      "natural": "77. 在哪裡呢？",
+      "literal": "77. 是哪裡。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      }
+    ],
+    "context_grammar": [
+      "どこですか：疑問詞「どこ」加上判斷助動詞敬體「です」及疑問終助詞「か」，最基本的詢問地點句型。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:58",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ1：標頭直譯。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:00",
+    "japanese": "1. どこが駅ですか。",
+    "furigana": "1. どこが<ruby>駅<rt>えき</rt></ruby>ですか。",
+    "segmentation": "1. | どこが | 駅ですか。",
+    "translation": {
+      "natural": "1. 哪邊才是車站呢？",
+      "literal": "1. 何處是車站。"
+    },
+    "words": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "note": "名詞，車站"
+      }
+    ],
+    "context_grammar": [
+      "どこが：當疑問詞「どこ」做為主詞時，後面必須接格助詞「が」而不能用「は」，用以強調選擇標的物。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:03",
+    "japanese": "2. どこが西口ですか。",
+    "furigana": "2. どこが<ruby>西<rt>にし</rt></ruby><ruby>口<rt>ぐち</rt></ruby>ですか。",
+    "segmentation": "2. | どこが | 西口ですか。",
+    "translation": {
+      "natural": "2. 哪邊才是西出口呢？",
+      "literal": "2. 何處是西口。"
+    },
+    "words": [
+      {
+        "word": "西口",
+        "reading": "にしぐち",
+        "note": "名詞，西口、西側出口"
+      }
+    ],
+    "context_grammar": [
+      "どこが～ですか：用於面對多個方向或出口時，排他性地確定「哪一個才是正解」。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:06",
+    "japanese": "3. どこがトイレですか。",
+    "furigana": "3. どこがトイレですか。",
+    "segmentation": "3. | どこが | トイレですか。",
+    "translation": {
+      "natural": "3. 哪邊才是洗手間呢？",
+      "literal": "3. 何處是廁所。"
+    },
+    "words": [
+      {
+        "word": "トイレ",
+        "reading": "といれ",
+        "note": "名詞，廁所、洗手間"
+      }
+    ],
+    "context_grammar": [
+      "トイレ：外來語「toilet」，旅遊觀光影片及日常詢問設施最常出現的單字。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:09",
+    "japanese": "4. どこがレストランですか。",
+    "furigana": "4. どこがレストランですか。",
+    "segmentation": "4. | どこが | レストランですか。",
+    "translation": {
+      "natural": "4. 哪邊才是餐廳呢？",
+      "literal": "4. 何處是餐廳。"
+    },
+    "words": [
+      {
+        "word": "レストラン",
+        "reading": "れすとらん",
+        "note": "名詞，餐廳"
+      }
+    ],
+    "context_grammar": [
+      "どこが：主格助詞「が」指定疑問標的。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:13",
+    "japanese": "5. どこが入り口ですか。",
+    "furigana": "5. どこが<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>ですか。",
+    "segmentation": "5. | どこが | 入り口ですか。",
+    "translation": {
+      "natural": "5. 哪邊才是入口呢？",
+      "literal": "5. 何處是入口。"
+    },
+    "words": [
+      {
+        "word": "入り口",
+        "reading": "いりぐち",
+        "note": "名詞，入口"
+      }
+    ],
+    "context_grammar": [
+      "入り口：複合名詞（動詞「入る」連用形「入り」+ 名詞「口」濁音化為「ぐち」）。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:17",
+    "japanese": "6. どこがカメラ売り場ですか。",
+    "furigana": "6. どこがカメラ<ruby>売<rt>う</rt></ruby>り<ruby>場<rt>ば</rt></ruby>ですか。",
+    "segmentation": "6. | どこが | カメラ売り場ですか。",
+    "translation": {
+      "natural": "6. 哪邊才是相機專櫃（專賣區）呢？",
+      "literal": "6. 何處是相機賣場。"
+    },
+    "words": [
+      {
+        "word": "売り場",
+        "reading": "うりば",
+        "note": "名詞，賣場、售票處、專櫃"
+      }
+    ],
+    "context_grammar": [
+      "カメラ売り場：外來語名詞直接結合名詞「売り場」，構成百貨或量販店的專區名稱。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:21",
+    "japanese": "7. どこが到着ロビーですか。",
+    "furigana": "7. どこが<ruby>到<rt>とう</rt></ruby><ruby>着<rt>ちゃく</rt></ruby>ロビーですか。",
+    "segmentation": "7. | どこが | 到着ロビーですか。",
+    "translation": {
+      "natural": "7. 哪邊才是到達大廳呢？",
+      "literal": "7. 何處是到達大廳。"
+    },
+    "words": [
+      {
+        "word": "到着",
+        "reading": "とうちゃく",
+        "note": "名詞/サ變動詞，到達、抵達"
+      },
+      {
+        "word": "ロビー",
+        "reading": "ろびー",
+        "note": "名詞，大廳（lobby）"
+      }
+    ],
+    "context_grammar": [
+      "到着ロビー：機場廣播及導覽影片中極為常見的複合設施名稱。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:25",
+    "japanese": "8. どこが出発ロビーですか。",
+    "furigana": "8. どこが<ruby>出<rt>しゅっ</rt></ruby><ruby>発<rt>ぱつ</rt></ruby>ロビーですか。",
+    "segmentation": "8. | どこが | 出発ロビーですか。",
+    "translation": {
+      "natural": "8. 哪邊才是出境（出發）大廳呢？",
+      "literal": "8. 何處是出發大廳。"
+    },
+    "words": [
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "note": "名詞/サ變動詞，出發"
+      }
+    ],
+    "context_grammar": [
+      "出発ロビー：與「到着ロビー」對應，為機場廣播標準用語。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:29",
+    "japanese": "9. どこがバス乗り場ですか。",
+    "furigana": "9. どこがバス<ruby>乗<rt>の</rt></ruby>り<ruby>場<rt>ば</rt></ruby>ですか。",
+    "segmentation": "9. | どこが | バス乗り場ですか。",
+    "translation": {
+      "natural": "9. 哪邊才是公車乘車處呢？",
+      "literal": "9. 何處是巴士乘車處。"
+    },
+    "words": [
+      {
+        "word": "乗り場",
+        "reading": "のりば",
+        "note": "名詞，乘車處、搭乘點"
+      }
+    ],
+    "context_grammar": [
+      "バス乗り場：動詞「乗る」連用形「乗り」與「場」結合的名詞，為交通指引用語。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:33",
+    "japanese": "10. どこが痛いですか。",
+    "furigana": "10. どこが<ruby>痛<rt>いた</rt></ruby>いですか。",
+    "segmentation": "10. | どこが | 痛いですか。",
+    "translation": {
+      "natural": "10. 哪裡會痛呢？",
+      "literal": "10. 何處痛。"
+    },
+    "words": [
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "note": "形容詞，疼痛的"
+      }
+    ],
+    "context_grammar": [
+      "痛いですか：イ形容詞「痛い」直接後接禮貌判斷詞「です」，為醫療與診察場景醫生常問語句。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:36",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ3：標頭直譯。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:38",
+    "japanese": "どこがバス乗り場ですか。あそこの3番出口ですよ。",
+    "furigana": "どこがバス<ruby>乗<rt>の</rt></ruby>り<ruby>場<rt>ば</rt></ruby>ですか。あそこの3<ruby>番<rt>ばん</rt></ruby><ruby>出<rt>で</rt></ruby><ruby>口<rt>ぐち</rt></ruby>ですよ。",
+    "segmentation": "どこが | バス乗り場ですか。| あそこの | 3番出口ですよ。",
+    "translation": {
+      "natural": "「哪邊才是公車乘車處呢？」「是那邊的3號出口喔。」",
+      "literal": "何處是公車乘車處。那裡的3號出口喔。"
+    },
+    "words": [
+      {
+        "word": "あそこ",
+        "reading": "あそこ",
+        "note": "代名詞，那裡（遠離雙方的地方）"
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "note": "名詞，出口"
+      }
+    ],
+    "context_grammar": [
+      "あそこの3番出口：指示代名詞「あそこ」加上連體格助詞「の」修飾後面的名詞「3番出口」。",
+      "ですよ：斷定助動詞「です」+ 終助詞「よ」，強調傳達對方不知道的明確訊息。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:44",
+    "japanese": "78. どこに～ますか。",
+    "furigana": "78. どこに～ますか。",
+    "segmentation": "78. | どこに | ～ますか。",
+    "translation": {
+      "natural": "78. 要在／往哪裡～呢？",
+      "literal": "78. 於何處～嗎。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      }
+    ],
+    "context_grammar": [
+      "どこに：格助詞「に」表示動作歸著點、附著點或存在地點。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:48",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ1：標頭直譯。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:50",
+    "japanese": "1. どこに宿泊しますか。",
+    "furigana": "1. どこに<ruby>宿<rt>しゅく</rt></ruby><ruby>迫<rt>はく</rt></ruby>しますか。",
+    "segmentation": "1. | どこに | 宿泊しますか。",
+    "translation": {
+      "natural": "1. 要在哪裡住宿呢？",
+      "literal": "1. 於何處住宿。"
+    },
+    "words": [
+      {
+        "word": "宿泊",
+        "reading": "しゅくはく",
+        "note": "名詞/サ變動詞，住宿、過夜"
+      }
+    ],
+    "context_grammar": [
+      "どこに宿泊しますか：「宿泊する」接格助詞「に」表達落腳的目標地點。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "01:53",
+    "japanese": "2. どこに車を止めますか。",
+    "furigana": "2. どこに<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めますか。",
+    "segmentation": "2. | どこに | 車を | 止めますか。",
+    "translation": {
+      "natural": "2. 要把車停在哪裡呢？",
+      "literal": "2. 於何處將車停放。"
+    },
+    "words": [
+      {
+        "word": "止める",
+        "reading": "とめる",
+        "note": "動詞，停放（連用形為止め）"
+      }
+    ],
+    "context_grammar": [
+      "どこに：停放位置以格助詞「に」標示焦點（將車附著停放在該處）。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "01:57",
+    "japanese": "3. どこにごみを捨てますか。",
+    "furigana": "3. どこにごみを<ruby>捨<rt>す</rt></ruby>てますか。",
+    "segmentation": "3. | どこに | ごみを | 捨てますか。",
+    "translation": {
+      "natural": "3. 垃圾要扔在哪裡呢？",
+      "literal": "3. 於何處丟棄垃圾。"
+    },
+    "words": [
+      {
+        "word": "ごみ",
+        "reading": "ごみ",
+        "note": "名詞，垃圾"
+      },
+      {
+        "word": "捨てる",
+        "reading": "すてる",
+        "note": "動詞，丟棄（下一段動詞，連用形為捨て）"
+      }
+    ],
+    "context_grammar": [
+      "どこにごみを捨てますか：格助詞「に」指明丟棄物的目標地點（如垃圾桶所在）。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:01",
+    "japanese": "4. どこに住んでいますか。",
+    "furigana": "4. どこに<ruby>住<rt>す</rt></ruby>んでいますか。",
+    "segmentation": "4. | どこに | 住んでいますか。",
+    "translation": {
+      "natural": "4. 你住在哪裡呢？",
+      "literal": "4. 於何處居住著。"
+    },
+    "words": [
+      {
+        "word": "住む",
+        "reading": "すむ",
+        "note": "動詞，居住"
+      }
+    ],
+    "context_grammar": [
+      "住んでいます：動詞「住む」連用形音便化為「住んで」+ 補助動詞「いる」敬體「います」，「～ている」在此表示居住狀態的持續。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:04",
+    "japanese": "5. どこに犬を預けますか。",
+    "furigana": "5. どこに<ruby>犬<rt>いぬ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>けますか。",
+    "segmentation": "5. | どこに | 犬を | 預けますか。",
+    "translation": {
+      "natural": "5. 要把狗寄養在哪裡呢？",
+      "literal": "5. 於何處寄托犬隻。"
+    },
+    "words": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "note": "名詞，狗"
+      },
+      {
+        "word": "預ける",
+        "reading": "あずける",
+        "note": "動詞，寄放、託付（下一段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "どこに：格助詞「に」表示寄託對象的地點（寵物店或旅館）。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:08",
+    "japanese": "6. どこに荷物を置きますか。",
+    "furigana": "6. どこに<ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>きますか。",
+    "segmentation": "6. | どこに | 荷物を | 置きますか。",
+    "translation": {
+      "natural": "6. 行李要放在哪裡呢？",
+      "literal": "6. 於何處放置荷物。"
+    },
+    "words": [
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "note": "名詞，行李、包裹"
+      },
+      {
+        "word": "置く",
+        "reading": "おく",
+        "note": "動詞，放置（五段動詞，連用形為置き）"
+      }
+    ],
+    "context_grammar": [
+      "どこに…置きますか：著陸點格助詞「に」與動作動詞「置く」搭配，為詢問擺放位置之標準結構。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:11",
+    "japanese": "7. どこに本を返しますか。",
+    "furigana": "7. どこに<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>しますか。",
+    "segmentation": "7. | どこに | 本を | 返しますか。",
+    "translation": {
+      "natural": "7. 書要歸還到哪裡呢？",
+      "literal": "7. 於何處歸還書籍。"
+    },
+    "words": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "note": "名詞，書本"
+      },
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "note": "動詞，歸還（五段動詞，連用形為返し）"
+      }
+    ],
+    "context_grammar": [
+      "どこに：標示歸還動作目標歸屬處。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:15",
+    "japanese": "8. どこにいますか。",
+    "furigana": "8. どこにいますか。",
+    "segmentation": "8. | どこに | いますか。",
+    "translation": {
+      "natural": "8. 你在哪裡呢？",
+      "literal": "8. 於何處存在。"
+    },
+    "words": [
+      {
+        "word": "いる",
+        "reading": "いる",
+        "note": "動詞，在、存在（用於有生命體，敬體為います）"
+      }
+    ],
+    "context_grammar": [
+      "どこにいますか：存在動詞「いる」用於人或動物，問句「在哪裡？」。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:18",
+    "japanese": "9. どこにありますか。",
+    "furigana": "9. どこにありますか。",
+    "segmentation": "9. | どこに | ありますか。",
+    "translation": {
+      "natural": "9. 東西在哪裡呢？",
+      "literal": "9. 於何處存在。"
+    },
+    "words": [
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，在、存在（用於無生命物，敬體為あります）"
+      }
+    ],
+    "context_grammar": [
+      "どこにありますか：存在動詞「ある」用於無生物、植物或建築設施。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:21",
+    "japanese": "10. どこにかけてありますか。",
+    "furigana": "10. どこにかけてありますか。",
+    "segmentation": "10. | どこに | かけてありますか。",
+    "translation": {
+      "natural": "10. 掛在哪裡呢？",
+      "literal": "10. 於何處懸掛著。"
+    },
+    "words": [
+      {
+        "word": "かける",
+        "reading": "かける",
+        "note": "動詞，懸掛、掛上（下一段動詞，て形為かけて）"
+      }
+    ],
+    "context_grammar": [
+      "かけてあります：他動詞「かける」て形 + 補助動詞「ある」，表示某人做好該動作後，目前呈現「被掛著」的結果狀態。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:25",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ3：標頭直譯。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:27",
+    "japanese": "どこに荷物を置きますか。ここに置いてください。",
+    "furigana": "どこに<ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>きますか。ここに<ruby>置<rt>お</rt></ruby>いてください。",
+    "segmentation": "どこに | 荷物を | 置きますか。| ここに | 置いてください。",
+    "translation": {
+      "natural": "「行李要放在哪裡呢？」「請放在這裡。」",
+      "literal": "於何處將荷物放置。於這裡請放置。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡"
+      },
+      {
+        "word": "ください",
+        "reading": "ください",
+        "note": "補助動詞，請..."
+      }
+    ],
+    "context_grammar": [
+      "動詞て形＋ください：五段動詞「置く」產生イ音便變形為「置いて」，接「ください」表示禮貌的指示或請求。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:33",
+    "japanese": "79. どこで～ますか。",
+    "furigana": "79. どこで～ますか。",
+    "segmentation": "79. | どこで | ～ますか。",
+    "translation": {
+      "natural": "79. 在哪裡～呢？",
+      "literal": "79. 在何處～嗎。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      }
+    ],
+    "context_grammar": [
+      "どこで：格助詞「で」標示動態動作進行的空間地點。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:37",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ1：標頭直譯。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:38",
+    "japanese": "1. どこで食事しますか。",
+    "furigana": "1. どこで<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>しますか。",
+    "segmentation": "1. | どこで | 食事しますか。",
+    "translation": {
+      "natural": "1. 要在哪裡用餐呢？",
+      "literal": "1. 在何處用餐。"
+    },
+    "words": [
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "note": "名詞/サ變動詞，用餐"
+      }
+    ],
+    "context_grammar": [
+      "どこで食事しますか：格助詞「で」引出進行吃飯動作的地點。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:42",
+    "japanese": "2. どこで花火大会がありますか。",
+    "furigana": "2. どこで<ruby>花<rt>はな</rt></ruby><ruby>火<rt>び</rt></ruby><ruby>大<rt>たい</rt></ruby><ruby>会<rt>かい</rt></ruby>がありますか。",
+    "segmentation": "2. | どこで | 花火大会が | ありますか。",
+    "translation": {
+      "natural": "2. 煙火大會在哪裡舉行呢？",
+      "literal": "2. 在何處有花火大會。"
+    },
+    "words": [
+      {
+        "word": "花火大会",
+        "reading": "はなびたいかい",
+        "note": "名詞，煙火大會"
+      }
+    ],
+    "context_grammar": [
+      "イベント＋がある：當「ある」前方的名詞為事件或活動（如花火大会）時，格助詞「で」表示活動「舉辦、舉行」的場所。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:46",
+    "japanese": "3. どこでパレードがありますか。",
+    "furigana": "3. どこでパレードがありますか。",
+    "segmentation": "3. | どこで | パレードが | ありますか。",
+    "translation": {
+      "natural": "3. 遊行在哪裡舉行呢？",
+      "literal": "3. 在何處有遊行。"
+    },
+    "words": [
+      {
+        "word": "パレード",
+        "reading": "ぱれーど",
+        "note": "名詞，遊行（parade）"
+      }
+    ],
+    "context_grammar": [
+      "どこで…がありますか：同樣運用「事件/活動＋で＋ある」的舉辦表達語氣。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:50",
+    "japanese": "4. どこでお土産が買えますか。",
+    "furigana": "4. どこでお<ruby>土<rt>み</rt></ruby><ruby>産<rt>やげ</rt></ruby>が<ruby>買<rt>か</rt></ruby>えますか。",
+    "segmentation": "4. | どこで | お土産が | 買えますか。",
+    "translation": {
+      "natural": "4. 在哪裡可以買到伴手禮呢？",
+      "literal": "4. 在何處伴手禮能買。"
+    },
+    "words": [
+      {
+        "word": "買える",
+        "reading": "かえる",
+        "note": "動詞，能買、可買（「買う」的可能形）"
+      }
+    ],
+    "context_grammar": [
+      "買えますか：五段動詞「買う」轉為可能動詞「買える」敬體「買えます」。可能動詞的主格助詞由原先的「を」改為「が」。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "02:54",
+    "japanese": "5. どこで飲み物が買えますか。",
+    "furigana": "5. どこで<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>が<ruby>買<rt>か</rt></ruby>えますか。",
+    "segmentation": "5. | どこで | 飲み物が | 買えますか。",
+    "translation": {
+      "natural": "5. 在哪裡可以買到飲料呢？",
+      "literal": "5. 在何處飲料能買。"
+    },
+    "words": [
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "note": "名詞，飲料"
+      }
+    ],
+    "context_grammar": [
+      "飲み物が買えますか：可能型句型，助詞「が」強調可獲得的對象。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "02:57",
+    "japanese": "6. どこでトイレに行けますか。",
+    "furigana": "6. どこでトイレに<ruby>行<rt>い</rt></ruby>けますか。",
+    "segmentation": "6. | どこで | トイレに | 行けますか。",
+    "translation": {
+      "natural": "6. 在哪裡可以去上洗手間呢？",
+      "literal": "6. 在何處能去廁所。"
+    },
+    "words": [
+      {
+        "word": "行ける",
+        "reading": "いける",
+        "note": "動詞，能去（「行く」的可能形）"
+      }
+    ],
+    "context_grammar": [
+      "行けますか：五段動詞「行く」將詞尾「く」改為「け」列接「る」，形成可能形「行ける」。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:01",
+    "japanese": "7. どこでコンサートが見られますか。",
+    "furigana": "7. どこでコンサートが<ruby>見<rt>み</rt></ruby>られますか。",
+    "segmentation": "7. | どこで | コンサートが | 見られますか。",
+    "translation": {
+      "natural": "7. 在哪裡可以看到演唱會呢？",
+      "literal": "7. 在何處音樂會能被看。"
+    },
+    "words": [
+      {
+        "word": "コンサート",
+        "reading": "こんさーと",
+        "note": "名詞，音樂會、演唱會"
+      },
+      {
+        "word": "見られる",
+        "reading": "みられる",
+        "note": "動詞，看得見、能看（「見る」的可能形）"
+      }
+    ],
+    "context_grammar": [
+      "見られますか：上一段動詞「見る」的可能形為「見られる」，結合敬體「見られます」，表示客觀條件許可下的觀賞能力。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:05",
+    "japanese": "8. どこでたこ焼きが食べられますか。",
+    "furigana": "8. どこでたこ<ruby>焼<rt>や</rt></ruby>きが<ruby>食<rt>た</rt></ruby>べられますか。",
+    "segmentation": "8. | どこで | たこ焼きが | 食べられますか。",
+    "translation": {
+      "natural": "8. 在哪裡可以吃到章魚燒呢？",
+      "literal": "8. 在何處章魚燒能吃。"
+    },
+    "words": [
+      {
+        "word": "たこ焼き",
+        "reading": "たこやき",
+        "note": "名詞，章魚燒"
+      },
+      {
+        "word": "食べられる",
+        "reading": "たべられる",
+        "note": "動詞，能吃（「食べる」的可能形）"
+      }
+    ],
+    "context_grammar": [
+      "食べられますか：下一段動詞「食べる」去「る」接「られる」形成可能動詞，為日本美食觀光影片超高頻句型。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:09",
+    "japanese": "9. どこで野球が見られますか。",
+    "furigana": "9. どこで<ruby>野<rt>や</rt></ruby><ruby>球<rt>きゅう</rt></ruby>が<ruby>見<rt>み</rt></ruby>られますか。",
+    "segmentation": "9. | どこで | 野球が | 見られますか。",
+    "translation": {
+      "natural": "9. 在哪裡可以看到棒球比賽呢？",
+      "literal": "9. 在何處棒球能看。"
+    },
+    "words": [
+      {
+        "word": "野球",
+        "reading": "やきゅう",
+        "note": "名詞，棒球"
+      }
+    ],
+    "context_grammar": [
+      "野球が見られますか：可能動詞搭配格助詞「が」標示可以觀看的運動項目。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:13",
+    "japanese": "10. どこでキティちゃんに会えますか。",
+    "furigana": "10. どこでキティちゃんに<ruby>会<rt>あ</rt></ruby>えますか。",
+    "segmentation": "10. | どこで | キティちゃんに | 会えますか。",
+    "translation": {
+      "natural": "10. 在哪裡可以見到 Hello Kitty 呢？",
+      "literal": "10. 在何處能與 Hello Kitty 相見。"
+    },
+    "words": [
+      {
+        "word": "キティちゃん",
+        "reading": "きてぃちゃん",
+        "note": "專有名詞，Hello Kitty（Kitty醬）"
+      },
+      {
+        "word": "会える",
+        "reading": "あえる",
+        "note": "動詞，能見面（「会う」的可能形）"
+      }
+    ],
+    "context_grammar": [
+      "キティちゃんに会えます：動詞「会う」對象以格助詞「に」表示。五段動詞可能形為「会える」。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:17",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ3：標頭直譯。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:19",
+    "japanese": "どこで野球が見られますか。東京ドームで見られますよ。",
+    "furigana": "どこで<ruby>野<rt>や</rt></ruby><ruby>球<rt>きゅう</rt></ruby>が<ruby>見<rt>み</rt></ruby>られますか。<ruby>東<rt>とう</rt></ruby><ruby>京<rt>きょう</rt></ruby>ドームで<ruby>見<rt>み</rt></ruby>られますよ。",
+    "segmentation": "どこで | 野球が | 見られますか。| 東京ドームで | 見られますよ。",
+    "translation": {
+      "natural": "「在哪裡可以看到棒球比賽呢？」「在東京巨蛋看得到喔。」",
+      "literal": "在何處棒球能看。在東京巨蛋能看喔。"
+    },
+    "words": [
+      {
+        "word": "東京ドーム",
+        "reading": "とうきょうどーむ",
+        "note": "專有名詞，東京巨蛋"
+      }
+    ],
+    "context_grammar": [
+      "東京ドームで：格助詞「で」明確指出觀看動作進行的地點場所。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:26",
+    "japanese": "80. どこのですか。",
+    "furigana": "80. どこのですか。",
+    "segmentation": "80. | どこのですか。",
+    "translation": {
+      "natural": "80. 是哪裡的（品牌／產地）呢？",
+      "literal": "80. 是何處的。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      }
+    ],
+    "context_grammar": [
+      "どこの：疑問詞「どこ」加上連體格助詞「の」，詢問物品的製造國、廠牌或產地。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:30",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ1：標頭直譯。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:32",
+    "japanese": "1. これはどこの製品ですか。",
+    "furigana": "1. これはどこの<ruby>製<rt>せい</rt></ruby><ruby>品<rt>ひん</rt></ruby>ですか。",
+    "segmentation": "1. これは | どこの | 製品ですか。",
+    "translation": {
+      "natural": "1. 這個是哪家（哪國）的產品呢？",
+      "literal": "1. 這個是何處的製品。"
+    },
+    "words": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "note": "代名詞，這個"
+      },
+      {
+        "word": "製品",
+        "reading": "せいひん",
+        "note": "名詞，製品、產品"
+      }
+    ],
+    "context_grammar": [
+      "どこの製品：連體修飾結構，「どこの」用於詢問製造廠商或國家。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:35",
+    "japanese": "2. それはどこのお菓子ですか。",
+    "furigana": "2. それはどこのお<ruby>菓<rt>か</rt></ruby><ruby>子<rt>し</rt></ruby>ですか。",
+    "segmentation": "2. それは | どこの | お菓子ですか。",
+    "translation": {
+      "natural": "2. 那個是哪裡的點心（名產）呢？",
+      "literal": "2. 那個是何處的點心。"
+    },
+    "words": [
+      {
+        "word": "それ",
+        "reading": "それ",
+        "note": "代名詞，那個（靠近對方）"
+      },
+      {
+        "word": "お菓子",
+        "reading": "おかし",
+        "note": "名詞，點心、糕點（「お」為美化語）"
+      }
+    ],
+    "context_grammar": [
+      "どこのお菓子：詢問糕點來自哪個地區、品牌或知名名店。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:39",
+    "japanese": "3. あれはどこのワインですか。",
+    "furigana": "3. あれはどこのワインですか。",
+    "segmentation": "3. あれは | どこの | ワインですか。",
+    "translation": {
+      "natural": "3. 那邊那個是哪裡的葡萄酒呢？",
+      "literal": "3. 遠處那個是何處的葡萄酒。"
+    },
+    "words": [
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "note": "代名詞，那個（遠離雙方）"
+      },
+      {
+        "word": "ワイン",
+        "reading": "わいん",
+        "note": "名詞，葡萄酒（wine）"
+      }
+    ],
+    "context_grammar": [
+      "あれは：指示代名詞「あれ」提為主題，詢問遠處酒類的產地。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "03:42",
+    "japanese": "4. このカバンはどこの国のものですか。",
+    "furigana": "4. このカバンはどこの<ruby>国<rt>くに</rt></ruby>のものですか。",
+    "segmentation": "4. このカバンは | どこの国の | ものですか。",
+    "translation": {
+      "natural": "4. 這個包包是哪個國家的東西呢？",
+      "literal": "4. 這個包包是何處國家的東西。"
+    },
+    "words": [
+      {
+        "word": "カバン",
+        "reading": "かばん",
+        "note": "名詞，包包、公事包"
+      },
+      {
+        "word": "国",
+        "reading": "くに",
+        "note": "名詞，國家"
+      },
+      {
+        "word": "もの",
+        "reading": "もの",
+        "note": "形式名詞，東西、物品"
+      }
+    ],
+    "context_grammar": [
+      "どこの国のもの：重疊使用格助詞「の」進行多層修飾（哪裡的 -> 國家的 -> 物件）。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:46",
+    "japanese": "5. これはどこの傘ですか。",
+    "furigana": "5. これはどこの<ruby>傘<rt>かさ</rt></ruby>ですか。",
+    "segmentation": "5. これは | どこの | 傘ですか。",
+    "translation": {
+      "natural": "5. 這個是哪家的雨傘呢？",
+      "literal": "5.演這個是何處的傘。"
+    },
+    "words": [
+      {
+        "word": "傘",
+        "reading": "かさ",
+        "note": "名詞，雨傘"
+      }
+    ],
+    "context_grammar": [
+      "どこの傘：詢問雨傘的品牌或買處。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "03:50",
+    "japanese": "6. そのブーツはどこのですか。",
+    "furigana": "6. そのブーツはどこのですか。",
+    "segmentation": "6. そのブーツは | どこのですか。",
+    "translation": {
+      "natural": "6. 那雙靴子是哪裡的品牌呢？",
+      "literal": "6. 那雙靴子是何處的。"
+    },
+    "words": [
+      {
+        "word": "ブーツ",
+        "reading": "ぶーつ",
+        "note": "名詞，靴子（boots）"
+      }
+    ],
+    "context_grammar": [
+      "どこのですか：格助詞「の」後方省略了重複的名詞「ブーツ」（代名詞化用法）。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "03:54",
+    "japanese": "7. このクッキーはどこのものですか。",
+    "furigana": "7. このクッキーはどこのものですか。",
+    "segmentation": "7. このクッキーは | どこの | ものですか。",
+    "translation": {
+      "natural": "7. 這個餅乾是哪家產的呢？",
+      "literal": "7. 這個餅乾是何處的東西。"
+    },
+    "words": [
+      {
+        "word": "クッキー",
+        "reading": "くっきー",
+        "note": "名詞，餅乾（cookie）"
+      }
+    ],
+    "context_grammar": [
+      "どこのもの：形式名詞「もの」代表該食品/物品。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "03:58",
+    "japanese": "8. あのカバンはどこのカバンですか。",
+    "furigana": "8. あのカバンはどこのカバンですか。",
+    "segmentation": "8. あのカバンは | どこの | カバンですか。",
+    "translation": {
+      "natural": "8. 那邊那個包包是哪一牌的包包呢？",
+      "literal": "8. 那個包包是何處的包包。"
+    },
+    "words": [
+      {
+        "word": "あの",
+        "reading": "あの",
+        "note": "連體詞，那個（遠離雙方）"
+      }
+    ],
+    "context_grammar": [
+      "あのカバン：連體詞「あの」直接修飾名詞「カバン」。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:02",
+    "japanese": "9. これはどこのカメラですか。",
+    "furigana": "9. これはどこのカメラですか。",
+    "segmentation": "9. これは | どこの | カメラですか。",
+    "translation": {
+      "natural": "9. 這個是哪一牌的相機呢？",
+      "literal": "9.演這個是何處的相機。"
+    },
+    "words": [
+      {
+        "word": "カメラ",
+        "reading": "かめら",
+        "note": "名詞，相機（camera）"
+      }
+    ],
+    "context_grammar": [
+      "どこのカメラ：常用於詢問品牌廠商（如 Canon, Nikon 等）。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:05",
+    "japanese": "10. それはどこの電子辞書ですか。",
+    "furigana": "10. それはどこの<ruby>電<rt>でん</rt></ruby><ruby>子<rt>し</rt></ruby><ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>ですか。",
+    "segmentation": "10. それは | どこの | 電子辞書ですか。",
+    "translation": {
+      "natural": "10. 那個是哪一牌的電子辭典呢？",
+      "literal": "10. 那個是何處的電子辭典。"
+    },
+    "words": [
+      {
+        "word": "電子辞書",
+        "reading": "でんしじしょ",
+        "note": "名詞，電子辭典"
+      }
+    ],
+    "context_grammar": [
+      "どこの電子辞書：詢問廠牌種類。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:10",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "ステップ3：標頭直譯。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:12",
+    "japanese": "そのブーツはどこのですか。イタリアのです。",
+    "furigana": "そのブーツはどこのですか。イタリアのです。",
+    "segmentation": "そのブーツは | どこのですか。| イタリアのです。",
+    "translation": {
+      "natural": "「那雙靴子是哪裡的品牌呢？」「是義大利製造的。」",
+      "literal": "那雙靴子是何處的。是義大利的。"
+    },
+    "words": [
+      {
+        "word": "イタリア",
+        "reading": "いたりあ",
+        "note": "專有名詞，義大利"
+      }
+    ],
+    "context_grammar": [
+      "イタリアのです：名詞「イタリア」+ 準體助詞「の」+ 判斷詞「です」，「の」在此代表「イタリアのブーツ（義大利產的靴子）」，避免重複名詞。商業與精品對話中的經典代化結構。"
+    ]
+  }
+]

@@ -1,0 +1,1624 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "71. てもらえませんか",
+    "furigana": "71. てしてもらえませんか",
+    "segmentation": "71. | てしてもらえませんか",
+    "translation": {
+      "natural": "71. 可以請您幫我做……嗎？",
+      "literal": "71. 不能得到幫忙做……嗎？"
+    },
+    "words": [
+      {
+        "word": "てもらう",
+        "reading": "てもらう",
+        "note": "句型，請對方為自己做某事"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形（て形）＋もらえませんか：為「てもらう」的可能形否定疑問句，用於禮貌地請求對方為自己進行某動作。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "標題與單元轉換用語。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:06",
+    "japanese": "1. 荷物を撮ってもらえませんか",
+    "furigana": "1. <ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってもらえませんか",
+    "segmentation": "1. | 荷物を | 持ってもらえませんか",
+    "translation": {
+      "natural": "1. 可以請您幫我提行李嗎？",
+      "literal": "1. 不能得到提行李嗎？"
+    },
+    "words": [
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "note": "名詞，行李、包裹"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "note": "動詞，拿、提"
+      }
+    ],
+    "context_grammar": [
+      "荷物を：目的語加上賓格助詞「を」，修飾後方的動詞「持つ」。",
+      "持ってもらえませんか：「持つ」轉為て形「持って」接續「てもらえませんか」，表委婉請求。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:10",
+    "japanese": "2. 犬を預かって預かってもらえませんか",
+    "furigana": "2. <ruby>犬<rt>いぬ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かってもらえませんか",
+    "segmentation": "2. | 犬を | 預かってもらえませんか",
+    "translation": {
+      "natural": "2. 可以請您幫我照顧／保管狗嗎？",
+      "literal": "2. 不能得到保管狗嗎？"
+    },
+    "words": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "note": "名詞，狗"
+      },
+      {
+        "word": "預かる",
+        "reading": "あずかる",
+        "note": "動詞，保管、照顧"
+      }
+    ],
+    "context_grammar": [
+      "預かる：五段活用動詞，轉為て形「預かって」修飾補助動詞「もらう」，用於委託他人代為照顧或保管事物。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:14",
+    "japanese": "3. 写真を撮ってもらえませんか",
+    "furigana": "3. <ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもらえませんか",
+    "segmentation": "3. | 写真を | 撮ってもらえませんか",
+    "translation": {
+      "natural": "3. 可以請您幫我們拍照嗎？",
+      "literal": "3. 不能得到拍攝照片嗎？"
+    },
+    "words": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "note": "名詞，照片"
+      },
+      {
+        "word": "撮る",
+        "reading": "とる",
+        "note": "動詞，拍攝"
+      }
+    ],
+    "context_grammar": [
+      "撮ってもらえませんか：五段動詞「撮る」發生促音便轉為「撮って」，此句型為觀光場合極高頻率出現的請求表達。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:18",
+    "japanese": "4. パソコンを貸してもらえませんか",
+    "furigana": "4. パソコンを<ruby>貸<rt>か</rt></ruby>してもらえませんか",
+    "segmentation": "4. | パソコンを | 貸してもらえませんか",
+    "translation": {
+      "natural": "4. 可以請您借我電腦嗎？",
+      "literal": "4. 不能得到借電腦嗎？"
+    },
+    "words": [
+      {
+        "word": "パソコン",
+        "reading": "ぱそこん",
+        "note": "名詞，個人電腦"
+      },
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "note": "動詞，借出"
+      }
+    ],
+    "context_grammar": [
+      "貸す：五段動詞，て形為「貸して」。向對方請求「借出（給自己）」時使用。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:22",
+    "japanese": "5. 地図を描いてもらえませんか",
+    "furigana": "5. <ruby>地<rt>ち</rt></ruby><ruby>図<rt>ず</rt></ruby>を<ruby>描<rt>か</rt></ruby>いてもらえませんか",
+    "segmentation": "5. | 地図を | 描いてもらえませんか",
+    "translation": {
+      "natural": "5. 可以請您幫我畫張地圖嗎？",
+      "literal": "5. 不能得到畫地圖嗎？"
+    },
+    "words": [
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "note": "名詞，地圖"
+      },
+      {
+        "word": "描く",
+        "reading": "かく",
+        "note": "動詞，畫、繪製"
+      }
+    ],
+    "context_grammar": [
+      "描く：五段動詞，發生イ音便轉為「描いて」。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:26",
+    "japanese": "6. 電話番号を教えてもらえませんか",
+    "furigana": "6. <ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>号<rt>ごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてもらえませんか",
+    "segmentation": "6. | 電話番号を | 教えてもらえませんか",
+    "translation": {
+      "natural": "6. 可以請您告訴我電話號碼嗎？",
+      "literal": "6. 不能得到教授電話號碼嗎？"
+    },
+    "words": [
+      {
+        "word": "電話番号",
+        "reading": "でんわばんごう",
+        "note": "名詞，電話號碼"
+      },
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "note": "動詞，教導、告知"
+      }
+    ],
+    "context_grammar": [
+      "教える：下一段動詞，去「る」加「て」轉為「教えて」。在日常諮詢中，常用於表達「告訴（資訊）」之意。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:31",
+    "japanese": "7. 住所を教えてもらえませんか",
+    "furigana": "7. <ruby>住<rt>じゅう</rt></ruby><ruby>所<rt>しょ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてもらえませんか",
+    "segmentation": "7. | 住所を | 教えてもらえませんか",
+    "translation": {
+      "natural": "7. 可以請您告訴我地址嗎？",
+      "literal": "7. 不能得到教授地址嗎？"
+    },
+    "words": [
+      {
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "note": "名詞，地址"
+      }
+    ],
+    "context_grammar": [
+      "住所を：「住所」作為受詞修飾動詞句「教えてもらえませんか」。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:35",
+    "japanese": "8. この本を貸してもらえませんか",
+    "furigana": "8. この<ruby>本<rt>ほん</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してもらえませんか",
+    "segmentation": "8. | この本を | 貸してもらえませんか",
+    "translation": {
+      "natural": "8. 可以請您借我這本書嗎？",
+      "literal": "8. 不能得到借這本書嗎？"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連体詞，這個"
+      },
+      {
+        "word": "本",
+        "reading": "ほん",
+        "note": "名詞，書本"
+      }
+    ],
+    "context_grammar": [
+      "この本：指示連体詞「この」直接修飾後方名詞「本」。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:40",
+    "japanese": "9. 席を替えてもらえませんか",
+    "furigana": "9. <ruby>席<rt>せき</rt></ruby>を<ruby>替<rt>か</rt></ruby>えてもらえませんか",
+    "segmentation": "9. | 席を | 替えてもらえませんか",
+    "translation": {
+      "natural": "9. 可以請您跟我換座位嗎？",
+      "literal": "9. 不能得到更換座位嗎？"
+    },
+    "words": [
+      {
+        "word": "席",
+        "reading": "せき",
+        "note": "名詞，座位"
+      },
+      {
+        "word": "替える",
+        "reading": "かえる",
+        "note": "動詞，更換、替換"
+      }
+    ],
+    "context_grammar": [
+      "替える：下一段動詞，て形為「替えて」。用於請對方協助更換/調整位置或對調。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:44",
+    "japanese": "10. 自転車を貸してもらえませんか",
+    "furigana": "10. <ruby>自<rt>じ</rt></ruby><ruby>転<rt>てん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してもらえませんか",
+    "segmentation": "10. | 自転車を | 貸してもらえませんか",
+    "translation": {
+      "natural": "10. 可以請您借我腳踏車嗎？",
+      "literal": "10. 不能得到借腳踏車嗎？"
+    },
+    "words": [
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "note": "名詞，腳踏車、自行車"
+      }
+    ],
+    "context_grammar": [
+      "自転車を：受詞「自転車」與格助詞「を」構成動作對象，修飾動作「貸す」。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:49",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:51",
+    "japanese": "写真を撮ってもらえませんか。いいですよ。どこを押しますか。",
+    "furigana": "<ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもらえませんか。いいですよ。どこを<ruby>押<rt>お</rt></ruby>しますか。",
+    "segmentation": "写真を | 撮ってもらえませんか。| いいですよ。| どこを | 押しますか。",
+    "translation": {
+      "natural": "「可以請您幫我拍照嗎？」「好啊，要按哪裡呢？」",
+      "literal": "「不能得到拍攝照片嗎？」「很好喔。按哪裡呢？」"
+    },
+    "words": [
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的、可以"
+      },
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      },
+      {
+        "word": "押す",
+        "reading": "おす",
+        "note": "動詞，按壓"
+      }
+    ],
+    "context_grammar": [
+      "いいですよ：肯定回應，終助詞「よ」帶有告知與友善提示的語氣。",
+      "どこを押しますか：疑問代名詞「どこ」受「を」修飾為動作場所/對象（按鍵位置），「押す」使用連用形＋「ます」表敬體。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:57",
+    "japanese": "72. できますか",
+    "furigana": "72. できますか",
+    "segmentation": "72. | できますか",
+    "translation": {
+      "natural": "72. 你會／能做……嗎？",
+      "literal": "72. 能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，會、能夠、完成"
+      }
+    ],
+    "context_grammar": [
+      "できますか：動詞「できる」的敬體疑問形，用於詢問能力、可能性或許可。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:01",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:03",
+    "japanese": "1. 日本語ができますか",
+    "furigana": "1. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>ができますか",
+    "segmentation": "1. | 日本語が | できますか",
+    "translation": {
+      "natural": "1. 你會日文嗎？",
+      "literal": "1. 日文能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "note": "名詞，日語"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋が＋できます：格助詞「が」標示對象語，表示具備某種語言或技能的能力。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:07",
+    "japanese": "2. 英語ができますか",
+    "furigana": "2. <ruby>英<rt>えい</rt></ruby><ruby>語<rt>ご</rt></ruby>ができますか",
+    "segmentation": "2. | 英語が | できますか",
+    "translation": {
+      "natural": "2. 你會英文嗎？",
+      "literal": "2. 英文能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "note": "名詞，英語"
+      }
+    ],
+    "context_grammar": [
+      "英語が：提示能力所及的語言對象。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:10",
+    "japanese": "3. 日本語で文章を書くことができますか",
+    "furigana": "3. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>で<ruby>文<rt>ぶん</rt></ruby><ruby>章<rt>しょう</rt></ruby>を<ruby>書<rt>か</rt></ruby>くことができますか",
+    "segmentation": "3. | 日本語で | 文章を | 書くことが | できますか",
+    "translation": {
+      "natural": "3. 你能用日文寫文章嗎？",
+      "literal": "3. 用日文寫文章這件事能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "文章",
+        "reading": "ぶんしょう",
+        "note": "名詞，文章"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，撰寫"
+      }
+    ],
+    "context_grammar": [
+      "日本語で：工具/手段助詞「で」，修飾後方的動詞「書く」。",
+      "動詞辭書形＋こと＋が＋できる：將動詞名詞化（名詞化形式「こと」），形成「具備做某事的能力」句型。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:15",
+    "japanese": "4. 日本語の敬語ができますか",
+    "furigana": "4. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>敬<rt>けい</rt></ruby><ruby>語<rt>ご</rt></ruby>ができますか",
+    "segmentation": "4. | 日本語の | 敬語が | できますか",
+    "translation": {
+      "natural": "4. 你會使用日文的敬語嗎？",
+      "literal": "4. 日文的敬語能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "敬語",
+        "reading": "けいご",
+        "note": "名詞，敬語"
+      }
+    ],
+    "context_grammar": [
+      "日本語の敬語：屬格助詞「の」用於連接名詞，構成修飾關係。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:19",
+    "japanese": "5. 車の運転ができますか",
+    "furigana": "5. <ruby>車<rt>くるま</rt></ruby>の<ruby>運<rt>うん</rt></ruby><ruby>転<rt>てん</rt></ruby>ができますか",
+    "segmentation": "5. | 車の | 運転が | できますか",
+    "translation": {
+      "natural": "5. 你會開車嗎？",
+      "literal": "5. 車子的駕駛能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，汽車"
+      },
+      {
+        "word": "運転",
+        "reading": "うんてん",
+        "note": "名詞，駕駛"
+      }
+    ],
+    "context_grammar": [
+      "動作性名詞（運転）＋が＋できる：無需接續「こと」，直接以名詞型態作為「できる」的對象。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:23",
+    "japanese": "6. 自転車に乗ることができますか",
+    "furigana": "6. <ruby>自<rt>じ</rt></ruby><ruby>転<rt>てん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ることができますか",
+    "segmentation": "6. | 自転車に | 乗ることが | できますか",
+    "translation": {
+      "natural": "6. 你會騎腳踏車嗎？",
+      "literal": "6. 乘坐腳踏車這件事能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "note": "動詞，乘坐、騎乘"
+      }
+    ],
+    "context_grammar": [
+      "自転車に：補格助詞「に」表示動作抵達或附著的目的地/對象（乘坐於腳踏車上）。",
+      "乗ること：動詞連體形「乗る」修飾形式名詞「こと」使其名詞化。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:28",
+    "japanese": "7. ネットで予約ができますか",
+    "furigana": "7. ネットで<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>ができますか",
+    "segmentation": "7. | ネットで | 予約が | できますか",
+    "translation": {
+      "natural": "7. 可以在網路上預約嗎？",
+      "literal": "7. 在網路預約能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "ネット",
+        "reading": "ねっと",
+        "note": "名詞，網路（インターネット的簡稱）"
+      },
+      {
+        "word": "予約",
+        "reading": "よやく",
+        "note": "名詞，預約"
+      }
+    ],
+    "context_grammar": [
+      "ネットで：格助詞「で」標示手段與管道。此處的「できますか」非個人技能，而是詢問系統/服務的可能性。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:32",
+    "japanese": "8. オンラインショッピングができますか",
+    "furigana": "8. オンラインショッピングができますか",
+    "segmentation": "8. | オンラインショッピングが | できますか",
+    "translation": {
+      "natural": "8. 可以進行網路購物嗎？",
+      "literal": "8. 線上購物能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "オンラインショッピング",
+        "reading": "おんらいんしょっぴんぐ",
+        "note": "名詞，網路購物"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞直接結合「ができますか」，用於確認功能與服務。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:37",
+    "japanese": "9. 料理ができますか",
+    "furigana": "9. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>ができますか",
+    "segmentation": "9. | 料理が | できますか",
+    "translation": {
+      "natural": "9. 你會做菜嗎？",
+      "literal": "9. 料理能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、做菜"
+      }
+    ],
+    "context_grammar": [
+      "料理が：以名詞形式充當能力對象。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:40",
+    "japanese": "10. 水泳ができますか",
+    "furigana": "10. <ruby>水<rt>すい</rt></ruby><ruby>泳<rt>えい</rt></ruby>ができますか",
+    "segmentation": "10. | 水泳が | できますか",
+    "translation": {
+      "natural": "10. 你會游泳嗎？",
+      "literal": "10. 游泳能做到嗎？"
+    },
+    "words": [
+      {
+        "word": "水泳",
+        "reading": "すいえい",
+        "note": "名詞，游泳"
+      }
+    ],
+    "context_grammar": [
+      "水泳が：標記動作與技能對象。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:44",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:46",
+    "japanese": "ネットで予約ができますか。はい、できますよ。",
+    "furigana": "ネットで<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>ができますか。はい、できますよ。",
+    "segmentation": "ネットで | 予約が | できますか。| はい、| できますよ。",
+    "translation": {
+      "natural": "「可以在網路上預約嗎？」「是的，可以喔。」",
+      "literal": "「在網路預約能做到嗎？」「是的，能做到喔。」"
+    },
+    "words": [
+      {
+        "word": "はい",
+        "reading": "はい",
+        "note": "感嘆詞，是的、好的"
+      }
+    ],
+    "context_grammar": [
+      "はい、できますよ：「はい」表示肯定應答，「できますよ」加上告知語氣助詞「よ」，提供安心確認的口吻。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:51",
+    "japanese": "73. ですか",
+    "furigana": "73. ですか",
+    "segmentation": "73. | ですか",
+    "translation": {
+      "natural": "73. 是……嗎？",
+      "literal": "73. 是嗎？"
+    },
+    "words": [
+      {
+        "word": "です",
+        "reading": "です",
+        "note": "助動詞，是（敬體）"
+      }
+    ],
+    "context_grammar": [
+      "斷定助動詞「です」＋終助詞「か」，基礎判斷句的疑問形式。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:55",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:57",
+    "japanese": "1. これは何ですか",
+    "furigana": "1. これはいなにですか",
+    "segmentation": "1. | これは | 何ですか",
+    "translation": {
+      "natural": "1. 這是什麼？",
+      "literal": "1. 這個是什麼？"
+    },
+    "words": [
+      {
+        "word": "これ",
+        "reading": "これ",
+        "note": "代名詞，這個"
+      },
+      {
+        "word": "何",
+        "reading": "なん",
+        "note": "代名詞，什麼"
+      }
+    ],
+    "context_grammar": [
+      "これは：主題標記助詞「は」指明談話主題為「これ」。",
+      "何ですか：疑問詞「何（なん）」與「ですか」結合，構成詢問名稱或內容的基礎句型。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:00",
+    "japanese": "2. これはいくらですか",
+    "furigana": "2. これはいくらですか",
+    "segmentation": "2. | これは | いくらですか",
+    "translation": {
+      "natural": "2. 這個多少錢？",
+      "literal": "2. 這個是多少？"
+    },
+    "words": [
+      {
+        "word": "いくら",
+        "reading": "いくら",
+        "note": "代名詞，多少錢"
+      }
+    ],
+    "context_grammar": [
+      "いくらですか：詢問價格的極高頻率商業與購物用語。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:03",
+    "japanese": "3. これは牛肉ですか",
+    "furigana": "3. これは<ruby>牛<rt>ぎゅう</rt></ruby><ruby>肉<rt>にく</rt></ruby>ですか",
+    "segmentation": "3. | これは | 牛肉ですか",
+    "translation": {
+      "natural": "3. 這是牛肉嗎？",
+      "literal": "3. 這個是牛肉嗎？"
+    },
+    "words": [
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "note": "名詞，牛肉"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋ですか：是非疑問句，用於確認事物屬性。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:07",
+    "japanese": "4. それは豚肉ですか",
+    "furigana": "4. それは<ruby>豚<rt>ぶた</rt></ruby><ruby>肉<rt>にく</rt></ruby>ですか",
+    "segmentation": "4. | それは | 豚肉ですか",
+    "translation": {
+      "natural": "4. 那是豬肉嗎？",
+      "literal": "4. 那個是豬肉嗎？"
+    },
+    "words": [
+      {
+        "word": "それ",
+        "reading": "それ",
+        "note": "代名詞，那個（靠近聽話者）"
+      },
+      {
+        "word": "豚肉",
+        "reading": "ぶたにく",
+        "note": "名詞，豬肉"
+      }
+    ],
+    "context_grammar": [
+      "指示代名詞「それ」標記距離聽話者較近的物品。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:11",
+    "japanese": "5. あれは鶏肉ですか",
+    "furigana": "5. あれは<ruby>鶏<rt>とり</rt></ruby><ruby>肉<rt>にく</rt></ruby>ですか",
+    "segmentation": "5. | あれは | 鶏肉ですか",
+    "translation": {
+      "natural": "5. 那邊那個是雞肉嗎？",
+      "literal": "5. 那邊那個是雞肉嗎？"
+    },
+    "words": [
+      {
+        "word": "あれ",
+        "reading": "あれ",
+        "note": "代名詞，那個（遠離雙方）"
+      },
+      {
+        "word": "鶏肉",
+        "reading": "とりにく",
+        "note": "名詞，雞肉"
+      }
+    ],
+    "context_grammar": [
+      "指示代名詞「あれ」標記遠離說話者與聽話者雙方的物品。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:15",
+    "japanese": "6. 外は雨ですか",
+    "furigana": "6. <ruby>外<rt>そと</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>ですか",
+    "segmentation": "6. | 外は | 雨ですか",
+    "translation": {
+      "natural": "6. 外面在下雨嗎？",
+      "literal": "6. 外面是雨嗎？"
+    },
+    "words": [
+      {
+        "word": "外",
+        "reading": "そと",
+        "note": "名詞，外面"
+      },
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "note": "名詞，雨"
+      }
+    ],
+    "context_grammar": [
+      "外は：將「外」設為討論主題，名詞「雨」結合「ですか」代表天氣狀態判斷。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:18",
+    "japanese": "7. 外は暑いですか",
+    "furigana": "7. <ruby>外<rt>そと</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いですか",
+    "segmentation": "7. | 外は | 暑いですか",
+    "translation": {
+      "natural": "7. 外面很熱嗎？",
+      "literal": "7. 外面是炎熱的嗎？"
+    },
+    "words": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "note": "イ形容詞，炎熱的"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞（暑い）＋ですか：イ形容詞原形直接加「です」表敬體，加「か」構成疑問。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:22",
+    "japanese": "8. 外は寒いですか",
+    "furigana": "8. <ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いですか",
+    "segmentation": "8. | 外は | 寒いですか",
+    "translation": {
+      "natural": "8. 外面很冷嗎？",
+      "literal": "8. 外面是寒冷的嗎？"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "イ形容詞，寒冷的"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「寒い」直接接續禮貌終止形「ですか」。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:26",
+    "japanese": "9. これはどこのですか",
+    "furigana": "9. これはどこのですか",
+    "segmentation": "9. | これは | どこのですか",
+    "translation": {
+      "natural": "9. 這是哪裡生產／哪裡的產物？",
+      "literal": "9. 這個是哪裡的嗎？"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "代名詞，哪裡"
+      },
+      {
+        "word": "の",
+        "reading": "の",
+        "note": "格助詞／形式名詞，的／東西"
+      }
+    ],
+    "context_grammar": [
+      "どこの：疑問詞「どこ」與格助詞「の」結合，省略了後面的名詞（如國名、廠商名或產品名），代表「哪裡產的產品/哪個品牌的東西」。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:29",
+    "japanese": "10. 賞味期限はいつですか",
+    "furigana": "10. <ruby>賞<rt>しょう</rt></ruby><ruby>味<rt>み</rt></ruby><ruby>期<rt>き</rt></ruby><ruby>限<rt>げん</rt></ruby>はいつですか",
+    "segmentation": "10. | 賞味期限は | いつですか",
+    "translation": {
+      "natural": "10. 賞味期限是什麼時候？",
+      "literal": "10. 賞味期限是什麼時候嗎？"
+    },
+    "words": [
+      {
+        "word": "賞味期限",
+        "reading": "しょうみきげん",
+        "note": "名詞，最佳賞味期限"
+      },
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "代名詞，什麼時候"
+      }
+    ],
+    "context_grammar": [
+      "いつですか：詢問時間或日期的基本句型。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:34",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:36",
+    "japanese": "賞味期限はいつですか。こちらに書いてあります。",
+    "furigana": "<ruby>賞<rt>しょう</rt></ruby><ruby>味<rt>み</rt></ruby><ruby>期<rt>き</rt></ruby><ruby>限<rt>げん</rt></ruby>はいつですか。こちらに<ruby>書<rt>か</rt></ruby>いてあります。",
+    "segmentation": "賞味期限は | いつですか。| こちらに | 書いてあります。",
+    "translation": {
+      "natural": "「最佳賞味期限是什麼時候？」「寫在這裡。」",
+      "literal": "「賞味期限是什麼時候？」「這裏寫著有。」"
+    },
+    "words": [
+      {
+        "word": "こちら",
+        "reading": "こちら",
+        "note": "代名詞，這裡（方向/位置的禮貌說法）"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，書寫"
+      }
+    ],
+    "context_grammar": [
+      "こちらに：方向/地點助詞「に」標示動作結果留存之處。",
+      "他動詞て形＋ある：接續「書く」的て形「書いて」，組成「書いてあります」，表示人為動作完成後留下的狀態存續（寫著的狀態）。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:42",
+    "japanese": "74. どうやって～ますか",
+    "furigana": "74. どうやって～ますか",
+    "segmentation": "74. | どうやって | ～ますか",
+    "translation": {
+      "natural": "74. 要怎麼進行……呢？",
+      "literal": "74. 怎樣做而……嗎？"
+    },
+    "words": [
+      {
+        "word": "どうやって",
+        "reading": "どうやって",
+        "note": "副詞，如何、怎樣"
+      }
+    ],
+    "context_grammar": [
+      "どうやって：詢問方法、步驟或手段的疑問詞組，修飾後方的動詞句。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:46",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:48",
+    "japanese": "1. どうやって行きますか",
+    "furigana": "1. どうやって<ruby>行<rt>い</rt></ruby>きますか",
+    "segmentation": "1. | どうやって | 行きますか",
+    "translation": {
+      "natural": "1. 要怎麼去？",
+      "literal": "1. 怎樣做而去嗎？"
+    },
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去、前往"
+      }
+    ],
+    "context_grammar": [
+      "どうやって＋動詞：詢問前往目的地的交通方式或路線。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:51",
+    "japanese": "2. どうやって食べますか",
+    "furigana": "2. どうやって<ruby>食<rt>た</rt></ruby>べますか",
+    "segmentation": "2. | どうやって | 食べますか",
+    "translation": {
+      "natural": "2. 這個要怎麼吃？",
+      "literal": "2. 怎樣做而吃嗎？"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "用於詢問料理的特殊吃法或食用步驟。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:55",
+    "japanese": "3. どうやって使いますか",
+    "furigana": "3. どうやって<ruby>使<rt>つか</rt></ruby>いますか",
+    "segmentation": "3. | どうやって | 使いますか",
+    "translation": {
+      "natural": "3. 這個要怎麼使用？",
+      "literal": "3. 怎樣做而使用嗎？"
+    },
+    "words": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "note": "動詞，使用"
+      }
+    ],
+    "context_grammar": [
+      "使いますか：五段動詞「使う」的連用形「使い」結合敬體助動詞「ます」。常用於詢問產品或儀器的使用方式。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:59",
+    "japanese": "4. どうやって開けますか",
+    "furigana": "4. どうやって<ruby>開<rt>あ</rt></ruby>けますか",
+    "segmentation": "4. | どうやって | 開けますか",
+    "translation": {
+      "natural": "4. 這個要怎麼打開？",
+      "literal": "4. 怎樣做而開啟嗎？"
+    },
+    "words": [
+      {
+        "word": "開ける",
+        "reading": "あける",
+        "note": "動詞，打開、開啟"
+      }
+    ],
+    "context_grammar": [
+      "開ける：下一段他動詞，去「る」接「ます」。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:02",
+    "japanese": "5. どうやって連絡しますか",
+    "furigana": "5. どうやって<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>しますか",
+    "segmentation": "5. | どうやって | 連絡しますか",
+    "translation": {
+      "natural": "5. 要怎麼聯繫呢？",
+      "literal": "5. 怎樣做而連絡嗎？"
+    },
+    "words": [
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "note": "名詞/サ変動詞，聯繫、聯絡"
+      }
+    ],
+    "context_grammar": [
+      "名詞（連絡）＋します：サ変動詞連用形，詢問聯絡管道或通訊工具。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:07",
+    "japanese": "6. どうやって閉めますか",
+    "furigana": "6. どうやって<ruby>閉<rt>し</rt></ruby>めますか",
+    "segmentation": "6. | どうやって | 閉めますか",
+    "translation": {
+      "natural": "6. 這個要怎麼關上？",
+      "literal": "6. 怎樣做而關閉嗎？"
+    },
+    "words": [
+      {
+        "word": "閉める",
+        "reading": "しめる",
+        "note": "動詞，關閉"
+      }
+    ],
+    "context_grammar": [
+      "閉める：下一段他動詞，詢問門窗、蓋子或設施的關閉操作。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:10",
+    "japanese": "7. どうやってつけますか",
+    "furigana": "7. どうやってつけますか",
+    "segmentation": "7. | どうやって | つけますか",
+    "translation": {
+      "natural": "7. 這個要怎麼開啟／打開（電源、開關）？",
+      "literal": "7. 怎樣做而附著/開啟嗎？"
+    },
+    "words": [
+      {
+        "word": "つける",
+        "reading": "つける",
+        "note": "動詞，開啟（電器、開關）"
+      }
+    ],
+    "context_grammar": [
+      "つける：下一段動詞，此處表示啟動電器設備電源。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:14",
+    "japanese": "8. どうやって消しますか",
+    "furigana": "8. どうやって<ruby>消<rt>け</rt></ruby>しますか",
+    "segmentation": "8. | どうやって | 消しますか",
+    "translation": {
+      "natural": "8. 這個要怎麼關閉／熄滅？",
+      "literal": "8. 怎樣做而關掉嗎？"
+    },
+    "words": [
+      {
+        "word": "消す",
+        "reading": "けす",
+        "note": "動詞，關閉（電源）、關掉"
+      }
+    ],
+    "context_grammar": [
+      "消す：五段他動詞，連用形為「消し」。用於詢問切斷電源或熄滅火源的方式。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:18",
+    "japanese": "9. どうやって操作しますか",
+    "furigana": "9. どうやって<ruby>操<rt>そう</rt></ruby><ruby>作<rt>さ</rt></ruby>しますか",
+    "segmentation": "9. | どうやって | 操作しますか",
+    "translation": {
+      "natural": "9. 這個要怎麼操作？",
+      "literal": "9. 怎樣做而操作嗎？"
+    },
+    "words": [
+      {
+        "word": "操作",
+        "reading": "そうさ",
+        "note": "名詞/サ変動詞，操作"
+      }
+    ],
+    "context_grammar": [
+      "操作＋する：サ変動詞敬體，常用於機器設備的使用說明或教學。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:22",
+    "japanese": "10. どうやって予約しますか",
+    "furigana": "10. どうやって<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>しますか",
+    "segmentation": "10. | どうやって | 予約しますか",
+    "translation": {
+      "natural": "10. 要怎麼預約呢？",
+      "literal": "10. 怎樣做而預約嗎？"
+    },
+    "words": [
+      {
+        "word": "予約",
+        "reading": "よやく",
+        "note": "名詞/サ変動詞，預約"
+      }
+    ],
+    "context_grammar": [
+      "予約＋する：詢問預約流程與手續。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:26",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:28",
+    "japanese": "このカメラどうやって操作しますか。ここを押してください。",
+    "furigana": "このカメラどうやって<ruby>操<rt>そう</rt></ruby><ruby>作<rt>さ</rt></ruby>しますか。ここを<ruby>押<rt>お</rt></ruby>してください。",
+    "segmentation": "このカメラ | どうやって | 操作しますか。| ここを | 押してください。",
+    "translation": {
+      "natural": "「這台相機要怎麼操作？」「請按這裡。」",
+      "literal": "「這台相機怎樣做而操作嗎？」「請按壓這裡。」"
+    },
+    "words": [
+      {
+        "word": "カメラ",
+        "reading": "かめら",
+        "note": "名詞，相機"
+      },
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡"
+      },
+      {
+        "word": "押す",
+        "reading": "おす",
+        "note": "動詞，按壓"
+      }
+    ],
+    "context_grammar": [
+      "このカメラ：指示代名詞直接主題化，後續省略了主題助詞「は」。",
+      "動詞て形＋ください：五段動詞「押す」轉為「押して」接「ください」，用於給予指引、指導或提出輕微請求。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:35",
+    "japanese": "75. どうして～ますか",
+    "furigana": "75. どうして～ますか",
+    "segmentation": "75. | どうして | ～ますか",
+    "translation": {
+      "natural": "75. 為何要／為什麼……呢？",
+      "literal": "75. 為何……嗎？"
+    },
+    "words": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "note": "副詞，為什麼、為何"
+      }
+    ],
+    "context_grammar": [
+      "疑問副詞「どうして」，用於詢問理由或原因，修飾後方述語。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:39",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:41",
+    "japanese": "1. どうしてこれを買いますか",
+    "furigana": "1. どうしてこれを<ruby>買<rt>か</rt></ruby>いますか",
+    "segmentation": "1. | どうして | これを | 買いますか",
+    "translation": {
+      "natural": "1. 為什麼要買這個？",
+      "literal": "1. 為何買這個嗎？"
+    },
+    "words": [
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，購買"
+      }
+    ],
+    "context_grammar": [
+      "どうして：詢問購買此物的原因或動機。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:45",
+    "japanese": "2. どうしてこれを使いますか",
+    "furigana": "2. どうしてこれを<ruby>使<rt>つか</rt></ruby>いますか",
+    "segmentation": "2. | どうして | これを | 使いますか",
+    "translation": {
+      "natural": "2. 為什麼要使用這個？",
+      "literal": "2. 為何使用這個嗎？"
+    },
+    "words": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "note": "動詞，使用"
+      }
+    ],
+    "context_grammar": [
+      "詢問選擇該工具或方法的背後原因。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:49",
+    "japanese": "3. どうしてこの会社を選びましたか",
+    "furigana": "3. どうしてこの<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びましたか",
+    "segmentation": "3. | どうして | この会社を | 選びましたか",
+    "translation": {
+      "natural": "3. 為什麼選擇了這家公司？",
+      "literal": "3. 為何選擇了這家公司嗎？"
+    },
+    "words": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "note": "名詞，公司"
+      },
+      {
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "note": "動詞，選擇"
+      }
+    ],
+    "context_grammar": [
+      "選びましたか：五段動詞「選ぶ」的連用形＋過去時態敬體「ました」＋疑問「か」。用於詢問過去已發生的決定與動機（面試常見問題）。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "03:54",
+    "japanese": "4. どうしてこの学校を選びましたか",
+    "furigana": "4. どうしてこの<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びましたか",
+    "segmentation": "4. | どうして | この学校を | 選びましたか",
+    "translation": {
+      "natural": "4. 為什麼選擇了這所學校？",
+      "literal": "4. 為何選擇了這所學校嗎？"
+    },
+    "words": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "note": "名詞，學校"
+      }
+    ],
+    "context_grammar": [
+      "動詞過去式「選びましたか」，針對過去的擇校選擇進行提問。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:58",
+    "japanese": "5. どうして納豆を食べますか",
+    "furigana": "5. どうして<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか",
+    "segmentation": "5. | どうして | 納豆を | 食べますか",
+    "translation": {
+      "natural": "5. 為什麼要吃納豆呢？",
+      "literal": "5. 為何吃納豆嗎？"
+    },
+    "words": [
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      }
+    ],
+    "context_grammar": [
+      "詢問偏好或特定飲食習慣的原因。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:02",
+    "japanese": "6. どうしてビールを飲みますか",
+    "furigana": "6. どうしてビールを<ruby>飲<rt>の</rt></ruby>みますか",
+    "segmentation": "6. | どうして | ビールを | 飲みますか",
+    "translation": {
+      "natural": "6. 為什麼要喝啤酒呢？",
+      "literal": "6. 為何喝啤酒嗎？"
+    },
+    "words": [
+      {
+        "word": "ビール",
+        "reading": "びーる",
+        "note": "名詞，啤酒"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      }
+    ],
+    "context_grammar": [
+      "飲む：五段動詞，連用形「飲み」接續敬體助動詞「ます」。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:06",
+    "japanese": "7. どうして旅行に行きますか",
+    "furigana": "7. どうして<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか",
+    "segmentation": "7. | どうして | 旅行に | 行きますか",
+    "translation": {
+      "natural": "7. 為什麼要 去旅行呢？",
+      "literal": "7. 為何去旅行嗎？"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "旅行に：補格助詞「に」表示目的與方向，接續移動動詞「行く」。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:10",
+    "japanese": "8. どうして音楽を聴きますか",
+    "furigana": "8. どうして<ruby>音<rt>おん</rt></ruby><ruby>楽<rt>がく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きますか",
+    "segmentation": "8. | どうして | 音楽を | 聴きますか",
+    "translation": {
+      "natural": "8. 為什麼要聽音樂呢？",
+      "literal": "8. 為何聽音樂嗎？"
+    },
+    "words": [
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "note": "名詞，音樂"
+      },
+      {
+        "word": "聴く",
+        "reading": "きく",
+        "note": "動詞，傾聽、聽"
+      }
+    ],
+    "context_grammar": [
+      "聴く：五段動詞，用於專注傾聽音樂或廣播等內容。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:14",
+    "japanese": "9. どうして足裏マッサージに行きますか",
+    "furigana": "9. どうして<ruby>足<rt>あし</rt></ruby><ruby>裏<rt>うら</rt></ruby>マッサージに<ruby>行<rt>い</rt></ruby>きますか",
+    "segmentation": "9. | どうして | 足裏マッサージに | 行きますか",
+    "translation": {
+      "natural": "9. 為什麼要去腳底按摩呢？",
+      "literal": "9. 為何去腳底按摩嗎？"
+    },
+    "words": [
+      {
+        "word": "足裏",
+        "reading": "あしうら",
+        "note": "名詞，腳底"
+      },
+      {
+        "word": "マッサージ",
+        "reading": "まっさーじ",
+        "note": "名詞，按摩"
+      }
+    ],
+    "context_grammar": [
+      "足裏マッサージに：動作目的地助詞「に」，修飾「行く」。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:19",
+    "japanese": "10. どうして髪を染めますか",
+    "furigana": "10. どうして<ruby>髪<rt>かみ</rt></ruby>を<ruby>染<rt>そ</rt></ruby>めますか",
+    "segmentation": "10. | どうして | 髪を | 染めますか",
+    "translation": {
+      "natural": "10. 為什麼要染頭髮呢？",
+      "literal": "10. 為何染頭髮嗎？"
+    },
+    "words": [
+      {
+        "word": "髪",
+        "reading": "かみ",
+        "note": "名詞，頭髮"
+      },
+      {
+        "word": "染める",
+        "reading": "そめる",
+        "note": "動詞，染色、染"
+      }
+    ],
+    "context_grammar": [
+      "染める：下一段他動詞，去「る」加「ます」。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:23",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:25",
+    "japanese": "どうして髪を染めますか。白髪が多いからです。",
+    "furigana": "どうして<ruby>髪<rt>かみ</rt></ruby>を<ruby>染<rt>そ</rt></ruby>めますか。<ruby>白<rt>しら</rt></ruby><ruby>髪<rt>が</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いからです。",
+    "segmentation": "どうして | 髪を | 染めますか。| 白髪が | 多いからです。",
+    "translation": {
+      "natural": "「為什麼要染頭髮呢？」「因為白頭髮很多。」",
+      "literal": "「為何染頭髮嗎？」「是因為白髮多的緣故。」"
+    },
+    "words": [
+      {
+        "word": "白髪",
+        "reading": "しらが",
+        "note": "名詞，白髮"
+      },
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "note": "イ形容詞，多的"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接續助詞，因為、由於"
+      }
+    ],
+    "context_grammar": [
+      "～からです：用「原因（白髪が多い）＋接續助詞 から ＋ です」直接回應「どうして」引出的詢問，用於說明理由。"
+    ]
+  }
+]

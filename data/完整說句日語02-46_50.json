@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "text": "96.〜ませんか Step 1",
+    "japanese": "96.〜ませんか Step 1",
+    "furigana": "96.〜ませんか Step 1",
+    "segmentation": "96. | 〜ませんか | Step 1",
+    "translation": {
+      "natural": "96.要不要～呢？ Step 1",
+      "literal": "96.～嗎 Step 1"
+    },
+    "words": [
+      {
+        "word": "〜ませんか",
+        "reading": "〜ませんか",
+        "note": "句型，要不要～呢？（徵詢意願或邀請對方）"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟單元說明，直譯即可。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:05",
+    "text": "1.旅行に行きませんか。",
+    "japanese": "1.旅行に行きませんか。",
+    "furigana": "1.<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "1.旅行に | 行きませんか。",
+    "translation": {
+      "natural": "要不要去旅行呢？",
+      "literal": "去旅行嗎。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "旅行に：格助詞「に」標示移動的目的地或目標。",
+      "行きませんか：動詞「行く」的否定禮貌形「行きません」加上疑問助詞「か」，表示親切地邀請對方一同行動。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:09",
+    "text": "2.お茶を飲みませんか。",
+    "japanese": "2.お茶を飲みませんか。",
+    "furigana": "2.お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みませんか。",
+    "segmentation": "2.お茶を | 飲みませんか。",
+    "translation": {
+      "natural": "要不要喝杯茶呢？",
+      "literal": "喝茶嗎。"
+    },
+    "words": [
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "note": "名詞，茶（接頭辭お表示美化語）"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      }
+    ],
+    "context_grammar": [
+      "お茶を：賓格助詞「を」指示動作「飲む」對象。",
+      "飲みませんか：五段活用動詞「飲む」連用形「飲み」接否定助動詞「ます」＋「か」，常見於日常商務或社交招待場合中禮貌性提議。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:13",
+    "text": "3.留学しませんか。",
+    "japanese": "3.留学しませんか。",
+    "furigana": "3.<ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>しませんか。",
+    "segmentation": "3.留学 | しませんか。",
+    "translation": {
+      "natural": "要不要去留學呢？",
+      "literal": "留學嗎。"
+    },
+    "words": [
+      {
+        "word": "留学する",
+        "reading": "りゅうがくする",
+        "note": "動詞，留學（サ變動詞）"
+      }
+    ],
+    "context_grammar": [
+      "留学しませんか：サ變動詞「留学する」未然形「し」接「ません」＋「か」，在文宣宣傳中經常用於激發受眾興趣與行動意願。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:16",
+    "text": "4.体験してみませんか。",
+    "japanese": "4.体験してみませんか。",
+    "furigana": "4.<ruby>体<rt>たい</rt></ruby><ruby>験<rt>けん</rt></ruby>してみませんか。",
+    "segmentation": "4.体験して | みませんか。",
+    "translation": {
+      "natural": "要不要體驗看看呢？",
+      "literal": "試著體驗嗎。"
+    },
+    "words": [
+      {
+        "word": "体験する",
+        "reading": "たいけんする",
+        "note": "動詞，體驗"
+      },
+      {
+        "word": "みる",
+        "reading": "みる",
+        "note": "補助動詞，試著……"
+      }
+    ],
+    "context_grammar": [
+      "～てみる：動詞「体験する」連用形「体験して」接補助動詞「みる」，表示嘗試做某事。",
+      "みませんか：將「みる」轉為邀請形式，在體驗活動、試用品廣告旁白中極為高頻出現。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:20",
+    "text": "5.誘ってみませんか。",
+    "japanese": "5.誘ってみませんか。",
+    "furigana": "5.<ruby>誘<rt>さそ</rt></ruby>ってみませんか。",
+    "segmentation": "5.誘ってみ | ませんか。",
+    "translation": {
+      "natural": "要不要試著邀請看看呢？",
+      "literal": "試著邀請嗎。"
+    },
+    "words": [
+      {
+        "word": "誘う",
+        "reading": "さそう",
+        "note": "動詞，邀請、招攬"
+      }
+    ],
+    "context_grammar": [
+      "誘ってみませんか：五段動詞「誘う」促音便連用形「誘っ」接「てみる」後加上否定邀請語氣「ませんか」，建議對方主動採取社交行動。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:23",
+    "text": "6.乗ってみませんか。",
+    "japanese": "6.乗ってみませんか。",
+    "furigana": "6.<ruby>乗<rt>の</rt></ruby>ってみませんか。",
+    "segmentation": "6.乗ってみ | ませんか。",
+    "translation": {
+      "natural": "要不要試搭看看呢？",
+      "literal": "試著搭乘嗎。"
+    },
+    "words": [
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "note": "動詞，搭乘、騎乘"
+      }
+    ],
+    "context_grammar": [
+      "乗ってみませんか：「乗る」的促音便「乗っ」＋「てみる」＋「ませんか」。常見於汽車試乘、遊樂設施或新開鐵道宣傳片。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:27",
+    "text": "7.やってみませんか。",
+    "japanese": "7.やってみませんか。",
+    "furigana": "7.やってみませんか。",
+    "segmentation": "7.やって | みませんか。",
+    "translation": {
+      "natural": "要不要試著做做看呢？",
+      "literal": "試著做嗎。"
+    },
+    "words": [
+      {
+        "word": "やる",
+        "reading": "やる",
+        "note": "動詞，做、進行（較口語的表現）"
+      }
+    ],
+    "context_grammar": [
+      "やってみませんか：動詞「やる」促音便後接「してみる」之口語表達，廣泛用於鼓勵受眾挑戰新事物、參加新企劃的廣告場合。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:30",
+    "text": "8.食べてみませんか。",
+    "japanese": "8.食べてみませんか。",
+    "furigana": "8.<ruby>食<rt>た</rt></ruby>べてみませんか。",
+    "segmentation": "8.食べて | みませんか。",
+    "translation": {
+      "natural": "要不要品嚐看看呢？",
+      "literal": "試著吃嗎。"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "食べてみませんか：一段動詞「食べる」去「る」接「てみる」＋「ませんか」，美食節目或食品廣告中極典型的促銷邀請用語。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:34",
+    "text": "9.入ってみませんか。",
+    "japanese": "9.入ってみませんか。",
+    "furigana": "9.<ruby>入<rt>はい</rt></ruby>ってみませんか。",
+    "segmentation": "9.入ってみ | ませんか。",
+    "translation": {
+      "natural": "要不要試著進去看看呢？ / 要不要試著加入呢？",
+      "literal": "試著進入嗎。"
+    },
+    "words": [
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入、加入"
+      }
+    ],
+    "context_grammar": [
+      "入ってみませんか：「入る」促音便連用形「入っ」＋「てみる」＋「ませんか」，可用於實體店面進店邀約或社團/會員招募語脈。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:38",
+    "text": "10.遊んでみませんか。",
+    "japanese": "10.遊んでみませんか。",
+    "furigana": "10.<ruby>遊<rt>あそ</rt></ruby>んでみませんか。",
+    "segmentation": "10.遊んで | みませんか。",
+    "translation": {
+      "natural": "要不要試著玩玩看呢？",
+      "literal": "試著玩嗎。"
+    },
+    "words": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "note": "動詞，遊玩、玩樂"
+      }
+    ],
+    "context_grammar": [
+      "遊んでみませんか：五段動詞「遊ぶ」發生濁音便連用形「遊んで」接「みませんか」，常見於主題樂園、遊戲或休閒景點宣傳語。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:41",
+    "text": "Step 3 留学しませんか。いいですね。",
+    "japanese": "Step 3 留学しませんか。いいですね。",
+    "furigana": "Step 3 <ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>しませんか。いいですね。",
+    "segmentation": "Step 3 | 留学しませんか。| いいですね。",
+    "translation": {
+      "natural": "Step 3 要不要去留學呢？聽起來很不錯呢。",
+      "literal": "Step 3 留學嗎。很好呢。"
+    },
+    "words": [
+      {
+        "word": "留学する",
+        "reading": "りゅうがくする",
+        "note": "動詞，留學"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "いいですね：形容詞「いい」加上丁寧語「です」與感嘆/確認助詞「ね」，用於爽快、贊同回應對方的提議。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:48",
+    "text": "97.〜予定ですか Step 1",
+    "japanese": "97.〜予定ですか Step 1",
+    "furigana": "97.〜<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか Step 1",
+    "segmentation": "97. | 〜予定ですか | Step 1",
+    "translation": {
+      "natural": "97.預計～嗎？ Step 1",
+      "literal": "97.是～預定嗎 Step 1"
+    },
+    "words": [
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "note": "名詞，預定、計劃"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟單元說明，直譯即可。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:54",
+    "text": "1.いつ旅行の予定ですか。",
+    "japanese": "1.いつ旅行の予定ですか。",
+    "furigana": "1.いつ<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>の<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "1.いつ | 旅行の予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候去旅行呢？",
+      "literal": "什麼時候是旅行的預定。"
+    },
+    "words": [
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "疑問詞，什麼時候"
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      },
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "note": "名詞，預定"
+      }
+    ],
+    "context_grammar": [
+      "旅行の予定：名詞＋格助詞「の」＋名詞，形成領格修飾邏輯。",
+      "いつ～ですか：疑問詞置於句首詢問時間點，商業行程確認中很實用。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:58",
+    "text": "2.いつ留学する予定ですか。",
+    "japanese": "2.いつ留学する予定ですか。",
+    "furigana": "2.いつ<ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>する<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "2.いつ | 留学する | 予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候要去留學呢？",
+      "literal": "什麼時候預定留學。"
+    },
+    "words": [
+      {
+        "word": "留学する",
+        "reading": "りゅうがくする",
+        "note": "動詞，留學"
+      }
+    ],
+    "context_grammar": [
+      "留学する予定：動詞辭書形（連體形）直接修飾後方的名詞「予定」，表示未來的計畫內容。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:03",
+    "text": "3.今日は何の予定ですか。",
+    "japanese": "3.今日は何の予定ですか。",
+    "furigana": "3.<ruby>今<rt>きょう</rt></ruby><ruby>日<rt>は</rt></ruby>は<ruby>何<rt>なん</rt></ruby>の<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "3.今日は | 何の予定ですか。",
+    "translation": {
+      "natural": "今天有什麼行程安排嗎？",
+      "literal": "今天是什麼的預定。"
+    },
+    "words": [
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "note": "名詞，今天"
+      },
+      {
+        "word": "何",
+        "reading": "なん",
+        "note": "疑問詞，什麼"
+      }
+    ],
+    "context_grammar": [
+      "今日は：提示主題「今日は」與主要詢問「何の予定ですか」構成主謂關係。",
+      "何の＋名詞：用於詢問具體的內容分類。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:07",
+    "text": "4.観光する予定ですか。",
+    "japanese": "4.観光する予定ですか。",
+    "furigana": "4.<ruby>観<rt>かん</rt></ruby><ruby>光<rt>こう</rt></ruby>する<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "4.観光する | 予定ですか。",
+    "translation": {
+      "natural": "預計要觀光嗎？",
+      "literal": "預定觀光嗎。"
+    },
+    "words": [
+      {
+        "word": "観光する",
+        "reading": "かんこうする",
+        "note": "動詞，觀光"
+      }
+    ],
+    "context_grammar": [
+      "観光する予定：動詞連體形「観光する」修飾名詞「予定」，確認動作計畫。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:11",
+    "text": "5.ショッピングする予定ですか。",
+    "japanese": "5.ショッピングする予定ですか。",
+    "furigana": "5.ショッピングする<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "5.ショッピングする | 予定ですか。",
+    "translation": {
+      "natural": "預計要去購物購物嗎？",
+      "literal": "預定購物嗎。"
+    },
+    "words": [
+      {
+        "word": "ショッピングする",
+        "reading": "ショッピングする",
+        "note": "動詞，購物（外來語+する）"
+      }
+    ],
+    "context_grammar": [
+      "ショッピングする予定：外來語動詞化後的連體形修飾「予定」，用於旅遊及休閒話題。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:15",
+    "text": "6.どこを参観する予定ですか。",
+    "japanese": "6.どこを参観する予定ですか。",
+    "furigana": "6.どこを<ruby>参<rt>さん</rt></ruby><ruby>観<rt>かん</rt></ruby>する<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "6.どこを | 参観する | 予定ですか。",
+    "translation": {
+      "natural": "預計要參觀哪裡呢？",
+      "literal": "預定參觀哪裡。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "疑問詞，哪裡"
+      },
+      {
+        "word": "参観する",
+        "reading": "さんかんする",
+        "note": "動詞，參觀"
+      }
+    ],
+    "context_grammar": [
+      "どこを参観する：賓格助詞「を」提示「参観する」的通過或對象場所。",
+      "動詞辭書形修飾「予定」，屬商務企劃、團體導覽中的經典問句。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:20",
+    "text": "7.いつ出発する予定ですか。",
+    "japanese": "7.いつ出発する予定ですか。",
+    "furigana": "7.いつ<ruby>出<rt>しゅっ</rt></ruby><ruby>発<rt>ぱつ</rt></ruby>する<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "7.いつ | 出発する | 予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候出發呢？",
+      "literal": "什麼時候預定出發。"
+    },
+    "words": [
+      {
+        "word": "出発する",
+        "reading": "しゅっぱつする",
+        "note": "動詞，出發"
+      }
+    ],
+    "context_grammar": [
+      "いつ出発する予定ですか：疑問詞與動詞連體形組合，極高頻用於確認商務出差或行程時間。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:24",
+    "text": "8.何時の飛行機に乗る予定ですか。",
+    "japanese": "8.何時の飛行機に乗る予定ですか。",
+    "furigana": "8.<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>飛<rt>ひ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>機<rt>き</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "8.何時の飛行機に | 乗る予定ですか。",
+    "translation": {
+      "natural": "預計搭幾點的班機呢？",
+      "literal": "預定搭乘幾點的飛機。"
+    },
+    "words": [
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "note": "疑問詞，幾點"
+      },
+      {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "note": "名詞，飛機"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "note": "動詞，搭乘"
+      }
+    ],
+    "context_grammar": [
+      "何時の飛行機に：時間點修飾「飛行機」，「に」標示搭乘目標對象。",
+      "乗る予定：連體形修飾名詞，詢問具體的交通安排。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:29",
+    "text": "9.いつ帰国予定ですか。",
+    "japanese": "9.いつ帰国予定ですか。",
+    "furigana": "9.いつ<ruby>帰<rt>き</rt></ruby><ruby>国<rt>こく</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "9.いつ | 帰国予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候回國呢？",
+      "literal": "什麼時候是歸國預定。"
+    },
+    "words": [
+      {
+        "word": "帰国",
+        "reading": "きこく",
+        "note": "名詞，回國"
+      }
+    ],
+    "context_grammar": [
+      "帰国予定：名詞複合連語，省去助詞「の」直接連結，口語與商業溝通中簡潔有力的表達。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:33",
+    "text": "10.いつ宿泊する予定ですか。",
+    "japanese": "10.いつ宿泊する予定ですか。",
+    "furigana": "10.いつ<ruby>宿<rt>しゅく</rt></ruby><ruby>泊<rt>はく</rt></ruby>する<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "10.いつ | 宿泊する | 予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候入住/住宿呢？",
+      "literal": "什麼時候預定住宿。"
+    },
+    "words": [
+      {
+        "word": "宿泊する",
+        "reading": "しゅくはくする",
+        "note": "動詞，住宿、入住"
+      }
+    ],
+    "context_grammar": [
+      "宿泊する予定：「宿泊する」連體形修飾「予定」，飯店預約或旅遊客服中標準詢問句。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:38",
+    "text": "Step 3 何時の飛行機に乗る予定ですか。午後2時の飛行機です。",
+    "japanese": "Step 3 何時の飛行機に乗る予定ですか。午後2時の飛行機です。",
+    "furigana": "Step 3 <ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>飛<rt>ひ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>機<rt>き</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。<ruby>午<rt>ご</rt></ruby><ruby>後<rt>ご</rt></ruby>2<ruby>時<rt>じ</rt></ruby>の<ruby>飛<rt>ひ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>機<rt>き</rt></ruby>です。",
+    "segmentation": "Step 3 | 何時の飛行機に | 乗る予定ですか。| 午後2時の | 飛行機です。",
+    "translation": {
+      "natural": "Step 3 預計搭幾點的班機呢？是下午2點的班機。",
+      "literal": "Step 3 預定搭乘幾點的飛機。是下午2點的飛機。"
+    },
+    "words": [
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "note": "名詞，下午"
+      },
+      {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "note": "名詞，飛機"
+      }
+    ],
+    "context_grammar": [
+      "午後2時の飛行機：名詞「午後2時」經由助詞「の」修飾「飛行機」，形成對問題的準確應答。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:47",
+    "text": "98.〜と思っています Step 1",
+    "japanese": "98.〜と思っています Step 1",
+    "furigana": "98.〜と<ruby>思<rt>おも</rt></ruby>っています Step 1",
+    "segmentation": "98. | 〜と思っています | Step 1",
+    "translation": {
+      "natural": "98.打算～ / 認為～ Step 1",
+      "literal": "98.正想著～ Step 1"
+    },
+    "words": [
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "note": "動詞，認為、想"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟單元說明，直譯即可。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:54",
+    "text": "1.金閣寺を見ようと思っています。",
+    "japanese": "1.金閣寺を見ようと思っています。",
+    "furigana": "1.<ruby>金<rt>きん</rt></ruby><ruby>閣<rt>かく</rt></ruby><ruby>寺<rt>じ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "1.金閣寺を | 見ようと | 思っています。",
+    "translation": {
+      "natural": "我打算去參觀金閣寺。",
+      "literal": "想著要看金閣寺。"
+    },
+    "words": [
+      {
+        "word": "金閣寺",
+        "reading": "きんかくじ",
+        "note": "專有名詞，金閣寺"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看、參觀"
+      }
+    ],
+    "context_grammar": [
+      "見よう：一段動詞「見る」的意志形（去る加よう）。",
+      "動詞意志形＋と思っています：表示說話者持續一段時間的意圖或打算，常用於分享個人行程規劃。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:59",
+    "text": "2.宇治金時を食べようと思っています。",
+    "japanese": "2.宇治金時を食べようと思っています。",
+    "furigana": "2.<ruby>宇<rt>う</rt></ruby><ruby>治<rt>じ</rt></ruby><ruby>金<rt>きん</rt></ruby><ruby>時<rt>とき</rt></ruby>を<ruby>食<rt>た</rt></ruby>べようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "2.宇治金時を | 食べようと | 思っています。",
+    "translation": {
+      "natural": "我打算吃宇治金時抹茶紅豆冰。",
+      "literal": "想著要吃宇治金時。"
+    },
+    "words": [
+      {
+        "word": "宇治金時",
+        "reading": "うじきんとき",
+        "note": "名詞，宇治金時（抹茶紅豆冰沙）"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "食べよう：一段動詞「食べる」連用意志形。",
+      "～と思っています：動作的主觀意向表達，適合美食節目或個人行程分享語境。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:03",
+    "text": "3.スカイツリーへ行こうと思っています。",
+    "japanese": "3.スカイツリーへ行こうと思っています。",
+    "furigana": "3.スカイツリーへ<ruby>行<rt>い</rt></ruby>こうと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "3.スカイツリーへ | 行こうと | 思っています。",
+    "translation": {
+      "natural": "我打算去晴空塔。",
+      "literal": "想著要去晴空塔。"
+    },
+    "words": [
+      {
+        "word": "スカイツリー",
+        "reading": "スカイツリー",
+        "note": "專有名詞，東京晴空塔"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "行こう：五段動詞「行く」詞尾轉為オ段音加「う」構成意志形。",
+      "へ：格助詞，提示移動的方向。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:08",
+    "text": "4.ショッピングしようと思っています。",
+    "japanese": "4.ショッピングしようと思っています。",
+    "furigana": "4.ショッピングしようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "4.ショッピングしようと | 思っています。",
+    "translation": {
+      "natural": "我打算去購物逛街。",
+      "literal": "想著要購物。"
+    },
+    "words": [
+      {
+        "word": "ショッピングする",
+        "reading": "ショッピングする",
+        "note": "動詞，購物"
+      }
+    ],
+    "context_grammar": [
+      "しよう：サ變動詞「する」的意志形「しよう」，加上「と思っています」表示計劃預定。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:12",
+    "text": "5.マッサージに行こうと思っています。",
+    "japanese": "5.マッサージに行こうと思っています。",
+    "furigana": "5.マッサージに<ruby>行<rt>い</rt></ruby>こうと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "5.マッサージに | 行こうと | 思っています。",
+    "translation": {
+      "natural": "我打算去按摩。",
+      "literal": "想著要去按摩。"
+    },
+    "words": [
+      {
+        "word": "マッサージ",
+        "reading": "マッサージ",
+        "note": "名詞，按摩"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "マッサージに：助詞「に」標示行動的目的。",
+      "行こうと思っています：行こう（意志形）＋助詞「と」＋思っています，表達心中長期構想好的個人行程。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:17",
+    "text": "6.電話しようと思っています。",
+    "japanese": "6.電話しようと思っています。",
+    "furigana": "6.<ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby>しようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "6.電話しようと | 思っています。",
+    "translation": {
+      "natural": "我打算打電話。",
+      "literal": "想著要打電話。"
+    },
+    "words": [
+      {
+        "word": "電話する",
+        "reading": "でんわする",
+        "note": "動詞，打電話"
+      }
+    ],
+    "context_grammar": [
+      "電話しよう：「電話する」的意志形「電話しよう」。後接「と思っています」表現出即將付諸行動的意圖。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:21",
+    "text": "7.インターネットで調べようと思っています。",
+    "japanese": "7.インターネットで調べようと思っています。",
+    "furigana": "7.インターネットで<ruby>調<rt>しら</rt></ruby>べようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "7.インターネットで | 調べようと | 思っています。",
+    "translation": {
+      "natural": "我打算在網路上查詢看看。",
+      "literal": "想著要在網路調查。"
+    },
+    "words": [
+      {
+        "word": "インターネット",
+        "reading": "インターネット",
+        "note": "名詞，網際網路"
+      },
+      {
+        "word": "調べる",
+        "reading": "しらべる",
+        "note": "動詞，查詢、調查"
+      }
+    ],
+    "context_grammar": [
+      "インターネットで：工具/手段助詞「で」，標示進行動作所採用的管道。",
+      "調べよう：一段動詞意志形，搭配「と思っています」說明解決問題的方法策略。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:26",
+    "text": "8.ドラマを見ようと思っています。",
+    "japanese": "8.ドラマを見ようと思っています。",
+    "furigana": "8.ドラマを<ruby>見<rt>み</rt></ruby>ようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "8.ドラマを | 見ようと | 思っています。",
+    "translation": {
+      "natural": "我打算看連續劇。",
+      "literal": "想著要看戲劇。"
+    },
+    "words": [
+      {
+        "word": "ドラマ",
+        "reading": "ドラマ",
+        "note": "名詞，電視劇、戲劇"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看"
+      }
+    ],
+    "context_grammar": [
+      "見ようと思っています：意志形＋と思っています，日常生活中談論休閒娛樂安排的極自然句型。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:30",
+    "text": "9.ゲームをしようと思っています。",
+    "japanese": "9.ゲームをしようと思っています。",
+    "furigana": "9.ゲームをしようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "9.ゲームを | しようと | 思っています。",
+    "translation": {
+      "natural": "我打算玩電玩遊戲。",
+      "literal": "想著要做遊戲。"
+    },
+    "words": [
+      {
+        "word": "ゲーム",
+        "reading": "ゲーム",
+        "note": "名詞，遊戲"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，進行、做"
+      }
+    ],
+    "context_grammar": [
+      "ゲームをしよう：「ゲームをする」之意志形，接「と思っています」表達個人活動意向。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:35",
+    "text": "10.運動しようと思っています。",
+    "japanese": "10.運動しようと思っています。",
+    "furigana": "10.<ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>しようと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "10.運動しようと | 思っています。",
+    "translation": {
+      "natural": "我打算做運動。",
+      "literal": "想著要運動。"
+    },
+    "words": [
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動"
+      }
+    ],
+    "context_grammar": [
+      "運動しよう：サ變動詞意志形，搭配持續狀態「と思っています」展現意志力或習慣建立的意圖。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:39",
+    "text": "Step 3 東京へ行ったら何をしますか。スカイツリーへ行こうと思っています。",
+    "japanese": "Step 3 東京へ行ったら何をしますか。スカイツリーへ行こうと思っています。",
+    "furigana": "Step 3 <ruby>東<rt>とう</rt></ruby><ruby>京<rt>きょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったら<ruby>何<rt>なに</rt></ruby>をしますか。スカイツリーへ<ruby>行<rt>い</rt></ruby>こうと<ruby>思<rt>おも</rt></ruby>っています。",
+    "segmentation": "Step 3 | 東京へ行ったら | 何をしますか。| スカイツリーへ | 行こうと思っています。",
+    "translation": {
+      "natural": "Step 3 如果去了東京要做什麼呢？我打算去晴空塔。",
+      "literal": "Step 3 去東京的話做什麼。想著要去晴空塔。"
+    },
+    "words": [
+      {
+        "word": "東京",
+        "reading": "とうきょう",
+        "note": "專有名詞，東京"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      },
+      {
+        "word": "スカイツリー",
+        "reading": "スカイツリー",
+        "note": "專有名詞，晴空塔"
+      }
+    ],
+    "context_grammar": [
+      "行ったら：動詞「行く」的た形「行った」加上假定助詞「ら」，表示條件假設「如果去了……」。",
+      "何をしますか：詢問假設情境下的打算，後句以「～行こうと思っています」完美回覆。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:49",
+    "text": "99.〜をご存知ですか Step 1",
+    "japanese": "99.〜をご存知ですか Step 1",
+    "furigana": "99.〜をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか Step 1",
+    "segmentation": "99. | 〜をご存知ですか | Step 1",
+    "translation": {
+      "natural": "99.您知道～嗎？ Step 1",
+      "literal": "99.是知道～嗎 Step 1"
+    },
+    "words": [
+      {
+        "word": "ご存知",
+        "reading": "ごぞんじ",
+        "note": "名詞/形容動詞，知道、了解（知っている的尊敬語）"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟單元說明，直譯即可。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:55",
+    "text": "1.雷門をご存知ですか。",
+    "japanese": "1.雷門をご存知ですか。",
+    "furigana": "1.<ruby>雷<rt>かみなり</rt></ruby><ruby>門<rt>もん</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "1.雷門を | ご存知ですか。",
+    "translation": {
+      "natural": "您知道雷門嗎？",
+      "literal": "知道雷門嗎。"
+    },
+    "words": [
+      {
+        "word": "雷門",
+        "reading": "かみなりもん",
+        "note": "專有名詞，雷門（淺草寺地標）"
+      },
+      {
+        "word": "ご存知",
+        "reading": "ごぞんじ",
+        "note": "名詞，知道（敬語）"
+      }
+    ],
+    "context_grammar": [
+      "雷門を：賓格助詞「を」指示知道的對象內容。",
+      "ご存知ですか：「知っていますか」的高級尊敬語表達，常在宣傳文句或禮貌問詢中吸引對象注意力。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:59",
+    "text": "2.ハチ公をご存知ですか。",
+    "japanese": "2.ハチ公をご存知ですか。",
+    "furigana": "2.ハチ<ruby>公<rt>こう</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "2.ハチ公を | ご存知ですか。",
+    "translation": {
+      "natural": "您知道忠犬八公嗎？",
+      "literal": "知道八公嗎。"
+    },
+    "words": [
+      {
+        "word": "ハチ公",
+        "reading": "ハチこう",
+        "note": "專有名詞，忠犬八公"
+      }
+    ],
+    "context_grammar": [
+      "ご存知ですか：尊敬語敬體詢問，適合在觀光導覽、景點介紹時提起話頭。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:03",
+    "text": "3.宝塚歌劇団をご存知ですか。",
+    "japanese": "3.宝塚歌劇団をご存知ですか。",
+    "furigana": "3.<ruby>宝<rt>たから</rt></ruby><ruby>塚<rt>づか</rt></ruby><ruby>歌<rt>か</rt></ruby><ruby>劇<rt>げき</rt></ruby><ruby>団<rt>だん</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "3.宝塚歌劇団を | ご存知ですか。",
+    "translation": {
+      "natural": "您知道寶塚歌劇團嗎？",
+      "literal": "知道寶塚歌劇團嗎。"
+    },
+    "words": [
+      {
+        "word": "宝塚歌劇団",
+        "reading": "たからづかかげきだん",
+        "note": "專有名詞，寶塚歌劇團"
+      }
+    ],
+    "context_grammar": [
+      "宝塚歌劇団をご存知ですか：專有名詞＋「をご存知ですか」，文化或品牌行銷中經典開場句型。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:08",
+    "text": "4.坂本龍馬をご存知ですか。",
+    "japanese": "4.坂本龍馬をご存知ですか。",
+    "furigana": "4.<ruby>坂<rt>さか</rt></ruby><ruby>本<rt>もと</rt></ruby><ruby>龍<rt>りょう</rt></ruby><ruby>馬<rt>ま</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "4.坂本龍馬を | ご存知ですか。",
+    "translation": {
+      "natural": "您知道坂本龍馬嗎？",
+      "literal": "知道坂本龍馬嗎。"
+    },
+    "words": [
+      {
+        "word": "坂本龍馬",
+        "reading": "さかもとりょうま",
+        "note": "專有名詞，坂本龍馬"
+      }
+    ],
+    "context_grammar": [
+      "坂本龍馬を：人名加助詞「を」，作為敬語知識詢問的對象。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:13",
+    "text": "5.桃太郎をご存知ですか。",
+    "japanese": "5.桃太郎をご存知ですか。",
+    "furigana": "5.<ruby>桃<rt>もも</rt></ruby><ruby>太<rt>た</rt></ruby><ruby>郎<rt>ろう</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "5.桃太郎を | ご存知ですか。",
+    "translation": {
+      "natural": "您知道桃太郎嗎？",
+      "literal": "知道桃太郎嗎。"
+    },
+    "words": [
+      {
+        "word": "桃太郎",
+        "reading": "ももたろう",
+        "note": "專有名詞，桃太郎（日本童話人物）"
+      }
+    ],
+    "context_grammar": [
+      "をご存知ですか：以極為客氣的方式詢問對方是否知悉某文化或童話角色。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:17",
+    "text": "6.修理中なのをご存知ですか。",
+    "japanese": "6.修理中なのをご存知ですか。",
+    "furigana": "6.<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>なのをご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "6.修理中なの | をご存知ですか。",
+    "translation": {
+      "natural": "您知道現在正在維修中嗎？",
+      "literal": "知道是整修中這件事嗎。"
+    },
+    "words": [
+      {
+        "word": "修理中",
+        "reading": "しゅうりちゅう",
+        "note": "名詞，維修中、整修中"
+      },
+      {
+        "word": "の",
+        "reading": "の",
+        "note": "形式名詞，將前面句子名詞化（這裡作「なの」）"
+      }
+    ],
+    "context_grammar": [
+      "修理中なの：名詞「修理中」接斷定助動詞「だ」的連體形「な」加上形式名詞「の」，將整個事態名詞化。",
+      "～のをご存知ですか：用於詢問對方是否了解某一完整的事實狀況。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:21",
+    "text": "7.引っ越したのをご存知ですか。",
+    "japanese": "7.引っ越したのをご存知ですか。",
+    "furigana": "7.<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>したのをご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "7.引っ越したの | をご存知ですか。",
+    "translation": {
+      "natural": "您知道已經搬家了嗎？",
+      "literal": "知道搬家了這件事嗎。"
+    },
+    "words": [
+      {
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "note": "動詞，搬家"
+      }
+    ],
+    "context_grammar": [
+      "引っ越したの：動詞過去形「引っ越した」＋形式名詞「の」，名詞化「已搬家」這項過去發生的事實。",
+      "廣泛用於顧客服務、通知搬遷的商務廣告。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:26",
+    "text": "8.新しくオープンしたのをご存知ですか。",
+    "japanese": "8.新しくオープンしたのをご存知ですか。",
+    "furigana": "8.<ruby>新<rt>あたら</rt></ruby>しくオープンしたのをご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "8.新しく | オープンしたのを | ご存知ですか。",
+    "translation": {
+      "natural": "您知道新開幕了這件事嗎？",
+      "literal": "知道嶄新地開幕了這件事嗎。"
+    },
+    "words": [
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "note": "形容詞，新的"
+      },
+      {
+        "word": "オープンする",
+        "reading": "オープンする",
+        "note": "動詞，開幕、開張"
+      }
+    ],
+    "context_grammar": [
+      "新しく：形容詞連用形副詞化（去い加く），修飾動詞「オープンした」。",
+      "オープンしたの：過去形名詞化，新店開幕宣傳廣告中標註話題的典型文型。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:31",
+    "text": "9.コンサートがあるのをご存知ですか。",
+    "japanese": "9.コンサートがあるのをご存知ですか。",
+    "furigana": "9.コンサートがあるのをご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "9.コンサートが | あるのをご存知ですか。",
+    "translation": {
+      "natural": "您知道有音樂會這件事嗎？",
+      "literal": "知道有音樂會這件事嗎。"
+    },
+    "words": [
+      {
+        "word": "コンサート",
+        "reading": "コンサート",
+        "note": "名詞，音樂會、演唱會"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有、舉辦"
+      }
+    ],
+    "context_grammar": [
+      "コンサートがあるの：動詞辭書形＋形式名詞「の」，將「有演唱會」名詞化作為「ご存知ですか」的賓語。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:36",
+    "text": "10.営業時間をご存知ですか。",
+    "japanese": "10.営業時間をご存知ですか。",
+    "furigana": "10.<ruby>営<rt>えい</rt></ruby><ruby>業<rt>ぎょう</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>をご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。",
+    "segmentation": "10.時間を | ご存知ですか。",
+    "translation": {
+      "natural": "您知道營業時間嗎？",
+      "literal": "知道營業時間嗎。"
+    },
+    "words": [
+      {
+        "word": "営業時間",
+        "reading": "えいぎょうじかん",
+        "note": "名詞，營業時間"
+      }
+    ],
+    "context_grammar": [
+      "営業時間をご存知ですか：複合名詞直接加上「をご存知ですか」，店家諮詢或客服指引中高頻實用句子。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:40",
+    "text": "Step 3 引っ越したのをご存知ですか。いいえ、知りませんでした。",
+    "japanese": "Step 3 引っ越したのをご存知ですか。いいえ、知りませんでした。",
+    "furigana": "Step 3 <ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>したのをご<ruby>存<rt>ぞん</rt></ruby><ruby>知<rt>じ</rt></ruby>ですか。いいえ、<ruby>知<rt>し</rt></ruby>りませんでした。",
+    "segmentation": "Step 3 | 引っ越したのを | ご存知ですか。| いいえ、| 知りませんでした。",
+    "translation": {
+      "natural": "Step 3 您知道已經搬家了嗎？不，我先前不知道呢。",
+      "literal": "Step 3 知道搬家了這件事嗎。不，當時不知道。"
+    },
+    "words": [
+      {
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "note": "動詞，搬家"
+      },
+      {
+        "word": "知る",
+        "reading": "しる",
+        "note": "動詞，知道、了解"
+      }
+    ],
+    "context_grammar": [
+      "知りませんでした：動詞「知る」的過去否定形。針對「ご存知ですか」回答「過去不清楚這項訊息，現在經告知才了解」時，必須使用過去否定形式。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:48",
+    "text": "100.〜分かりません Step 1",
+    "japanese": "100.〜分かりません Step 1",
+    "furigana": "100.〜<ruby>分<rt>わ</rt></ruby>かりません Step 1",
+    "segmentation": "100. | 〜分かりません | Step 1",
+    "translation": {
+      "natural": "100.不知道～ / 不清楚～ Step 1",
+      "literal": "100.不明白～ Step 1"
+    },
+    "words": [
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "note": "動詞，明白、知道"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟單元說明，直譯即可。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:55",
+    "text": "1.住所が分かりません。",
+    "japanese": "1.住所が分かりません。",
+    "furigana": "1.<ruby>住<rt>じゅう</rt></ruby><ruby>所<rt>しょ</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "1.住所が | 分かりません。",
+    "translation": {
+      "natural": "我不清楚地址。",
+      "literal": "地址不明白。"
+    },
+    "words": [
+      {
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "note": "名詞，地址"
+      },
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "note": "動詞，明白"
+      }
+    ],
+    "context_grammar": [
+      "住所が：主格助詞「が」標示狀態動詞「分かる」所指向的主語對象。",
+      "分かりません：自動詞「分かる」的丁寧否定形，表示缺乏相關資訊與認知。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:58",
+    "text": "2.電話番号が分かりません。",
+    "japanese": "2.電話番号が分かりません。",
+    "furigana": "2.<ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>号<rt>ごう</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "2.電話番号が | 分かりません。",
+    "translation": {
+      "natural": "我不清楚電話號碼。",
+      "literal": "電話號碼不明白。"
+    },
+    "words": [
+      {
+        "word": "電話番号",
+        "reading": "でんわばんごう",
+        "note": "名詞，電話號碼"
+      }
+    ],
+    "context_grammar": [
+      "電話番号が分かりません：主格「が」＋「分かりません」，客服溝通或資料核對時常見的客氣告知語。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "04:02",
+    "text": "3.名前が分かりません。",
+    "japanese": "3.名前が分かりません。",
+    "furigana": "3.<ruby>名<rt>な</rt></ruby><ruby>前<rt>まえ</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "3.名前が | 分かりません。",
+    "translation": {
+      "natural": "我不知道名字。",
+      "literal": "名字不明白。"
+    },
+    "words": [
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "note": "名詞，姓名、名字"
+      }
+    ],
+    "context_grammar": [
+      "名前が分かりません：主語「名前」加上「が分かりません」，簡明表達資訊缺漏。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "04:06",
+    "text": "4.アメリカ人の話す英語が分かりません。",
+    "japanese": "4.アメリカ人の話す英語が分かりません。",
+    "furigana": "4.アメリカ<ruby>人<rt>じん</rt></ruby>の<ruby>話<rt>はな</rt></ruby>す<ruby>英<rt>えい</rt></ruby><ruby>語<rt>ご</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "4.アメリカ人の | 話す英語が | 分かりません。",
+    "translation": {
+      "natural": "我聽不懂美國人說的英語。",
+      "literal": "美國人講的英語不明白。"
+    },
+    "words": [
+      {
+        "word": "アメリカ人",
+        "reading": "アメリカじん",
+        "note": "名詞，美國人"
+      },
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "note": "動詞，說、講"
+      },
+      {
+        "word": "英語",
+        "reading": "えいご",
+        "note": "名詞，英語"
+      }
+    ],
+    "context_grammar": [
+      "アメリカ人の話す：連名句結構，小主語助詞「が」替換為「の」，修飾動詞連體形「話す」。",
+      "話す英語：動詞辭書形修飾名詞「英語」，再整體作為「が分かりません」的主語。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "04:11",
+    "text": "5.文法が分かりません。",
+    "japanese": "5.文法が分かりません。",
+    "furigana": "5.<ruby>文<rt>ぶん</rt></ruby><ruby>法<rt>ぽう</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "5.文法が | 分かりません。",
+    "translation": {
+      "natural": "我不懂文法。",
+      "literal": "文法不明白。"
+    },
+    "words": [
+      {
+        "word": "文法",
+        "reading": "ぶんぽう",
+        "note": "名詞，文法"
+      }
+    ],
+    "context_grammar": [
+      "文法が分かりません：名詞＋が＋分かりません，表達理解力或知識的欠缺。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "04:15",
+    "text": "6.ここがどこか分かりません。",
+    "japanese": "6.ここがどこか分かりません。",
+    "furigana": "6.ここがどこか<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "6.ここがどこか | 分かりません。",
+    "translation": {
+      "natural": "我不知道這裡是什麼地方。",
+      "literal": "這裡是哪裡不明白。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡"
+      },
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "疑問詞，哪裡"
+      }
+    ],
+    "context_grammar": [
+      "ここがどこか：疑問詞子句（嵌入疑問句），「ここがどこ（です）」加上不確定疑問助詞「か」，整體作為「分かりません」的名詞化小句對象。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:19",
+    "text": "7.方向が分かりません。",
+    "japanese": "7.方向が分かりません。",
+    "furigana": "7.<ruby>方<rt>ほう</rt></ruby><ruby>向<rt>こう</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "7.方向が | 分かりません。",
+    "translation": {
+      "natural": "我不清楚方向 / 我分不清方向。",
+      "literal": "方向不明白。"
+    },
+    "words": [
+      {
+        "word": "方向",
+        "reading": "ほうこう",
+        "note": "名詞，方向"
+      }
+    ],
+    "context_grammar": [
+      "方向が分かりません：主格助詞「が」指示對象，迷路或指引情境中很簡明的說法。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:23",
+    "text": "8.何がいいか分かりません。",
+    "japanese": "8.何がいいか分かりません。",
+    "furigana": "8.<ruby>何<rt>なに</rt></ruby>がいいか<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "8.何がいいか | 分かりません。",
+    "translation": {
+      "natural": "我不知道選什麼比較好。",
+      "literal": "什麼好不明白。"
+    },
+    "words": [
+      {
+        "word": "何",
+        "reading": "なに",
+        "note": "疑問詞，什麼"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "何がいいか：疑問詞小句（何＋が＋いい＋か），嵌入句結構，表達決策時的迷惘或困惑。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:27",
+    "text": "9.どこがいいか分かりません。",
+    "japanese": "9.どこがいいか分かりません。",
+    "furigana": "9.どこがいいか<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "9.どこがいいか | 分かりません。",
+    "translation": {
+      "natural": "我不知道去哪裡/哪裡比較好。",
+      "literal": "哪裡好不明白。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "疑問詞，哪裡"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "どこがいいか：疑問詞地點選擇小句＋「か」，作為動詞「分かりません」的主語內容，常用於尋求地點推薦的開頭。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:31",
+    "text": "10.どのバスか分かりません。",
+    "japanese": "10.どのバスか分かりません。",
+    "furigana": "10.どのバスか<ruby>分<rt>わ</rt></ruby>かりません。",
+    "segmentation": "10.どのバスか | 分かりません。",
+    "translation": {
+      "natural": "我不知道是哪一班公車。",
+      "literal": "哪台公車不明白。"
+    },
+    "words": [
+      {
+        "word": "どの",
+        "reading": "どの",
+        "note": "連體詞，哪一個"
+      },
+      {
+        "word": "バス",
+        "reading": "バス",
+        "note": "名詞，公車、巴士"
+      }
+    ],
+    "context_grammar": [
+      "どのバスか：連體詞「どの」修飾「バス」形成疑問詞小句，省去斷定詞「だ」直接加「か」，口語中簡潔表達判斷上的困難。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:35",
+    "text": "Step 3 どのバスか分かりません。このバスですよ。",
+    "japanese": "Step 3 どのバスか分かりません。このバスですよ。",
+    "furigana": "Step 3 どのバスか<ruby>分<rt>わ</rt></ruby>かりません。このバスですよ。",
+    "segmentation": "Step 3 | どのバスか | 分かりません。| このバスですよ。",
+    "translation": {
+      "natural": "Step 3 我不知道是哪一班公車。就是這班公車喔。",
+      "literal": "Step 3 哪台公車不明白。是這台公車喲。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      },
+      {
+        "word": "バス",
+        "reading": "バス",
+        "note": "名詞，公車"
+      }
+    ],
+    "context_grammar": [
+      "このバスですよ：名詞「このバス」＋斷定「です」＋強調與提醒語氣的終助詞「よ」，親切熱心地指引對方。"
+    ]
+  }
+]
