@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "56 いつからますか？",
+    "furigana": "56 いつからますか？",
+    "segmentation": "56 | いつから | ますか？",
+    "translation": {
+      "natural": "56 從什麼時候開始～呢？",
+      "literal": "56 從何時～嗎？"
+    },
+    "words": [
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "代名詞，什麼時候"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "格助詞，表示起點，從……"
+      }
+    ],
+    "context_grammar": [
+      "標題與句型提示：表達詢問某動作或狀態起點時間的疑問句核心架構。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:05",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:07",
+    "japanese": "1. いつから働けますか？",
+    "furigana": "1. いつから<ruby>働<rt>はたら</rt></ruby>けますか？",
+    "segmentation": "1. いつから | 働けますか？",
+    "translation": {
+      "natural": "1. 請問您什麼時候可以開始上班呢？",
+      "literal": "1. 從何時能工作嗎？"
+    },
+    "words": [
+      {
+        "word": "働ける",
+        "reading": "はたらける",
+        "note": "動詞，「働く（工作）」的可能形，能工作"
+      }
+    ],
+    "context_grammar": [
+      "働けますか：動詞「働く（五段活用）」轉化為可能形「働ける」，再接敬體「ます」與疑問助詞「か」，用於面試或排班時禮貌詢問對方的可工作時間。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:11",
+    "japanese": "2. いつから行けますか？",
+    "furigana": "2. いつから<ruby>行<rt>い</rt></ruby>けますか？",
+    "segmentation": "2. いつから | 行けますか？",
+    "translation": {
+      "natural": "2. 請問什麼時候可以去呢？",
+      "literal": "2. 從何時能去嗎？"
+    },
+    "words": [
+      {
+        "word": "行ける",
+        "reading": "いける",
+        "note": "動詞，「行く（去）」的可能形，能去"
+      }
+    ],
+    "context_grammar": [
+      "行けますか：五段動詞「行く」可能形，與時間起點「いつから」連用，常用於協調旅遊、預約或行程出發時間。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:15",
+    "japanese": "3. いつからありますか？",
+    "furigana": "3. いつからありますか？",
+    "segmentation": "3. いつから | ありますか？",
+    "translation": {
+      "natural": "3. 請問什麼時候開始有（活動/供應）呢？",
+      "literal": "3. 從何時有嗎？"
+    },
+    "words": [
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有、存在（用於非生物/事件）"
+      }
+    ],
+    "context_grammar": [
+      "ありますか：動詞非過去敬體，詢問展覽、活動或商品開始提供/舉辦的時間點。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:19",
+    "japanese": "4. いつから上映しますか？",
+    "furigana": "4. いつから<ruby>上<rt>じょう</rt></ruby><ruby>映<rt>えい</rt></ruby>しますか？",
+    "segmentation": "4. いつから | 上映しますか？",
+    "translation": {
+      "natural": "4. 請問什麼時候開始上映呢？",
+      "literal": "4. 從何時上映嗎？"
+    },
+    "words": [
+      {
+        "word": "上映する",
+        "reading": "じょうえいする",
+        "note": "動詞，上映（電影等）"
+      }
+    ],
+    "context_grammar": [
+      "上映しますか：名詞「上映」＋サ変動詞「する」的敬體形式，用於宣傳旁白或客服詢問檔期。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:23",
+    "japanese": "5. いつから来対しますか？",
+    "furigana": "5. いつから<ruby>来<rt>らい</rt></ruby><ruby>対<rt>たい</rt></ruby>しますか？",
+    "segmentation": "5. いつから | 来対しますか？",
+    "translation": {
+      "natural": "5. 請問什麼時候訪問台灣呢？",
+      "literal": "5. 從何時來台嗎？"
+    },
+    "words": [
+      {
+        "word": "来対する",
+        "reading": "らいたいする",
+        "note": "動詞，來台灣訪問"
+      }
+    ],
+    "context_grammar": [
+      "来対しますか：サ変動詞敬體，常見於新聞報導、訪台行程安排或商務行程確認。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:28",
+    "japanese": "6. いつから来日しますか？",
+    "furigana": "6. いつから<ruby>来<rt>らい</rt></ruby><ruby>日<rt>にち</rt></ruby>しますか？",
+    "segmentation": "6. いつから | 来日しますか？",
+    "translation": {
+      "natural": "6. 請問什麼時候抵達日本呢？",
+      "literal": "6. 從何時來日本嗎？"
+    },
+    "words": [
+      {
+        "word": "来日する",
+        "reading": "らいにちする",
+        "note": "動詞，來到日本"
+      }
+    ],
+    "context_grammar": [
+      "来日しますか：名詞「来日」結合「する」的敬體，常用於外賓、藝人或海外商務人員到日本的日程詢問。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:32",
+    "japanese": "7. いつから勉強できますか？",
+    "furigana": "7. いつから<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>できますか？",
+    "segmentation": "7. いつから | 勉強できますか？",
+    "translation": {
+      "natural": "7. 請問什麼時候可以開始學習呢？",
+      "literal": "7. 從何時能學習嗎？"
+    },
+    "words": [
+      {
+        "word": "勉強できる",
+        "reading": "べんきょうできる",
+        "note": "動詞，「勉強する」的可能形，能學習"
+      }
+    ],
+    "context_grammar": [
+      "勉強できますか：「勉強する」的可能形敬體，詢問課程開課、開班或學習權限開放的時間。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:37",
+    "japanese": "8. いつからもらえますか？",
+    "furigana": "8. いつからもらえますか？",
+    "segmentation": "8. いつから | もらえますか？",
+    "translation": {
+      "natural": "8. 請問什麼時候可以領取呢？",
+      "literal": "8. 從何時能收到嗎？"
+    },
+    "words": [
+      {
+        "word": "もらえる",
+        "reading": "もらえる",
+        "note": "動詞，「もらう（領取/收到）」的可能形，能領取"
+      }
+    ],
+    "context_grammar": [
+      "もらえますか：「もらう」可能形，口語與商務情境中均常用於詢問贈品、文件、津貼等發放時間。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:41",
+    "japanese": "9. いつから来られますか？",
+    "furigana": "9. いつから<ruby>来<rt>こ</rt></ruby>られますか？",
+    "segmentation": "9. いつから | 来られますか？",
+    "translation": {
+      "natural": "9. 請問您什麼時候能過來呢？",
+      "literal": "9. 從何時能來嗎？"
+    },
+    "words": [
+      {
+        "word": "来られる",
+        "reading": "こられる",
+        "note": "動詞，「来る（來）」的可能形，能過來"
+      }
+    ],
+    "context_grammar": [
+      "来られますか：不規則動詞「来る」的可能形（こられる），用於詢問對方何時能抵達或前來（注意與尊敬語同形，此處為可能意）。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:46",
+    "japanese": "10. いつから使用できますか？",
+    "furigana": "10. いつから<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby>できますか？",
+    "segmentation": "10. いつから | 使用できますか？",
+    "translation": {
+      "natural": "10. 請問什麼時候開始可以使用呢？",
+      "literal": "10. 從何時能使用嗎？"
+    },
+    "words": [
+      {
+        "word": "使用できる",
+        "reading": "しようできる",
+        "note": "動詞，「使用する」的可能形，可以使用"
+      }
+    ],
+    "context_grammar": [
+      "使用できますか：漢詞「使用」＋「できる」的敬體，常見於設施、票券、服務開放使用時的詢問。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:51",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:52",
+    "japanese": "この映画は面白そうですね。いつから上映しますか？",
+    "furigana": "この<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>そうですね。いつから<ruby>上<rt>じょう</rt></ruby><ruby>映<rt>えい</rt></ruby>しますか？",
+    "segmentation": "この映画は | 面白そうですね。| いつから | 上映しますか？",
+    "translation": {
+      "natural": "這部電影看起來很有趣呢！請問什麼時候開始上映？",
+      "literal": "這個電影看起來有趣呢。從何時上映嗎？"
+    },
+    "words": [
+      {
+        "word": "面白そう",
+        "reading": "おもしろそう",
+        "note": "形容動詞/樣態，看起來有趣的"
+      },
+      {
+        "word": "上映する",
+        "reading": "じょうえいする",
+        "note": "動詞，上映"
+      }
+    ],
+    "context_grammar": [
+      "面白そう：形容詞「面白い」去詞尾「い」後接樣態助動詞「そう」，表示根據視覺觀察所做的初步推斷（看起來很……）。",
+      "ですね：終助詞，用於徵求對方同意或共享情感。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:00",
+    "japanese": "57 いつでもますか？",
+    "furigana": "57 いつでもますか？",
+    "segmentation": "57 | いつでも | ますか？",
+    "translation": {
+      "natural": "57 隨時都可以～嗎？",
+      "literal": "57 任何時候都～嗎？"
+    },
+    "words": [
+      {
+        "word": "いつでも",
+        "reading": "いつでも",
+        "note": "副詞，隨時、無論何時"
+      }
+    ],
+    "context_grammar": [
+      "標題與句型提示：「いつでも」表無條件的時間涵蓋，修飾後續動詞詢問是否不受時間限制。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:05",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:07",
+    "japanese": "1. いつでも予約できますか？",
+    "furigana": "1. いつでも<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>できますか？",
+    "segmentation": "1. いつでも | 予約できますか？",
+    "translation": {
+      "natural": "1. 請問隨時都可以預約嗎？",
+      "literal": "1. 任何時候都能預約嗎？"
+    },
+    "words": [
+      {
+        "word": "予約できる",
+        "reading": "よやくできる",
+        "note": "動詞，「予約する」的可能形，能預約"
+      }
+    ],
+    "context_grammar": [
+      "予約できますか：可能形敬體，與「いつでも」連用，常用於飯店、餐廳或線上服務的24小時預約諮詢。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:11",
+    "japanese": "2. いつでも宿泊できますか？",
+    "furigana": "2. いつでも<ruby>宿<rt>しゅく</rt></ruby><ruby>迫<rt>はく</rt></ruby>できますか？",
+    "segmentation": "2. いつでも | 宿泊できますか？",
+    "translation": {
+      "natural": "2. 請問隨時都可以入住/住宿嗎？",
+      "literal": "2. 任何時候都能住宿嗎？"
+    },
+    "words": [
+      {
+        "word": "宿泊できる",
+        "reading": "しゅくはくできる",
+        "note": "動詞，「宿泊する」的可能形，能住宿"
+      }
+    ],
+    "context_grammar": [
+      "宿泊できますか：「宿泊する」可能形，旅遊情境常見，詢問是否有營業或隨時接待住宿的能力。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:16",
+    "japanese": "3. いつでもこのクーポンは使用できますか？",
+    "furigana": "3. いつでもこのクーポンは<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby>できますか？",
+    "segmentation": "3. いつでも | このクーポンは | 使用できますか？",
+    "translation": {
+      "natural": "3. 請問這張優惠券隨時都可以使用嗎？",
+      "literal": "3. 任何時候這個折價券能使用嗎？"
+    },
+    "words": [
+      {
+        "word": "クーポン",
+        "reading": "くーぽん",
+        "note": "名詞，優惠券（外來語）"
+      },
+      {
+        "word": "使用できる",
+        "reading": "しようできる",
+        "note": "動詞，「使用する」可能形，可以使用"
+      }
+    ],
+    "context_grammar": [
+      "このクーポンは：主題標示助詞「は」提起的焦點，將副詞「いつでも」前置以強烈確認時間使用條件。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:21",
+    "japanese": "4. いつでもネットにつながりますか？",
+    "furigana": "4. いつでもネットにオンラインに繋がりますか？",
+    "segmentation": "4. いつでも | ネットに | つながりますか？",
+    "translation": {
+      "natural": "4. 請問隨時都可以連上網路嗎？",
+      "literal": "4. 任何時候連到網路上嗎？"
+    },
+    "words": [
+      {
+        "word": "ネット",
+        "reading": "ねっと",
+        "note": "名詞，網路（インターネット的簡稱）"
+      },
+      {
+        "word": "つながる",
+        "reading": "つながる",
+        "note": "動詞，連結、通暢"
+      }
+    ],
+    "context_grammar": [
+      "ネットにつながる：格助詞「に」表示連結的對象與目標，五段動詞「つながる」連用形接「ます」表示狀態穩定性。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:26",
+    "japanese": "5. いつでも連絡できますか？",
+    "furigana": "5. いつでも<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>できますか？",
+    "segmentation": "5. いつでも | 連絡できますか？",
+    "translation": {
+      "natural": "5. 請問隨時都可以聯絡嗎？",
+      "literal": "5. 任何時候能聯絡嗎？"
+    },
+    "words": [
+      {
+        "word": "連絡できる",
+        "reading": "れんらくできる",
+        "note": "動詞，「連絡する」可能形，能聯絡"
+      }
+    ],
+    "context_grammar": [
+      "連絡できますか：商務及日常對話中，詢問對方可接收通話或訊息的時間限制。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:30",
+    "japanese": "6. いつでもネットショッピングできますか？",
+    "furigana": "6. いつでもネットショッピングできますか？",
+    "segmentation": "6. いつでも | ネットショッピングできますか？",
+    "translation": {
+      "natural": "6. 請問隨時都可以進行網路購物嗎？",
+      "literal": "6. 任何時候能網購嗎？"
+    },
+    "words": [
+      {
+        "word": "ネットショッピング",
+        "reading": "ねっとしょっぴんぐ",
+        "note": "名詞，網路購物"
+      }
+    ],
+    "context_grammar": [
+      "ネットショッピングできる：外來語名詞結合サ変動詞「する」可能形「できる」，說明平台的服務時段。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:35",
+    "japanese": "7. いつでも授業が受けられますか？",
+    "furigana": "7. いつでも<ruby>授<rt>じゅ</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>が<ruby>受<rt>う</rt></ruby>けられますか？",
+    "segmentation": "7. いつでも | 授業が | 受けられますか？",
+    "translation": {
+      "natural": "7. 請問隨時都可以上課嗎？",
+      "literal": "7. 任何時候課程能接受嗎？"
+    },
+    "words": [
+      {
+        "word": "授業",
+        "reading": "じゅぎょう",
+        "note": "名詞，課程、授課"
+      },
+      {
+        "word": "受けられる",
+        "reading": "うけられる",
+        "note": "動詞，「受ける（上課/接受）」的可能形，能上課"
+      }
+    ],
+    "context_grammar": [
+      "授業が受けられる：下一段動詞「受ける」可能形「受けられる」，主語用格助詞「が」標示，常用於線上函授課程等廣告說明。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:40",
+    "japanese": "8. いつでも会えますか？",
+    "furigana": "8. いつでも<ruby>会<rt>あ</rt></ruby>えますか？",
+    "segmentation": "8. いつでも | 会えますか？",
+    "translation": {
+      "natural": "8. 請問隨時都能見面嗎？",
+      "literal": "8. 任何時候能見面嗎？"
+    },
+    "words": [
+      {
+        "word": "会える",
+        "reading": "あえる",
+        "note": "動詞，「会う（見面）」的可能形，能見面"
+      }
+    ],
+    "context_grammar": [
+      "会えますか：五段動詞「会う」可能形，用於約定時間或詢問對方彈性出勤狀況。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:44",
+    "japanese": "9. いつでも診察してもらえますか？",
+    "furigana": "9. いつでも<ruby>診<rt>しん</rt></ruby><ruby>察<rt>さつ</rt></ruby>してもらえますか？",
+    "segmentation": "9. いつでも | 診察して | もらえますか？",
+    "translation": {
+      "natural": "9. 請問隨時都可以為我看診嗎？",
+      "literal": "9. 任何時候能得到診察嗎？"
+    },
+    "words": [
+      {
+        "word": "診察する",
+        "reading": "しんさつする",
+        "note": "動詞，看診、診察"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "補助動詞，請/讓對方為自己做某事"
+      }
+    ],
+    "context_grammar": [
+      "診察してもらえますか：動詞連用形て形＋補助動詞「もらう」可能形敬體（てもらえますか），委婉請求醫療人員提供看診服務。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:49",
+    "japanese": "10. いつでも食べられますか？",
+    "furigana": "10. いつでも<ruby>食<rt>た</rt></ruby>べられますか？",
+    "segmentation": "10. いつでも | 食べられますか？",
+    "translation": {
+      "natural": "10. 請問隨時都可以享用/用餐嗎？",
+      "literal": "10. 任何時候能吃嗎？"
+    },
+    "words": [
+      {
+        "word": "食べられる",
+        "reading": "たべられる",
+        "note": "動詞，「食べる（吃）」的可能形，能吃"
+      }
+    ],
+    "context_grammar": [
+      "食べられますか：下一段動詞「食べる」可能形，常用於詢問餐廳全天候供餐狀況。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:54",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:56",
+    "japanese": "いつでもこのクーポンは使用できますか？はい、いいですよ。",
+    "furigana": "いつでもこのクーポンは<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby>できますか？はい、いいですよ。",
+    "segmentation": "いつでも | このクーポンは | 使用できますか？| はい、| いいですよ。",
+    "translation": {
+      "natural": "這張優惠券隨時都可以使用嗎？是的，沒問題喔！",
+      "literal": "任何時候這個折價券能使用嗎？是的，很好喔。"
+    },
+    "words": [
+      {
+        "word": "使用できる",
+        "reading": "しようできる",
+        "note": "動詞，可以使用"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的、可以的"
+      }
+    ],
+    "context_grammar": [
+      "はい、いいですよ：讚許或允許回答。「いい」加上終助詞「よ」，給予對方肯定且親切的肯定說明。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:04",
+    "japanese": "58 いつならですか？",
+    "furigana": "58 いつならですか？",
+    "segmentation": "58 | いつなら | ですか？",
+    "translation": {
+      "natural": "58 如果是什麼時候的話才～呢？",
+      "literal": "58 若是何時的話嗎？"
+    },
+    "words": [
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "代名詞，什麼時候"
+      },
+      {
+        "word": "なら",
+        "reading": "なら",
+        "note": "助動詞，假定形，如果是……的話"
+      }
+    ],
+    "context_grammar": [
+      "標題與句型提示：利用假定助動詞「なら」限定符合條件的時間區段。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:08",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:10",
+    "japanese": "1. いつなら在宅中ですか？",
+    "furigana": "1. いつなら<ruby>在<rt>ざい</rt></ruby><ruby>宅<rt>たく</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "1. いつなら | 在宅中ですか？",
+    "translation": {
+      "natural": "1. 請問什麼時候您才會在家呢？",
+      "literal": "1. 若是何時在家中嗎？"
+    },
+    "words": [
+      {
+        "word": "在宅中",
+        "reading": "ざいたくちゅう",
+        "note": "名詞，在家中"
+      }
+    ],
+    "context_grammar": [
+      "在宅中ですか：名詞加上接尾語「中（ちゅう）」表示正在進行某狀態，常用於快遞送貨前確認收件人在家時間。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:14",
+    "japanese": "2. いつなら営業中ですか？",
+    "furigana": "2. いつなら<ruby>営<rt>えい</rt></ruby><ruby>業<rt>ぎょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "2. いつなら | 営業中ですか？",
+    "translation": {
+      "natural": "2. 請問什麼時候才是營業時間呢？",
+      "literal": "2. 若是何時營業中嗎？"
+    },
+    "words": [
+      {
+        "word": "営業中",
+        "reading": "えいぎょうちゅう",
+        "note": "名詞，營業中"
+      }
+    ],
+    "context_grammar": [
+      "営業中ですか：接尾語「中」強調狀態，配合「いつなら」詢問特定的營業時間點。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:19",
+    "japanese": "3. いつなら定休日ですか？",
+    "furigana": "3. いつなら<ruby>定<rt>てい</rt></ruby><ruby>休<rt>きゅう</rt></ruby><ruby>日<rt>び</rt></ruby>ですか？",
+    "segmentation": "3. いつなら | 定休日ですか？",
+    "translation": {
+      "natural": "3. 請問什麼時候是定期公休日呢？",
+      "literal": "3. 若是何時公休日嗎？"
+    },
+    "words": [
+      {
+        "word": "定休日",
+        "reading": "ていきゅうび",
+        "note": "名詞，固定休息日、公休日"
+      }
+    ],
+    "context_grammar": [
+      "定休日ですか：名詞＋斷定助動詞「です」敬體，詢問店家公休的具體日子。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:23",
+    "japanese": "4. いつなら仕事中ですか？",
+    "furigana": "4. いつなら<ruby>事<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "4. いつなら | 仕事中ですか？",
+    "translation": {
+      "natural": "4. 請問什麼時候是在工作中呢？",
+      "literal": "4. 若是何時工作中心嗎？"
+    },
+    "words": [
+      {
+        "word": "仕事中",
+        "reading": "しごとちゅう",
+        "note": "名詞，工作中"
+      }
+    ],
+    "context_grammar": [
+      "仕事中ですか：「仕事」接「中（ちゅう）」，確認對方處於工作狀態的時間區間。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:27",
+    "japanese": "5. いつなら開催中ですか？",
+    "furigana": "5. いつなら<ruby>開<rt>かい</rt></ruby><ruby>催<rt>さい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "5. いつなら | 開催中ですか？",
+    "translation": {
+      "natural": "5. 請問什麼時候才會舉辦呢？",
+      "literal": "5. 若是何時舉辦中嗎？"
+    },
+    "words": [
+      {
+        "word": "開催中",
+        "reading": "かいさいちゅう",
+        "note": "名詞，舉辦中、展演中"
+      }
+    ],
+    "context_grammar": [
+      "開催中ですか：常見於活動宣傳廣告，詢問活動進行展演的具體期間。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:32",
+    "japanese": "6. いつなら食事中ですか？",
+    "furigana": "6. いつなら<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "6. いつなら | 食事中ですか？",
+    "translation": {
+      "natural": "6. 請問什麼時候是在用餐中呢？",
+      "literal": "6. 若是何時用餐中嗎？"
+    },
+    "words": [
+      {
+        "word": "食事中",
+        "reading": "しょくじちゅう",
+        "note": "名詞，用餐中"
+      }
+    ],
+    "context_grammar": [
+      "食事中ですか：接尾語「中」表現進行中的狀態，確認用餐時間以避開打擾。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:36",
+    "japanese": "7. いつならラッシュアワーですか？",
+    "furigana": "7. いつならラッシュアワーですか？",
+    "segmentation": "7. いつなら | ラッシュアワーですか？",
+    "translation": {
+      "natural": "7. 請問什麼時候才是尖峰時間呢？",
+      "literal": "7. 若是何時尖峰時間嗎？"
+    },
+    "words": [
+      {
+        "word": "ラッシュアワー",
+        "reading": "らっしゅあわー",
+        "note": "名詞，尖峰時間（外來語 rush hour）"
+      }
+    ],
+    "context_grammar": [
+      "ラッシュアワーですか：外來語名詞，指交通或人潮最擁擠 時段。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:41",
+    "japanese": "8. いつなら帰省中ですか？",
+    "furigana": "8. いつなら<ruby>帰<rt>き</rt></ruby><ruby>省<rt>せい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "8. いつなら | 帰省中ですか？",
+    "translation": {
+      "natural": "8. 請問什麼時候是返鄉期間呢？",
+      "literal": "8. 若是何時歸省中嗎？"
+    },
+    "words": [
+      {
+        "word": "帰省中",
+        "reading": "きせいちゅう",
+        "note": "名詞，返鄉中、回家鄉期間"
+      }
+    ],
+    "context_grammar": [
+      "帰省中ですか：指長假期間回老家省親的狀態期間。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:45",
+    "japanese": "9. いつならセール中ですか？",
+    "furigana": "9. いつならセール<ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "9. いつなら | セール中ですか？",
+    "translation": {
+      "natural": "9. 請問什麼時候才是特賣期間呢？",
+      "literal": "9. 若是何時特價中嗎？"
+    },
+    "words": [
+      {
+        "word": "セール中",
+        "reading": "せーるちゅう",
+        "note": "名詞，特賣中（セール為外來語 sale）"
+      }
+    ],
+    "context_grammar": [
+      "セール中ですか：外來語「セール」與漢語「中」結合，特賣活動進行中的狀態標記。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:49",
+    "japanese": "10. いつなら外出中ですか？",
+    "furigana": "10. いつなら<ruby>外<rt>がい</rt></ruby><ruby>出<rt>しゅつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ですか？",
+    "segmentation": "10. いつなら | 外出中ですか？",
+    "translation": {
+      "natural": "10. 請問什麼時候會外出不在呢？",
+      "literal": "10. 若是何時外出中嗎？"
+    },
+    "words": [
+      {
+        "word": "外出中",
+        "reading": "がいしゅつちゅう",
+        "note": "名詞，外出中"
+      }
+    ],
+    "context_grammar": [
+      "外出中ですか：確認人員不在辦公室或家中的特定時段。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:54",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:56",
+    "japanese": "いつならセール中ですか？7月と12月です。",
+    "furigana": "いつならセール<ruby>中<rt>ちゅう</rt></ruby>ですか？7<ruby>月<rt>がつ</rt></ruby>と12<ruby>月<rt>がつ</rt></ruby>です。",
+    "segmentation": "いつなら | セール中ですか？| 7月と | 12月です。",
+    "translation": {
+      "natural": "什麼時候才是特賣期間呢？是 7 月跟 12 月喔。",
+      "literal": "若是何時特價中嗎？7月與12月是。"
+    },
+    "words": [
+      {
+        "word": "セール中",
+        "reading": "せーるちゅう",
+        "note": "名詞，特賣中"
+      },
+      {
+        "word": "と",
+        "reading": "と",
+        "note": "格助詞，和、與（並列）"
+      }
+    ],
+    "context_grammar": [
+      "7月と12月です：並列助詞「と」連接兩個時間名詞，最後用「です」簡潔回答問句的焦點。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:03",
+    "japanese": "59 いつならますか？",
+    "furigana": "59 いつならますか？",
+    "segmentation": "59 | いつなら | ますか？",
+    "translation": {
+      "natural": "59 如果是什麼時候的話才能做～呢？",
+      "literal": "59 若是何時的話～嗎？"
+    },
+    "words": [
+      {
+        "word": "いつなら",
+        "reading": "いつなら",
+        "note": "片語，如果是什麼時候的話"
+      }
+    ],
+    "context_grammar": [
+      "標題與句型提示：「いつなら」接動詞敬體，用於詢問滿足何種時間條件下可執行該動作。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:08",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:10",
+    "japanese": "1. いつなら来られますか？",
+    "furigana": "1. いつなら<ruby>来<rt>こ</rt></ruby>られますか？",
+    "segmentation": "1. いつなら | 来られますか？",
+    "translation": {
+      "natural": "1. 請問什麼時候您才能過來呢？",
+      "literal": "1. 若是何時能來嗎？"
+    },
+    "words": [
+      {
+        "word": "来られる",
+        "reading": "こられる",
+        "note": "動詞，「来る」的可能形，能過來"
+      }
+    ],
+    "context_grammar": [
+      "来られますか：「来る」可能形，配合「いつなら」詢問對方可配合過來的具體時間點。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:14",
+    "japanese": "2. いつなら修理できますか？",
+    "furigana": "2. いつなら<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>できますか？",
+    "segmentation": "2. いつなら | 修理できますか？",
+    "translation": {
+      "natural": "2. 請問什麼時候才能修好/修理呢？",
+      "literal": "2. 若是何時能修理嗎？"
+    },
+    "words": [
+      {
+        "word": "修理できる",
+        "reading": "しゅうりできる",
+        "note": "動詞，「修理する」可能形，能修理"
+      }
+    ],
+    "context_grammar": [
+      "修理できますか：詢問維修服務能受理或完工的可行時間。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:18",
+    "japanese": "3. いつなら見てもらえますか？",
+    "furigana": "3. いつなら<ruby>見<rt>み</rt></ruby>てもらえますか？",
+    "segmentation": "3. いつなら | 見て | もらえますか？",
+    "translation": {
+      "natural": "3. 請問什麼時候才能幫我看看/檢查呢？",
+      "literal": "3. 若是何時能得到看嗎？"
+    },
+    "words": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看、檢查、診察"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "補助動詞，請對方為自己做某事"
+      }
+    ],
+    "context_grammar": [
+      "見てもらえますか：「見る」連用形て形＋「もらう」可能形敬體（てもらえますか），委婉請求對方協助檢查物品或評估診察。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:23",
+    "japanese": "4. いつなら時間がありますか？",
+    "furigana": "4. いつなら<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>がありますか？",
+    "segmentation": "4. いつなら | 時間が | ありますか？",
+    "translation": {
+      "natural": "4. 請問什麼時候您才有空呢？",
+      "literal": "4. 若是何時有時間嗎？"
+    },
+    "words": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "note": "名詞，時間、空檔"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有"
+      }
+    ],
+    "context_grammar": [
+      "時間がありますか：「時間がある」為固定習慣用語，表示有空暇時間。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:27",
+    "japanese": "5. いつなら行けますか？",
+    "furigana": "5. いつなら<ruby>行<rt>い</rt></ruby>けますか？",
+    "segmentation": "5. いつなら | 行けますか？",
+    "translation": {
+      "natural": "5. 請問什麼時候才能去呢？",
+      "literal": "5. 若是何時能去嗎？"
+    },
+    "words": [
+      {
+        "word": "行ける",
+        "reading": "いける",
+        "note": "動詞，「行く」可能形，能前往"
+      }
+    ],
+    "context_grammar": [
+      "行けますか：「行く」的可能形，用於確認能撥空前往某處的條件時間。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:31",
+    "japanese": "6. いつなら空いてますか？",
+    "furigana": "6. いつなら<ruby>空<rt>あ</rt></ruby>いてますか？",
+    "segmentation": "6. いつなら | 空いてますか？",
+    "translation": {
+      "natural": "6. 請問什麼時候會有空/空出來呢？",
+      "literal": "6. 若是何時空著嗎？"
+    },
+    "words": [
+      {
+        "word": "空く",
+        "reading": "あく",
+        "note": "動詞，有空、空出"
+      }
+    ],
+    "context_grammar": [
+      "空いてますか：「空く」動詞連用形て形＋「います」之口語省略形（空いてます），指時間、座位或房間處於空閒狀態。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:36",
+    "japanese": "7. いつなら空席がありますか？",
+    "furigana": "7. いつなら<ruby>空<rt>くう</rt></ruby><ruby>席<rt>せき</rt></ruby>がありますか？",
+    "segmentation": "7. いつなら | 空席が | ありますか？",
+    "translation": {
+      "natural": "7. 請問什麼時候才有空位呢？",
+      "literal": "7. 若是何時有空席嗎？"
+    },
+    "words": [
+      {
+        "word": "空席",
+        "reading": "くうせき",
+        "note": "名詞，空位、空席"
+      }
+    ],
+    "context_grammar": [
+      "空席がありますか：名詞＋格助詞「が」＋動詞「ある」敬體，常見於餐廳或班機訂位。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:40",
+    "japanese": "8. いつなら空室がありますか？",
+    "furigana": "8. いつなら<ruby>空<rt>くう</rt></ruby><ruby>室<rt>しつ</rt></ruby>がありますか？",
+    "segmentation": "8. いつなら | 空室が | ありますか？",
+    "translation": {
+      "natural": "8. 請問什麼時候才有空房呢？",
+      "literal": "8. 若是何時有空房嗎？"
+    },
+    "words": [
+      {
+        "word": "空室",
+        "reading": "くうしつ",
+        "note": "名詞，空房"
+      }
+    ],
+    "context_grammar": [
+      "空室がありますか：飯店預約或租屋時詢問空房狀況的標準表達。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:45",
+    "japanese": "9. いつなら直してもらえますか？",
+    "furigana": "9. いつなら<ruby>直<rt>なお</rt></ruby>してもらえますか？",
+    "segmentation": "9. いつなら | 直して | もらえますか？",
+    "translation": {
+      "natural": "9. 請問什麼時候才能幫我修好呢？",
+      "literal": "9. 若是何時能得到修好嗎？"
+    },
+    "words": [
+      {
+        "word": "直す",
+        "reading": "なおす",
+        "note": "動詞，修理、修正"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "補助動詞，請對方為自己做某事"
+      }
+    ],
+    "context_grammar": [
+      "直してもらえますか：「直す」連用形て形＋補助動詞「もらう」可能形敬體，請求對方完成修復動作。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:49",
+    "japanese": "10. いつなら出席できますか？",
+    "furigana": "10. いつなら<ruby>出<rt>しゅっ</rt></ruby><ruby>席<rt>せき</rt></ruby>できますか？",
+    "segmentation": "10. いつなら | 出席できますか？",
+    "translation": {
+      "natural": "10. 請問什麼時候您才能出席呢？",
+      "literal": "10. 若是何時能出席嗎？"
+    },
+    "words": [
+      {
+        "word": "出席できる",
+        "reading": "しゅっせきできる",
+        "note": "動詞，「出席する」可能形，能出席"
+      }
+    ],
+    "context_grammar": [
+      "出席できますか：商務會議或活動邀約時，詢問對方可出席的時間。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:54",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:56",
+    "japanese": "故障してますね。いつなら修理できますか？",
+    "furigana": "<ruby>故<rt>こ</rt></ruby><ruby>障<rt>しょう</rt></ruby>してますね。いつなら<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>できますか？",
+    "segmentation": "故障してますね。| いつなら | 修理できますか？",
+    "translation": {
+      "natural": "故障了呢。請問什麼時候才能修理呢？",
+      "literal": "故障著呢。若是何時能修理嗎？"
+    },
+    "words": [
+      {
+        "word": "故障する",
+        "reading": "こしょうする",
+        "note": "動詞，故障"
+      },
+      {
+        "word": "修理できる",
+        "reading": "しゅうりできる",
+        "note": "動詞，能修理"
+      }
+    ],
+    "context_grammar": [
+      "故障してますね：「故障する」動詞連用形て形＋「いる」之敬體與省略（してます），表示機器處於壞掉的狀態中。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:04",
+    "japanese": "60 いつもますか？",
+    "furigana": "60 いつもますか？",
+    "segmentation": "60 | いつも | ますか？",
+    "translation": {
+      "natural": "60 總是/經常做～嗎？",
+      "literal": "60 總是～嗎？"
+    },
+    "words": [
+      {
+        "word": "いつも",
+        "reading": "いつも",
+        "note": "副詞，總是、經常"
+      }
+    ],
+    "context_grammar": [
+      "標題與句型提示：副詞「いつも」修飾習慣性或經常性發生的動作。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:08",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:10",
+    "japanese": "1. いつも音楽を聴きますか？",
+    "furigana": "1. いつも<ruby>音<rt>おん</rt></ruby><ruby>楽<rt>がく</rt></ruby>を<ruby>聴<rt>き</rt></ruby>きますか？",
+    "segmentation": "1. いつも | 音楽を | 聴きますか？",
+    "translation": {
+      "natural": "1. 請問您平時常聽音樂嗎？",
+      "literal": "1. 總是聽音樂嗎？"
+    },
+    "words": [
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "note": "名詞，音樂"
+      },
+      {
+        "word": "聴く",
+        "reading": "きく",
+        "note": "動詞，聆聽"
+      }
+    ],
+    "context_grammar": [
+      "音楽を聴きますか：受詞後接格助詞「を」，動詞「聴く」連用形接敬體「ます」，詢問日常生活習慣。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:14",
+    "japanese": "2. いつも読書しますか？",
+    "furigana": "2. いつも<ruby>読<rt>どく</rt></ruby><ruby>書<rt>しょ</rt></ruby>しますか？",
+    "segmentation": "2. いつも | 読書しますか？",
+    "translation": {
+      "natural": "2. 請問您平時常看書嗎？",
+      "literal": "2. 總是看書嗎？"
+    },
+    "words": [
+      {
+        "word": "読書する",
+        "reading": "どくしょする",
+        "note": "動詞，閱讀、看書"
+      }
+    ],
+    "context_grammar": [
+      "読書しますか：漢詞名詞「読書」接「する」構成サ変動詞之敬體，詢問休閒習慣。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:18",
+    "japanese": "3. いつも掃除しますか？",
+    "furigana": "3. いつも<ruby>掃<rt>そう</rt></ruby><ruby>除<rt>じ</rt></ruby>しますか？",
+    "segmentation": "3. いつも | 掃除しますか？",
+    "translation": {
+      "natural": "3. 請問您平時常打掃嗎？",
+      "literal": "3. 總是打掃嗎？"
+    },
+    "words": [
+      {
+        "word": "掃除する",
+        "reading": "そうじする",
+        "note": "動詞，打掃、清潔"
+      }
+    ],
+    "context_grammar": [
+      "掃除しますか：サ変動詞敬體，用於詢問家務習慣或規律。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:23",
+    "japanese": "4. いつもテレビを見ますか？",
+    "furigana": "4. いつもテレビを<ruby>見<rt>み</rt></ruby>ますか？",
+    "segmentation": "4. いつも | テレビを | 見ますか？",
+    "translation": {
+      "natural": "4. 請問您平時常看電視嗎？",
+      "literal": "4. 總是看電視嗎？"
+    },
+    "words": [
+      {
+        "word": "テレビ",
+        "reading": "てれび",
+        "note": "名詞，電視（外來語）"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，觀看"
+      }
+    ],
+    "context_grammar": [
+      "テレビを見ますか：賓語標示助詞「を」＋下一段動詞「見る」連用形接「ます」。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:27",
+    "japanese": "5. いつもラジオを聴きますか？",
+    "furigana": "5. いつもラジオを<ruby>聴<rt>き</rt></ruby>きますか？",
+    "segmentation": "5. いつも | ラジオを | 聴きますか？",
+    "translation": {
+      "natural": "5. 請問您平時常聽廣播嗎？",
+      "literal": "5. 總是聽收音機嗎？"
+    },
+    "words": [
+      {
+        "word": "ラジオ",
+        "reading": "らじお",
+        "note": "名詞，廣播、收音機（外來語）"
+      },
+      {
+        "word": "聴く",
+        "reading": "きく",
+        "note": "動詞，收聽"
+      }
+    ],
+    "context_grammar": [
+      "ラジオを聴きますか：賓語＋動詞表達，常用於生活習慣調查。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:32",
+    "japanese": "6. いつもスーパーで買いますか？",
+    "furigana": "6. いつもスーパーで<ruby>買<rt>か</rt></ruby>いますか？",
+    "segmentation": "6. いつも | スーパーで | 買いますか？",
+    "translation": {
+      "natural": "6. 請問您平時都在超市買東西嗎？",
+      "literal": "6. 總是於超市購買嗎？"
+    },
+    "words": [
+      {
+        "word": "スーパー",
+        "reading": "すーぱー",
+        "note": "名詞，超級市場（外來語）"
+      },
+      {
+        "word": "買う",
+        "reading": "かう",
+        "note": "動詞，購買"
+      }
+    ],
+    "context_grammar": [
+      "スーパーで買いますか：格助詞「で」標示動作發生的場所，詢問採買的常態地點。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:36",
+    "japanese": "7. いつも何時に寝ますか？",
+    "furigana": "7. いつも<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ますか？",
+    "segmentation": "7. いつも | 何時に | 寝ますか？",
+    "translation": {
+      "natural": "7. 請問您平時都幾點睡覺呢？",
+      "literal": "7. 總是幾點睡嗎？"
+    },
+    "words": [
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "note": "名詞，幾點"
+      },
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "note": "動詞，就寢、睡覺"
+      }
+    ],
+    "context_grammar": [
+      "何時に寝ますか：格助詞「に」標示動作發生的具體時間點，詢問作息習慣。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:40",
+    "japanese": "8. いつも何時に起きますか？",
+    "furigana": "8. いつも<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きますか？",
+    "segmentation": "8. いつも | 何時に | 起きますか？",
+    "translation": {
+      "natural": "8. 請問您平時都幾點起床呢？",
+      "literal": "8. 總是幾點起來嗎？"
+    },
+    "words": [
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "note": "名詞，幾點"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "note": "動詞，起床"
+      }
+    ],
+    "context_grammar": [
+      "何時に起きますか：時間名詞後接助詞「に」，配合下一段動詞「起きる」之敬體，詢問日常起居時間。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:45",
+    "japanese": "9. いつも何時に出かけますか？",
+    "furigana": "9. いつも<ruby>何<rt>なん</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけますか？",
+    "segmentation": "9. いつも | 何時に | 出かけますか？",
+    "translation": {
+      "natural": "9. 請問您平時都幾點出門呢？",
+      "literal": "9. 總是幾點出門嗎？"
+    },
+    "words": [
+      {
+        "word": "出かける",
+        "reading": "でかける",
+        "note": "動詞，出門、外出"
+      }
+    ],
+    "context_grammar": [
+      "何時に出かけますか：下一段動詞「出かける」，配合時間助詞「に」，詢問出門習慣時間。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:49",
+    "japanese": "10. いつもここから富士山が見えますか？",
+    "furigana": "10. いつもここから<ruby>富<rt>ふ</rt></ruby><ruby>士<rt>じ</rt></ruby><ruby>山<rt>さん</rt></ruby>が<ruby>見<rt>み</rt></ruby>えますか？",
+    "segmentation": "10. いつも | ここから | 富士山が | 見えますか？",
+    "translation": {
+      "natural": "10. 請問平時從這裡都看得見富士山嗎？",
+      "literal": "10. 總是從這裡富士山能看見嗎？"
+    },
+    "words": [
+      {
+        "word": "ここから",
+        "reading": "ここから",
+        "note": "片語，從這裡"
+      },
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "note": "名詞，富士山"
+      },
+      {
+        "word": "見える",
+        "reading": "みえる",
+        "note": "動詞，看得見（自然可視）"
+      }
+    ],
+    "context_grammar": [
+      "富士山が見えますか：自發/自然可能動詞「見える」，主語用格助詞「が」標示，常用於景點介紹或宣傳影片旁白。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:54",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題直譯。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:56",
+    "japanese": "いつもここから富士山が見えますか？天気が悪いときは見えませんよ。",
+    "furigana": "いつもここから<ruby>富<rt>ふ</rt></ruby><ruby>士<rt>じ</rt></ruby><ruby>山<rt>さん</rt></ruby>が<ruby>見<rt>み</rt></ruby>えますか？<ruby>天<rt>てん</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いときは<ruby>見<rt>み</rt></ruby>えませんよ。",
+    "segmentation": "いつも | ここから | 富士山が | 見えますか？| 天気が | 悪いときは | 見えませんよ。",
+    "translation": {
+      "natural": "平時從這裡都看得見富士山嗎？天氣不好的時候是看不見的喔。",
+      "literal": "總是從這裡富士山能看見嗎？天氣不好的時候看見否定喔。"
+    },
+    "words": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "note": "名詞，天氣"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "形容詞，不好的、惡劣的"
+      },
+      {
+        "word": "とき",
+        "reading": "とき",
+        "note": "形式名詞，時候、時間"
+      },
+      {
+        "word": "見えない",
+        "reading": "みえない",
+        "note": "動詞，「見える」的否定形，看不見"
+      }
+    ],
+    "context_grammar": [
+      "天気が悪いとき：形容詞「悪い」連體形修飾名詞「とき」（當天氣不好時）。",
+      "見えませんよ：自發動詞「見える」之敬體否定形「見えません」，加上終助詞「よ」起提醒與說明作用。"
+    ]
+  }
+]

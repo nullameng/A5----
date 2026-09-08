@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "Part 2",
+    "furigana": "Part 2",
+    "segmentation": "Part 2",
+    "translation": {
+      "natural": "第二部分",
+      "literal": "Part 2"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題與章節提示。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:06",
+    "japanese": "51 いつ ますか",
+    "furigana": "51 いつ ますか",
+    "segmentation": "51 | いつ | ますか",
+    "translation": {
+      "natural": "單元 51：什麼時候要～呢？",
+      "literal": "51 什麼時候 做～嗎"
+    },
+    "words": [
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "疑問詞，什麼時候"
+      }
+    ],
+    "context_grammar": [
+      "單元標題，點出本章的核心句型「疑問詞 + 動詞敬體詢問」。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:10",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "步驟提示標題。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:12",
+    "japanese": "1. いつ日本へ行きますか。",
+    "furigana": "1. いつ<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きますか。",
+    "segmentation": "1. いつ | 日本へ | 行きますか。",
+    "translation": {
+      "natural": "您什麼時候要去日本呢？",
+      "literal": "1. 什麼時候 向日本 去嗎。"
+    },
+    "words": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "note": "名詞，日本"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去（敬體為行きます）"
+      }
+    ],
+    "context_grammar": [
+      "へ（方向助詞）：指示移動的目標方向，念作「e」。",
+      "いつ～ますか：經典的詢問預定行程句型，常用於初次面談或商務社交場合開啟話題。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:17",
+    "japanese": "2. いつ映画を見ますか。",
+    "furigana": "2. いつ<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>を<ruby>見<rt>み</rt></ruby>ますか。",
+    "segmentation": "2. いつ | 映画を | 見ますか。",
+    "translation": {
+      "natural": "您什麼時候要看電影？",
+      "literal": "2. 什麼時候 電影 看嗎。"
+    },
+    "words": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（敬體為見ます）"
+      }
+    ],
+    "context_grammar": [
+      "を（格助詞）：標示他動詞「見る」的受詞。",
+      "在日常社交對話中，此句可用於詢問對方休閒娛樂的計畫。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:21",
+    "japanese": "3. いつ一緒に食事しますか。",
+    "furigana": "3. いつ<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>に<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>しますか。",
+    "segmentation": "3. いつ | 一緒に | 食事しますか。",
+    "translation": {
+      "natural": "我們什麼時候一起用餐呢？",
+      "literal": "3. 什麼時候 一起 用餐嗎。"
+    },
+    "words": [
+      {
+        "word": "一緒に",
+        "reading": "いっしょに",
+        "note": "副詞，一起"
+      },
+      {
+        "word": "食事する",
+        "reading": "しょくじする",
+        "note": "動詞，用餐、吃飯（敬體為食事します）"
+      }
+    ],
+    "context_grammar": [
+      "一緒に＋動詞：表示共同執行某動作。",
+      "雖是疑問句，但在商務與日常場合中，常作為提議約定的禮貌問句。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:27",
+    "japanese": "4. いつ山に登りますか。",
+    "furigana": "4. いつ<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>りますか。",
+    "segmentation": "4. いつ | 山に | 登りますか。",
+    "translation": {
+      "natural": "你什麼時候要去爬山？",
+      "literal": "4. 什麼時候 向山 攀登嗎。"
+    },
+    "words": [
+      {
+        "word": "山",
+        "reading": "やま",
+        "note": "名詞，山"
+      },
+      {
+        "word": "登る",
+        "reading": "のぼる",
+        "note": "動詞，攀登、爬（敬體為登ります）"
+      }
+    ],
+    "context_grammar": [
+      "に（格助詞）：標示動作到達的目標或對象點（山に登る）。",
+      "常用於休閒興趣討論的語境。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:32",
+    "japanese": "5. いつデートしますか。",
+    "furigana": "5. いつデートしますか。",
+    "segmentation": "5. いつ | デートしますか。",
+    "translation": {
+      "natural": "我們什麼時候約會呢？",
+      "literal": "5. 什麼時候 約會嗎。"
+    },
+    "words": [
+      {
+        "word": "デートする",
+        "reading": "デートする",
+        "note": "動詞，約會（外來語 Date + する）"
+      }
+    ],
+    "context_grammar": [
+      "外來語＋する：形成サ行變格活用動詞。",
+      "用於親密關係或表達積極邀約語氣。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:37",
+    "japanese": "6. いつレストランを予約しますか。",
+    "furigana": "6. いつレストランを<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>しますか。",
+    "segmentation": "6. いつ | レストランを | 予約しますか。",
+    "translation": {
+      "natural": "什麼時候要預約餐廳呢？",
+      "literal": "6. 什麼時候 餐廳 預約嗎。"
+    },
+    "words": [
+      {
+        "word": "レストラン",
+        "reading": "レストラン",
+        "note": "名詞，餐廳（Restaurant）"
+      },
+      {
+        "word": "予約する",
+        "reading": "よやくする",
+        "note": "動詞，預約（敬體為予約します）"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋を＋動作動詞：表達具體的事項安排與任務落實。",
+      "商務秘書或行程安排時非常高頻出現的確認用語。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:43",
+    "japanese": "7. いつ旅行に行きますか。",
+    "furigana": "7. いつ<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。",
+    "segmentation": "7. いつ | 旅行に | 行きますか。",
+    "translation": {
+      "natural": "你什麼時候要去旅行？",
+      "literal": "7. 什麼時候 為旅行 去嗎。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋に＋行く：表示移動的目的（去進行某活動）。",
+      "常見的旅遊專題或閒聊對話開場語。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:48",
+    "japanese": "8. いつ宿泊しますか。",
+    "furigana": "8. いつ<ruby>宿<rt>しゅく</rt></ruby><ruby>泊<rt>はく</rt></ruby>しますか。",
+    "segmentation": "8. いつ | 宿泊しますか。",
+    "translation": {
+      "natural": "您預計什麼時候入住/住宿呢？",
+      "literal": "8. 什麼時候 住宿嗎。"
+    },
+    "words": [
+      {
+        "word": "宿泊する",
+        "reading": "しゅくはくする",
+        "note": "動詞，住宿、過夜（敬體為宿泊します）"
+      }
+    ],
+    "context_grammar": [
+      "漢字動作名詞＋する：語氣較「泊まる」為正式。",
+      "常見於飯店訂房服務或旅遊解說影片中的正式對話。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:53",
+    "japanese": "9. いつ面接しますか。",
+    "furigana": "9. いつ<ruby>面<rt>めん</rt></ruby><ruby>接<rt>せつ</rt></ruby>しますか。",
+    "segmentation": "9. いつ | 面接しますか。",
+    "translation": {
+      "natural": "什麼時候要進行面試呢？",
+      "literal": "9. 什麼時候 面試嗎。"
+    },
+    "words": [
+      {
+        "word": "面接する",
+        "reading": "めんせつする",
+        "note": "動詞，面試（敬體為面接します）"
+      }
+    ],
+    "context_grammar": [
+      "自動詞/他動詞用法：此處主體可為面試官（進行面試）或求職者。",
+      "商業場合與求職情境中的核心詢問用語。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:58",
+    "japanese": "10. いつ卒業しますか。",
+    "furigana": "10. いつ<ruby>卒<rt>そつ</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>しますか。",
+    "segmentation": "10. いつ | 卒業しますか。",
+    "translation": {
+      "natural": "你什麼時候畢業？",
+      "literal": "10. 什麼時候 畢業嗎。"
+    },
+    "words": [
+      {
+        "word": "卒業する",
+        "reading": "そつぎょうする",
+        "note": "動詞，畢業"
+      }
+    ],
+    "context_grammar": [
+      "自動詞用法：若提及學校則搭配「～を卒業する」。",
+      "常用於校園情境或自我介紹的背景詢問。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:03",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三（情境應用對話）",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "應用對話階段提示。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:06",
+    "japanese": "この映画、面白そうですね。",
+    "furigana": "この<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>、<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>そうですね。",
+    "segmentation": "この映画、| 面白そうですね。",
+    "translation": {
+      "natural": "這部電影看起來很好看呢！",
+      "literal": "這部電影，看起來有趣呢。"
+    },
+    "words": [
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "note": "い形容詞，有趣的、好看的"
+      },
+      {
+        "word": "～そう",
+        "reading": "そう",
+        "note": "助動詞，樣態「看起來…」（去い加そう）"
+      }
+    ],
+    "context_grammar": [
+      "形容詞語幹＋そう：樣態推測，表示「根據視覺印象覺得好像…」。",
+      "ね（終助詞）：尋求對方認同，常用於開啟互動對話。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:10",
+    "japanese": "いつ映画を見ますか。",
+    "furigana": "いつ<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>を<ruby>見<rt>み</rt></ruby>ますか。",
+    "segmentation": "いつ | 映画を | 見ますか。",
+    "translation": {
+      "natural": "我們什麼時候去看這部電影呢？",
+      "literal": "什麼時候 電影 看嗎。"
+    },
+    "words": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看"
+      }
+    ],
+    "context_grammar": [
+      "順著前一句對電影產生興趣後順勢提議，將純粹詢問轉化為約定提議。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:14",
+    "japanese": "52 いつか ませんか",
+    "furigana": "52 いつか ませんか",
+    "segmentation": "52 | いつか | ませんか",
+    "translation": {
+      "natural": "單元 52：要不要找一天～呢？",
+      "literal": "52 某個時候 不做～嗎"
+    },
+    "words": [
+      {
+        "word": "いつか",
+        "reading": "いつか",
+        "note": "副詞，改天、總有一天"
+      }
+    ],
+    "context_grammar": [
+      "單元標題，結合不確定時間「いつか」與否定否定否定提議「～ませんか」。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:19",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "步驟提示標題。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:21",
+    "japanese": "1. いつか一緒に食事しませんか。",
+    "furigana": "1. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>に<ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>しませんか。",
+    "segmentation": "1. いつか | 一緒に | 食事しませんか。",
+    "translation": {
+      "natural": "哪天要不要一起吃個飯呢？",
+      "literal": "1. 改天 一起 不用餐嗎。"
+    },
+    "words": [
+      {
+        "word": "いつか",
+        "reading": "いつか",
+        "note": "副詞，改天"
+      },
+      {
+        "word": "食事する",
+        "reading": "しょくじする",
+        "note": "動詞，用餐"
+      }
+    ],
+    "context_grammar": [
+      "動詞未然形＋ませんか：禮貌的委婉邀約，比「～ましょう」更有留給對方拒絕彈性的社交空間。",
+      "日人日常極為高頻的客套社交邀約句型。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:27",
+    "japanese": "2. いつか一緒にお酒を飲みませんか。",
+    "furigana": "2. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>にお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みませんか。",
+    "segmentation": "2. いつか | 一緒に | お酒を | 飲みませんか。",
+    "translation": {
+      "natural": "改天要不要一起去喝一杯？",
+      "literal": "2. 改天 一起 酒 不喝嗎。"
+    },
+    "words": [
+      {
+        "word": "お酒",
+        "reading": "おさけ",
+        "note": "名詞，酒（前綴「お」為美化語）"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝（五段動詞未然形為飲み）"
+      }
+    ],
+    "context_grammar": [
+      "お＋名詞：美化語接頭詞，增加說話優雅度。",
+      "職場同事或朋友間表達增進感情的社交用語。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:33",
+    "japanese": "3. いつか一緒に山登りに行きませんか。",
+    "furigana": "3. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>に<ruby>山<rt>やま</rt></ruby><ruby>登<rt>のぼ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "3. いつか | 一緒に | 山登りに | 行きませんか。",
+    "translation": {
+      "natural": "改天要不要一起去爬山呢？",
+      "literal": "3. 改天 一起 去登山 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "山登り",
+        "reading": "やまのぼり",
+        "note": "名詞，登山、爬山"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "名詞（動作性）＋に＋行く：目的複合結構。",
+      "用於邀請對方加入某種休閒戶外活動。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:39",
+    "japanese": "4. いつかお見舞いに行きませんか。",
+    "furigana": "4. いつかお<ruby>見<rt>み</rt></ruby><ruby>舞<rt>まい</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "4. いつか | お見舞いに | 行きませんか。",
+    "translation": {
+      "natural": "找個時間我們一起去探病好嗎？",
+      "literal": "4. 改天 探病 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "お見舞い",
+        "reading": "おみまい",
+        "note": "名詞，探病、慰問"
+      }
+    ],
+    "context_grammar": [
+      "お＋見舞い：美化語，對受探視者的關懷與禮貌表現。",
+      "表達共同參與關懷事項的提議。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:45",
+    "japanese": "5. いつか一緒に旅行に行きませんか。",
+    "furigana": "5. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>に<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "5. いつか | 一緒に | 旅行に | 行きませんか。",
+    "translation": {
+      "natural": "改天要不要一起去旅行呢？",
+      "literal": "5. 改天 一起 旅行 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "旅行に行く：固定的動詞片語，搭上いつか後帶有期待未來放假規劃的放鬆語氣。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:51",
+    "japanese": "6. いつか一緒にエステに行きませんか。",
+    "furigana": "6. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>にエステに<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "6. いつか | 一緒に | エステに | 行きませんか。",
+    "translation": {
+      "natural": "改天要不要一起去做個 SPA 美容？",
+      "literal": "6. 改天 一起 做美容 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "エステ",
+        "reading": "エステ",
+        "note": "名詞，美容院、SPA（源自法文 Esthétique）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞＋に＋行きます：現代生活與消費導向影片極高頻的使用語彙。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:57",
+    "japanese": "7. いつか家を見に行きませんか。",
+    "furigana": "7. いつか<ruby>家<rt>いえ</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "7. いつか | 家を | 見に | 行きませんか。",
+    "translation": {
+      "natural": "改天要不要去看看房子呢？",
+      "literal": "7. 改天 房子 為看 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "note": "名詞，房子、家"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（連用形為見）"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形＋に＋行く：動作連貫與目的標示（去「看」）。",
+      "常用於賞屋、搬家或看新房的情境。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "02:03",
+    "japanese": "8. いつか健康診断に行きませんか。",
+    "furigana": "8. いつか<ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby><ruby>診<rt>しん</rt></ruby><ruby>断<rt>だん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "8. いつか | 健康診断に | 行きませんか。",
+    "translation": {
+      "natural": "哪天要不要一起去進行健康檢查？",
+      "literal": "8. 改天 健康檢查 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "健康診断",
+        "reading": "けんこうしんだん",
+        "note": "名詞，健康檢查"
+      }
+    ],
+    "context_grammar": [
+      "帶有提醒對方重視健康的關懷語氣。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "02:09",
+    "japanese": "9. いつか一緒にショッピングに行きませんか。",
+    "furigana": "9. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>にショッピングに<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "9. いつか | 一緒に | ショッピングに | 行きませんか。",
+    "translation": {
+      "natural": "改天要不要一起去逛街購物？",
+      "literal": "9. 改天 一起 購物 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "ショッピング",
+        "reading": "ショッピング",
+        "note": "名詞，購物（Shopping）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞＋に＋行きます：生活化休閒活動的標準表達。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:15",
+    "japanese": "10. いつか一緒に動物園へ行きませんか。",
+    "furigana": "10. いつか<ruby>一<rt>いっ</rt></ruby><ruby>緒<rt>しょ</rt></ruby>に<ruby>動<rt>どう</rt></ruby><ruby>物<rt>ぶつ</rt></ruby><ruby>園<rt>えん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "10. いつか | 一緒に | 動物園へ | 行きませんか。",
+    "translation": {
+      "natural": "改天要不要一起去動物園呢？",
+      "literal": "10. 改天 一起 向動物園 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "動物園",
+        "reading": "どうぶつえん",
+        "note": "名詞，動物園"
+      }
+    ],
+    "context_grammar": [
+      "へ（助詞）：強調前往地點的方向性。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:22",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三（情境應用對話）",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "應用對話階段提示。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:24",
+    "japanese": "最近、体の調子が悪いんです。",
+    "furigana": "<ruby>最<rt>さい</rt></ruby><ruby>近<rt>きん</rt></ruby>、<ruby>体<rt>からだ</rt></ruby>の<ruby>調<rt>ちょう</rt></ruby><ruby>子<rt>し</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いんです。",
+    "segmentation": "最近、| 体の調子が | 悪いんです。",
+    "translation": {
+      "natural": "最近身體狀況不太好呢…",
+      "literal": "最近，身體的狀況 是壞的。"
+    },
+    "words": [
+      {
+        "word": "体の調子",
+        "reading": "からだのちょうし",
+        "note": "片語，身體健康狀況"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的、差的"
+      }
+    ],
+    "context_grammar": [
+      "～んです（の音變）：說明狀況並鋪陳背後原因，帶有希望對方理解或給予回應的暗示。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:28",
+    "japanese": "いつか健康診断に行きませんか。",
+    "furigana": "いつか<ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby><ruby>診<rt>しん</rt></ruby><ruby>断<rt>だん</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "いつか | 健康診断に | 行きませんか。",
+    "translation": {
+      "natural": "那要不要找時間去健康檢查一下呢？",
+      "literal": "改天 健康檢查 不去嗎。"
+    },
+    "words": [
+      {
+        "word": "健康診断",
+        "reading": "けんこうしんだん",
+        "note": "名詞，健康檢查"
+      }
+    ],
+    "context_grammar": [
+      "針對前句提及身體狀況不良，順理成章提出對應的關心與建議。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:33",
+    "japanese": "53 いつが 予定ですか",
+    "furigana": "53 いつが <ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか",
+    "segmentation": "53 | いつが | 予定ですか",
+    "translation": {
+      "natural": "單元 53：預計是什麼時候呢？",
+      "literal": "53 什麼時候是 預定嗎"
+    },
+    "words": [
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "note": "名詞，預定、計畫"
+      }
+    ],
+    "context_grammar": [
+      "主詞疑問詞化「いつが」：強調「什麼時候」這個焦點。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:38",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "步驟提示標題。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:40",
+    "japanese": "1. いつが出国予定ですか。",
+    "furigana": "1. いつが<ruby>出<rt>しゅっ</rt></ruby><ruby>国<rt>こく</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "1. いつが | 出国予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候出境/出國呢？",
+      "literal": "1. 什麼時候是 出國預定嗎。"
+    },
+    "words": [
+      {
+        "word": "出国",
+        "reading": "しゅっこく",
+        "note": "名詞，出國、出境"
+      },
+      {
+        "word": "予定",
+        "reading": "よてい",
+        "note": "名詞，預定"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋予定：形成複合名詞「～預定」。",
+      "が（主格助詞）：指定未知時間標的「いつ」。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:44",
+    "japanese": "2. いつが卒業予定ですか。",
+    "furigana": "2. いつが<ruby>卒<rt>そつ</rt></ruby><ruby>業<rt>ぎょう</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "2. いつが | 卒業予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候畢業呢？",
+      "literal": "2. 什麼時候是 畢業預定嗎。"
+    },
+    "words": [
+      {
+        "word": "卒業",
+        "reading": "そつぎょう",
+        "note": "名詞，畢業"
+      }
+    ],
+    "context_grammar": [
+      "用語精確，經常用於履歷或身份背景核對的溝通場合。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:49",
+    "japanese": "3. いつが発売予定ですか。",
+    "furigana": "3. いつが<ruby>発<rt>はつ</rt></ruby><ruby>売<rt>ばい</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "3. いつが | 発売予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候發售/上市呢？",
+      "literal": "3. 什麼時候是 發售預定嗎。"
+    },
+    "words": [
+      {
+        "word": "発売",
+        "reading": "はつばい",
+        "note": "名詞，開賣、發售"
+      }
+    ],
+    "context_grammar": [
+      "商業新聞、新品宣傳影片及顧客詢問產品上市時間時最高頻的用語。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:54",
+    "japanese": "4. いつが到着予定ですか。",
+    "furigana": "4. いつが<ruby>到<rt>とう</rt></ruby><ruby>着<rt>ちゃく</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "4. いつが | 到着予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候抵達呢？",
+      "literal": "4. 什麼時候是 抵達預定嗎。"
+    },
+    "words": [
+      {
+        "word": "到着",
+        "reading": "とうちゃく",
+        "note": "名詞，抵達、到達"
+      }
+    ],
+    "context_grammar": [
+      "物流、商務差旅及航班追蹤時的標準商務對話。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:58",
+    "japanese": "5. いつが出荷予定ですか。",
+    "furigana": "5. いつが<ruby>出<rt>しゅっ</rt></ruby><ruby>荷<rt>か</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "5. いつが | 出荷予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候出貨呢？",
+      "literal": "5. 什麼時候是 出貨預定嗎。"
+    },
+    "words": [
+      {
+        "word": "出荷",
+        "reading": "しゅっか",
+        "note": "名詞，出貨、發貨"
+      }
+    ],
+    "context_grammar": [
+      "供應鏈管理與電商客服的核心問句。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "03:03",
+    "japanese": "6. いつが出発予定ですか。",
+    "furigana": "6. いつが<ruby>出<rt>しゅっ</rt></ruby><ruby>発<rt>ぱつ</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "6. いつが | 出発予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候出發呢？",
+      "literal": "6. 什麼時候是 出發預定嗎。"
+    },
+    "words": [
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "note": "名詞，出發"
+      }
+    ],
+    "context_grammar": [
+      "用於團體行程、商務出行前時間的具體確認。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:08",
+    "japanese": "7. いつが引越し予定ですか。",
+    "furigana": "7. いつが<ruby>引<rt>ひっ</rt></ruby><ruby>越<rt>こ</rt></ruby>し<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "7. いつが | 引越し予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候搬家呢？",
+      "literal": "7. 什麼時候是 搬家預定嗎。"
+    },
+    "words": [
+      {
+        "word": "引越し",
+        "reading": "ひっこし",
+        "note": "名詞，搬家"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形名詞化（引っ越す → 引越し）。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:12",
+    "japanese": "8. いつが結婚予定ですか。",
+    "furigana": "8. いつが<ruby>結<rt>けっ</rt></ruby><ruby>婚<rt>こん</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "8. いつが | 結婚予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候結婚呢？",
+      "literal": "8. 什麼時候是 結婚預定嗎。"
+    },
+    "words": [
+      {
+        "word": "結婚",
+        "reading": "けっこん",
+        "note": "名詞，結婚"
+      }
+    ],
+    "context_grammar": [
+      "用於個人社交生活背景關心。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:17",
+    "japanese": "9. いつが婚約予定ですか。",
+    "furigana": "9. いつが<ruby>婚<rt>こん</rt></ruby><ruby>約<rt>やく</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "9. いつが | 婚約予定ですか。",
+    "translation": {
+      "natural": "預計什麼時候訂婚呢？",
+      "literal": "9. 什麼時候是 訂婚預定嗎。"
+    },
+    "words": [
+      {
+        "word": "婚約",
+        "reading": "こんやく",
+        "note": "名詞，訂婚"
+      }
+    ],
+    "context_grammar": [
+      "漢語動作名詞直接連結「予定」。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:22",
+    "japanese": "10. いつが出産予定ですか。",
+    "furigana": "10. いつが<ruby>出<rt>しゅっ</rt></ruby><ruby>産<rt>さん</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "10. いつが | 出産予定ですか。",
+    "translation": {
+      "natural": "預產期是什麼時候呢？",
+      "literal": "10. 什麼時候是 生產預定嗎。"
+    },
+    "words": [
+      {
+        "word": "出産",
+        "reading": "しゅっさん",
+        "note": "名詞，生產、分娩"
+      }
+    ],
+    "context_grammar": [
+      "「出産予定（日）」於醫療、關懷語境中極常使用。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:27",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三（情境應用對話）",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "應用對話階段提示。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:29",
+    "japanese": "来週日本へ行きます。",
+    "furigana": "<ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby><ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+    "segmentation": "来週 | 日本へ | 行きます。",
+    "translation": {
+      "natural": "我下週要去日本。",
+      "literal": "下週 向日本 去。"
+    },
+    "words": [
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "note": "名詞，下週"
+      },
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "note": "名詞，日本"
+      }
+    ],
+    "context_grammar": [
+      "時間名詞（不帶數詞）直接充當副詞修飾動詞「行きます」。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:32",
+    "japanese": "いつが出発予定ですか。",
+    "furigana": "いつが<ruby>出<rt>しゅっ</rt></ruby><ruby>発<rt>ぱつ</rt></ruby><ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>ですか。",
+    "segmentation": "いつが | 出発予定ですか。",
+    "translation": {
+      "natural": "預計哪一天出發呢？",
+      "literal": "什麼時候是 出發預定嗎。"
+    },
+    "words": [
+      {
+        "word": "出発予定",
+        "reading": "しゅっぱつよてい",
+        "note": "名詞，出發計畫"
+      }
+    ],
+    "context_grammar": [
+      "針對對方提及的具體行程進行深度的時間細節確認。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:36",
+    "japanese": "54 いつが ですか",
+    "furigana": "54 いつが ですか",
+    "segmentation": "54 | いつが | ですか",
+    "translation": {
+      "natural": "單元 54：什麼時候是～呢？",
+      "literal": "54 什麼時候是 ～嗎"
+    },
+    "words": [
+      {
+        "word": "いつ",
+        "reading": "いつ",
+        "note": "疑問詞，什麼時候"
+      }
+    ],
+    "context_grammar": [
+      "單元標題，核心結構為「いつが＋名詞＋ですか」。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:41",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "步驟提示標題。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:43",
+    "japanese": "1. いつが暇ですか。",
+    "furigana": "1. いつが<ruby>暇<rt>ひま</rt></ruby>ですか。",
+    "segmentation": "1. いつが | 暇ですか。",
+    "translation": {
+      "natural": "你什麼時候有空呢？",
+      "literal": "1. 什麼時候是 空閒嗎。"
+    },
+    "words": [
+      {
+        "word": "暇",
+        "reading": "ひま",
+        "note": "な形容詞/名詞，空閒"
+      }
+    ],
+    "context_grammar": [
+      "いつが＋な形容詞語幹＋ですか：詢問何時處於該狀態，極為活潑口語。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:47",
+    "japanese": "2. いつが休日ですか。",
+    "furigana": "2. いつが<ruby>休<rt>きゅう</rt></ruby><ruby>日<rt>じつ</rt></ruby>ですか。",
+    "segmentation": "2. いつが | 休日ですか。",
+    "translation": {
+      "natural": "什麼時候是公休日/假日呢？",
+      "literal": "2. 什麼時候是 休日嗎。"
+    },
+    "words": [
+      {
+        "word": "休日",
+        "reading": "きゅうじつ",
+        "note": "名詞，假日、休休日"
+      }
+    ],
+    "context_grammar": [
+      "常用於向店家詢問定休日或確認個人輪休時間。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:51",
+    "japanese": "3. いつが夏休みですか。",
+    "furigana": "3. いつが<ruby>夏<rt>なつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みですか。",
+    "segmentation": "3. いつが | 夏休みですか。",
+    "translation": {
+      "natural": "暑假是什麼時候呢？",
+      "literal": "3. 什麼時候是 暑假嗎。"
+    },
+    "words": [
+      {
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "note": "名詞，暑假"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞（夏＋休み）。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:56",
+    "japanese": "4. いつが梅雨ですか。",
+    "furigana": "4. いつが<ruby>梅<rt>つ</rt></ruby><ruby>雨<rt>ゆ</rt></ruby>ですか。",
+    "segmentation": "4. いつが | 梅雨ですか。",
+    "translation": {
+      "natural": "梅雨季是什麼時候呢？",
+      "literal": "4. 什麼時候是 梅雨嗎。"
+    },
+    "words": [
+      {
+        "word": "梅雨",
+        "reading": "つゆ",
+        "note": "名詞，梅雨、梅雨季（熟字訓標音）"
+      }
+    ],
+    "context_grammar": [
+      "熟字訓：特殊漢字發音（梅雨 → つゆ）。天氣與旅遊影片常用題材。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "04:00",
+    "japanese": "5. いつが桜の開花時期ですか。",
+    "furigana": "5. いつが<ruby>桜<rt>さくら</rt></ruby>の<ruby>開<rt>かい</rt></ruby><ruby>花<rt>か</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>期<rt>き</rt></ruby>ですか。",
+    "segmentation": "5. いつが | 桜の開花時期ですか。",
+    "translation": {
+      "natural": "櫻花開花的時期是什麼時候呢？",
+      "literal": "5. 什麼時候是 櫻花的開花時期嗎。"
+    },
+    "words": [
+      {
+        "word": "桜",
+        "reading": "さくら",
+        "note": "名詞，櫻花"
+      },
+      {
+        "word": "開花時期",
+        "reading": "かいかじき",
+        "note": "名詞，開花期"
+      }
+    ],
+    "context_grammar": [
+      "の（格助詞）：連體修飾，名詞修飾名詞（櫻花的開花時期）。",
+      "日本觀光宣傳片中極具代表性的句型。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "04:06",
+    "japanese": "6. いつが紅葉の季節ですか。",
+    "furigana": "6. いつが<ruby>紅<rt>こう</rt></ruby><ruby>葉<rt>よう</rt></ruby>の<ruby>季<rt>き</rt></ruby><ruby>節<rt>せつ</rt></ruby>ですか。",
+    "segmentation": "6. いつが | 紅葉の季節ですか。",
+    "translation": {
+      "natural": "賞楓的季節是什麼時候呢？",
+      "literal": "6. 什麼時候是 楓葉的季節嗎。"
+    },
+    "words": [
+      {
+        "word": "紅葉",
+        "reading": "こうよう",
+        "note": "名詞，楓葉、紅葉"
+      },
+      {
+        "word": "季節",
+        "reading": "きせつ",
+        "note": "名詞，季節"
+      }
+    ],
+    "context_grammar": [
+      "季節性主題介紹常用的提問結構。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "04:11",
+    "japanese": "7. いつが試験ですか。",
+    "furigana": "7. いつが<ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>ですか。",
+    "segmentation": "7. いつが | 試験ですか。",
+    "translation": {
+      "natural": "什麼時候考試呢？",
+      "literal": "7. 什麼時候是 考試嗎。"
+    },
+    "words": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試、測驗"
+      }
+    ],
+    "context_grammar": [
+      "學校與證照檢定討論的核心疑問句。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:15",
+    "japanese": "8. いつが合宿ですか。",
+    "furigana": "8. いつが<ruby>合<rt>ごう</rt></ruby><ruby>宿<rt>しゅく</rt></ruby>ですか。",
+    "segmentation": "8. いつが | 合宿ですか。",
+    "translation": {
+      "natural": "什麼時候進行集訓/合宿呢？",
+      "literal": "8. 什麼時候是 合宿嗎。"
+    },
+    "words": [
+      {
+        "word": "合宿",
+        "reading": "ごうしゅく",
+        "note": "名詞，集訓、合宿"
+      }
+    ],
+    "context_grammar": [
+      "社團或企業培訓活動的排程詢問。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:20",
+    "japanese": "9. いつが出張ですか。",
+    "furigana": "9. いつが<ruby>出<rt>しゅっ</rt></ruby><ruby>張<rt>ちょう</rt></ruby>ですか。",
+    "segmentation": "9. いつが | 出張ですか。",
+    "translation": {
+      "natural": "什麼時候要出差呢？",
+      "literal": "9. 什麼時候是 出差嗎。"
+    },
+    "words": [
+      {
+        "word": "出張",
+        "reading": "しゅっちょう",
+        "note": "名詞，出差"
+      }
+    ],
+    "context_grammar": [
+      "職場對話中確認上司或同事行程的簡明句型。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:24",
+    "japanese": "10. いつが入学式ですか。",
+    "furigana": "10. いつが<ruby>入<rt>にゅう</rt></ruby><ruby>学<rt>がく</rt></ruby><ruby>式<rt>しき</rt></ruby>ですか。",
+    "segmentation": "10. いつが | 入学式ですか。",
+    "translation": {
+      "natural": "入學典禮是什麼時候呢？",
+      "literal": "10. 什麼時候是 入學典禮嗎。"
+    },
+    "words": [
+      {
+        "word": "入学式",
+        "reading": "にゅうがくしき",
+        "note": "名詞，入學典禮"
+      }
+    ],
+    "context_grammar": [
+      "日本春季新學期代表活動的日程確認。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:29",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三（情境應用對話）",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "應用對話階段提示。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:31",
+    "japanese": "いつが桜の開花時期ですか。",
+    "furigana": "いつが<ruby>桜<rt>さくら</rt></ruby>の<ruby>開<rt>かい</rt></ruby><ruby>花<rt>か</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>期<rt>き</rt></ruby>ですか。",
+    "segmentation": "いつが | 桜の開花時期ですか。",
+    "translation": {
+      "natural": "櫻花盛開的時期是什麼時候呢？",
+      "literal": "什麼時候是 櫻花的開花時期嗎。"
+    },
+    "words": [
+      {
+        "word": "開花時期",
+        "reading": "かいかじき",
+        "note": "名詞，開花期"
+      }
+    ],
+    "context_grammar": [
+      "開啟旅遊對話主題的詢問。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:35",
+    "japanese": "日本のどこへ行くんですか。",
+    "furigana": "<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>のどこへ<ruby>行<rt>い</rt></ruby>くんですか。",
+    "segmentation": "日本の | どこへ | 行くんですか。",
+    "translation": {
+      "natural": "你是要去日本的哪裡呢？",
+      "literal": "日本的 哪裡 去呢。"
+    },
+    "words": [
+      {
+        "word": "どこ",
+        "reading": "どこ",
+        "note": "疑問詞，哪裡"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "動詞連體形＋んですか：深入追問詳情或表示強烈的好奇心，比純粹的「行きますか」更有互動感。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:39",
+    "japanese": "55 いつまで ますか",
+    "furigana": "55 いつまで ますか",
+    "segmentation": "55 | いつまで | ますか",
+    "translation": {
+      "natural": "單元 55：會持續/進行到什麼時候呢？",
+      "literal": "55 到什麼時候為止 做～嗎"
+    },
+    "words": [
+      {
+        "word": "いつまで",
+        "reading": "いつまで",
+        "note": "疑問詞，到什麼時候為止"
+      }
+    ],
+    "context_grammar": [
+      "單元標題，重點在於時間終點標示「まで」。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:44",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "步驟提示標題。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:46",
+    "japanese": "1. いつまで雨が降りますか。",
+    "furigana": "1. いつまで<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りますか。",
+    "segmentation": "1. いつまで | 雨が | 降りますか。",
+    "translation": {
+      "natural": "雨會下到什麼時候呢？",
+      "literal": "1. 到什麼時候 雨 降下嗎。"
+    },
+    "words": [
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "note": "名詞，雨"
+      },
+      {
+        "word": "降る",
+        "reading": "ふる",
+        "note": "動詞，下雨、降下（敬體為降ります）"
+      }
+    ],
+    "context_grammar": [
+      "いつまで（終點詢問）＋自然現象動詞，常用於關心天氣預報。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:51",
+    "japanese": "2. いつまで桜が咲いていますか。",
+    "furigana": "2. いつまで<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>いていますか。",
+    "segmentation": "2. いつまで | 桜が | 咲いていますか。",
+    "translation": {
+      "natural": "櫻花會開到什麼時候呢？",
+      "literal": "2. 到什麼時候 櫻花 盛開著嗎。"
+    },
+    "words": [
+      {
+        "word": "咲く",
+        "reading": "さく",
+        "note": "動詞，開花"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形＋ている（咲いている）：表示狀態的持續。",
+      "詢問某種自然景觀狀態會持續多久。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:57",
+    "japanese": "3. いつまで開催していますか。",
+    "furigana": "3. いつまで<ruby>開<rt>かい</rt></ruby><ruby>催<rt>さい</rt></ruby>していますか。",
+    "segmentation": "3. いつまで | 開催していますか。",
+    "translation": {
+      "natural": "活動會舉辦到什麼時候呢？",
+      "literal": "3. 到什麼時候 舉辦著嗎。"
+    },
+    "words": [
+      {
+        "word": "開催する",
+        "reading": "かいさいする",
+        "note": "動詞，舉辦、開展"
+      }
+    ],
+    "context_grammar": [
+      "動作名詞＋している：表示活動持續進行中的狀態，商務與觀光常用用語。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "05:02",
+    "japanese": "4. いつまで旅行していますか。",
+    "furigana": "4. いつまで<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>していますか。",
+    "segmentation": "4. いつまで | 旅行していますか。",
+    "translation": {
+      "natural": "你會旅行到什麼時候呢？",
+      "literal": "4. 到什麼時候 旅行著嗎。"
+    },
+    "words": [
+      {
+        "word": "旅行する",
+        "reading": "りょこうする",
+        "note": "動詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "～ています：表示持續進行某項長期的活動或行程。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "05:07",
+    "japanese": "5. いつまで出張していますか。",
+    "furigana": "5. いつまで<ruby>出<rt>しゅっ</rt></ruby><ruby>張<rt>ちょう</rt></ruby>していますか。",
+    "segmentation": "5. いつまで | 出張していますか。",
+    "translation": {
+      "natural": "您出差會到什麼時候呢？",
+      "literal": "5. 到什麼時候 出差著嗎。"
+    },
+    "words": [
+      {
+        "word": "出張する",
+        "reading": "しゅっちょうする",
+        "note": "動詞，出差"
+      }
+    ],
+    "context_grammar": [
+      "確認對方不在辦公室的持續期間，屬常見的商務通訊用語。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "05:13",
+    "japanese": "6. いつまで勉強していますか。",
+    "furigana": "6. いつまで<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>していますか。",
+    "segmentation": "6. いつまで | 勉強していますか。",
+    "translation": {
+      "natural": "你要讀書/唸書到幾點（什麼時候）呢？",
+      "literal": "6. 到什麼時候 讀書著嗎。"
+    },
+    "words": [
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "note": "動詞，學習、讀書"
+      }
+    ],
+    "context_grammar": [
+      "關心對方當前學習動作預計持續的截止時間。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "05:18",
+    "japanese": "7. いつまで仕事をしていますか。",
+    "furigana": "7. いつまで<ruby>事<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>をしていますか。",
+    "segmentation": "7. いつまで | 仕事を | していますか。",
+    "translation": {
+      "natural": "你工作會忙到什麼時候呢？",
+      "literal": "7. 到什麼時候 工作 做著嗎。"
+    },
+    "words": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "note": "名詞，工作"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋を＋している：具體的動作持續狀態描述。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "05:23",
+    "japanese": "8. いつまで待ちますか。",
+    "furigana": "8. いつまで<ruby>待<rt>ま</rt></ruby>ちますか。",
+    "segmentation": "8. いつまで | 待ちますか。",
+    "translation": {
+      "natural": "要等到什麼時候呢？",
+      "literal": "8. 到什麼時候 等待嗎。"
+    },
+    "words": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "note": "動詞，等待（敬體為待ちます）"
+      }
+    ],
+    "context_grammar": [
+      "瞬間/狀態動詞搭配「いつまで」，表示等待這項意志動作要持續到何時。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "05:28",
+    "japanese": "9. いつまで作っていますか。",
+    "furigana": "9. いつまで<ruby>作<rt>つく</rt></ruby>っていますか。",
+    "segmentation": "9. いつまで | 作っていますか。",
+    "translation": {
+      "natural": "要製作/處理到什麼時候呢？",
+      "literal": "9. 到什麼時候 製作著嗎。"
+    },
+    "words": [
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "note": "動詞，製作、做（促音便作っています）"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞促音便（作る → 作って）。用於製作、料理或工藝進度關心。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "05:33",
+    "japanese": "10. いつまで工事していますか。",
+    "furigana": "10. いつまで<ruby>工<rt>こう</rt></ruby><ruby>事<rt>じ</rt></ruby>していますか。",
+    "segmentation": "10. いつまで | 工事していますか。",
+    "translation": {
+      "natural": "施工會持續到什麼時候呢？",
+      "literal": "10. 到什麼時候 施工著嗎。"
+    },
+    "words": [
+      {
+        "word": "工事する",
+        "reading": "こうじする",
+        "note": "動詞，施工、修路"
+      }
+    ],
+    "context_grammar": [
+      "生活環境、交通 announcements 或宣導影片常見詢問。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "05:39",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三（情境應用對話）",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "應用對話階段提示。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "05:41",
+    "japanese": "この展覧会は、いつまで開催していますか。",
+    "furigana": "この<ruby>展<rt>てん</rt></ruby><ruby>覧<rt>らん</rt></ruby><ruby>会<rt>かい</rt></ruby>は、いつまで<ruby>開<rt>かい</rt></ruby><ruby>催<rt>さい</rt></ruby>していますか。",
+    "segmentation": "この展覧会は、| いつまで | 開催していますか。",
+    "translation": {
+      "natural": "這個展覽會舉辦到什麼時候呢？",
+      "literal": "這個展覽會，到什麼時候 舉辦著嗎。"
+    },
+    "words": [
+      {
+        "word": "展覧会",
+        "reading": "てんらんかい",
+        "note": "名詞，展覽會"
+      },
+      {
+        "word": "開催する",
+        "reading": "かいさいする",
+        "note": "動詞，舉辦"
+      }
+    ],
+    "context_grammar": [
+      "は（主題助詞）：將「この展覧会」設為討論主題，隨後詢問其營運截止時間。"
+    ]
+  },
+  {
+    "id": "076",
+    "time": "05:46",
+    "japanese": "明日までですよ。",
+    "furigana": "<ruby>明<rt>あ</rt></ruby><ruby>日<rt>した</rt></ruby>までですよ。",
+    "segmentation": "明日まで | ですよ。",
+    "translation": {
+      "natural": "只展出到明天而已喔！",
+      "literal": "到明天為止 是喔。"
+    },
+    "words": [
+      {
+        "word": "明日",
+        "reading": "あした",
+        "note": "名詞，明天"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋まで＋です：回答時間終點的簡潔用語。",
+      "よ（終助詞）：提醒對方重視該資訊（傳達新資訊的語氣）。"
+    ]
+  }
+]
