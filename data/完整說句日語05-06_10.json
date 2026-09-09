@@ -1,0 +1,1966 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "156. が気に入りました Step 1",
+    "furigana": "156. が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました Step 1",
+    "segmentation": "156. が | 気に入りました | Step 1",
+    "translation": {
+      "natural": "156. 中意／喜歡 Step 1",
+      "literal": "156. 中意／喜歡 Step 1"
+    },
+    "words": [
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，中意、喜歡"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟指示語，直接譯出。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:06",
+    "japanese": "1. このカメラが気に入りました",
+    "furigana": "1. このカメラが<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "1. このカメラが | 気に入りました",
+    "translation": {
+      "natural": "1. 我很喜歡這台相機。",
+      "literal": "1. 這台相機中意了。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      },
+      {
+        "word": "カメラ",
+        "reading": "カメラ",
+        "note": "名詞，相機"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "慣用句/動詞，合意、喜歡（過去式為気に入りました）"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」標示對象語，連接情感/心理狀態動詞「気に入る」。",
+      "「気に入りました」為五段動詞「気に入る」的連用形接丁寧語過去式「ました」，表示對事物產生好感並定調狀態。",
+      "用於購物或旅遊日常中，表達對特定物品的偏好與滿意度。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:10",
+    "japanese": "2. マンゴーかき氷が気に入りました",
+    "furigana": "2. マンゴーかき<ruby>氷<rt>ごおり</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "2. マンゴーかき氷が | 気に入りました",
+    "translation": {
+      "natural": "2. 我很喜歡芒果刨冰。",
+      "literal": "2. 芒果刨冰中意了。"
+    },
+    "words": [
+      {
+        "word": "マンゴー",
+        "reading": "マンゴー",
+        "note": "名詞，芒果"
+      },
+      {
+        "word": "かき氷",
+        "reading": "かきごおり",
+        "note": "名詞，刨冰"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡、中意"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「マンゴー（芒果）＋かき氷（刨冰）」作句子的主語/對象。",
+      "動詞「気に入る」過去式表示體驗過後的正面評價與滿意情緒。",
+      "常見於飲食心得分享或觀光推廣劇本。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:14",
+    "japanese": "3. 小籠包が気に入りました",
+    "furigana": "3. <ruby>小<rt>しょう</rt></ruby><ruby>籠<rt>ろん</rt></ruby><ruby>包<rt>ぽう</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "3. 小籠包が | 気に入りました",
+    "translation": {
+      "natural": "3. 我很喜歡小籠包。",
+      "literal": "3. 小籠包中意了。"
+    },
+    "words": [
+      {
+        "word": "小籠包",
+        "reading": "しょうろんぽう",
+        "note": "名詞，小籠包"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡、滿意"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋が＋気に入りました」結構，直截表達對特定餐點的讚賞。",
+      "「気に入りました」活用自五段動詞「気に入る」連用形「気に入り」。",
+      "常用於外國旅客訪日或美食節目中表達體驗觀感。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:18",
+    "japanese": "4. 牛肉麺が気に入りました",
+    "furigana": "4. <ruby>牛<rt>ぎゅう</rt></ruby><ruby>肉<rt>にく</rt></ruby><ruby>麺<rt>めん</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "4. 牛肉麺が | 気に入りました",
+    "translation": {
+      "natural": "4. 我很喜歡牛肉麵。",
+      "literal": "4. 牛肉麵中意了。"
+    },
+    "words": [
+      {
+        "word": "牛肉麺",
+        "reading": "ぎゅうにくめん",
+        "note": "名詞，牛肉麵"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」強調前面名詞「牛肉麺」，明確指出滿意的對象。",
+      "動詞過去式「～ました」代表完成體驗後的正面反饋。",
+      "為旅遊短片中表達對當地飲食喜好的經典句型。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:22",
+    "japanese": "5. パールミルクティーが気に入りました",
+    "furigana": "5. パールミルクティーが<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "5. パールミルクティーが | 気に入りました",
+    "translation": {
+      "natural": "5. 我很喜歡珍珠奶茶。",
+      "literal": "5. 珍珠奶茶中意了。"
+    },
+    "words": [
+      {
+        "word": "パールミルクティー",
+        "reading": "パールミルクティー",
+        "note": "名詞，珍珠奶茶"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，中意、喜愛"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞作為主要對象，搭配「～が気に入りました」句型。",
+      "動詞連用形「気に入り」接叮嚀語過去時「ました」。",
+      "用於宣傳美食、手搖飲等流行文化情境。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:26",
+    "japanese": "6. 臭豆腐が気に入りました",
+    "furigana": "6. <ruby>臭<rt>しゅう</rt></ruby><ruby>豆<rt>どう</rt></ruby><ruby>腐<rt>ふ</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "6. 臭豆腐が | 気に入りました",
+    "translation": {
+      "natural": "6. 我很喜歡臭豆腐。",
+      "literal": "6. 臭豆腐中意了。"
+    },
+    "words": [
+      {
+        "word": "臭豆腐",
+        "reading": "しゅうどうふ",
+        "note": "名詞，臭豆腐"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡、滿意"
+      }
+    ],
+    "context_grammar": [
+      "提示主語的格助詞「が」引出特定文化美食。",
+      "活用形「気に入りました」呈現從試吃到讚賞的態度轉變與確定結論。",
+      "用於旅遊節目外景或宣傳短片的對話呈現。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:30",
+    "japanese": "7. 納豆が気に入りました",
+    "furigana": "7. <ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "7. 納豆が | 気に入りました",
+    "translation": {
+      "natural": "7. 我很喜歡納豆。",
+      "literal": "7. 納豆中意了。"
+    },
+    "words": [
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜愛、合意"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋が＋気に入りました」結構，強調試吃後對傳統食物的喜好。",
+      "「気に入る」連用形加「ました」構成丁寧過去式。",
+      "常用於分享飲食習慣與文化體驗感想。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:34",
+    "japanese": "8. このカバンが気に入りました",
+    "furigana": "8. このカバンが<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "8. このカバンが | 気に入りました",
+    "translation": {
+      "natural": "8. 我很喜歡這個包包。",
+      "literal": "8. 這個包包中意了。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      },
+      {
+        "word": "カバン",
+        "reading": "カバン",
+        "note": "名詞，包包、公事包"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡、中意"
+      }
+    ],
+    "context_grammar": [
+      "指示連體詞「この」修飾後方名詞「カバン」。",
+      "「～が気に入りました」表示決定購買或相中物品的心情。",
+      "商業購物廣告、Vlog購物分享影片中的常見標準表達。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:38",
+    "japanese": "9. この靴が気に入りました",
+    "furigana": "9. この<ruby>靴<rt>くつ</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "9. この靴が | 気に入りました",
+    "translation": {
+      "natural": "9. 我很喜歡這雙鞋。",
+      "literal": "9. 這雙鞋中意了。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      },
+      {
+        "word": "靴",
+        "reading": "くつ",
+        "note": "名詞，鞋子"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜愛"
+      }
+    ],
+    "context_grammar": [
+      "指示連體詞「この」明確指示當前對象「靴」。",
+      "動詞「気に入る」過去式表達確定滿意、符合需求的決策語氣。",
+      "服飾品牌廣告與試穿體驗情境的典型句型。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:41",
+    "japanese": "10. このワンピースが気に入りました",
+    "furigana": "10. このワンピースが<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "10. このワンピースが | 気に入りました",
+    "translation": {
+      "natural": "10. 我很喜歡這件洋裝。",
+      "literal": "10. 這件洋裝中意了。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      },
+      {
+        "word": "ワンピース",
+        "reading": "ワンピース",
+        "note": "名詞，洋裝、連身裙"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡、中意"
+      }
+    ],
+    "context_grammar": [
+      "「この」限定名詞「ワンピース」，格助詞「が」標示讚賞對象。",
+      "動詞「気に入る」變形為敬體過去式「気に入りました」。",
+      "時尚流行影片、服飾促銷旁白中非常自然且具說服力的讚美。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:46",
+    "japanese": "Step 3 台湾で何が一番気に入りましたか？",
+    "furigana": "Step 3 <ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>で<ruby>何<rt>なに</rt></ruby>が<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りましたか？",
+    "segmentation": "Step 3 | 台湾で | 何が一番 | 気に入りましたか？",
+    "translation": {
+      "natural": "Step 3 在台灣您最喜歡什麼呢？",
+      "literal": "Step 3 在台灣什麼最中意了呢？"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "名詞，台灣"
+      },
+      {
+        "word": "何",
+        "reading": "なに",
+        "note": "代名詞，什麼"
+      },
+      {
+        "word": "一番",
+        "reading": "いちばん",
+        "note": "副詞，最、第一"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡（問句為気に入りましたか）"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「で」標示範圍（在台灣）；副詞「一番」修飾後方動詞「気に入る」。",
+      "疑問終助詞「か」接於敬體過去式「気に入りました」之後，構成對特定體驗的詢問。",
+      "採訪訪談、觀光節目對答情境的精準提問。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:51",
+    "japanese": "マンゴーかき氷が気に入りました",
+    "furigana": "マンゴーかき<ruby>氷<rt>ごおり</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りました",
+    "segmentation": "マンゴーかき氷が | 気に入りました",
+    "translation": {
+      "natural": "我最喜歡芒果刨冰。",
+      "literal": "芒果刨冰中意了。"
+    },
+    "words": [
+      {
+        "word": "マンゴーかき氷",
+        "reading": "マンゴーかきごおり",
+        "note": "名詞，芒果刨冰"
+      },
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "動詞，喜歡、中意"
+      }
+    ],
+    "context_grammar": [
+      "對前句疑問詞「何」的直接回答，省略副詞「一番」但語氣承接最喜愛的項目。",
+      "「気に入りました」明確標示體驗後的決定性偏好。",
+      "訪談互動中的簡潔回應方式。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:55",
+    "japanese": "157. が好きです Step 1",
+    "furigana": "157. が<ruby>好<rt>す</rt></ruby>きです Step 1",
+    "segmentation": "157. が | 好きです | Step 1",
+    "translation": {
+      "natural": "157. 喜歡 Step 1",
+      "literal": "157. 喜歡 Step 1"
+    },
+    "words": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟指示語，直接譯出。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:00",
+    "japanese": "1. ライチが好きです",
+    "furigana": "1. ライチが<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "1. ライチが | 好きです",
+    "translation": {
+      "natural": "1. 我喜歡荔枝。",
+      "literal": "1. 荔枝是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "ライチ",
+        "reading": "ライチ",
+        "note": "名詞，荔枝"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」標示情感與好惡的對象「ライチ」。",
+      "「好き」為形容動詞（な形容詞）詞幹，後接斷定助動詞「です」構成敬體語氣。",
+      "用於個人偏好宣導、產品宣傳廣告等日常生活表現。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:03",
+    "japanese": "2. マンゴーが好きです",
+    "furigana": "2. マンゴーが<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "2. マンゴーが | 好きです",
+    "translation": {
+      "natural": "2. 我喜歡芒果。",
+      "literal": "2. 芒果是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "マンゴー",
+        "reading": "マンゴー",
+        "note": "名詞，芒果"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋が＋好きです」基本句型，表述特定喜好。",
+      "「好き」結合「です」呈現禮貌肯定語氣。",
+      "商業推廣短片中表達對特定食材或產物喜愛極為常見的句式。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:06",
+    "japanese": "3. カラスミが好きです",
+    "furigana": "3. カラスミが<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "3. カラスミが | 好きです",
+    "translation": {
+      "natural": "3. 我喜歡烏魚子。",
+      "literal": "3. 烏魚子是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "カラスミ",
+        "reading": "カラスミ",
+        "note": "名詞，烏魚子"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "「が」標示感情對象名詞「カラスミ」。",
+      "「好きです」表達恆常性的個人喜好與傾向。",
+      "伴手禮與特產廣告中的基礎推廣口號。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:09",
+    "japanese": "4. ウーロン茶が好きです",
+    "furigana": "4. ウーロン<ruby>茶<rt>ちゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "4. ウーロン茶が | 好きです",
+    "translation": {
+      "natural": "4. 我喜歡烏龍茶。",
+      "literal": "4. 烏龍茶是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "ウーロン茶",
+        "reading": "ウーロンちゃ",
+        "note": "名詞，烏龍茶"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」連接飲料名詞與喜好形容詞「好き」。",
+      "以「です」結尾保持口語的客氣禮貌。",
+      "飲食飲料廣告與生活對話的標準宣示句。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:13",
+    "japanese": "5. パンダが好きです",
+    "furigana": "5. パンダが<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "5. パンダが | 好きです",
+    "translation": {
+      "natural": "5. 我喜歡貓熊。",
+      "literal": "5. 貓熊是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "パンダ",
+        "reading": "パンダ",
+        "note": "名詞，貓熊"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "外來語「パンダ」配合「～が好きです」結構。",
+      "明確宣示對特定動物或形象的好感。",
+      "動物園推廣、吉祥物行銷影像常用的表達方式。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:16",
+    "japanese": "6. 散歩が好きです",
+    "furigana": "6. <ruby>散<rt>さん</rt></ruby><ruby>歩<rt>ぽ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "6. 散歩が | 好きです",
+    "translation": {
+      "natural": "6. 我喜歡散步。",
+      "literal": "6. 散步是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "note": "名詞，散步"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "動作性名詞「散歩」直接作為格助詞「が」的主語，表示興趣與習慣。",
+      "「好きです」維持溫和親切的自我介紹語氣。",
+      "生活風格影片或個人Vlog常見的興趣說明。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:19",
+    "japanese": "7. スポーツが好きです",
+    "furigana": "7. スポーツが<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "7. スポーツが | 好きです",
+    "translation": {
+      "natural": "7. 我喜歡運動。",
+      "literal": "7. 體育是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "スポーツ",
+        "reading": "スポーツ",
+        "note": "名詞，體育、運動"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "範疇名詞「スポーツ」搭配「が好きです」，簡潔清晰。",
+      "形容動詞連用形搭配「です」的常態使用。",
+      "健康品牌廣告或個人訪談的典型表態。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:23",
+    "japanese": "8. 水泳が好きです",
+    "furigana": "8. <ruby>水<rt>すい</rt></ruby><ruby>泳<rt>えい</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "8. 水泳が | 好きです",
+    "translation": {
+      "natural": "8. 我喜歡游泳。",
+      "literal": "8. 游泳是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "水泳",
+        "reading": "すいえい",
+        "note": "名詞，游泳"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "專項運動名詞「水泳」接「が」，明確表現對該項活動的喜好。",
+      "「好きです」呈現直白坦率的心理傾向。",
+      "體育運動宣導或運動用品廣告用語。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:26",
+    "japanese": "9. 犬が好きです",
+    "furigana": "9. <ruby>犬<rt>いぬ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "9. 犬が | 好きです",
+    "translation": {
+      "natural": "9. 我喜歡狗。",
+      "literal": "9. 狗是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "note": "名詞，狗"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋が＋好きです」表示偏好的基本句型。",
+      "使用親切自然的丁寧體「です」。",
+      "寵物用品廣告或日常對談短片必備。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:29",
+    "japanese": "10. 猫が好きです",
+    "furigana": "10. <ruby>猫<rt>ねこ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "10. 猫が | 好きです",
+    "translation": {
+      "natural": "10. 我喜歡貓。",
+      "literal": "10. 貓是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "猫",
+        "reading": "ねこ",
+        "note": "名詞，貓"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」直接連接對象「猫」與喜好狀態「好きです」。",
+      "語氣溫和直接，呈現喜好立場。",
+      "社群影音與寵物相關商業旁白的常用用語。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:32",
+    "japanese": "Step 3 ライチが好きです",
+    "furigana": "Step 3 ライチが<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "Step 3 | ライチが | 好きです",
+    "translation": {
+      "natural": "Step 3 我喜歡荔枝。",
+      "literal": "Step 3 荔枝是喜歡的。"
+    },
+    "words": [
+      {
+        "word": "ライチ",
+        "reading": "ライチ",
+        "note": "名詞，荔枝"
+      },
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "形動詞（な形容詞），喜歡"
+      }
+    ],
+    "context_grammar": [
+      "對話的主動表態句，作為後續對答的接話點。",
+      "運用「好きです」引領主題，語氣和善誠懇。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:36",
+    "japanese": "じゃあ、たくさん食べてくださいね",
+    "furigana": "じゃあ、たくさん<ruby>食<rt>た</rt></ruby>べてくださいね",
+    "segmentation": "じゃあ、| たくさん | 食べてくださいね",
+    "translation": {
+      "natural": "那就要多吃一點喔！",
+      "literal": "那麼，請大量地吃呢。"
+    },
+    "words": [
+      {
+        "word": "じゃあ",
+        "reading": "じゃあ",
+        "note": "接續詞，那麼"
+      },
+      {
+        "word": "たくさん",
+        "reading": "たくさん",
+        "note": "副詞，很多、大量"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（て形為食べて）"
+      },
+      {
+        "word": "てください",
+        "reading": "てください",
+        "note": "句型，請..."
+      },
+      {
+        "word": "ね",
+        "reading": "ね",
+        "note": "終助詞，表示叮嚀或親近語氣"
+      }
+    ],
+    "context_grammar": [
+      "動詞「食べる」轉為連用形/て形「食べて」，接續「ください」構成溫和請求/鼓勵句型。",
+      "終助詞「ね」增添親切、關懷的互動感，接續詞「じゃあ」轉折順應對方的喜好。",
+      "極具生活感與親和力的對話，常用於食品廣告、熱情款待的影音橋段。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:40",
+    "japanese": "158. がいい Step 1",
+    "furigana": "158. がいい Step 1",
+    "segmentation": "158. がいい | Step 1",
+    "translation": {
+      "natural": "158. 很好／不錯 Step 1",
+      "literal": "158. 很好／不錯 Step 1"
+    },
+    "words": [
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的、優秀的"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟指示語，直接譯出。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:45",
+    "japanese": "1. 見晴らしがいい",
+    "furigana": "1. <ruby>見<rt>み</rt></ruby><ruby>晴<rt>は</rt></ruby>らしがいい",
+    "segmentation": "1. 見晴らしが | いい",
+    "translation": {
+      "natural": "1. 視野很好／展望極佳。",
+      "literal": "1. 視野是好的。"
+    },
+    "words": [
+      {
+        "word": "見晴らし",
+        "reading": "みはらし",
+        "note": "名詞，視野、景致、展望"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」主語標示「見晴らし」，搭配形容詞「いい」評估狀態良好。",
+      "「いい」在此為簡短口語形容詞（原形）。",
+      "建案廣告、飯店觀光推廣旁白的極高頻用語。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:48",
+    "japanese": "2. 品質がいい",
+    "furigana": "2. <ruby>品<rt>ひん</rt></ruby><ruby>質<rt>しつ</rt></ruby>がいい",
+    "segmentation": "2. 品質が | いい",
+    "translation": {
+      "natural": "2. 品質很好。",
+      "literal": "2. 品質是好的。"
+    },
+    "words": [
+      {
+        "word": "品質",
+        "reading": "ひんしつ",
+        "note": "名詞，品質"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "「品質＋が＋いい」直接對物品質感做出正面評價。",
+      "形容詞「いい」作謂語簡潔明快。",
+      "產品介紹、製造業商業宣傳片的標準點評用語。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:51",
+    "japanese": "3. 雰囲気がいい",
+    "furigana": "3. <ruby>氛<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいい",
+    "segmentation": "3. 雰囲気が | いい",
+    "translation": {
+      "natural": "3. 氣氛很好。",
+      "literal": "3. 氣氛是好的。"
+    },
+    "words": [
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛、情調"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "抽象名詞「雰囲気」搭配格助詞「が」與狀態形容詞「いい」。",
+      "「いい」保持形容詞基本形。",
+      "餐廳、咖啡廳或旅遊景點宣傳廣告中描繪場域質感的核心片語。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:54",
+    "japanese": "4. デザインがいい",
+    "furigana": "4. デザインが | いい",
+    "segmentation": "4. デザインが | いい",
+    "translation": {
+      "natural": "4. 設計很好／外型好看。",
+      "literal": "4. 設計是好的。"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "デザイン",
+        "note": "名詞，設計、外觀"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "外來語「デザイン」透過「が」與「いい」結合，強調視覺設計的優越性。",
+      "「いい」作為肯定性評語。",
+      "家電、精品、汽車宣傳片的經典評定語。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "01:57",
+    "japanese": "5. 色がいい",
+    "furigana": "5. <ruby>色<rt>いろ</rt></ruby>がいい",
+    "segmentation": "5. 色が | いい",
+    "translation": {
+      "natural": "5. 顏色很好看／成色佳。",
+      "literal": "5. 顏色是好的。"
+    },
+    "words": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "名詞「色」＋主格助詞「が」＋形容詞「いい」。",
+      "結構極簡，直觀表達視覺美感。",
+      "時尚服飾、美妝產品或工藝品評析短片用語。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:00",
+    "japanese": "6. 味がいい",
+    "furigana": "6. <ruby>味<rt>あじ</rt></ruby>がいい",
+    "segmentation": "6. 味の | いい",
+    "translation": {
+      "natural": "6. 味道很好／美味。",
+      "literal": "6. 味道是好的。"
+    },
+    "words": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道、風味"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "感官名詞「味」經由「が」連至肯定評語「いい」。",
+      "直接點出食品或餐飲的品質優勢。",
+      "美食節目、食品包裝廣告旁白精準用詞。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:02",
+    "japanese": "7. センスがいい",
+    "furigana": "7. センスがいい",
+    "segmentation": "7. センスが | いい",
+    "translation": {
+      "natural": "7. 品味很好／很有品味。",
+      "literal": "7. 品味是好的。"
+    },
+    "words": [
+      {
+        "word": "センス",
+        "reading": "センス",
+        "note": "名詞，品味、美感、敏銳度"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "慣用句型「センスがいい」，形容人的眼光或整體品味卓絕。",
+      "「いい」表示優秀，此為定型化讚美。",
+      "生活美學、時尚宣傳或人物訪談廣告中的高頻讚辭。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:06",
+    "japanese": "8. インテリアデザインがいい",
+    "furigana": "8. インテリアデザインがいい",
+    "segmentation": "8. インテリアデザインが | いい",
+    "translation": {
+      "natural": "8. 室內裝潢設計很好。",
+      "literal": "8. 室內裝潢設計是好的。"
+    },
+    "words": [
+      {
+        "word": "インテリアデザイン",
+        "reading": "インテリアデザイン",
+        "note": "名詞，室內設計、裝潢風格"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "複合外來語「インテリアデザイン」做主語，明確點出空間設計的亮點。",
+      "接形容詞「いい」進行正面肯定。",
+      "飯店、空間設計公司推廣片與住宅導覽常見句型。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:10",
+    "japanese": "9. 形がいい",
+    "furigana": "9. <ruby>形<rt>かたち</rt></ruby>がいい",
+    "segmentation": "9. 形が | いい",
+    "translation": {
+      "natural": "9. 外型很好／形狀優美。",
+      "literal": "9. 形狀是好的。"
+    },
+    "words": [
+      {
+        "word": "形",
+        "reading": "かたち",
+        "note": "名詞，外型、形狀"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "名詞「形」＋助詞「が」＋形容詞「いい」。",
+      "著重於事物外觀輪廓的視覺肯定。",
+      "產品開箱、工藝品展示影音常見註解。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:12",
+    "japanese": "10. 機能がいい",
+    "furigana": "10. <ruby>機<rt>き</rt></ruby><ruby>能<rt>のう</rt></ruby>がいい",
+    "segmentation": "10. 機能が | いい",
+    "translation": {
+      "natural": "10. 功能很好／實用性佳。",
+      "literal": "10. 功能是好的。"
+    },
+    "words": [
+      {
+        "word": "機能",
+        "reading": "きのう",
+        "note": "名詞，功能、作用"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "「機能」經由「が」連接「いい」，針對實用性做正面標示。",
+      "「いい」簡明客觀。",
+      "3C家電、功能性服飾廣告旁白的定番名句。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:16",
+    "japanese": "Step 3 雰囲気がいいレストランですね",
+    "furigana": "Step 3 <ruby>氛<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいレストランですね",
+    "segmentation": "Step 3 | 雰囲気がいい | レストランですね",
+    "translation": {
+      "natural": "Step 3 這是一家氣氛很棒的餐廳呢！",
+      "literal": "Step 3 是氣氛好的餐廳呢。"
+    },
+    "words": [
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的（連體修飾）"
+      },
+      {
+        "word": "レストラン",
+        "reading": "レストラン",
+        "note": "名詞，餐廳"
+      },
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "助動詞＋終助詞，是呢（尋求認同/感嘆）"
+      }
+    ],
+    "context_grammar": [
+      "子句「雰囲気がいい」作連體修飾，直接修飾後方的名詞「レストラン」。",
+      "句尾「ですね」將感嘆與尋求對方共鳴的情緒融於敬體之中。",
+      "美食導覽節目、生活日常Vlog中打卡讚美名店的黃金語句。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:21",
+    "japanese": "味もいいんですよ",
+    "furigana": "味もいいんですよ",
+    "segmentation": "味も | いいんですよ",
+    "translation": {
+      "natural": "而且味道也很棒喔！",
+      "literal": "味道也是好的唷。"
+    },
+    "words": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道"
+      },
+      {
+        "word": "も",
+        "reading": "も",
+        "note": "副助詞，也"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      },
+      {
+        "word": "んです",
+        "reading": "んです",
+        "note": "句型，強調理由、說明狀況（の感強調）"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "note": "終助詞，提示新資訊、強調"
+      }
+    ],
+    "context_grammar": [
+      "副助詞「も」取代「が」，表「遞進／累積」之意（不僅氣氛好，味道也…）。",
+      "「いい」後面加上說明強調的「～んですよ」（の＋です＋よ），用以向對方熱情補充資訊。",
+      "商業美食推薦或好物分享旁白中，強烈推薦時不可或缺的語氣。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:24",
+    "japanese": "159. 目に焼き付いて離れない Step 1",
+    "furigana": "159. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない Step 1",
+    "segmentation": "159. 目に焼き付いて | 離れない | Step 1",
+    "translation": {
+      "natural": "158. 烙印在眼簾久久不散／念念不忘 Step 1",
+      "literal": "158. 烙印在眼睛裡不離開 Step 1"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，烙印在眼中"
+      },
+      {
+        "word": "離れる",
+        "reading": "はなれる",
+        "note": "動詞，離開（否定形為離れない）"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟指示語，直接譯出。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:30",
+    "japanese": "1. 目に焼き付いて離れない夕焼け",
+    "furigana": "1. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>夕<rt>ゆう</rt></ruby><ruby>焼<rt>や</rt></ruby>け",
+    "segmentation": "1. 目に焼き付いて | 離れない | 夕焼け",
+    "translation": {
+      "natural": "1. 令人過目難忘的晚霞。",
+      "literal": "1. 烙印在眼簾不肯離去的晚霞。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用詞/動詞，深深烙印在眼裡（て形為焼き付いて）"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞「離れる」的否定形，不離開、無法排解"
+      },
+      {
+        "word": "夕焼け",
+        "reading": "ゆうやけ",
+        "note": "名詞，晚霞、夕照"
+      }
+    ],
+    "context_grammar": [
+      "動詞組「焼き付いて（て形接續）」與下一動詞否定形「離れない」連用，形成「烙印且揮之不去」的感性修飾句。",
+      "整個動詞句「目に焼き付いて離れない」作為連體修飾語，直接修飾後方名詞「夕焼け」。",
+      "高級旅遊專題、影像宣傳片或相機廣告的極致抒情文案。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:35",
+    "japanese": "2. 目に焼き付いて離れない雪景色",
+    "furigana": "2. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>雪<rt>ゆき</rt></ruby><ruby>景<rt>け</rt></ruby><ruby>色<rt>しき</rt></ruby>",
+    "segmentation": "2. 目に焼き付いて | 離れない | 雪景色",
+    "translation": {
+      "natural": "2. 令人過目難忘的雪景。",
+      "literal": "2. 烙印在眼簾不肯離去的雪景。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "動詞/慣用句，烙印在眼中"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞「離れる」否定形，揮之不去"
+      },
+      {
+        "word": "雪景色",
+        "reading": "ゆきげしき",
+        "note": "名詞，雪景"
+      }
+    ],
+    "context_grammar": [
+      "「目に焼き付いて（て形）＋離れない（連體形）」構成複合修飾結構，修飾「雪景色」。",
+      "「離れない」為一段動詞「離れる」的未然形加打消助動詞「ない」。",
+      "觀光推廣影片、鐵道旅行CM中經常出現的情境描繪。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:39",
+    "japanese": "3. 目に焼き付いて離れない海辺の風景",
+    "furigana": "3. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>海<rt>うみ</rt></ruby><ruby>辺<rt>べ</rt></ruby>の<ruby>風<rt>ふう</rt></ruby><ruby>景<rt>けい</rt></ruby>",
+    "segmentation": "3. 目に焼き付いて | 離れない | 海辺の風景",
+    "translation": {
+      "natural": "3. 令人過目難忘的海邊風景。",
+      "literal": "3. 烙印在眼簾不肯離去的海邊風景。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "動詞/慣用句，深深印在眼裡"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "海辺",
+        "reading": "うみべ",
+        "note": "名詞，海邊"
+      },
+      {
+        "word": "風景",
+        "reading": "ふうけい",
+        "note": "名詞，風景"
+      }
+    ],
+    "context_grammar": [
+      "修飾句「目に焼き付いて離れない」修飾名詞短語「海辺の風景（格助詞の連結兩名詞）」。",
+      "利用動詞否定連體形強化「印象深刻」的藝術感染力。",
+      "渡假飯店、航海旅遊宣傳片的經典修飾語。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:45",
+    "japanese": "4. 目に焼き付いて離れない映画のワンシーン",
+    "furigana": "4. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>のワンシーン",
+    "segmentation": "4. 目に焼き付いて | 離れない | 映画のワンシーン",
+    "translation": {
+      "natural": "4. 令人印象深刻、過目難忘的電影經典畫面。",
+      "literal": "4. 烙印在眼簾不肯離去的電影一幕。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，銘記在心、烙印眼中"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      },
+      {
+        "word": "ワンシーン",
+        "reading": "ワンシーン",
+        "note": "名詞，一個鏡頭、經典畫面"
+      }
+    ],
+    "context_grammar": [
+      "動詞修飾句「目に焼き付いて離れない」修飾「映画のワンシーン」。",
+      "「ワンシーン」為外來語，透過「の」與名詞「映画」結合。",
+      "電影預告片、影評專欄、串流平台宣傳旁白愛用詞彙。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:50",
+    "japanese": "5. 目に焼き付いて離れない人物",
+    "furigana": "5. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>人<rt>じん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>",
+    "segmentation": "5. 目に焼き付いて | 離れない | 人物",
+    "translation": {
+      "natural": "5. 令人念念不忘、印象極其深刻的人物。",
+      "literal": "5. 烙印在眼簾不肯離去的人物。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，深刻印象"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "人物",
+        "reading": "じんぶつ",
+        "note": "名詞，人物、角色"
+      }
+    ],
+    "context_grammar": [
+      "修飾語「目に焼き付いて離れない」修飾名詞「人物」，形容個人特質或外貌令人驚嘆且無法忘懷。",
+      "否定形「離れない」保留連體修飾功能。",
+      "紀錄片旁白、人物專訪廣告常出現的文案。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:55",
+    "japanese": "6. 目に焼き付いて離れない女優",
+    "furigana": "6. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>女<rt>じょ</rt></ruby><ruby>優<rt>ゆう</rt></ruby>",
+    "segmentation": "6. 目に焼き付いて | 離れない | 女優",
+    "translation": {
+      "natural": "6. 令人一眼難忘的女演員。",
+      "literal": "6. 烙印在眼簾不肯離去的女演員。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，極具存在感地印在眼前"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離開"
+      },
+      {
+        "word": "女優",
+        "reading": "じょゆう",
+        "note": "名詞，女演員"
+      }
+    ],
+    "context_grammar": [
+      "連體修飾結構修飾名詞「女優」，誇讚氣場極強或美貌奪目。",
+      "「焼き付いて（て形）」接「離れない（否定）」。",
+      "演藝新聞、電影海報宣傳標語。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:59",
+    "japanese": "7. 目に焼き付いて離れない俳優",
+    "furigana": "7. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>排<rt>はい</rt></ruby><ruby>優<rt>ゆう</rt></ruby>",
+    "segmentation": "7. 目に焼き付いて | 離れない | 俳優",
+    "translation": {
+      "natural": "7. 令人一眼難忘的男演員／演員。",
+      "literal": "7. 烙印在眼簾不肯離去的演員。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，深刻印在眼中"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "俳優",
+        "reading": "はいゆう",
+        "note": "名詞，演員"
+      }
+    ],
+    "context_grammar": [
+      "動詞組修飾名詞「俳優」，精準刻畫演藝實力或震撼人心的演技。",
+      "活用形「離れない」作為名詞修飾語（連體形）。",
+      "娛樂節目、戲劇劇照宣傳之經典形容。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:04",
+    "japanese": "8. 目に焼き付いて離れない動物の赤ちゃん",
+    "furigana": "8. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>動<rt>どう</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>の赤ちゃん",
+    "segmentation": "8. 目に焼き付いて | 離れない | 動物の赤ちゃん",
+    "translation": {
+      "natural": "8. 萌到令人過目難忘的動物寶寶。",
+      "literal": "8. 烙印在眼簾不肯離去的動物的嬰兒。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，深刻印象"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "動物",
+        "reading": "どうぶつ",
+        "note": "名詞，動物"
+      },
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "note": "名詞，嬰兒、寶寶"
+      }
+    ],
+    "context_grammar": [
+      "修飾句「目に焼き付いて離れない」修飾「動物の赤ちゃん（複合名詞）」",
+      "呈現可愛程度極高、令人無法移開視線的情感。",
+      "動物園廣告、萌寵Vlog常用誇張讚美。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:10",
+    "japanese": "9. 目に焼き付いて離れないスイーツ",
+    "furigana": "9. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れないスイーツ",
+    "segmentation": "9. 目に焼き付いて | 離れない | スイーツ",
+    "translation": {
+      "natural": "9. 令人吸睛且念念不忘的夢幻甜點。",
+      "literal": "9. 烙印在眼簾不肯離去的甜點。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，印象深刻"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "スイーツ",
+        "reading": "スイーツ",
+        "note": "名詞，甜點、甜食"
+      }
+    ],
+    "context_grammar": [
+      "修飾句連接外來語名詞「スイーツ」，強調產品的外觀視覺震撼力。",
+      "「離れない」作為連體形直接修飾名詞。",
+      "甜點店宣傳、美食雜誌開頭導言高頻形容。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:15",
+    "japanese": "10. 目に焼き付いて離れない思い出",
+    "furigana": "10. <ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れないお<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>",
+    "segmentation": "10. 目に焼き付いて | 離れない | 思い出",
+    "translation": {
+      "natural": "10. 歷歷在目、難以忘懷的回憶。",
+      "literal": "10. 烙印在眼簾不肯離去的回憶。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，歷歷在目"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "note": "名詞，回憶、記憶"
+      }
+    ],
+    "context_grammar": [
+      "將視覺性的「目に焼き付く」延伸修飾抽象名詞「思い出」，表現極具畫面感的回憶。",
+      "「離れない」表達回憶持續存留於腦海。",
+      "畢業季宣傳片、旅遊紀念影片終章常見抒情文案。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:20",
+    "japanese": "Step 3 素晴らしい夕焼けですね",
+    "furigana": "Step 3 <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>夕<rt>ゆう</rt></ruby><ruby>焼<rt>や</rt></ruby>けですね",
+    "segmentation": "Step 3 | 素晴らしい | 夕焼けですね",
+    "translation": {
+      "natural": "Step 3 真是絕美的晚霞呢！",
+      "literal": "Step 3 是極好的晚霞呢。"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "形容詞，絕妙的、極好的"
+      },
+      {
+        "word": "夕焼け",
+        "reading": "ゆうやけ",
+        "note": "名詞，晚霞"
+      },
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "助動詞＋終助詞，是呢（讚嘆/尋求認同）"
+      }
+    ],
+    "context_grammar": [
+      "形容詞「素晴らしい」直接修飾後方名詞「夕焼け」。",
+      "句尾「ですね」表感嘆與分享共鳴。",
+      "外景節目或旅遊Vlog觀賞風景時的讚嘆語句。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:24",
+    "japanese": "目に焼き付いて離れない夕焼けですね",
+    "furigana": "<ruby>目<rt>め</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>付<rt>つ</rt></ruby>いて<ruby>離<rt>はな</rt></ruby>れない<ruby>夕<rt>ゆう</rt></ruby><ruby>焼<rt>や</rt></ruby>けですね",
+    "segmentation": "目に焼き付いて | 離れない | 夕焼けですね",
+    "translation": {
+      "natural": "真的是令人過目難忘的晚霞呢！",
+      "literal": "是烙印在眼簾不肯離去的晚霞呢。"
+    },
+    "words": [
+      {
+        "word": "目に焼き付く",
+        "reading": "めにやきつく",
+        "note": "慣用句，印在眼中"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞，不離去"
+      },
+      {
+        "word": "夕焼け",
+        "reading": "ゆうやけ",
+        "note": "名詞，晚霞"
+      },
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "助動詞＋終助詞，是呢"
+      }
+    ],
+    "context_grammar": [
+      "回應前句，將一般形容詞「素晴らしい」升級為高級文案修飾語「目に焼き付いて離れない」。",
+      "「ですね」增加對話互動感與情感渲染力。",
+      "質感品牌廣告、觀光宣傳片結尾常用的深刻讚嘆。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:29",
+    "japanese": "160. 可愛い Step 1",
+    "furigana": "160. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>い Step 1",
+    "segmentation": "160. 可愛い | Step 1",
+    "translation": {
+      "natural": "160. 可愛 Step 1",
+      "literal": "160. 可愛 Step 1"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      }
+    ],
+    "context_grammar": [
+      "標題與步驟指示語，直接譯出。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:34",
+    "japanese": "1. 可愛いマスコット",
+    "furigana": "1. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いマスコット",
+    "segmentation": "1. 可愛い | マスコット",
+    "translation": {
+      "natural": "1. 可愛的吉祥物。",
+      "literal": "1. 可愛的吉祥物。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "マスコット",
+        "reading": "マスコット",
+        "note": "名詞，吉祥物"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「可愛い」直接連體修飾外來語名詞「マスコット」。",
+      "結構簡短直接，呈現直觀美感。",
+      "企業吉祥物推廣、周邊商品廣告旁白高頻用語。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:37",
+    "japanese": "2. 可愛いアニメキャラクター",
+    "furigana": "2. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いアニメキャラクター",
+    "segmentation": "2. 可愛い | アニメキャラクター",
+    "translation": {
+      "natural": "2. 可愛的動畫角色。",
+      "literal": "2. 可愛的動畫角色。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "アニメキャラクター",
+        "reading": "アニメキャラクター",
+        "note": "名詞，動畫角色"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「可愛い」連體修飾複合名詞「アニメキャラクター」。",
+      "直接凸顯角色的魅力賣點。",
+      "動漫宣傳、IP授權商品廣告必備描述。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:41",
+    "japanese": "3. 可愛い動物の赤ちゃん",
+    "furigana": "3. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>い<ruby>動<rt>どう</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>の赤ちゃん",
+    "segmentation": "3. 可愛い | 動物の赤ちゃん",
+    "translation": {
+      "natural": "3. 可愛的動物寶寶。",
+      "literal": "3. 可愛的動物的嬰兒。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "動物",
+        "reading": "どうぶつ",
+        "note": "名詞，動物"
+      },
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "note": "名詞，寶寶、嬰兒"
+      }
+    ],
+    "context_grammar": [
+      "「可愛い」直接修飾後方名詞短語「動物の赤ちゃん」。",
+      "「の」連接動物與赤ちゃん兩個名詞。",
+      "動物紀錄片或寵物影音旁白的標準詞組。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:45",
+    "japanese": "4. 可愛いデザイン",
+    "furigana": "4. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いデザイン",
+    "segmentation": "4. 可愛い | デザイン",
+    "translation": {
+      "natural": "4. 可愛的設計／討喜的外型。",
+      "literal": "4. 可愛的設計。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "デザイン",
+        "reading": "デザイン",
+        "note": "名詞，設計"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞原形「可愛い」連體修飾外來語「デザイン」。",
+      "強調商品外觀風格偏向討喜、萌系。",
+      "雜貨、文具、流行飾品廣告的常見文案。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:48",
+    "japanese": "5. 可愛い子供",
+    "furigana": "5. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>い<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>",
+    "segmentation": "5. 可愛い | 子供",
+    "translation": {
+      "natural": "5. 可愛的孩子。",
+      "literal": "5. 可愛的孩子。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "子供",
+        "reading": "こども",
+        "note": "名詞，兒童、孩子"
+      }
+    ],
+    "context_grammar": [
+      "「可愛い」修飾名詞「子供」。",
+      "形容詞連體形直接修飾名詞的基本用法。",
+      "家庭用品、育兒品牌廣告旁白的常見詞語組合。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:51",
+    "japanese": "6. 可愛いキーホルダー",
+    "furigana": "6. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いキーホルダー",
+    "segmentation": "6. 可愛い | キーホルダー",
+    "translation": {
+      "natural": "6. 可愛的鑰匙圈。",
+      "literal": "6. 可愛的鑰匙圈。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "キーホルダー",
+        "reading": "キーホルダー",
+        "note": "名詞，鑰匙圈"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「可愛い」修飾外來語名詞「キーホルダー」。",
+      "直接突出商品的賣點在於外觀魅力。",
+      "紀念品店、觀光特產短片的常見介紹詞。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:55",
+    "japanese": "7. 可愛いシール",
+    "furigana": "7. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いシール",
+    "segmentation": "7. 可愛い | シール",
+    "translation": {
+      "natural": "7. 可愛的貼紙。",
+      "literal": "7. 可愛的貼紙。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "シール",
+        "reading": "シール",
+        "note": "名詞，貼紙"
+      }
+    ],
+    "context_grammar": [
+      "形容詞「可愛い」修飾單字「シール」。",
+      "簡單明快，直擊受眾喜好。",
+      "文具雜貨品牌推廣影片常用詞。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:58",
+    "japanese": "8. 可愛いパッケージ",
+    "furigana": "8. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いパッケージ",
+    "segmentation": "8. 可愛い | パッケージ",
+    "translation": {
+      "natural": "8. 可愛的包裝。",
+      "literal": "8. 可愛的包裝。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "パッケージ",
+        "reading": "パッケージ",
+        "note": "名詞，外包裝、包裝盒"
+      }
+    ],
+    "context_grammar": [
+      "「可愛い」連體修飾外來語「パッケージ」。",
+      "著重標榜產品視覺上的吸睛效果。",
+      "伴手禮、美妝或零食開箱影片高頻標註。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:01",
+    "japanese": "9. 可愛いマスキングテープ",
+    "furigana": "9. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いマスキングテープ",
+    "segmentation": "9. 可愛い | マスキングテープ",
+    "translation": {
+      "natural": "9. 可愛的紙膠帶。",
+      "literal": "9. 可愛的紙膠帶。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "マスキングテープ",
+        "reading": "マスキングテープ",
+        "note": "名詞，紙膠帶、遮蔽膠帶"
+      }
+    ],
+    "context_grammar": [
+      "形容詞連體形修飾複合外來語名詞「マスキングテープ」。",
+      "直觀呈現商品的療癒特性。",
+      "手帳、文具雜貨宣傳片必備旁白。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:05",
+    "japanese": "10. 可愛いぬいぐるみ",
+    "furigana": "10. <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いぬいぐるみ",
+    "segmentation": "10. 可愛い | ぬいぐるみ",
+    "translation": {
+      "natural": "10. 可愛的玩偶／絨毛玩具。",
+      "literal": "10. 可愛的玩偶。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "ぬいぐるみ",
+        "reading": "ぬいぐるみ",
+        "note": "名詞，絨毛玩偶"
+      }
+    ],
+    "context_grammar": [
+      "形容詞「可愛い」修飾名詞「ぬいぐるみ」。",
+      "經典的定型修飾片語。",
+      "夾娃娃機推廣、玩具品牌廣告常見句式。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:09",
+    "japanese": "Step 3 可愛いキーホルダーですね",
+    "furigana": "Step 3 <ruby>可<rt>か</rt></ruby><ruby>愛<rt>わ</rt></ruby>いキーホルダーですね",
+    "segmentation": "Step 3 | 可愛い | キーホルダーですね",
+    "translation": {
+      "natural": "Step 3 這個鑰匙圈真可愛呢！",
+      "literal": "Step 3 是可愛的鑰匙圈呢。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "キーホルダー",
+        "reading": "キーホルダー",
+        "note": "名詞，鑰匙圈"
+      },
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "助動詞＋終助詞，是呢（讚嘆/開啟話題）"
+      }
+    ],
+    "context_grammar": [
+      "修飾句「可愛いキーホルダー」作為謂語，後接「ですね」向對方表達讚嘆並引導展開話題。",
+      "「ですね」展現客氣與親近感。",
+      "日常開場讚美、生活短片交流的經典語句。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:13",
+    "japanese": "ええ、お土産でもらいました",
+    "furigana": "ええ、お<ruby>土<rt>み</rt></ruby><ruby>産<rt>やげ</rt></ruby>でもらいました",
+    "segmentation": "ええ、| お土産で | もらいました",
+    "translation": {
+      "natural": "對呀，這是收到的伴手禮禮物喔。",
+      "literal": "嗯，作為伴手禮收到了。"
+    },
+    "words": [
+      {
+        "word": "ええ",
+        "reading": "ええ",
+        "note": "感嘆詞，是的、對啊（溫和肯定）"
+      },
+      {
+        "word": "お土産",
+        "reading": "おみやげ",
+        "note": "名詞，伴手禮、禮物（お為美化語）"
+      },
+      {
+        "word": "で",
+        "reading": "で",
+        "note": "格助詞，作為...（標示名義、狀態）"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "動詞，收到、得到（過去式丁寧體為もらいました）"
+      }
+    ],
+    "context_grammar": [
+      "感嘆詞「ええ」順應對方的讚美；格助詞「で」標示原因/身份（作為伴手禮）。",
+      "「もらいました」為五段動詞「もらう」的連用形接丁寧語過去式「ました」，表示受贈的事實。",
+      "日常生活問答、開箱開場Vlog極其自然順暢的禮貌對答。"
+    ]
+  }
+]

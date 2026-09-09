@@ -1,0 +1,1529 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "166. さすがだけのことはある",
+    "furigana": "166. さすがだけのことはある",
+    "segmentation": "166. | さすが | だけのことはある",
+    "translation": {
+      "natural": "166. 不愧是...",
+      "literal": "166. 不愧是有其相應價值/程度"
+    },
+    "words": [
+      {
+        "word": "さすが",
+        "reading": "さすが",
+        "note": "副詞/感嘆詞，不愧是、名不虛傳"
+      },
+      {
+        "word": "だけのことはある",
+        "reading": "だけのことはある",
+        "note": "慣用語，不愧是...、值得..."
+      }
+    ],
+    "context_grammar": [
+      "「～だけのことはある」為表示評價的慣用句型，前面的修飾語（動詞/名詞/形容詞）說明原因，表示其結果或表現名副其實、完全符合預期。",
+      "數字開頭依要求加上句號「.」。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:06",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯與基礎解析。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:08",
+    "japanese": "1. さすが留学しただけのことはある",
+    "furigana": "1. さすが<ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>しただけのことはある",
+    "segmentation": "1. | さすが | 留学した | だけのことはある",
+    "translation": {
+      "natural": "1. 不愧是去留過學的。",
+      "literal": "1. 真不愧是有留學過。"
+    },
+    "words": [
+      {
+        "word": "留学",
+        "reading": "りゅうがく",
+        "note": "名詞/動詞，留學"
+      }
+    ],
+    "context_grammar": [
+      "「留学した」為動詞過去式（た形），修飾後方名詞化接續「だけのことはある」，用來對過往經驗所展現出來的效果表示讚賞。",
+      "常見於日常對話或人物訪談中對他人能力、成果的褒獎。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:13",
+    "japanese": "2. さすが優勝しただけのことはある",
+    "furigana": "2. さすが<ruby>優<rt>ゆう</rt></ruby><ruby>勝<rt>しょう</rt></ruby>しただけのことはある",
+    "segmentation": "2. | さすが | 優勝した | だけのことはある",
+    "translation": {
+      "natural": "2. 不愧是獲得冠軍的。",
+      "literal": "2. 真不愧是有拿到優勝。"
+    },
+    "words": [
+      {
+        "word": "優勝",
+        "reading": "ゆうしょう",
+        "note": "名詞/動詞，優勝、獲得冠軍"
+      }
+    ],
+    "context_grammar": [
+      "「優勝した」為動詞簡體過去式連體修飾，作為「だけのことはある」的前置條件，用來肯定對手的實力或精彩表現。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:18",
+    "japanese": "3. さすが有名なだけのことはある",
+    "furigana": "3. さすが<ruby>有<rt>ゆう</rt></ruby><ruby>名<rt>めい</rt></ruby>なだけのことはある",
+    "segmentation": "3. | さすが | 有名な | だけのことはある",
+    "translation": {
+      "natural": "3. 不愧是名不虛傳（知名）的。",
+      "literal": "3. 真不愧是有名氣。"
+    },
+    "words": [
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "note": "な形容詞，有名的、著名的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞「有名」接續「だけ」時需加上連体形助詞「な」（有名＋な＋だけ），表示的名聲完全符合實際體驗與品質。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:23",
+    "japanese": "4. さすが手作りだけのことはある",
+    "furigana": "4. さすが<ruby>手<rt>て</rt></ruby><ruby>作<rt>づく</rt></ruby>りだけのことはある",
+    "segmentation": "4. | さすが | 手作り | だけのことはある",
+    "translation": {
+      "natural": "4. 不愧是手工製作的。",
+      "literal": "4. 真不愧是純手工。"
+    },
+    "words": [
+      {
+        "word": "手作り",
+        "reading": "てづくり",
+        "note": "名詞，手工製作、手作"
+      }
+    ],
+    "context_grammar": [
+      "名詞「手作り」直接接續「だけのことはある」，強調製品帶有手工獨有的溫暖感受或精緻質感。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:28",
+    "japanese": "5. さすがドイツ製だけのことはある",
+    "furigana": "5. さすがドイツ<ruby>製<rt>せい</rt></ruby>だけのことはある",
+    "segmentation": "5. | さすが | ドイツ製 | だけのことはある",
+    "translation": {
+      "natural": "5. 不愧是德國製造的。",
+      "literal": "5. 真不愧是德國製。"
+    },
+    "words": [
+      {
+        "word": "ドイツ製",
+        "reading": "どいつせい",
+        "note": "名詞，德國製造"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞/產地名詞接「製」後的連體用法，常用於商品解說、廣告推廣中強調品質保障。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:33",
+    "japanese": "6. さすが老舗だけのことはある",
+    "furigana": "6. さすが<ruby>老<rt>しに</rt></ruby><ruby>舗<rt>せ</rt></ruby>だけのことはある",
+    "segmentation": "6. | さすが | 老舗 | だけのことはある",
+    "translation": {
+      "natural": "6. 不愧是老字號店家。",
+      "literal": "6. 真不愧是百年老店。"
+    },
+    "words": [
+      {
+        "word": "老舗",
+        "reading": "しにせ",
+        "note": "名詞，老字號、百年老店"
+      }
+    ],
+    "context_grammar": [
+      "「老舗（しにせ）」為熟字訓特殊發音，修飾後續評語，多用於美食介紹或文化商品專題。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:38",
+    "japanese": "7. さすがトレーサビリティだけのことはある",
+    "furigana": "7. さすがトレーサビリティだけのことはある",
+    "segmentation": "7. | さすが | トレーサビリティ | だけのことはある",
+    "translation": {
+      "natural": "7. 不愧是有履歷追溯（Traceability）認證的。",
+      "literal": "7. 真不愧是可追溯性。"
+    },
+    "words": [
+      {
+        "word": "トレーサビリティ",
+        "reading": "とれーさびりてぃ",
+        "note": "名詞，可追溯性、產銷履歷"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞接續句型，常見於企業形象廣告或現代食品安全簡報中，突顯安全可靠度。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:44",
+    "japanese": "8. さすが台湾産の果物だけのことはある",
+    "furigana": "8. さすが<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby><ruby>産<rt>さん</rt></ruby>の<ruby>果<rt>くだ</rt></ruby><ruby>物<rt>もの</rt></ruby>だけのことはある",
+    "segmentation": "8. | さすが | 台湾産の | 果物 | だけのことはある",
+    "translation": {
+      "natural": "8. 不愧是台灣產的水果。",
+      "literal": "8. 真不愧是台灣產的水果。"
+    },
+    "words": [
+      {
+        "word": "台湾産",
+        "reading": "たいわんさん",
+        "note": "名詞，台灣產"
+      },
+      {
+        "word": "果物",
+        "reading": "くだもの",
+        "note": "名詞，水果"
+      }
+    ],
+    "context_grammar": [
+      "「台湾産の」為格助詞「の」名詞修飾名詞，組合成完整名詞片語後再連接句型。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:50",
+    "japanese": "9. さすが日本製のでんき製品だけのことはある",
+    "furigana": "9. さすが<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>製<rt>せい</rt></ruby>の<ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby><ruby>製<rt>せい</rt></ruby><ruby>品<rt>ひん</rt></ruby>だけのことはある",
+    "segmentation": "9. | さすが | 日本製の | 電気製品 | だけのことはある",
+    "translation": {
+      "natural": "9. 不愧是日本製造的家電產品。",
+      "literal": "9. 真不愧是日本製的電氣製品。"
+    },
+    "words": [
+      {
+        "word": "日本製",
+        "reading": "にほんせい",
+        "note": "名詞，日本製造"
+      },
+      {
+        "word": "電気製品",
+        "reading": "でんきせいひん",
+        "note": "名詞，家電、電器產品"
+      }
+    ],
+    "context_grammar": [
+      "「日本製」透過格助詞「の」修飾「電気製品」，呈現嚴謹的商品規格敘述風格。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:56",
+    "japanese": "10. さすが台湾のお茶だけのことはある",
+    "furigana": "10. さすが<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>の<ruby>お<rt></rt></ruby><ruby>茶<rt>ちゃ</rt></ruby>だけのことはある",
+    "segmentation": "10. | さすが | 台湾のお茶 | だけのことはある",
+    "translation": {
+      "natural": "10. 不愧是台灣的茶葉。",
+      "literal": "10. 真不愧是台灣的茶。"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "專有名詞，台灣"
+      },
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "note": "名詞，茶（帶美化語「お」）"
+      }
+    ],
+    "context_grammar": [
+      "「お茶」帶有美化前綴「お」，使用語顯得典雅優美，多用於觀光行銷與特產推薦。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:02",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯與基礎解析。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:05",
+    "japanese": "さすが台湾産の果物だけのことはありますね。ええ、台湾の果物は世界一ですよ。",
+    "furigana": "さすが<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby><ruby>産<rt>さん</rt></ruby>の<ruby>果<rt>くだ</rt></ruby><ruby>物<rt>もの</rt></ruby>だけのことはありますね。ええ、<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>の<ruby>果<rt>くだ</rt></ruby><ruby>物<rt>もの</rt></ruby>は<ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby><ruby>一<rt>いち</rt></ruby>ですよ。",
+    "segmentation": "さすが | 台湾産の果物だけの | ことはありますね。| ええ、| 台湾の果物は | 世界一ですよ。",
+    "translation": {
+      "natural": "不愧是台灣產的水果，確實不同凡響呢。是的，台灣的水果可是世界第一呢！",
+      "literal": "真不愧是台灣產的水果呢。對啊，台灣的水果是世界第一喔。"
+    },
+    "words": [
+      {
+        "word": "ありますね",
+        "reading": "ありますね",
+        "note": "動詞丁寧形＋終助詞「ね」，尋求對方認同"
+      },
+      {
+        "word": "世界一",
+        "reading": "せかいいち",
+        "note": "名詞，世界第一"
+      }
+    ],
+    "context_grammar": [
+      "雙人情境對話（A點題讚嘆，B熱情回應）。句尾終助詞「ね」傳遞共鳴感，「ですよ」則帶有自信強調資訊的語氣。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:14",
+    "japanese": "167. さわやかな",
+    "furigana": "167. さわやかな",
+    "segmentation": "167. | さわやかな",
+    "translation": {
+      "natural": "167. 清爽的／令人心曠神怡的",
+      "literal": "167. 清爽的"
+    },
+    "words": [
+      {
+        "word": "さわやか",
+        "reading": "さわやか",
+        "note": "な形容詞，清爽的、爽朗的"
+      }
+    ],
+    "context_grammar": [
+      "「さわやかな」為連體形，專門用來修飾後方的名詞，常見於飲料、天氣或人物形象廣告。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:19",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:21",
+    "japanese": "1. さわやかな天気",
+    "furigana": "1. さわやかな<ruby>天<rt>てん</rt></ruby><ruby>気<rt>き</rt></ruby>",
+    "segmentation": "1. | さわやかな | 天気",
+    "translation": {
+      "natural": "1. 怡人的天氣／秋高氣爽的天氣。",
+      "literal": "1. 清爽的天氣。"
+    },
+    "words": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "note": "名詞，天氣"
+      }
+    ],
+    "context_grammar": [
+      "「さわやかな」修飾自然現象「天気」，描繪出空氣清新、令人舒服的天氣條件。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:24",
+    "japanese": "2. さわやかな味",
+    "furigana": "2. さわやかな<ruby>味<rt>あじ</rt></ruby>",
+    "segmentation": "2. | さわやかな | 味",
+    "translation": {
+      "natural": "2. 清爽的口感／清新風味。",
+      "literal": "2. 清爽的味道。"
+    },
+    "words": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道、風味"
+      }
+    ],
+    "context_grammar": [
+      "用於食品飲料旁白，形容不油膩、帶有果香或微酸的舒服口感。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:27",
+    "japanese": "3. さわやかな性格",
+    "furigana": "3. さわやかな<ruby>性<rt>せい</rt></ruby><ruby>格<rt>かく</rt></ruby>",
+    "segmentation": "3. | さわやかな | 性格",
+    "translation": {
+      "natural": "3. 爽朗開朗的性格。",
+      "literal": "3. 清爽的性格。"
+    },
+    "words": [
+      {
+        "word": "性格",
+        "reading": "せいかく",
+        "note": "名詞，性格、個性"
+      }
+    ],
+    "context_grammar": [
+      "形容人的個性不拖泥帶水、待人真誠坦率，為正面褒義詞。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:31",
+    "japanese": "4. さわやかな雰囲気",
+    "furigana": "4. さわやかな<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>",
+    "segmentation": "4. | さわやかな | 雰囲気",
+    "translation": {
+      "natural": "4. 清新的氛圍／令人自在的氣氛。",
+      "literal": "4. 清爽的氛圍。"
+    },
+    "words": [
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛、氛圍"
+      }
+    ],
+    "context_grammar": [
+      "「雰囲気」傳統發音為「ふんいき」（常被口語讀作ふいんき），形容環境或場合給人的舒適感受。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:35",
+    "japanese": "5. さわやかな気候",
+    "furigana": "5. さわやかな<ruby>気<rt>き</rt></ruby><ruby>候<rt>こう</rt></ruby>",
+    "segmentation": "5. | さわやかな | 気候",
+    "translation": {
+      "natural": "5. 涼爽宜人的氣候。",
+      "literal": "5. 清爽的氣候。"
+    },
+    "words": [
+      {
+        "word": "気候",
+        "reading": "きこう",
+        "note": "名詞，氣候"
+      }
+    ],
+    "context_grammar": [
+      "修飾長期的氣候狀態，常用於旅遊宣傳文案或渡假勝地介紹。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:39",
+    "japanese": "6. さわやかな服装",
+    "furigana": "6. さわやかな<ruby>服<rt>ふく</rt></ruby><ruby>装<rt>そう</rt></ruby>",
+    "segmentation": "6. | さわやかな | 服装",
+    "translation": {
+      "natural": "6. 簡潔清爽的服裝打扮。",
+      "literal": "6. 清爽的服裝。"
+    },
+    "words": [
+      {
+        "word": "服装",
+        "reading": "ふくそう",
+        "note": "名詞，服裝、穿著"
+      }
+    ],
+    "context_grammar": [
+      "形容服裝顏色淡雅、剪裁俐落，符合夏季或職場新鮮人的良好形象。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:43",
+    "japanese": "7. さわやかな色",
+    "furigana": "7. さわやかな<ruby>色<rt>いろ</rt></ruby>",
+    "segmentation": "7. | さわやかな | 色",
+    "translation": {
+      "natural": "7. 明亮清爽的色彩。",
+      "literal": "7. 清爽的顏色。"
+    },
+    "words": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      }
+    ],
+    "context_grammar": [
+      "通常指藍色、白色、粉綠色等令人視覺感到放鬆且乾淨的色調。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:46",
+    "japanese": "8. さわやかな飲み物",
+    "furigana": "8. さわやかな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>",
+    "segmentation": "8. | さわやかな | 飲み物",
+    "translation": {
+      "natural": "8. 解渴清涼的飲品。",
+      "literal": "8. 清爽的飲料。"
+    },
+    "words": [
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "note": "名詞，飲料"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形「飲み」＋名詞「物」組成的複合名詞，廣泛用於各類運動飲料或氣泡水CM廣告。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:50",
+    "japanese": "9. さわやかなイメージ",
+    "furigana": "9. さわやかなイメージ",
+    "segmentation": "9. | さわやかな | イメージ",
+    "translation": {
+      "natural": "9. 清新健康的形象。",
+      "literal": "9. 清爽的印象。"
+    },
+    "words": [
+      {
+        "word": "イメージ",
+        "reading": "いめーじ",
+        "note": "名詞，形象、印象（Image）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞，多用於品牌行銷、代言人評語，強調親和力與正面能量。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:54",
+    "japanese": "10. さわやかな髪型",
+    "furigana": "10. さわやかな<ruby>髪<rt>かみ</rt></ruby><ruby>型<rt>がた</rt></ruby>",
+    "segmentation": "10. | さわやかな | 髪型",
+    "translation": {
+      "natural": "10. 俐落清爽的髮型。",
+      "literal": "10. 清爽的髮型。"
+    },
+    "words": [
+      {
+        "word": "髪型",
+        "reading": "かみがた",
+        "note": "名詞，髮型"
+      }
+    ],
+    "context_grammar": [
+      "連音變化：「かみ」（髮）＋「かた」（型）發生連濁變成「かみがた」。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:58",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:00",
+    "japanese": "さわやかな髪型ですね。ええ、夏ですからね。",
+    "furigana": "さわやかな<ruby>髪<rt>かみ</rt></ruby><ruby>型<rt>がた</rt></ruby>ですね。ええ、<ruby>夏<rt>なつ</rt></ruby>ですからね。",
+    "segmentation": "さわやかな髪型ですね。| ええ、| 夏ですからね。",
+    "translation": {
+      "natural": "髮型剪得很清爽呢！是啊，畢竟現在是夏天嘛。",
+      "literal": "是清爽的髮型呢。嗯，因為是夏天呢。"
+    },
+    "words": [
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "斷定助動詞丁寧形＋終助詞「ね」"
+      },
+      {
+        "word": "ですからね",
+        "reading": "ですからね",
+        "note": "原因理由助詞「から」＋終助詞「ね」，解釋理由"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋です＋から＋ね」用於口語中自然地補充說明原因或理由，語氣親切溫和。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:07",
+    "japanese": "168. 素敵な",
+    "furigana": "168. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な",
+    "segmentation": "168. | 素敵な",
+    "translation": {
+      "natural": "168. 極好的／棒極了的／極具魅力的",
+      "literal": "168. 出色的"
+    },
+    "words": [
+      {
+        "word": "素敵",
+        "reading": "すてき",
+        "note": "な形容詞，極好的、美好的、出色的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞連體形「素敵な」，為高頻使用的讚賞用語，廣泛用於稱讚人、事、物或生活風格。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:11",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:13",
+    "japanese": "1. 素敵なデザイン",
+    "furigana": "1. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>なデザイン",
+    "segmentation": "1. | 素敵な | デザイン",
+    "translation": {
+      "natural": "1. 出色極具品味的外觀設計。",
+      "literal": "1. 出色的設計。"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計、款式（Design）"
+      }
+    ],
+    "context_grammar": [
+      "常用於時尚、產品工業設計等商業旁白，傳達產品質感與高雅美感。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:17",
+    "japanese": "2. 素敵なご主人",
+    "furigana": "2. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>なご<ruby>主<rt>しゅ</rt></ruby><ruby>人<rt>じん</rt></ruby>",
+    "segmentation": "2. | 素敵な | ご主人",
+    "translation": {
+      "natural": "2. 體貼優秀的好丈夫／先生。",
+      "literal": "2. 出色的尊夫君。"
+    },
+    "words": [
+      {
+        "word": "ご主人",
+        "reading": "ごしゅじん",
+        "note": "名詞，（對他人）丈夫的尊稱"
+      }
+    ],
+    "context_grammar": [
+      "前綴接頭語「ご」表示對他人家屬的敬意與禮貌表達。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:20",
+    "japanese": "3. 素敵な奥さん",
+    "furigana": "3. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な<ruby>奥<rt>おく</rt></ruby>さん",
+    "segmentation": "3. | 素敵な | 奥さん",
+    "translation": {
+      "natural": "3. 氣質出眾的好妻子／太太。",
+      "literal": "3. 出色的尊夫人。"
+    },
+    "words": [
+      {
+        "word": "奥さん",
+        "reading": "おくさん",
+        "note": "名詞，（對他人）妻子的尊稱"
+      }
+    ],
+    "context_grammar": [
+      "字尾「さん」為禮貌接尾詞，用於尊稱他人的配偶。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:24",
+    "japanese": "4. 素敵なカバン",
+    "furigana": "4. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>なカバン",
+    "segmentation": "4. | 素敵な | カバン",
+    "translation": {
+      "natural": "4. 好看別緻的包包。",
+      "literal": "4. 出色的包包。"
+    },
+    "words": [
+      {
+        "word": "カバン",
+        "reading": "かばん",
+        "note": "名詞，包包、公事包"
+      }
+    ],
+    "context_grammar": [
+      "「カバン」常以片假名標示，作為生活用品時尚感之修飾。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:28",
+    "japanese": "5. 素敵な靴",
+    "furigana": "5. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な<ruby>靴<rt>くつ</rt></ruby>",
+    "segmentation": "5. | 素敵な | 靴",
+    "translation": {
+      "natural": "5. 漂亮的鞋子。",
+      "literal": "5. 出色的鞋子。"
+    },
+    "words": [
+      {
+        "word": "靴",
+        "reading": "くつ",
+        "note": "名詞，鞋子"
+      }
+    ],
+    "context_grammar": [
+      "單詞修飾結構，日語中「素敵な靴」帶有「帶你去美好地方」的優雅暗示風格。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:32",
+    "japanese": "6. 素敵なワンピース",
+    "furigana": "6. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>なワンピース",
+    "segmentation": "6. | 素敵な | ワンピース",
+    "translation": {
+      "natural": "6. 好看的連身裙。",
+      "literal": "6. 出色的連身裙。"
+    },
+    "words": [
+      {
+        "word": "ワンピース",
+        "reading": "わんぴーす",
+        "note": "名詞，連身裙（One-piece）"
+      }
+    ],
+    "context_grammar": [
+      "外來語服飾名詞，為服飾品牌宣傳影片中最典型的讚美詞彙。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:36",
+    "japanese": "7. 素敵なプレゼント",
+    "furigana": "7. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>なプレゼント",
+    "segmentation": "7. | 素敵な | プレゼント",
+    "translation": {
+      "natural": "7. 棒極了的禮物／貼心的禮物。",
+      "literal": "7. 出色的禮物。"
+    },
+    "words": [
+      {
+        "word": "プレゼント",
+        "reading": "ぷれぜんと",
+        "note": "名詞，禮物（Present）"
+      }
+    ],
+    "context_grammar": [
+      "常用於節慶購物、禮品廣告中，營造溫馨送禮的氛圍。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:40",
+    "japanese": "8. 素敵な家",
+    "furigana": "8. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な<ruby>家<rt>いえ</rt></ruby>",
+    "segmentation": "8. | 素敵な | 家",
+    "translation": {
+      "natural": "8. 夢幻美好的房子／溫馨的家。",
+      "literal": "8. 出色的房子。"
+    },
+    "words": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "note": "名詞，房子、住宅"
+      }
+    ],
+    "context_grammar": [
+      "房屋建案或室內裝潢廣告的標誌性短語，強調居住品質與美感。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:44",
+    "japanese": "9. 素敵な車",
+    "furigana": "9. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な<ruby>車<rt>くるま</rt></ruby>",
+    "segmentation": "9. | 素敵な | 車",
+    "translation": {
+      "natural": "9. 帥氣好看的車子。",
+      "literal": "9. 出色的車子。"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，汽車、車子"
+      }
+    ],
+    "context_grammar": [
+      "修飾名詞「車」，在汽車商務短片中傳達車主生活品味。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:48",
+    "japanese": "10. 素敵な建物",
+    "furigana": "10. <ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な<ruby>建<rt>たて</rt></ruby><ruby>物<rt>もの</rt></ruby>",
+    "segmentation": "10. | 素敵な | 建物",
+    "translation": {
+      "natural": "10. 造型優美造型獨特的建築物。",
+      "literal": "10. 出色的建築物。"
+    },
+    "words": [
+      {
+        "word": "建物",
+        "reading": "たてもの",
+        "note": "名詞，建築物、樓房"
+      }
+    ],
+    "context_grammar": [
+      "動詞「建てる」連用形「建て」＋名詞「物」組成的複合名詞。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:52",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:55",
+    "japanese": "素敵な車ですね。ええ、先月買ったんです。",
+    "furigana": "<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>な<ruby>車<rt>くるま</rt></ruby>ですね。ええ、<ruby>先<rt>せん</rt></ruby><ruby>月<rt>げつ</rt></ruby><ruby>買<rt>か</rt></ruby>ったんです。",
+    "segmentation": "素敵な車ですね。| ええ、| 先月買ったんです。",
+    "translation": {
+      "natural": "這台車真好看呢！是啊，我上個月才買的。",
+      "literal": "是出色的車子呢。對啊，是上個月買的。"
+    },
+    "words": [
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "note": "名詞/時間詞，上個月"
+      },
+      {
+        "word": "買ったんです",
+        "reading": "かったんです",
+        "note": "買語動詞過去式「買った」＋說明語氣「んです」"
+      }
+    ],
+    "context_grammar": [
+      "「動詞普通形＋んです（の法）」句型，用於向對方補充說明事由或回應稱讚時帶有說明背景的口語色彩。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:03",
+    "japanese": "169. 素晴らしい",
+    "furigana": "169. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい",
+    "segmentation": "169. | 素晴らしい",
+    "translation": {
+      "natural": "169. 絕佳的／優秀的／出色的",
+      "literal": "169. 極好的"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "い形容詞，極好的、優秀的、精彩的"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞原型，語氣比「素敵」更為正式且評價程度更高，常出現在商業介紹、官方致詞中。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:08",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:10",
+    "japanese": "1. 素晴らしいホテル",
+    "furigana": "1. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいホテル",
+    "segmentation": "1. | 素晴らしい | ホテル",
+    "translation": {
+      "natural": "1. 極佳頂級的飯店。",
+      "literal": "1. 優秀的飯店。"
+    },
+    "words": [
+      {
+        "word": "ホテル",
+        "reading": "ほてる",
+        "note": "名詞，飯店、酒店（Hotel）"
+      }
+    ],
+    "context_grammar": [
+      "直接修飾外來語名詞，常用於高級旅遊企劃或奢華體驗影片宣傳。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:14",
+    "japanese": "2. 素晴らしいレストラン",
+    "furigana": "2. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいレストラン",
+    "segmentation": "2. | 素晴らしい | レストラン",
+    "translation": {
+      "natural": "2. 出色的餐廳／高評價餐廳。",
+      "literal": "2. 優秀的餐廳。"
+    },
+    "words": [
+      {
+        "word": "レストラン",
+        "reading": "れすとらん",
+        "note": "名詞，餐廳（Restaurant）"
+      }
+    ],
+    "context_grammar": [
+      "連體修飾結構，讚嘆美食環境與整體服務品質。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:18",
+    "japanese": "3. 素晴らしいシステム",
+    "furigana": "3. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいシステム",
+    "segmentation": "3. | 素晴らしい | システム",
+    "translation": {
+      "natural": "3. 卓越高超的系統／完善的制度。",
+      "literal": "3. 優秀的系統。"
+    },
+    "words": [
+      {
+        "word": "システム",
+        "reading": "しすてむ",
+        "note": "名詞，系統、體制（System）"
+      }
+    ],
+    "context_grammar": [
+      "商業簡報與IT產業發表會常見詞組，用於強調技術領先與高效率。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:22",
+    "japanese": "4. 素晴らしい機能",
+    "furigana": "4. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>機<rt>き</rt></ruby><ruby>能<rt>のう</rt></ruby>",
+    "segmentation": "4. | 素晴らしい | 機能",
+    "translation": {
+      "natural": "4. 優異出色的功能。",
+      "literal": "4. 優秀的功能。"
+    },
+    "words": [
+      {
+        "word": "機能",
+        "reading": "きのう",
+        "note": "名詞，功能、作用"
+      }
+    ],
+    "context_grammar": [
+      "修飾產品規格名詞，常見於家電或數位3C解說影片。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:26",
+    "japanese": "5. 素晴らしい条件",
+    "furigana": "5. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>条<rt>じょう</rt></ruby><ruby>件<rt>けん</rt></ruby>",
+    "segmentation": "5. | 素晴らしい | 条件",
+    "translation": {
+      "natural": "5. 優渥優越的條件。",
+      "literal": "5. 優秀的條件。"
+    },
+    "words": [
+      {
+        "word": "条件",
+        "reading": "じょうけん",
+        "note": "名詞，條件"
+      }
+    ],
+    "context_grammar": [
+      "常用於招募廣告（求人）或商業合約談判中，強調利多方案。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:30",
+    "japanese": "6. 素晴らしいパートナー",
+    "furigana": "6. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいパートナー",
+    "segmentation": "6. | 素晴らしい | パートナー",
+    "translation": {
+      "natural": "6. 絕佳出色的事業夥伴／伴侶。",
+      "literal": "6. 優秀的夥伴。"
+    },
+    "words": [
+      {
+        "word": "パートナー",
+        "reading": "ぱーとなー",
+        "note": "名詞，夥伴、合夥人（Partner）"
+      }
+    ],
+    "context_grammar": [
+      "常用於B2B企業合作宣傳或團隊致謝辭中。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:35",
+    "japanese": "7. 素晴らしい才能",
+    "furigana": "7. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>才<rt>さい</rt></ruby><ruby>能<rt>のう</rt></ruby>",
+    "segmentation": "7. | 素晴らしい | 才能",
+    "translation": {
+      "natural": "7. 驚人卓越的才能。",
+      "literal": "7. 優秀的才能。"
+    },
+    "words": [
+      {
+        "word": "才能",
+        "reading": "さいのう",
+        "note": "名詞，才能、天賦"
+      }
+    ],
+    "context_grammar": [
+      "高度評價他人天賦與才能，語氣真摯且正式。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:39",
+    "japanese": "8. 素晴らしい製品",
+    "furigana": "8. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>製<rt>せい</rt></ruby><ruby>品<rt>ひん</rt></ruby>",
+    "segmentation": "8. | 素晴らしい | 製品",
+    "translation": {
+      "natural": "8. 高品質卓越的產品。",
+      "literal": "8. 優秀的製品。"
+    },
+    "words": [
+      {
+        "word": "製品",
+        "reading": "せいひん",
+        "note": "名詞，製品、產品"
+      }
+    ],
+    "context_grammar": [
+      "品牌發表會最高頻出現的產品稱揚用語。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:43",
+    "japanese": "9. 素晴らしい成績",
+    "furigana": "9. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>成<rt>せい</rt></ruby><ruby>績<rt>せき</rt></ruby>",
+    "segmentation": "9. | 素晴らしい | 成績",
+    "translation": {
+      "natural": "9. 亮眼優異的成績／成果。",
+      "literal": "9. 優秀的成績。"
+    },
+    "words": [
+      {
+        "word": "成績",
+        "reading": "せいせき",
+        "note": "名詞，成績、績效"
+      }
+    ],
+    "context_grammar": [
+      "可用於學業成績或企業銷售業績（業績）之正向肯定。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:47",
+    "japanese": "10. 素晴らしいデザイン",
+    "furigana": "10. <ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいデザイン",
+    "segmentation": "10. | 素晴らしい | デザイン",
+    "translation": {
+      "natural": "10. 極具震撼感絕妙的設計。",
+      "literal": "10. 優秀的設計。"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計（Design）"
+      }
+    ],
+    "context_grammar": [
+      "強調美感與功能性兼具的高水準設計成果。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:52",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:55",
+    "japanese": "素晴らしい成績でしたね。ありがとうございます。",
+    "furigana": "<ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>成<rt>せい</rt></ruby><ruby>績<rt>せき</rt></ruby>でしたね。ありがとうございます。",
+    "segmentation": "素晴らしい成績でしたね。| ありがとうございます。",
+    "translation": {
+      "natural": "考取（取得）了非常亮眼的成績呢！非常謝謝您。",
+      "literal": "是優秀的成績呢。非常感謝。"
+    },
+    "words": [
+      {
+        "word": "でしたね",
+        "reading": "でしたね",
+        "note": "禮貌斷定助動詞過去式「でした」＋終助詞「ね」"
+      },
+      {
+        "word": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "note": "寒暄語，非常感謝"
+      }
+    ],
+    "context_grammar": [
+      "「でしたね」對過去已完成的結果進行肯定與認同；對方則使用標準禮貌用語「ありがとうございます」表達謝意。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:02",
+    "japanese": "170. 絶妙な",
+    "furigana": "170. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な",
+    "segmentation": "170. | 絶妙な",
+    "translation": {
+      "natural": "170. 絕妙的／恰到好處的／精妙的",
+      "literal": "170. 絕妙的"
+    },
+    "words": [
+      {
+        "word": "絶妙",
+        "reading": "ぜつみょう",
+        "note": "な形容詞，絕妙的、恰到好處的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞連體形「絶妙な」，強調比例、 timing 或搭配達到極致完美的平衡。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:07",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:09",
+    "japanese": "1. 絶妙な味です",
+    "furigana": "1. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>味<rt>あじ</rt></ruby>です",
+    "segmentation": "1. | 絶妙な | 味です",
+    "translation": {
+      "natural": "1. 味道拿捏得恰到好處／絕妙的好滋味。",
+      "literal": "1. 是絕妙的味道。"
+    },
+    "words": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道"
+      },
+      {
+        "word": "です",
+        "reading": "です",
+        "note": "助動詞，是（丁寧體）"
+      }
+    ],
+    "context_grammar": [
+      "「絶妙な」修飾「味」，形容甜鹹、酸甜或調味比例完美融合的極致感受。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:13",
+    "japanese": "2. 絶妙な色です",
+    "furigana": "2. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>色<rt>いろ</rt></ruby>です",
+    "segmentation": "2. | 絶妙な | 色です",
+    "translation": {
+      "natural": "2. 顏色搭配得非常精妙。",
+      "literal": "2. 是絕妙的顏色。"
+    },
+    "words": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      }
+    ],
+    "context_grammar": [
+      "常用於藝術品、時尚調色或汽車烤漆顏色的高雅評價。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:16",
+    "japanese": "3. 絶妙な形です",
+    "furigana": "3. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>です",
+    "segmentation": "3. | 絶妙な | 形です",
+    "translation": {
+      "natural": "3. 造型精緻流線／線條完美的形狀。",
+      "literal": "3. 是絕妙的形狀。"
+    },
+    "words": [
+      {
+        "word": "形",
+        "reading": "かたち",
+        "note": "名詞，形狀、外觀"
+      }
+    ],
+    "context_grammar": [
+      "形容外觀結構優美、人體工學握感極佳之物品。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:20",
+    "japanese": "4. 絶妙な大きさです",
+    "furigana": "4. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>大<rt>おお</rt></ruby>きさです",
+    "segmentation": "4. | 絶妙な | 大きさです",
+    "translation": {
+      "natural": "4. 尺寸大小剛好／大小非常適中。",
+      "literal": "4. 是絕妙的大小。"
+    },
+    "words": [
+      {
+        "word": "大きさ",
+        "reading": "おおきさ",
+        "note": "名詞，大小、尺寸（形容詞「大きい」名詞化）"
+      }
+    ],
+    "context_grammar": [
+      "形容詞語幹＋接尾語「さ」轉化為抽象名詞（表示程度/尺寸），再受「絶妙な」修飾。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:24",
+    "japanese": "5. 絶妙なタイミングです",
+    "furigana": "5. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>なタイミングです",
+    "segmentation": "5. | 絶妙な | タイミングです",
+    "translation": {
+      "natural": "5. 時間點抓得太剛好了／絕妙的時間點。",
+      "literal": "5. 是絕妙的時機。"
+    },
+    "words": [
+      {
+        "word": "タイミング",
+        "reading": "たいみんぐ",
+        "note": "名詞，時機、時間點（Timing）"
+      }
+    ],
+    "context_grammar": [
+      "修飾外來語「タイミング」，表示在最完美、最不可思議的瞬間發生。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:29",
+    "japanese": "6. 絶妙なプレイです",
+    "furigana": "6. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>なプレイです",
+    "segmentation": "6. | 絶妙な | プレイです",
+    "translation": {
+      "natural": "6. 精彩絕倫的防守/發揮（精妙的操作）。",
+      "literal": "6. 是絕妙的展現/Play。"
+    },
+    "words": [
+      {
+        "word": "プレイ",
+        "reading": "ぷれい",
+        "note": "名詞，比賽表現、操作（Play）"
+      }
+    ],
+    "context_grammar": [
+      "體育賽事主播實況播報、電競比賽播報常見的好球讚賞用語。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:33",
+    "japanese": "7. 絶妙な出来です",
+    "furigana": "7. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>出<rt>で</rt></ruby><ruby>来<rt>き</rt></ruby>です",
+    "segmentation": "7. | 絶妙な | 出来です",
+    "translation": {
+      "natural": "7. 做工／完成度極其精湛。",
+      "literal": "7. 是絕妙的成品/完成度。"
+    },
+    "words": [
+      {
+        "word": "出来",
+        "reading": "でき",
+        "note": "名詞，成品、完成度、做工"
+      }
+    ],
+    "context_grammar": [
+      "動詞「できる」連用形轉為名詞「出来（でき）」，指作品、料理或製品的完成品質。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:37",
+    "japanese": "8. 絶妙な歌声です",
+    "furigana": "8. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>歌<rt>うた</rt></ruby><ruby>声<rt>ごえ</rt></ruby>です",
+    "segmentation": "8. | 絶妙な | 歌声です",
+    "translation": {
+      "natural": "8. 天籟般／美妙動聽的歌聲。",
+      "literal": "8. 是絕妙的歌聲。"
+    },
+    "words": [
+      {
+        "word": "歌声",
+        "reading": "うたごえ",
+        "note": "名詞，歌聲（連濁：「うた」＋「こえ」→「うたごえ」）"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「歌声」產生連濁音變（こえ→ごえ），修飾為歌唱表演之讚詞。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:41",
+    "japanese": "9. 絶妙な絵です",
+    "furigana": "9. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>絵<rt>え</rt></ruby>です",
+    "segmentation": "9. | 絶妙な | 絵です",
+    "translation": {
+      "natural": "9. 筆觸與意境極其精妙的畫作。",
+      "literal": "9. 是絕妙的畫。"
+    },
+    "words": [
+      {
+        "word": "絵",
+        "reading": "え",
+        "note": "名詞，畫作、圖畫"
+      }
+    ],
+    "context_grammar": [
+      "單音節名詞「絵（え）」受修飾，常用於藝術鑑賞或展覽導覽。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:45",
+    "japanese": "10. 絶妙な音楽です",
+    "furigana": "10. <ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>音<rt>おん</rt></ruby><ruby>楽<rt>がく</rt></ruby>です",
+    "segmentation": "10. | 絶妙な | 音楽です",
+    "translation": {
+      "natural": "10. 編曲旋律絕妙的音樂。",
+      "literal": "10. 是絕妙的音樂。"
+    },
+    "words": [
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "note": "名詞，音樂"
+      }
+    ],
+    "context_grammar": [
+      "修飾名詞「音楽」，形容配樂或曲風與場面氛圍完美契合。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:50",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題段落，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:52",
+    "japanese": "絶妙な味ですね。もちろんですよ。私の一番のおすすめですから。",
+    "furigana": "<ruby>絶<rt>ぜつ</rt></ruby><ruby>妙<rt>みょう</rt></ruby>な<ruby>味<rt>あじ</rt></ruby>ですね。もちろんですよ。<ruby>私<rt>わたし</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>番<rt>ばん</rt></ruby>のおすすめですから。",
+    "segmentation": "絶妙な味ですね。| もちろんですよ。| 私の一番の | おすすめですから。",
+    "translation": {
+      "natural": "這滋味真是調配得太絕妙了呢！那是當然的囉，因為這可是我最推薦的招牌呢。",
+      "literal": "是絕妙的味道呢。當然囉。因為是我最推薦的。"
+    },
+    "words": [
+      {
+        "word": "もちろん",
+        "reading": "もちろん",
+        "note": "副詞，當然、那是自然"
+      },
+      {
+        "word": "一番",
+        "reading": "いちばん",
+        "note": "副詞/名詞，最、第一"
+      },
+      {
+        "word": "おすすめ",
+        "reading": "おすすめ",
+        "note": "名詞，推薦（帶美化語「お」）"
+      }
+    ],
+    "context_grammar": [
+      "副詞「もちろん」＋「ですよ」加強語氣自信；「私の一番のおすすめ（名詞修飾名詞）」加上原因助詞「ですから」，展現出熱情推薦的商務與生活對話邏輯。"
+    ]
+  }
+]

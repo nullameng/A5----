@@ -1,0 +1,1422 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "Part 5",
+    "furigana": "Part 5",
+    "segmentation": "Part 5",
+    "translation": {
+      "natural": "第五部分",
+      "literal": "Part 5"
+    },
+    "words": [],
+    "context_grammar": [
+      "Part 5：單元標題。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:02",
+    "japanese": "151. 愛くるしい Step 1",
+    "furigana": "151. <ruby>愛<rt>あい</rt></ruby>くるしい Step 1",
+    "segmentation": "151. 愛くるしい | Step 1",
+    "translation": {
+      "natural": "151. 嬌小可愛 / 討人喜歡 步驟一",
+      "literal": "151. 嬌小可愛 步驟1"
+    },
+    "words": [
+      {
+        "word": "愛くるしい",
+        "reading": "あいくるしい",
+        "note": "形容詞，嬌小可愛、討人喜歡的"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしい：い形容詞，用來修飾後方的名詞，指極其討人喜愛、惹人憐愛的模樣。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:06",
+    "japanese": "1. 愛くるしいパンダ",
+    "furigana": "1. <ruby>愛<rt>あい</rt></ruby>くるしいパンダ",
+    "segmentation": "1. 愛くるしい | パンダ",
+    "translation": {
+      "natural": "1. 討人喜歡的貓熊",
+      "literal": "1. 嬌小可愛的貓熊"
+    },
+    "words": [
+      {
+        "word": "愛くるしい",
+        "reading": "あいくるしい",
+        "note": "形容詞，嬌小可愛的"
+      },
+      {
+        "word": "パンダ",
+        "reading": "ぱんだ",
+        "note": "名詞，貓熊"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしいパンダ：い形容詞連體形修飾名詞「パンダ」。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:09",
+    "japanese": "2. 愛くるしい子犬",
+    "furigana": "2. <ruby>愛<rt>あい</rt></ruby>くるしい<ruby>子<rt>こ</rt></ruby><ruby>犬<rt>いぬ</rt></ruby>",
+    "segmentation": "2. 愛くるしい | 子犬",
+    "translation": {
+      "natural": "2. 討人喜歡的幼犬",
+      "literal": "2. 嬌小可愛的小狗"
+    },
+    "words": [
+      {
+        "word": "子犬",
+        "reading": "こいぬ",
+        "note": "名詞，小狗、幼犬"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしい子犬：形容詞連體修飾，常用於描述寵物、動物幼崽的憨態可掬。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:11",
+    "japanese": "3. 愛くるしい子猫",
+    "furigana": "3. <ruby>愛<rt>あい</rt></ruby>くるしい<ruby>子<rt>こ</rt></ruby><ruby>猫<rt>ねこ</rt></ruby>",
+    "segmentation": "3. 愛くるしい | 子猫",
+    "translation": {
+      "natural": "3. 討人喜歡的小貓",
+      "literal": "3. 嬌小可愛的小貓"
+    },
+    "words": [
+      {
+        "word": "子猫",
+        "reading": "こねこ",
+        "note": "名詞，小貓、幼貓"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしい子猫：修飾名詞結構，形容動態或眼神極具魅力的幼貓。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:14",
+    "japanese": "4. 愛くるしい赤ちゃん",
+    "furigana": "4. <ruby>愛<rt>あい</rt></ruby>くるしい<ruby>赤<rt>あか</rt></ruby>ちゃん",
+    "segmentation": "4. 愛くるしい | 赤ちゃん",
+    "translation": {
+      "natural": "4. 討人喜歡的小寶寶",
+      "literal": "4. 嬌小可愛的嬰兒"
+    },
+    "words": [
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "note": "名詞，嬰兒、寶寶"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしい赤ちゃん：在母嬰廣告或生活節目中，常用來強調嬰兒天真無邪的可愛感。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:17",
+    "japanese": "5. 愛くるしい子供",
+    "furigana": "5. <ruby>愛<rt>あい</rt></ruby>くるしい<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>",
+    "segmentation": "5. 愛くるしい | 子供",
+    "translation": {
+      "natural": "5. 討人喜愛的小孩",
+      "literal": "5. 嬌小可愛的孩子"
+    },
+    "words": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "note": "名詞，兒童、小孩"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしい子供：修飾名詞「子供」，呈現活潑惹人憐愛的感覺。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:20",
+    "japanese": "6. 愛くるしい人形",
+    "furigana": "6. <ruby>愛<rt>あい</rt></ruby>くるしい<ruby>人<rt>にん</rt></ruby><ruby>形<rt>ぎょう</rt></ruby>",
+    "segmentation": "6. 愛くるしい | 人形",
+    "translation": {
+      "natural": "6. 討人喜愛的玩偶",
+      "literal": "6. 嬌小可愛的人形娃娃"
+    },
+    "words": [
+      {
+        "word": "人形",
+        "reading": "にんぎょう",
+        "note": "名詞，娃娃、人偶"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしい人形：修飾名詞，常用於玩具或精品商品的行銷宣傳中。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:22",
+    "japanese": "7. 愛くるしいぬいぐるみ",
+    "furigana": "7. <ruby>愛<rt>あい</rt></ruby>くるしいぬいぐるみ",
+    "segmentation": "7. 愛くるしい | ぬいぐるみ",
+    "translation": {
+      "natural": "7. 討人喜愛的絨毛玩偶",
+      "literal": "7. 嬌小可愛的填充玩具"
+    },
+    "words": [
+      {
+        "word": "ぬいぐるみ",
+        "reading": "ぬいぐるみ",
+        "note": "名詞，絨毛玩具、布偶"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしいぬいぐるみ：用來精準描繪填充玩偶軟萌、療癒的特色。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:26",
+    "japanese": "8. 愛くるしいキャラクター",
+    "furigana": "8. <ruby>愛<rt>あい</rt></ruby>くるしいキャラクター",
+    "segmentation": "8. 愛くるしい | キャラクター",
+    "translation": {
+      "natural": "8. 討人喜愛的卡通角色",
+      "literal": "8. 嬌小可愛的吉祥物角色"
+    },
+    "words": [
+      {
+        "word": "キャラクター",
+        "reading": "きゃらくたー",
+        "note": "名詞，角色、卡通人物"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしいキャラクター：外來語「キャラクター」受形容詞修飾，常用於動漫或品牌吉祥物的文案說明。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:29",
+    "japanese": "9. 愛くるしいマスコット",
+    "furigana": "9. <ruby>愛<rt>あい</rt></ruby>くるしいマスコット",
+    "segmentation": "9. 愛くるしい | マスコット",
+    "translation": {
+      "natural": "9. 討人喜愛的吉祥物",
+      "literal": "9. 嬌小可愛的幸運物"
+    },
+    "words": [
+      {
+        "word": "マスコット",
+        "reading": "ますこっと",
+        "note": "名詞，吉祥物"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしいマスコット：連體修飾，廣泛用於企業或活動宣傳。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:32",
+    "japanese": "10. 愛くるしいデザイン",
+    "furigana": "10. <ruby>愛<rt>あい</rt></ruby>くるしいデザイン",
+    "segmentation": "10. 愛くるしい | デザイン",
+    "translation": {
+      "natural": "10. 討人喜愛的設計",
+      "literal": "10. 嬌小可愛的設計"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計、圖樣"
+      }
+    ],
+    "context_grammar": [
+      "愛くるしいデザイン：修飾無生命物品的外觀造型，強調產品賣點。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:35",
+    "japanese": "Step 3 愛くるしいマスコットですね。そうでしょう？可愛いでしょう？",
+    "furigana": "Step 3 <ruby>愛<rt>あい</rt></ruby>くるしいマスコットですね。<ruby>粉<rt></rt></ruby>そうでしょう？<ruby>可<rt>か</rt></ruby><ruby>愛<rt>あい</rt></ruby>いでしょう？",
+    "segmentation": "Step 3 | 愛くるしいマスコットですね。| そうでしょう？| 可愛いでしょう？",
+    "translation": {
+      "natural": "步驟三：真是個討人喜愛的吉祥物呢！對吧？很可愛吧？",
+      "literal": "步驟3 是嬌小可愛的吉祥物呢。是那樣吧？可愛吧？"
+    },
+    "words": [
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "終助詞，表示徵求認同或讚嘆"
+      },
+      {
+        "word": "そうでしょう",
+        "reading": "そうでしょう",
+        "note": "片語，是吧、對吧（推測或尋求認同）"
+      },
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      }
+    ],
+    "context_grammar": [
+      "～ですね：句尾助詞，表達共鳴與附和。",
+      "～でしょう：推量形，以升調發音時用於強烈尋求對方的認同，在口語對話與軟性宣傳中極為常見。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:43",
+    "japanese": "152. 垢抜けた Step 1",
+    "furigana": "152. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けた Step 1",
+    "segmentation": "152. 垢抜けた | Step 1",
+    "translation": {
+      "natural": "152. 時髦脫俗的 / 洗鍊的 步驟一",
+      "literal": "152. 脫去污垢的 步驟1"
+    },
+    "words": [
+      {
+        "word": "垢抜ける",
+        "reading": "あかぬける",
+        "note": "動詞，擺脫俗氣、變得時髦洗鍊（常用過去式 垢抜けた 作修飾）"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けた：動詞た形（連體修飾），在此轉化為形容詞用法，表示褪去土氣、展現出洗鍊與時尚感。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:47",
+    "japanese": "1. 垢抜けたデザイン",
+    "furigana": "1. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたデザイン",
+    "segmentation": "1. 垢抜けた | デザイン",
+    "translation": {
+      "natural": "1. 時髦洗鍊的設計",
+      "literal": "1. 脫俗的設計"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けたデザイン：動詞た形修飾名詞「デザイン」，形容產品視覺具現代感與高級感。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:50",
+    "japanese": "2. 垢抜けたファッション",
+    "furigana": "2. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたファッション",
+    "segmentation": "2. 垢抜けた | ファッション",
+    "translation": {
+      "natural": "2. 出眾品味的時尚穿搭",
+      "literal": "2. 脫俗的時尚"
+    },
+    "words": [
+      {
+        "word": "ファッション",
+        "reading": "ふぁっしょん",
+        "note": "名詞，時尚、時裝"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けたファッション：時尚雜誌與服飾廣告中的高頻率修飾語。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "00:53",
+    "japanese": "3. 垢抜けた建築物",
+    "furigana": "3. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けた<ruby>建<rt>けん</rt></ruby><ruby>築<rt>ちく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>",
+    "segmentation": "3. 垢抜けた | 建築物",
+    "translation": {
+      "natural": "3. 格調高雅的建築物",
+      "literal": "3. 脫俗的建築物"
+    },
+    "words": [
+      {
+        "word": "建築物",
+        "reading": "けんちくぶつ",
+        "note": "名詞，建築物"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けた建築物：連體修飾，讚賞建築風格不落俗套、別具美感。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "00:56",
+    "japanese": "4. 垢抜けた本の表紙",
+    "furigana": "4. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けた<ruby>本<rt>ほん</rt></ruby>の<ruby>表<rt>ひょう</rt></ruby><ruby>紙<rt>し</rt></ruby>",
+    "segmentation": "4. 垢抜けた | 本の表紙",
+    "translation": {
+      "natural": "4. 設計精美的書本封面",
+      "literal": "4. 脫俗的書的封面"
+    },
+    "words": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "note": "名詞，書本"
+      },
+      {
+        "word": "表紙",
+        "reading": "ひょうし",
+        "note": "名詞，封面"
+      }
+    ],
+    "context_grammar": [
+      "本の表紙：格助詞「の」連接兩個名詞，前面再由「垢抜けた」進行修飾。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "00:59",
+    "japanese": "5. 垢抜けたインテリア",
+    "furigana": "5. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたインテリア",
+    "segmentation": "5. 垢抜けた | インテリア",
+    "translation": {
+      "natural": "5. 時髦簡練的室內裝潢",
+      "literal": "5. 脫俗的室內裝飾"
+    },
+    "words": [
+      {
+        "word": "インテリア",
+        "reading": "いんてりあ",
+        "note": "名詞，室內裝潢、家飾"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けたインテリア：室內設計與建案旁白的常見搭配。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:03",
+    "japanese": "6. 垢抜けた靴",
+    "furigana": "6. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けた<ruby>靴<rt>くつ</rt></ruby>",
+    "segmentation": "6. 垢抜けた | 靴",
+    "translation": {
+      "natural": "6. 帥氣俐落的鞋子",
+      "literal": "6. 脫俗的鞋"
+    },
+    "words": [
+      {
+        "word": "靴",
+        "reading": "くつ",
+        "note": "名詞，鞋子"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けた靴：修飾具時尚感、線條流暢的鞋款。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:05",
+    "japanese": "7. 垢抜けたカバン",
+    "furigana": "7. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたカバン",
+    "segmentation": "7. 垢抜けた | カバン",
+    "translation": {
+      "natural": "7. 大方出眾的包包",
+      "literal": "7. 脫俗的包包"
+    },
+    "words": [
+      {
+        "word": "カバン",
+        "reading": "かばん",
+        "note": "名詞，公事包、包包"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けたカバン：連體修飾名詞，強調配件質感良好、無陳腐感。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:08",
+    "japanese": "8. 垢抜けた人",
+    "furigana": "8. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けた<ruby>人<rt>ひと</rt></ruby>",
+    "segmentation": "8. 垢抜けた | 人",
+    "translation": {
+      "natural": "8. 氣質出眾的人",
+      "literal": "8. 脫俗的人"
+    },
+    "words": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人、個人"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けた人：常用於讚美他人穿著有品味、舉止大方洗鍊。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:10",
+    "japanese": "9. 垢抜けたテーブルセット",
+    "furigana": "9. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたテーブルセット",
+    "segmentation": "9. 垢抜けた | テーブルセット",
+    "translation": {
+      "natural": "9. 高雅時髦的餐桌椅組合",
+      "literal": "9. 脫俗的桌椅套組"
+    },
+    "words": [
+      {
+        "word": "テーブルセット",
+        "reading": "てーぶるせっと",
+        "note": "名詞，桌椅組合"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けたテーブルセット：外來語組合名詞，接受前方的過去式動詞修飾。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:14",
+    "japanese": "10. 垢抜けたベッドカバー",
+    "furigana": "10. <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたベッドカバー",
+    "segmentation": "10. 垢抜けた | ベッドカバー",
+    "translation": {
+      "natural": "10. 款式洗鍊的床罩",
+      "literal": "10. 脫俗的床罩"
+    },
+    "words": [
+      {
+        "word": "ベッドカバー",
+        "reading": "べっどかばー",
+        "note": "名詞，床罩"
+      }
+    ],
+    "context_grammar": [
+      "垢抜けたベッドカバー：連體修飾，多用於家飾產品介紹。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:17",
+    "japanese": "Step 3 垢抜けたテーブルセットですね。ええ、ヨーロッパ製なんですよ。",
+    "furigana": "Step 3 <ruby>垢<rt>あか</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>けたテーブルセットですね。ええ、ヨーロッパ<ruby>製<rt>せい</rt></ruby>なんですよ。",
+    "segmentation": "Step 3 | 垢抜けたテーブルセットですね。| ええ、| ヨーロッパ製なんですよ。",
+    "translation": {
+      "natural": "步驟三：這套餐桌椅組合真時髦呢！是啊，這可是歐洲製造的喔。",
+      "literal": "步驟3 是脫俗的桌椅套組呢。是的，是歐洲製的呢。"
+    },
+    "words": [
+      {
+        "word": "ヨーロッパ",
+        "reading": "よーろっぱ",
+        "note": "名詞，歐洲"
+      },
+      {
+        "word": "製",
+        "reading": "せい",
+        "note": "接尾詞，……製造"
+      },
+      {
+        "word": "なんですよ",
+        "reading": "なんですよ",
+        "note": "句尾語氣，用於向對方補充說明原因或強調資訊"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋なんですよ：由「なの＋です＋よ」演變而來，表達帶有說明語氣的強烈強調，在日常對話與商業推薦中非常頻繁使用。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:26",
+    "japanese": "153. あまりにも Step 1",
+    "furigana": "153. あまりにも Step 1",
+    "segmentation": "153. あまりにも | Step 1",
+    "translation": {
+      "natural": "153. 太過於…… / 過分地…… 步驟一",
+      "literal": "153. 太過於 步驟1"
+    },
+    "words": [
+      {
+        "word": "あまりにも",
+        "reading": "あまりにも",
+        "note": "副詞，過於、太過、過分地"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも：副詞，用來修飾後方的形容詞或動詞，強調程度超過了一般合理或可接受的界限。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:31",
+    "japanese": "1. あまりにも高い商品",
+    "furigana": "1. あまりにも<ruby>高<rt>たか</rt></ruby>い<ruby>商<rt>しょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>",
+    "segmentation": "1. あまりにも | 高い商品",
+    "translation": {
+      "natural": "1. 價格過於昂貴的商品",
+      "literal": "1. 太過昂貴的商品"
+    },
+    "words": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "note": "形容詞，昂貴的、高的"
+      },
+      {
+        "word": "商品",
+        "reading": "しょうひん",
+        "note": "名詞，商品"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋高い：副詞修飾い形容詞「高い」，再進一步連體修飾名詞「商品」。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:33",
+    "japanese": "2. あまりにも安い品物",
+    "furigana": "2. あまりにも<ruby>安<rt>やす</rt></ruby>い<ruby>品<rt>しな</rt></ruby><ruby>物<rt>もの</rt></ruby>",
+    "segmentation": "2. あまりにも | 安い品物",
+    "translation": {
+      "natural": "2. 價格過於便宜的物品",
+      "literal": "2. 太過便宜的物品"
+    },
+    "words": [
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "note": "形容詞，便宜的"
+      },
+      {
+        "word": "品物",
+        "reading": "しなもの",
+        "note": "名詞，物品、貨品"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋安い：修飾形容詞，隱含「便宜到令人懷疑品質」的語境。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:36",
+    "japanese": "3. あまりにも美味しいケーキ",
+    "furigana": "3. あまりにも<ruby>美<rt>おい</rt></ruby>しいケーキ",
+    "segmentation": "3. あまりにも | 美味しいケーキ",
+    "translation": {
+      "natural": "3. 好吃到誇張的蛋糕",
+      "literal": "3. 太過美味的蛋糕"
+    },
+    "words": [
+      {
+        "word": "美味しい",
+        "reading": "おいしい",
+        "note": "形容詞，美味的"
+      },
+      {
+        "word": "ケーキ",
+        "reading": "けーき",
+        "note": "名詞，蛋糕"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋美味しい：用於極度讚嘆、超出預期的口語與宣傳表現。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:40",
+    "japanese": "4. あまりにもまずい料理",
+    "furigana": "4. あまりにもまずい<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>",
+    "segmentation": "4. あまりにも | まずい料理",
+    "translation": {
+      "natural": "4. 難吃到難以忍受的料理",
+      "literal": "4. 太過難吃的料理"
+    },
+    "words": [
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "note": "形容詞，難吃的"
+      },
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、菜餚"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋まずい：加強負面評價的程度。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:43",
+    "japanese": "5. あまりにも強い雨",
+    "furigana": "5. あまりにも<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>",
+    "segmentation": "5. あまりにも | 強い雨",
+    "translation": {
+      "natural": "5. 大得離譜的暴雨",
+      "literal": "5. 太過強烈的雨"
+    },
+    "words": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "note": "形容詞，強烈的"
+      },
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "note": "名詞，雨"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋強い：形容自然現象達到極端狀況。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "01:46",
+    "japanese": "6. あまりにも難しい問題",
+    "furigana": "6. あまりにも<ruby>難<rt>むずか</rt></ruby>しい<ruby>問<rt>もん</rt></ruby><ruby>題<rt>だい</rt></ruby>",
+    "segmentation": "6. あまりにも | 難しい問題",
+    "translation": {
+      "natural": "6. 難度過高的題目",
+      "literal": "6. 太過困難的問題"
+    },
+    "words": [
+      {
+        "word": "難しい",
+        "reading": "むずかしい",
+        "note": "形容詞，困難的"
+      },
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "note": "名詞，問題、題目"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋難しい：形容難度超乎常理。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "01:49",
+    "japanese": "7. あまりにも簡単なテスト",
+    "furigana": "7. あまりにも<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>なテスト",
+    "segmentation": "7. あまりにも | 簡単なテスト",
+    "translation": {
+      "natural": "7. 簡單得過頭的測驗",
+      "literal": "7. 太過簡單的測驗"
+    },
+    "words": [
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "note": "な形容詞，簡單的"
+      },
+      {
+        "word": "テスト",
+        "reading": "てすと",
+        "note": "名詞，測驗、考試"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋簡単な：副詞修飾 な形容詞連體形（簡單 ＋ な）。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "01:52",
+    "japanese": "8. あまりにも急な坂",
+    "furigana": "8. あまりにも<ruby>急<rt>きゅう</rt></ruby>な<ruby>坂<rt>さか</rt></ruby>",
+    "segmentation": "8. あまりにも | 急な坂",
+    "translation": {
+      "natural": "8. 陡峭得嚇人的斜坡",
+      "literal": "8. 太過陡峭的坡"
+    },
+    "words": [
+      {
+        "word": "急",
+        "reading": "きゅう",
+        "note": "な形容詞，陡峭的、急遽的"
+      },
+      {
+        "word": "坂",
+        "reading": "さか",
+        "note": "名詞，斜坡、坂道"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋急な：修飾「坂」，形容坡度極陡。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "01:55",
+    "japanese": "9. あまりにも危険な運転",
+    "furigana": "9. あまりにも<ruby>危<rt>き</rt></ruby><ruby>険<rt>けん</rt></ruby>な<ruby>運<rt>うん</rt></ruby><ruby>転<rt>てん</rt></ruby>",
+    "segmentation": "9. あまりにも | 危険な運転",
+    "translation": {
+      "natural": "9. 極其危險的駕駛行為",
+      "literal": "9. 太過危險的駕駛"
+    },
+    "words": [
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "note": "な形容詞，危險的"
+      },
+      {
+        "word": "運転",
+        "reading": "うんてん",
+        "note": "名詞，駕駛、開車"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋危険な：修飾動作名詞「運転」，強調危險程度過高。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "01:59",
+    "japanese": "10. あまりにも無理な要求",
+    "furigana": "10. あまりにも<ruby>無<rt>む</rt></ruby><ruby>理<rt>り</rt></ruby>な<ruby>要<rt>よう</rt></ruby><ruby>求<rt>きゅう</rt></ruby>",
+    "segmentation": "10. あまりにも | 無理な要求",
+    "translation": {
+      "natural": "10. 太不合理的過分要求",
+      "literal": "10. 太過無理的要求"
+    },
+    "words": [
+      {
+        "word": "無理",
+        "reading": "むり",
+        "note": "な形容詞，強人所難的、不合理的"
+      },
+      {
+        "word": "要求",
+        "reading": "ようきゅう",
+        "note": "名詞，要求"
+      }
+    ],
+    "context_grammar": [
+      "あまりにも＋無理な：常用於表達對不合理條款或要求的強烈不滿。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:02",
+    "japanese": "Step 3 どうして食べないんですか？あまりにもまずい料理なんです。",
+    "furigana": "Step 3 どうして<ruby>食<rt>た</rt></ruby>べないんですか？あまりにもまずい<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>なんですよ。",
+    "segmentation": "Step 3 | どうして食べないんですか？| あまりにもまずい料理なんです。",
+    "translation": {
+      "natural": "步驟三：你怎麼都不吃呢？因為這道菜實在是太難吃了。",
+      "literal": "步驟3 為什麼不吃呢？是太過難吃的料理。"
+    },
+    "words": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "note": "副詞，為什麼"
+      },
+      {
+        "word": "食べない",
+        "reading": "たべない",
+        "note": "動詞，不吃（未然形＋ない）"
+      },
+      {
+        "word": "～んですか",
+        "reading": "んですか",
+        "note": "句型，詢問原因與理由"
+      },
+      {
+        "word": "～なんです",
+        "reading": "なんです",
+        "note": "句型，說明原因與理由"
+      }
+    ],
+    "context_grammar": [
+      "動詞否定形＋んですか：提出疑問並促使對方解釋原因。",
+      "～なんです：作為對「～んですか」的回應，用於解釋情境或說明理由。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:11",
+    "japanese": "154. 一度～たら忘れられない Step 1",
+    "furigana": "154. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>～たら<ruby>忘<rt>わす</rt></ruby>れられない Step 1",
+    "segmentation": "154. 一度～たら | 忘れられない | Step 1",
+    "translation": {
+      "natural": "154. 一旦……就令人難忘 步驟一",
+      "literal": "154. 一次……的話就無法忘記 步驟1"
+    },
+    "words": [
+      {
+        "word": "一度",
+        "reading": "いちど",
+        "note": "副詞/名詞，一次、一旦"
+      },
+      {
+        "word": "～たら",
+        "reading": "たら",
+        "note": "接續助詞，如果……、一旦……（假定/條件接續）"
+      },
+      {
+        "word": "忘れられない",
+        "reading": "わすれられない",
+        "note": "動詞，無法忘記（忘れる 的可能形否定）"
+      }
+    ],
+    "context_grammar": [
+      "動詞た形＋ら：假定條件文，強調前項動作一旦發生，就會引發後項極具衝擊力的結果。",
+      "忘れられない：動詞下一段活用「忘れる」之可能形「忘れられる」的否定形「忘れられない」，常用於廣告強調體驗的震撼力。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:16",
+    "japanese": "1. 一度見たら忘れられない",
+    "furigana": "1. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>見<rt>み</rt></ruby>たら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "1. 一度見たら | 忘れられない",
+    "translation": {
+      "natural": "1. 一旦看過就過目難忘",
+      "literal": "1. 一次看過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（た形為 見た）"
+      }
+    ],
+    "context_grammar": [
+      "見たら（動詞た形＋ら）：表示「看了之後/一旦看過」。整體常作為連體修飾語，修飾後方的名詞（如：印象）。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:19",
+    "japanese": "2. 一度食べたら忘れられない",
+    "furigana": "2. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>食<rt>た</rt></ruby>べたら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "2. 一度食べたら | 忘れられない",
+    "translation": {
+      "natural": "2. 一旦吃過就念念不忘",
+      "literal": "2. 一次吃過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（た形為 食べた）"
+      }
+    ],
+    "context_grammar": [
+      "食べたら：美食文案與餐飲廣告中的經典宣傳句型。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:23",
+    "japanese": "3. 一度読んだら忘れられない",
+    "furigana": "3. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>読<rt>よ</rt></ruby>んだら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "3. 一度読んだら | 忘れられない",
+    "translation": {
+      "natural": "3. 一旦讀過就印入腦海",
+      "literal": "3. 一次讀過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "note": "動詞，閱讀（た形撥音便為 読んだ）"
+      }
+    ],
+    "context_grammar": [
+      "読んだら：五段動詞「読む」發生撥音便（む→んだ），接續「ら」表達假定條件。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:26",
+    "japanese": "4. 一度聴いたら忘れられない",
+    "furigana": "4. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>聴<rt>き</rt></ruby>いたら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "4. 一度聴いたら | 忘れられない",
+    "translation": {
+      "natural": "4. 一旦聽過就餘音繞梁",
+      "literal": "4. 一次聽過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "聴く",
+        "reading": "きく",
+        "note": "動詞，聆聽（た形イ音便為 聴いた）"
+      }
+    ],
+    "context_grammar": [
+      "聴いたら：五段動詞「聴く」發生イ音便（く→いた），常用於音樂或廣告標語中。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:29",
+    "japanese": "5. 一度遊んだら忘れられない",
+    "furigana": "5. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>遊<rt>あそ</rt></ruby>んだら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "5. 一度遊んだら | 忘れられない",
+    "translation": {
+      "natural": "5. 一旦玩過就流連忘返",
+      "literal": "5. 一次玩過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "note": "動詞，遊玩（た形撥音便為 遊んだ）"
+      }
+    ],
+    "context_grammar": [
+      "遊んだら：五段動詞「遊ぶ」發生撥音便（ぶ→んだ），常用於主題樂園或遊戲行銷。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:33",
+    "japanese": "6. 一度飲んだら忘れられない",
+    "furigana": "6. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>飲<rt>の</rt></ruby>んだら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "6. 一度飲んだら | 忘れられない",
+    "translation": {
+      "natural": "6. 一旦喝過就回味無窮",
+      "literal": "6. 一次喝過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，飲用（た形撥音便為 飲んだ）"
+      }
+    ],
+    "context_grammar": [
+      "飲んだら：五段動詞「飲む」發生撥音便（む→んだ），常用於飲料或酒類文案。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:36",
+    "japanese": "7. 一度着たら忘れられない",
+    "furigana": "7. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>着<rt>き</rt></ruby>たら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "7. 一度着たら | 忘れられない",
+    "translation": {
+      "natural": "7. 一旦穿過就愛不釋手",
+      "literal": "7. 一次穿過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "着る",
+        "reading": "きる",
+        "note": "動詞，穿著（た形為 着た）"
+      }
+    ],
+    "context_grammar": [
+      "着たら：上一段動詞「着る」去「る」加「た」，常用於高級服飾或機能衣文案。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:39",
+    "japanese": "8. 一度使ったら忘れられない",
+    "furigana": "8. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>使<rt>つか</rt></ruby>ったら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "8. 一度使ったら | 忘れられない",
+    "translation": {
+      "natural": "8. 一旦用過就回不去了",
+      "literal": "8. 一次使用過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "note": "動詞，使用（た形促音便為 かった）"
+      }
+    ],
+    "context_grammar": [
+      "使ったら：五段動詞「使う」發生促音便（う→った），家用電器或工具宣傳中的黃金金句。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:43",
+    "japanese": "9. 一度履いたら忘れられない",
+    "furigana": "9. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>履<rt>は</rt></ruby>いたら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "9. 一度履いたら | 忘れられない",
+    "translation": {
+      "natural": "9. 一旦穿上就再也忘不了",
+      "literal": "9. 一次穿上（鞋襪）的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "履く",
+        "reading": "はく",
+        "note": "動詞，穿（鞋、褲、襪）（た形イ音便為 履いた）"
+      }
+    ],
+    "context_grammar": [
+      "履いたら：五段動詞イ音便（く→いた），專用於鞋類或下身衣物的促銷用語。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:46",
+    "japanese": "10. 一度嗅いだら忘れられない",
+    "furigana": "10. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>嗅<rt>か</rt></ruby>いだら<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "10. 一度嗅いだら | 忘れられない",
+    "translation": {
+      "natural": "10. 一旦聞過就印象深刻",
+      "literal": "10. 一次嗅過的話就無法忘記"
+    },
+    "words": [
+      {
+        "word": "嗅ぐ",
+        "reading": "かぐ",
+        "note": "動詞，聞、嗅（た形濁音便為 嗅いだ）"
+      }
+    ],
+    "context_grammar": [
+      "嗅いだら：五段動詞濁化イ音便（ぐ→いだ），常用於香水或精油產品宣傳。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "02:50",
+    "japanese": "Step 3 一度飲んだら忘れられない味ですね。ええ、美味しいワインでしょう？",
+    "furigana": "Step 3 <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>飲<rt>の</rt></ruby>んだら<ruby>忘<rt>わす</rt></ruby>れられない<ruby>味<rt>あじ</rt></ruby>ですね。ええ、<ruby>美<rt>おい</rt></ruby>しいワインでしょう？",
+    "segmentation": "Step 3 | 一度飲んだら忘れられない味ですね。| ええ、| 美味しいワインでしょう？",
+    "translation": {
+      "natural": "步驟三：這真是令人喝過一次就忘不了的味道呢！是啊，這葡萄酒很棒吧？",
+      "literal": "步驟3 是喝過一次就無法忘記的味道呢。是的，是很美味的葡萄酒吧？"
+    },
+    "words": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道、風味"
+      },
+      {
+        "word": "ワイン",
+        "reading": "わいん",
+        "note": "名詞，葡萄酒"
+      }
+    ],
+    "context_grammar": [
+      "一度飲んだら忘れられない＋味：子句「一度飲んだら忘れられない」直接連體修飾名詞「味」。",
+      "～でしょう：上升語調，表達尋求認同。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "02:59",
+    "japanese": "155. お得です Step 1",
+    "furigana": "155. お<ruby>得<rt>とく</rt></ruby>です Step 1",
+    "segmentation": "155. お得です | Step 1",
+    "translation": {
+      "natural": "155. 很划算 / 很超值 步驟一",
+      "literal": "155. 是划算的 步驟1"
+    },
+    "words": [
+      {
+        "word": "お得",
+        "reading": "おとく",
+        "note": "名詞/な形容詞，划算、便宜、有利（帶有美化語接頭詞 お）"
+      }
+    ],
+    "context_grammar": [
+      "お得です：美化語接頭詞「お」＋「得」，句尾加上「です」構成美化斷定，為商業促銷、購物節目的核心用語。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:03",
+    "japanese": "1. 知ってお得です",
+    "furigana": "1. <ruby>知<rt>し</rt></ruby>ってお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "1. 知って | お得です",
+    "translation": {
+      "natural": "1. 知道就是賺到",
+      "literal": "1. 知道後是划算的"
+    },
+    "words": [
+      {
+        "word": "知る",
+        "reading": "しる",
+        "note": "動詞，知道、了解（て形為 知って）"
+      }
+    ],
+    "context_grammar": [
+      "動詞て形＋お得です：表達「做出了前面那個動作之後，能夠獲得好處/優惠」。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:06",
+    "japanese": "2. 借りてお得です",
+    "furigana": "2. <ruby>借<rt>か</rt></ruby>りてお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "2. 借りて | お得です",
+    "translation": {
+      "natural": "2. 用租的更划算",
+      "literal": "2. 租借是划算的"
+    },
+    "words": [
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "note": "動詞，租借（て形為 借りて）"
+      }
+    ],
+    "context_grammar": [
+      "借りてお得です：動詞て形接續，常用於租賃服務或共享經濟的宣傳。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:08",
+    "japanese": "3. ポイントがもらえてお得です",
+    "furigana": "3. ポイントがもらえてお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "3. ポイントが | もらえて | お得です",
+    "translation": {
+      "natural": "3. 能累積點數非常超值",
+      "literal": "3. 能得到點數是划算的"
+    },
+    "words": [
+      {
+        "word": "ポイント",
+        "reading": "ぽいんと",
+        "note": "名詞，點數、積分"
+      },
+      {
+        "word": "もらえる",
+        "reading": "もらえる",
+        "note": "動詞，能獲得（もらう 的可能形，て形為 もらえて）"
+      }
+    ],
+    "context_grammar": [
+      "が（格助詞）：標示可能形動詞「もらえて」的對象。",
+      "可能形て形（もらえて）＋お得です：表達「因為具備獲得點數的可能性，因此很划算」。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:12",
+    "japanese": "4. 割引があってお得です",
+    "furigana": "4. <ruby>割<rt>わり</rt></ruby><ruby>引<rt>びき</rt></ruby>があってお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "4. 割引が | あって | お得です",
+    "translation": {
+      "natural": "4. 享有折扣非常划算",
+      "literal": "4. 有折扣是划算的"
+    },
+    "words": [
+      {
+        "word": "割引",
+        "reading": "わりびき",
+        "note": "名詞，折扣、打折"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有（て形為 あって）"
+      }
+    ],
+    "context_grammar": [
+      "割引があって：動詞「ある」的て形，作為原因理由的順接接續。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:16",
+    "japanese": "5. クーポンが使えてお得です",
+    "furigana": "5. クーポンが<ruby>使<rt>つか</rt></ruby>えてお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "5. クーポンが | 使えて | お得です",
+    "translation": {
+      "natural": "5. 可以使用優惠券非常划算",
+      "literal": "5. 能使用折價券是划算的"
+    },
+    "words": [
+      {
+        "word": "クーポン",
+        "reading": "くーぽん",
+        "note": "名詞，優惠券"
+      },
+      {
+        "word": "使える",
+        "reading": "つかえる",
+        "note": "動詞，能使用（使う 的可能形，て形為 使えて）"
+      }
+    ],
+    "context_grammar": [
+      "使えて：可能形動詞的て形，電商平台與 App 常用之促銷用語。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:19",
+    "japanese": "6. サービスが受けられてお得です",
+    "furigana": "6. サービスが<ruby>受<rt>う</rt></ruby>けられてお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "6. サービスが | 受けられて | お得です",
+    "translation": {
+      "natural": "6. 能享受售後服務非常划算",
+      "literal": "6. 能接受服務是划算的"
+    },
+    "words": [
+      {
+        "word": "サービス",
+        "reading": "さーびす",
+        "note": "名詞，服務、優惠"
+      },
+      {
+        "word": "受けられる",
+        "reading": "うけられる",
+        "note": "動詞，能接受/能享受（受ける 的可能形，て形為 受けられて）"
+      }
+    ],
+    "context_grammar": [
+      "受けられて：下一段動詞「受ける」之可能形「受けられる」的て形接續。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:23",
+    "japanese": "7. 無料でお得です",
+    "furigana": "7. <ruby>無<rt>む</rt></ruby><ruby>料<rt>りょう</rt></ruby>でお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "7. 無料で | お得です",
+    "translation": {
+      "natural": "7. 免費提供最划算",
+      "literal": "7. 以免費是划算的"
+    },
+    "words": [
+      {
+        "word": "無料",
+        "reading": "むりょう",
+        "note": "名詞，免費"
+      }
+    ],
+    "context_grammar": [
+      "無料＋で（格助詞）：助詞「で」在此表示範圍或狀態（以免費的形式）。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:26",
+    "japanese": "8. 格安でお得です",
+    "furigana": "8. <ruby>格<rt>かく</rt></ruby><ruby>安<rt>やす</rt></ruby>でお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "8. 格安で | お得です",
+    "translation": {
+      "natural": "8. 破盤特價超划算",
+      "literal": "8. 以廉價是划算的"
+    },
+    "words": [
+      {
+        "word": "格安",
+        "reading": "かくやす",
+        "note": "名詞/な形容詞，特價、特別便宜"
+      }
+    ],
+    "context_grammar": [
+      "格安で：助詞「で」標示條件狀態，常見於特賣會宣傳。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:29",
+    "japanese": "9. キャッシュバックがあってお得です",
+    "furigana": "9. キャッシュバックがあってお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "9. キャッシュバックが | あって | お得です",
+    "translation": {
+      "natural": "9. 有現金回饋非常超值",
+      "literal": "9. 有現金回饋是划算的"
+    },
+    "words": [
+      {
+        "word": "キャッシュバック",
+        "reading": "きゃっしゅばっく",
+        "note": "名詞，現金回饋"
+      }
+    ],
+    "context_grammar": [
+      "キャッシュバックがあって：外來語名詞結合動詞「ある」的連用接續，常用於信用卡或電信方案宣傳。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:33",
+    "japanese": "10. 税金払い戻しができてお得です",
+    "furigana": "10. <ruby>税<rt>ぜい</rt></ruby><ruby>金<rt>きん</rt></ruby><ruby>払<rt>はら</rt></ruby>い<ruby>戻<rt>もど</rt></ruby>しができてお<ruby>得<rt>とく</rt></ruby>です",
+    "segmentation": "10. 税金払い戻しが | できて | お得です",
+    "translation": {
+      "natural": "10. 可以辦理退稅非常划算",
+      "literal": "10. 能做稅金退還是划算的"
+    },
+    "words": [
+      {
+        "word": "税金払い戻し",
+        "reading": "ぜいきんはらいもどし",
+        "note": "名詞，退稅、稅金退還"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，能夠、可以（て形為 できて）"
+      }
+    ],
+    "context_grammar": [
+      "できて：動詞「できる」的て形，表達「具備辦理退稅的條件，因而划算」。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:37",
+    "japanese": "Step 3 これは定価ですか？いいえ、割引があってお得ですよ。",
+    "furigana": "Step 3 これは<ruby>定<rt>てい</rt></ruby><ruby>価<rt>か</rt></ruby>ですか？いいえ、<ruby>割<rt>わり</rt></ruby><ruby>引<rt>びき</rt></ruby>があってお<ruby>得<rt>とく</rt></ruby>ですよ。",
+    "segmentation": "Step 3 | これは定価ですか？| いいえ、| 割引があってお得ですよ。",
+    "translation": {
+      "natural": "步驟三：這個是原價嗎？不是喔，現在有折扣非常划算呢！",
+      "literal": "步驟3 這個是定價嗎？不，有折扣很划算喔。"
+    },
+    "words": [
+      {
+        "word": "定価",
+        "reading": "ていか",
+        "note": "名詞，原價、定價"
+      },
+      {
+        "word": "お得ですよ",
+        "reading": "おとくですよ",
+        "note": "片語，很划算喔（です＋語氣助詞 よ）"
+      }
+    ],
+    "context_grammar": [
+      "～ですよ：終助詞「よ」用於向對方傳達其可能不知情的新資訊，帶有提醒與熱心推薦的語氣。"
+    ]
+  }
+]

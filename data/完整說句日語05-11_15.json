@@ -1,0 +1,1606 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "161",
+    "furigana": "161",
+    "segmentation": "161",
+    "translation": {
+      "natural": "161",
+      "literal": "161"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題數字編號。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:02",
+    "japanese": "シルクのような",
+    "furigana": "シルクのような",
+    "segmentation": "シルクの | ような",
+    "translation": {
+      "natural": "像絲綢一樣的",
+      "literal": "像絲綢一樣的"
+    },
+    "words": [
+      {
+        "word": "シルク",
+        "reading": "しるく",
+        "note": "名詞，絲綢（Silk）"
+      },
+      {
+        "word": "ような",
+        "reading": "ような",
+        "note": "比喻助動詞「ようだ」的連體形，用來修飾後方的名詞"
+      }
+    ],
+    "context_grammar": [
+      "「N ＋ のような ＋ N」為典型的比喻與比擬句型，在此作為標題與核心語法，用於形容觸感或質感非常柔順滑滑的物品。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:07",
+    "japanese": "1. シルクのような泡",
+    "furigana": "1. シルクのような<ruby>泡<rt>あわ</rt></ruby>",
+    "segmentation": "1. シルクの | ような | 泡",
+    "translation": {
+      "natural": "1. 像絲綢般綿密的泡沫",
+      "literal": "1. 像絲綢一樣的泡沫"
+    },
+    "words": [
+      {
+        "word": "泡",
+        "reading": "あわ",
+        "note": "名詞，泡沫"
+      }
+    ],
+    "context_grammar": [
+      "「シルクのような」連體修飾「泡」，廣泛應用於潔顏乳、洗髮精等美妝保養品廣告旁白中，強調泡沫的細緻感。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:11",
+    "japanese": "2. シルクのような肌",
+    "furigana": "2. シルクのような<ruby>肌<rt>はだ</rt></ruby>",
+    "segmentation": "2. シルクの | ような | 肌",
+    "translation": {
+      "natural": "2. 像絲綢般滑嫩的肌膚",
+      "literal": "2. 像絲綢一樣的肌膚"
+    },
+    "words": [
+      {
+        "word": "肌",
+        "reading": "はだ",
+        "note": "名詞，肌膚、皮膚"
+      }
+    ],
+    "context_grammar": [
+      "「シルクのような」連體修飾「肌」，商業文案常以此來形容護膚效果帶來的極致滑順感。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:15",
+    "japanese": "3. シルクのような肌触り",
+    "furigana": "3. シルクのような<ruby>肌<rt>はだ</rt></ruby><ruby>触<rt>ざわ</rt></ruby>り",
+    "segmentation": "3. シルクの | ような | 肌触り",
+    "translation": {
+      "natural": "3. 像絲綢般舒適的觸感",
+      "literal": "3. 像絲綢一樣的肌膚觸感"
+    },
+    "words": [
+      {
+        "word": "肌触り",
+        "reading": "はだざわり",
+        "note": "名詞，觸感、親膚感"
+      }
+    ],
+    "context_grammar": [
+      "連用形複合名詞（肌＋触り），修飾名詞「肌触り」，多用於寢具、內衣或高檔服飾的品質宣傳。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:20",
+    "japanese": "4. シルクのような着心地",
+    "furigana": "4. シルクのような<ruby>着<rt>き</rt></ruby><ruby>心<rt>ごこ</rt></ruby>ち",
+    "segmentation": "4. シルクの | ような | 着心地",
+    "translation": {
+      "natural": "4. 像絲綢般柔順的穿著體驗",
+      "literal": "4. 像絲綢一樣的穿著感覺"
+    },
+    "words": [
+      {
+        "word": "着心地",
+        "reading": "きごこち",
+        "note": "名詞，穿著時的舒適度、體感"
+      }
+    ],
+    "context_grammar": [
+      "接尾語「心地」結合動詞「着る」的連用形，形成複合名詞「着心地」，修飾結構表示穿著時感受如絲綢般優質。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:24",
+    "japanese": "5. シルクのような髪",
+    "furigana": "5. シルクのような<ruby>髪<rt>かみ</rt></ruby>",
+    "segmentation": "5. シルクの | ような | 髪",
+    "translation": {
+      "natural": "5. 像絲綢般柔順的秀髮",
+      "literal": "5. 像絲綢一樣的頭髮"
+    },
+    "words": [
+      {
+        "word": "髪",
+        "reading": "かみ",
+        "note": "名詞，頭髮"
+      }
+    ],
+    "context_grammar": [
+      "修飾名詞「髪」，髮品廣告中高頻出現的靈魂形容句，用以視覺化滑順光澤的髮質。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:28",
+    "japanese": "6. シルクのような生地",
+    "furigana": "6. シルクのような<ruby>生<rt>き</rt></ruby><ruby>地<rt>じ</rt></ruby>",
+    "segmentation": "6. シルクの | ような | 生地",
+    "translation": {
+      "natural": "6. 像絲綢般質地的布料",
+      "literal": "6. 像絲綢一樣的布料"
+    },
+    "words": [
+      {
+        "word": "生地",
+        "reading": "きじ",
+        "note": "名詞，布料、面料"
+      }
+    ],
+    "context_grammar": [
+      "連體修飾名詞「生地」，常用於服飾與紡織商品的產品規格描述。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:32",
+    "japanese": "7. シルクのような滑らかなクリーム",
+    "furigana": "7. シルクのような<ruby>滑<rt>なめ</rt></ruby>らかなクリーム",
+    "segmentation": "7. シルクの | ような | 滑らかな | クリーム",
+    "translation": {
+      "natural": "7. 像絲綢般絲滑的乳霜",
+      "literal": "7. 像絲綢一樣的滑順的乳霜"
+    },
+    "words": [
+      {
+        "word": "滑らか",
+        "reading": "なめらか",
+        "note": "形容動詞（な形容詞），光滑的、滑順的"
+      },
+      {
+        "word": "クリーム",
+        "reading": "くりーむ",
+        "note": "名詞，鮮奶油、乳霜（Cream）"
+      }
+    ],
+    "context_grammar": [
+      "雙重連體修飾結構：「シルクのような」（比喻）與「滑らかな」（質感形容詞）疊加修飾中心名詞「クリーム」，堆疊高質感氛圍。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:37",
+    "japanese": "8. シルクのような軽いブラウス",
+    "furigana": "8. シルクのような<ruby>輕<rt>かる</rt></ruby>いブラウス",
+    "segmentation": "8. シルクの | ような | 軽い | ブラウス",
+    "translation": {
+      "natural": "8. 像絲綢般輕盈的罩衫",
+      "literal": "8. 像絲綢一樣的輕的罩衫"
+    },
+    "words": [
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "note": "形容詞（い形容詞），輕盈的"
+      },
+      {
+        "word": "ブラウス",
+        "reading": "ぶらうす",
+        "note": "名詞，女式襯衫、罩衫（Blouse）"
+      }
+    ],
+    "context_grammar": [
+      "「シルクのような」與い形容詞連體形「軽い」共同修飾名詞「ブラウス」，表現服飾輕便柔和的穿著感。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:43",
+    "japanese": "9. シルクのようなスカーフ",
+    "furigana": "9. シルクのようなスカーフ",
+    "segmentation": "9. シルクの | ような | スカーフ",
+    "translation": {
+      "natural": "9. 像絲綢般的圍巾",
+      "literal": "9. 像絲綢一樣的絲巾"
+    },
+    "words": [
+      {
+        "word": "スカーフ",
+        "reading": "すかーふ",
+        "note": "名詞，圍巾、絲巾（Scarf）"
+      }
+    ],
+    "context_grammar": [
+      "修飾名詞「スカーフ」，多用於精品配飾的文案表達。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:47",
+    "japanese": "10. シルクのような輝き",
+    "furigana": "10. シルクのような<ruby>輝<rt>かがや</rt></ruby>き",
+    "segmentation": "10. シルクの | ような | 輝き",
+    "translation": {
+      "natural": "10. 像絲綢般優雅的光澤",
+      "literal": "10. 像絲綢一樣的光輝"
+    },
+    "words": [
+      {
+        "word": "輝き",
+        "reading": "かがやき",
+        "note": "名詞，光澤、光輝（由動詞輝く轉化而來的名詞化）"
+      }
+    ],
+    "context_grammar": [
+      "修飾抽象名詞「輝き」，在珠寶或高階化妝品宣傳中常用來比喻自然動人的質感與微光。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:52",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟（Step）"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:54",
+    "japanese": "シルクのように美しい髪ですね。このシャンプーはおすすめですよ。",
+    "furigana": "シルクのよに<ruby>美<rt>うつく</rt></ruby>しい<ruby>髪<rt>かみ</rt></ruby>ですね。このシャンプーはおすすめですよ。",
+    "segmentation": "シルクのように | 美しい | 髪ですね。| このシャンプーは | おすすめですよ。",
+    "translation": {
+      "natural": "您的頭髮真像絲綢一樣美麗呢！非常推薦這款洗髮精喔。",
+      "literal": "像絲綢一樣美麗的頭髮呢。這個洗髮精是推薦的喔。"
+    },
+    "words": [
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      },
+      {
+        "word": "シャンプー",
+        "reading": "しゃんぷー",
+        "note": "名詞，洗髮精（Shampoo）"
+      },
+      {
+        "word": "おすすめ",
+        "reading": "おすすめ",
+        "note": "名詞，推薦"
+      }
+    ],
+    "context_grammar": [
+      "「シルクのように」為副詞形修飾形容詞「美しい」，進而修飾名詞「髪」。",
+      "終助詞「ね」用於共鳴讚美；「おすすめ＋です＋よ」組合為經典推銷語氣，兼具客氣與熱情推薦。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:03",
+    "japanese": "162",
+    "furigana": "162",
+    "segmentation": "162",
+    "translation": {
+      "natural": "162",
+      "literal": "162"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題數字編號。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:06",
+    "japanese": "のことが頭から離れない",
+    "furigana": "のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "忘不了～／腦海裡揮之不去",
+      "literal": "關於～的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "頭",
+        "reading": "あたま",
+        "note": "名詞，頭腦、腦海"
+      },
+      {
+        "word": "離れる",
+        "reading": "はなれる",
+        "note": "動詞，離開、分離（否定形為離れない）"
+      }
+    ],
+    "context_grammar": [
+      "「N ＋ のことが頭から離れない」：動詞「離れる」的可能否定形（無法離開），格助詞「から」表示起點。表示某人事物強烈佔據腦海，屬情感豐富的口語或情境旁白常用句。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:09",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:11",
+    "japanese": "1. 試験のことが頭から離れない",
+    "furigana": "1. <ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "1. 試験のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "1. 腦子裡一直念念不忘考試的事",
+      "literal": "1. 考試的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試"
+      }
+    ],
+    "context_grammar": [
+      "「のことが」將名詞「試験」事項化，搭配可能否定語態「離れない」，表現焦慮不安的心境。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:16",
+    "japanese": "2. 彼女のことが頭から離れない",
+    "furigana": "2. <ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "2. 彼女のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "2. 腦海裡全都是她的身影",
+      "literal": "2. 她的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "note": "代名詞，她、女朋友"
+      }
+    ],
+    "context_grammar": [
+      "常用於描繪戀愛心境或情感廣告，表現滿腦子都是對方的思念感。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:21",
+    "japanese": "3. 彼のことが頭から離れない",
+    "furigana": "3. <ruby>彼<rt>かれ</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "3. 彼のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "3. 我滿腦子都在想著他",
+      "literal": "3. 他的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "彼",
+        "reading": "かれ",
+        "note": "代名詞，他、男朋友"
+      }
+    ],
+    "context_grammar": [
+      "與前句相呼應，表達對特定對象念念不忘的心態。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:26",
+    "japanese": "4. 旅行のことが頭から離れない",
+    "furigana": "4. <ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "4. 旅行のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "4. 心裡一直迫不及待想著旅行的事",
+      "literal": "4. 旅行的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "常用於旅遊廣告或Vlog，凸顯強烈的期待感與心思早已飛走。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:31",
+    "japanese": "5. 喧嘩のことが頭から離れない",
+    "furigana": "5. <ruby>喧<rt>けん</rt></ruby><ruby>嘩<rt>か</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "5. 喧嘩のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "5. 腦海裡一直揮之不去吵架的情景",
+      "literal": "5. 吵架的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "喧嘩",
+        "reading": "けんか",
+        "note": "名詞，吵架、爭執"
+      }
+    ],
+    "context_grammar": [
+      "表達因人際摩擦或失言後，耿耿於懷、坐立難安的心情。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:36",
+    "japanese": "6. 面接のことが頭から離れない",
+    "furigana": "6. <ruby>面<rt>めん</rt></ruby><ruby>接<rt>せつ</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "6. 面接のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "6. 腦袋裡一直懸著面試的事情",
+      "literal": "6. 面試的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "面接",
+        "reading": "めんせつ",
+        "note": "名詞，面試"
+      }
+    ],
+    "context_grammar": [
+      "描寫求職者等待結果或準備面試時緊張的情緒狀態。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:42",
+    "japanese": "7. コンサートのことが頭から離れない",
+    "furigana": "7. コンサートのことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "7. コンサートのことが | 頭から | 離れない",
+    "translation": {
+      "natural": "7. 演唱會的精彩畫面一直在腦海迴盪",
+      "literal": "7. 演唱會的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "コンサート",
+        "reading": "こんさーと",
+        "note": "名詞，演唱會、音樂會（Concert）"
+      }
+    ],
+    "context_grammar": [
+      "表達活動過後意猶未盡、餘音繞樑的沉浸狀態。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:47",
+    "japanese": "8. お見合いのことが頭から離れない",
+    "furigana": "8. お<ruby>見<rt>み</rt></ruby><ruby>合<rt>あ</rt></ruby>いのことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "8. お見合いのことが | 頭から | 離れない",
+    "translation": {
+      "natural": "8. 相親的事情一直讓我懸在心上",
+      "literal": "8. 相親的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "お見合い",
+        "reading": "おみあい",
+        "note": "名詞，相親（加上美化語「お」）"
+      }
+    ],
+    "context_grammar": [
+      "前綴「お」為美化語接頭詞，表達對重大事項的掛念。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:53",
+    "japanese": "9. 仕事のことが頭から離れない",
+    "furigana": "9. <ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "9. 仕事のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "9. 滿腦子都是工作的事情",
+      "literal": "9. 工作的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "note": "名詞，工作"
+      }
+    ],
+    "context_grammar": [
+      "描寫上班族休假時仍無法徹底放鬆的心境，常見於紓壓產品或保健食品廣告。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:58",
+    "japanese": "10. 発表会のことが頭から離れない",
+    "furigana": "10. <ruby>発<rt>はっ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>会<rt>かい</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れない",
+    "segmentation": "10. 発表会のことが | 頭から | 離れない",
+    "translation": {
+      "natural": "10. 發表會的事一直在腦海裡揮之不去",
+      "literal": "10. 發表會的事無法從頭腦離開"
+    },
+    "words": [
+      {
+        "word": "発表会",
+        "reading": "はっぴょうかい",
+        "note": "名詞，發表會、成果展"
+      }
+    ],
+    "context_grammar": [
+      "表現上台前緊張懸心，或上台後對表現惦記的心理狀態。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:03",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:05",
+    "japanese": "どうしたんですか？仕事のことが頭から離れないんですよ。",
+    "furigana": "どうしたんですか？<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>のことが<ruby>頭<rt>あたま</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れないんですよ。",
+    "segmentation": "どうしたんですか？| 仕事のことが | 頭から | 離れないんですよ。",
+    "translation": {
+      "natural": "你怎麼了嗎？我滿腦子都是工作的事，停不下來啊。",
+      "literal": "怎麼了嗎？工作的事無法從頭腦離開啊。"
+    },
+    "words": [
+      {
+        "word": "どうした",
+        "reading": "どうした",
+        "note": "疑問詞片語，怎麼了"
+      },
+      {
+        "word": "離れない",
+        "reading": "はなれない",
+        "note": "動詞「離れる」的否定形"
+      }
+    ],
+    "context_grammar": [
+      "「～んですか」與「～んですよ」為強調語氣的語態（說明背景與尋求理解），常用於職場日常傾訴與關懷對話。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:13",
+    "japanese": "163",
+    "furigana": "163",
+    "segmentation": "163",
+    "translation": {
+      "natural": "163",
+      "literal": "163"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題數字編號。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:16",
+    "japanese": "が忘れられない",
+    "furigana": "が<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "が | 忘れられない",
+    "translation": {
+      "natural": "無法忘懷～",
+      "literal": "～無法被忘記"
+    },
+    "words": [
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "note": "動詞，忘記（可能否定形為忘れられない）"
+      }
+    ],
+    "context_grammar": [
+      "「N ＋ が忘れられない」：動詞下一段活用「忘れる」變形為可能形「忘れられる」，再變為否定「忘れられない」。補語用主格助詞「が」，表現深刻難忘的體驗或情感。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:18",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:20",
+    "japanese": "1. ラーメンの味が忘れられない",
+    "furigana": "1. ラーメンの<ruby>味<rt>あじ</rt></ruby>が<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "1. ラーメンの味が | 忘れられない",
+    "translation": {
+      "natural": "1. 那碗拉麵的味道讓人念念不忘",
+      "literal": "1. 拉麵的味道無法被忘記"
+    },
+    "words": [
+      {
+        "word": "ラーメン",
+        "reading": "らーめん",
+        "note": "名詞，拉麵"
+      },
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道"
+      }
+    ],
+    "context_grammar": [
+      "「ラーメンの味」做主詞，搭配可能否定「忘れられない」，美食節目或美食旅遊推薦高頻出現句。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:25",
+    "japanese": "2. あの人の声が忘れられない",
+    "furigana": "2. あの<ruby>人<rt>ひと</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "2. あの人の声が | 忘れられない",
+    "translation": {
+      "natural": "2. 忘不了那個人的聲音",
+      "literal": "2. 那個人的聲音無法被忘記"
+    },
+    "words": [
+      {
+        "word": "声",
+        "reading": "こえ",
+        "note": "名詞，聲音"
+      }
+    ],
+    "context_grammar": [
+      "指示代名詞「あの人」帶出遙遠或刻骨銘心的人事物，表達深沉的感性思念。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:30",
+    "japanese": "3. そのいい香りが忘れられない",
+    "furigana": "3. そのいい<ruby>香<rt>かおり</rt></ruby>りが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "3. そのいい香りが | 忘れられない",
+    "translation": {
+      "natural": "3. 忘不了那迷人的香氣",
+      "literal": "3. 那個好的香氣無法被忘記"
+    },
+    "words": [
+      {
+        "word": "香り",
+        "reading": "かおり",
+        "note": "名詞，香氣、香味"
+      }
+    ],
+    "context_grammar": [
+      "連體形容詞「いい」修飾名詞「香り」，香水或柔順劑廣告常見文案。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:35",
+    "japanese": "4. 彼のこと忘られへん／彼のこと忘れられない",
+    "furigana": "4. <ruby>彼<rt>かれ</rt></ruby>のことが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "4. 彼のことが | 忘れられない",
+    "translation": {
+      "natural": "4. 忘不了關於他的一切",
+      "literal": "4. 他的事無法被忘記"
+    },
+    "words": [
+      {
+        "word": "彼",
+        "reading": "かれ",
+        "note": "代名詞，他"
+      }
+    ],
+    "context_grammar": [
+      "將人物抽象事項化（のことが），表現對感情對象難以割捨的依戀。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:39",
+    "japanese": "5. 旅行のことが忘れられない",
+    "furigana": "5. <ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>のことが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "5. 旅行のことが | 忘れられない",
+    "translation": {
+      "natural": "5. 忘不了那趟旅行的美好點滴",
+      "literal": "5. 旅行的事無法被忘記"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "「旅行のことが」做主語，常用於旅行後記錄或旅遊推廣影片。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:44",
+    "japanese": "6. あの失敗が忘れられない",
+    "furigana": "6. あの<ruby>失<rt>しっ</rt></ruby><ruby>敗<rt>ぱい</rt></ruby>が<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "6. あの失敗が | 忘れられない",
+    "translation": {
+      "natural": "6. 忘不了那次的失敗經驗",
+      "literal": "6. 那個失敗無法被忘記"
+    },
+    "words": [
+      {
+        "word": "失敗",
+        "reading": "しっぱい",
+        "note": "名詞，失敗"
+      }
+    ],
+    "context_grammar": [
+      "指示詞「あの」指稱過去已發生的事件，表達悔恨或深刻反省的心態。"
+    ]
+  },
+  {
+    "id": "040_2",
+    "time": "02:49",
+    "japanese": "7. 嬉しかったことが忘れられない",
+    "furigana": "7. <ruby>嬉<rt>うれ</rt></ruby>しかったことが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "7. 嬉しかったことが | 忘れられない",
+    "translation": {
+      "natural": "7. 忘不了那件令人開心的事情",
+      "literal": "7. 開心過的事無法被忘記"
+    },
+    "words": [
+      {
+        "word": "嬉しい",
+        "reading": "うれしい",
+        "note": "形容詞，開心的（過去式為嬉しかった）"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞過去式「嬉しかった」＋名詞化形式「こと」，將過往感受名詞化作為主詞。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:54",
+    "japanese": "8. 楽しかったことが忘れられない",
+    "furigana": "8. <ruby>楽<rt>たの</rt></ruby>しかったことが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "8. 楽しかったことが | 忘れられない",
+    "translation": {
+      "natural": "8. 忘不了當時歡樂的時光",
+      "literal": "8. 快樂過的事無法被忘記"
+    },
+    "words": [
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "note": "形容詞，快樂的（過去式為楽しかった）"
+      }
+    ],
+    "context_grammar": [
+      "「形容詞過去式 ＋ こと」名詞化結構，廣泛用於追憶美好時光。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:59",
+    "japanese": "9. 苦しかったことが忘れられない",
+    "furigana": "9. <ruby>苦<rt>くる</rt></ruby>しかったことが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "9. 苦しかったことが | 忘れられない",
+    "translation": {
+      "natural": "9. 忘不了那一段艱辛的歲月",
+      "literal": "9. 痛苦過的事無法被忘記"
+    },
+    "words": [
+      {
+        "word": "苦しい",
+        "reading": "くるしい",
+        "note": "形容詞，痛苦的、艱辛的（過去式為苦しかった）"
+      }
+    ],
+    "context_grammar": [
+      "「苦しかったこと」名詞化後作主詞，表現逆境經驗給人帶來的長遠影響。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:04",
+    "japanese": "10. 怖かったことが忘れられない",
+    "furigana": "10. <ruby>怖<rt>こわ</rt></ruby>かったことが<ruby>忘<rt>わす</rt></ruby>れられない",
+    "segmentation": "10. 怖かったことが | 忘れられない",
+    "translation": {
+      "natural": "10. 忘不了那件令人害怕的事",
+      "literal": "10. 恐怖過的事無法被忘記"
+    },
+    "words": [
+      {
+        "word": "怖い",
+        "reading": "こわい",
+        "note": "形容詞，害怕的、恐怖的（過去式為怖かった）"
+      }
+    ],
+    "context_grammar": [
+      "形容詞 past 連體修飾形式名詞「こと」，表述創傷或餘悸猶存的心境。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:09",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:11",
+    "japanese": "あの失敗が忘れられません。今度は頑張りましょう。",
+    "furigana": "あの<ruby>失<rt>しっ</rt></ruby><ruby>敗<rt>ぱい</rt></ruby>が<ruby>忘<rt>わす</rt></ruby>れられません。<ruby>今<rt>こん</rt></ruby><ruby>度<rt>ど</rt></ruby>は<ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>りましょう。",
+    "segmentation": "あの失敗が | 忘れられません。| 今度は | 頑張りましょう。",
+    "translation": {
+      "natural": "我還是忘不了那次失敗。下次一起加油吧！",
+      "literal": "那個失敗無法被忘記。下次加油吧。"
+    },
+    "words": [
+      {
+        "word": "忘れられません",
+        "reading": "わすれられません",
+        "note": "動詞「忘れる」的可能否定禮貌形（丁寧形）"
+      },
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "note": "名詞，下次"
+      },
+      {
+        "word": "頑張りましょう",
+        "reading": "がんばりましょう",
+        "note": "動詞「頑張る」的勸誘形（ましょう），表示「一起加油吧」"
+      }
+    ],
+    "context_grammar": [
+      "第一句使用叮嚀體可能否定「～られません」表達沮喪；第二句搭配提示主題「は」與動詞勸誘形「～ましょう」，呈現互相鼓勵安慰的商業與職場應答。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:19",
+    "japanese": "164",
+    "furigana": "164",
+    "segmentation": "164",
+    "translation": {
+      "natural": "164",
+      "literal": "164"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題數字編號。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:22",
+    "japanese": "言葉で言い表せないほどです",
+    "furigana": "まことばで<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほどです",
+    "segmentation": "言葉で | 言い表せない | ほどです",
+    "translation": {
+      "natural": "到了無法用言語形容的地步",
+      "literal": "是以言語無法說出表達程度的"
+    },
+    "words": [
+      {
+        "word": "言葉",
+        "reading": "ことば",
+        "note": "名詞，言語、文字"
+      },
+      {
+        "word": "言い表す",
+        "reading": "いいあらわす",
+        "note": "複合動詞，表達、說明（可能否定形為言い表せない）"
+      },
+      {
+        "word": "ほど",
+        "reading": "ほど",
+        "note": "副助詞，程度"
+      }
+    ],
+    "context_grammar": [
+      "複合動詞「言い表す」可能否定連體形 ＋ 程度副助詞「ほど」＋ 斷定「です」。用以強調極致的情感或感受，超過言語能力範疇。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:26",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:28",
+    "japanese": "1. 言葉で言い表せないほど嬉しいです",
+    "furigana": "1. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>嬉<rt>うれ</rt></ruby>しいです",
+    "segmentation": "1. 言葉で | 言い表せないほど | 嬉しいです",
+    "translation": {
+      "natural": "1. 我開心得無法用言語來形容",
+      "literal": "1. 是言語無法表達程度地高興"
+    },
+    "words": [
+      {
+        "word": "嬉しい",
+        "reading": "うれしい",
+        "note": "形容詞，開心的"
+      }
+    ],
+    "context_grammar": [
+      "「言い表せないほど」作為副詞修飾形容詞「嬉しい」，常見於感言或受獎致辭中表達極高喜悅。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:33",
+    "japanese": "2. 言葉で言い表せないほど悲しいです",
+    "furigana": "2. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>悲<rt>かな</rt></ruby>しいです",
+    "segmentation": "2. 言葉で | 言い表せないほど | 悲しいです",
+    "translation": {
+      "natural": "2. 我難過得無法用言語來形容",
+      "literal": "2. 是言語無法表達程度地悲傷"
+    },
+    "words": [
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "note": "形容詞，悲傷的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「悲しい」，表現無法言喻的極度悲痛。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:38",
+    "japanese": "3. 言葉で言い表せないほど辛いです",
+    "furigana": "3. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>辛<rt>つら</rt></ruby>いです",
+    "segmentation": "3. 言葉で | 言い表せないほど | 辛いです",
+    "translation": {
+      "natural": "3. 我痛苦得無法用言語表達",
+      "literal": "3. 是言語無法表達程度地辛酸"
+    },
+    "words": [
+      {
+        "word": "辛い",
+        "reading": "つらい",
+        "note": "形容詞，痛苦的、艱辛的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「辛い」，表達身心承受極大煎熬的情境。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:43",
+    "japanese": "4. 言葉で言い表せないほど苦しいです",
+    "furigana": "4. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>苦<rt>くる</rt></ruby>しいです",
+    "segmentation": "4. 言葉で | 言い表せないほど | 苦しいです",
+    "translation": {
+      "natural": "4. 我難受得無法用言語形容",
+      "literal": "4. 是言語無法表達程度地苦惱"
+    },
+    "words": [
+      {
+        "word": "苦しい",
+        "reading": "くるしい",
+        "note": "形容詞，難受的、痛苦的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「苦しい」，多用於描繪陷入絕境或處境極度困頓。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:49",
+    "japanese": "5. 言葉で言い表せないほど美味しいです",
+    "furigana": "5. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>美<rt>おい</rt></ruby>しいです",
+    "segmentation": "5. 言葉で | 言い表せないほど | 美味しいです",
+    "translation": {
+      "natural": "5. 這美味簡直無法用言語來形容",
+      "literal": "5. 是言語無法表達程度地好吃"
+    },
+    "words": [
+      {
+        "word": "美味しい",
+        "reading": "おいしい",
+        "note": "形容詞，好吃的、美味的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「美味しい」，美食節目與高檔餐廳評論的高頻浮誇讚美語句。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:54",
+    "japanese": "6. 言葉で言い表せないほど胸が痛いです／まずいです",
+    "furigana": "6. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほどまずいです",
+    "segmentation": "6. 言葉で | 言い表せないほど | まずいです",
+    "translation": {
+      "natural": "6. 這難吃得令人無法用言語形容",
+      "literal": "6. 是言語無法表達程度地難吃"
+    },
+    "words": [
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "note": "形容詞，難吃的、糟糕的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「まずい」，強烈表達對食物或情況難以忍受的不滿。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:59",
+    "japanese": "7. 言葉で言い表せないほど美しいです",
+    "furigana": "7. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>美<rt>うつく</rt></ruby>しいです",
+    "segmentation": "7. 言葉で | 言い表せないほど | 美しいです",
+    "translation": {
+      "natural": "7. 這裡的美美得無法用言語形容",
+      "literal": "7. 是言語無法表達程度地美麗"
+    },
+    "words": [
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「美しい」，常用於旅遊風光旁白，強調震懾人心的美景。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:05",
+    "japanese": "8. 言葉で言い表せないほど臭いです",
+    "furigana": "8. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>臭<rt>くさ</rt></ruby>いです",
+    "segmentation": "8. 言葉で | 言い表せないほど | 臭いです",
+    "translation": {
+      "natural": "8. 這臭得簡直無法用語言形容",
+      "literal": "8. 是言語無法表達程度地臭"
+    },
+    "words": [
+      {
+        "word": "臭い",
+        "reading": "くさい",
+        "note": "形容詞，臭的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「臭い」，以極端的修辭表達難以接受的異味體驗。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:10",
+    "japanese": "9. 言葉で言い表せないほど素晴らしいです",
+    "furigana": "9. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいです",
+    "segmentation": "9. 言葉で | 言い表せないほど | 素晴らしいです",
+    "translation": {
+      "natural": "9. 精彩得令人無法用文字形容",
+      "literal": "9. 是言語無法表達程度地精彩"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "形容詞，極好的、絕妙的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「素晴らしい」，藝術展演、電影觀後感極高評價的經典用語。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:16",
+    "japanese": "10. 言葉で言い表せないほど怖かったです",
+    "furigana": "10. <ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>で<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>怖<rt>こわ</rt></ruby>かったです",
+    "segmentation": "10. 言葉で | 言い表せないほど | 怖かったです",
+    "translation": {
+      "natural": "10. 當時可怕得讓我無法用言語形容",
+      "literal": "10. 是言語無法表達程度地恐怖過"
+    },
+    "words": [
+      {
+        "word": "怖かった",
+        "reading": "こわかった",
+        "note": "形容詞「怖い」的過去形"
+      }
+    ],
+    "context_grammar": [
+      "形容詞過去形「怖かった」搭配程度修飾，用於述說驚險經歷的餘悸。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:21",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:23",
+    "japanese": "言葉に言い表せないほど美しい景色です。そうでしょう、素晴らしいでしょう。",
+    "furigana": "<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>に<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せないほど<ruby>美<rt>うつく</rt></ruby>しい<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>です。そうでしょう、<ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしいでしょう。",
+    "segmentation": "言葉に | 言い表せないほど | 美しい景色です。| そうでしょう、| 素晴らしいでしょう。",
+    "translation": {
+      "natural": "這真是美到難以言表的美景呢。對吧！真的很棒吧！",
+      "literal": "是言語無法表達程度美麗的景色。是那樣吧，很精彩吧。"
+    },
+    "words": [
+      {
+        "word": "景色",
+        "reading": "けいしき",
+        "note": "名詞，景色、風景"
+      },
+      {
+        "word": "でしょう",
+        "reading": "でしょう",
+        "note": "助動詞，推測或徵求對方同意「吧」"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「に」與「で」在此可替換；「美しい景色です」為連體修飾名詞結構。",
+      "「そうでしょう」與「素晴らしいでしょう」連續使用下降語調（徵求認同），展現親切自然的互動氛圍。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:33",
+    "japanese": "165",
+    "furigana": "165",
+    "segmentation": "165",
+    "translation": {
+      "natural": "165",
+      "literal": "165"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題數字編號。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:36",
+    "japanese": "こんなに",
+    "furigana": "こんなに",
+    "segmentation": "こんなに",
+    "translation": {
+      "natural": "竟然如此～／這麼地～",
+      "literal": "像這樣地"
+    },
+    "words": [
+      {
+        "word": "こんなに",
+        "reading": "こんなに",
+        "note": "副詞，如此地、這麼地"
+      }
+    ],
+    "context_grammar": [
+      "指示副詞（指示代詞「こんな」連用形），專門修飾後續的形容詞、副詞或狀態，帶有驚嘆、超乎預期的感嘆語氣。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:38",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:40",
+    "japanese": "1. こんなに綺麗な景色",
+    "furigana": "1. こんなに<ruby>奇<rt>き</rt></ruby><ruby>麗<rt>れい</rt></ruby>な<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>",
+    "segmentation": "1. こんなに | 綺麗な | 景色",
+    "translation": {
+      "natural": "1. 居然有這麼漂亮的風景",
+      "literal": "1. 這麼地漂亮的景色"
+    },
+    "words": [
+      {
+        "word": "綺麗",
+        "reading": "きれい",
+        "note": "形容動詞（な形容詞），漂亮的、美麗的"
+      },
+      {
+        "word": "景色",
+        "reading": "けいしき",
+        "note": "名詞，景色"
+      }
+    ],
+    "context_grammar": [
+      "「こんなに」修飾形容動詞連體形「綺麗な」，用以讚歎眼前的絕景。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:44",
+    "japanese": "2. こんなに素晴らしい曲",
+    "furigana": "2. こんなに<ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>曲<rt>きょく</rt></ruby>",
+    "segmentation": "2. こんなに | 素晴らしい | 曲",
+    "translation": {
+      "natural": "2. 這麼動聽的曲子",
+      "literal": "2. 這麼地精彩的歌曲"
+    },
+    "words": [
+      {
+        "word": "曲",
+        "reading": "きょく",
+        "note": "名詞，歌曲、樂曲"
+      }
+    ],
+    "context_grammar": [
+      "「こんなに」修飾形容詞「素晴らしい」，表達聽完音樂後的驚喜感。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:48",
+    "japanese": "3. こんなに高価な絵",
+    "furigana": "3. こんなに<ruby>高<rt>こう</rt></ruby><ruby>価<rt>か</rt></ruby>な<ruby>絵<rt>え</rt></ruby>",
+    "segmentation": "3. こんなに | 高価な | 絵",
+    "translation": {
+      "natural": "3. 如此昂貴的名畫",
+      "literal": "3. 這麼地昂貴的畫"
+    },
+    "words": [
+      {
+        "word": "高価",
+        "reading": "こうか",
+        "note": "形容動詞（な形容詞），昂貴的"
+      },
+      {
+        "word": "絵",
+        "reading": "え",
+        "note": "名詞，畫作"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容動詞「高価な」，常用於藝術品拍賣或高檔展覽介紹。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:52",
+    "japanese": "4. こんなに難しい仕事",
+    "furigana": "4. こんなに<ruby>難<rt>むずか</rt></ruby>しい<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>",
+    "segmentation": "4. こんなに | 難しい | 仕事",
+    "translation": {
+      "natural": "4. 這麼棘手艱難的工作",
+      "literal": "4. 這麼地困難的工作"
+    },
+    "words": [
+      {
+        "word": "難しい",
+        "reading": "むずかしい",
+        "note": "形容詞，困難的"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「難しい」，表達任務之艱巨超乎預期。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:56",
+    "japanese": "5. こんなに可愛いパンダ",
+    "furigana": "5. こんなに<ruby>愛<rt>かわ</rt></ruby>い<ruby>い<rt>い</rt></ruby>パンダ",
+    "segmentation": "5. こんなに | 可愛い | パンダ",
+    "translation": {
+      "natural": "5. 這麼可愛的大貓熊",
+      "literal": "5. 這麼地可愛的貓熊"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "形容詞，可愛的"
+      },
+      {
+        "word": "パンダ",
+        "reading": "ぱんだ",
+        "note": "名詞，貓熊（Panda）"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「可愛い」，節目或紀錄片中表達被萌翻的感嘆情緒。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "05:01",
+    "japanese": "6. こんなにたくさんの食べ物",
+    "furigana": "6. こんなにたくさんの<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>",
+    "segmentation": "6. こんなに | たくさんの | 食べ物",
+    "translation": {
+      "natural": "6. 竟然有這麼豐盛的食物",
+      "literal": "6. 這麼地許多的食物"
+    },
+    "words": [
+      {
+        "word": "たくさん",
+        "reading": "たくさん",
+        "note": "副詞／名詞，許多"
+      },
+      {
+        "word": "食べ物",
+        "reading": "たべもの",
+        "note": "名詞，食物"
+      }
+    ],
+    "context_grammar": [
+      "修飾數量副詞「たくさん」，再以連體格「の」修飾名詞「食べ物」，感嘆數量驚人。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "05:06",
+    "japanese": "7. こんなに大勢のファン",
+    "furigana": "7. こんなに<ruby>大<rt>おお</rt></ruby><ruby>勢<rt>ぜい</rt></ruby>のファン",
+    "segmentation": "7. こんなに | 大勢の | ファン",
+    "translation": {
+      "natural": "7. 竟有這麼龐大的粉絲群",
+      "literal": "7. 這麼地多人的粉絲"
+    },
+    "words": [
+      {
+        "word": "大勢",
+        "reading": "おおぜい",
+        "note": "名詞，許多人、眾人"
+      },
+      {
+        "word": "ファン",
+        "reading": "ふぁん",
+        "note": "名詞，粉絲（Fan）"
+      }
+    ],
+    "context_grammar": [
+      "「こんなに」修飾人數眾多的名詞「大勢」，強調人潮盛況。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "05:10",
+    "japanese": "8. こんなにおいしいパン",
+    "furigana": "8. こんなにおいしいパン",
+    "segmentation": "8. こんなに | おいしい | パン",
+    "translation": {
+      "natural": "8. 這麼好吃的麵包",
+      "literal": "8. 這麼地好吃的麵包"
+    },
+    "words": [
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "note": "形容詞，好吃的"
+      },
+      {
+        "word": "パン",
+        "reading": "ぱん",
+        "note": "名詞，麵包"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「おいしい」，烘焙坊宣傳或探店影片必備語句。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "05:14",
+    "japanese": "9. こんなに美しい宝石",
+    "furigana": "9. こんなに<ruby>美<rt>うつく</rt></ruby>しい<ruby>宝<rt>ほう</rt></ruby><ruby>石<rt>せき</rt></ruby>",
+    "segmentation": "9. こんなに | 美しい | 宝石",
+    "translation": {
+      "natural": "9. 如此璀璨的美麗寶石",
+      "literal": "9. 這麼地美麗的寶石"
+    },
+    "words": [
+      {
+        "word": "宝石",
+        "reading": "ほうせき",
+        "note": "名詞，寶石"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「美しい」，珠寶專櫃或廣告旁白強調商品稀有與質感。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "05:19",
+    "japanese": "10. こんなに近い場所",
+    "furigana": "10. こんなに<ruby>近<rt>ちか</rt></ruby>い<ruby>場<rt>ば</rt></ruby><ruby>所<rt>しょ</rt></ruby>",
+    "segmentation": "10. こんなに | 近い | 場所",
+    "translation": {
+      "natural": "10. 地點竟然這麼近",
+      "literal": "10. 這麼地近的地方"
+    },
+    "words": [
+      {
+        "word": "近い",
+        "reading": "ちかい",
+        "note": "形容詞，近的"
+      },
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "note": "名詞，場所、地點"
+      }
+    ],
+    "context_grammar": [
+      "修飾形容詞「近い」，常用於建案宣傳或景點交通便利性說明。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "05:23",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元步驟標題。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "05:25",
+    "japanese": "こんなに大勢のファンがいるんですね。そうですよ、彼は大人気ですからね。",
+    "furigana": "こんなに<ruby>大<rt>おお</rt></ruby><ruby>勢<rt>ぜい</rt></ruby>のファンがいるんですね。そうですよ、<ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>だい</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>気<rt>き</rt></ruby>ですからね。",
+    "segmentation": "こんなに | 大勢のファンが | いるんですね。| そうですよ、| 彼は | 大人気ですからね。",
+    "translation": {
+      "natural": "沒想到竟然有這麼多粉絲在場呢！是啊，畢竟他現在超受歡迎的嘛！",
+      "literal": "像這樣大勢的粉絲存在著呢。是那樣喔，他因為是大人氣呢。"
+    },
+    "words": [
+      {
+        "word": "大人気",
+        "reading": "だいにんき",
+        "note": "名詞／形容動詞，超人氣、極受歡迎"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接續助詞，因為"
+      }
+    ],
+    "context_grammar": [
+      "第一句「～いるんですね」表達發現現場粉絲盛況後的讚嘆；第二句以「～ですからね」說明原因（因果接續助詞「から」＋肯定終助詞「ね」），口語回應自然得體。"
+    ]
+  }
+]
