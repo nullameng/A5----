@@ -1,0 +1,1787 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "111. な",
+    "furigana": "111. な",
+    "segmentation": "111 | な",
+    "translation": {
+      "natural": "111 「な」（禁止）",
+      "literal": "111 な"
+    },
+    "words": [
+      {
+        "word": "111",
+        "reading": "ひゃくじゅういち",
+        "note": "數詞，111"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，接於動詞原形後表示禁止（不可以……）"
+      }
+    ],
+    "context_grammar": [
+      "標題與句型提示，直譯即可。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "1. 行くな",
+    "furigana": "1. <ruby>行<rt>い</rt></ruby>くな",
+    "segmentation": "1. | 行くな",
+    "translation": {
+      "natural": "1. 不准去！",
+      "literal": "1. 別去。"
+    },
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋な：表示強烈的禁止命令語態。在旁白或警告告示中常用於傳達直截了當的禁令命令。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:08",
+    "japanese": "2. 入るな",
+    "furigana": "2. <ruby>入<rt>はい</rt></ruby>るな",
+    "segmentation": "2. | 入るな",
+    "translation": {
+      "natural": "2. 不准進去！",
+      "literal": "2. 別進入。"
+    },
+    "words": [
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋な：五段活用動詞原形直接接續「な」構成禁止形。常見於安全標識、警告標語或警匪片配音台詞。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:10",
+    "japanese": "3. 飲むな",
+    "furigana": "3. <ruby>飲<rt>の</rt></ruby>むな",
+    "segmentation": "3. | 飲むな",
+    "translation": {
+      "natural": "3. 不准喝！",
+      "literal": "3. 別喝。"
+    },
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋な：短促無修飾的指令語氣，在商業廣告中若作為警示語，能創造強烈的警示與衝擊感。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:13",
+    "japanese": "4. 食べるな",
+    "furigana": "4. <ruby>食<rt>た</rt></ruby>べるな",
+    "segmentation": "4. | 食べるな",
+    "translation": {
+      "natural": "4. 不准吃！",
+      "literal": "4. 別吃。"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "下一段活用動詞原形接續終助詞「な」，形成直載了當的禁止句，多用於權威性口令或防範未然的強烈告示。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:16",
+    "japanese": "5. 触るな",
+    "furigana": "5. <ruby>触<rt>さわ</rt></ruby>るな",
+    "segmentation": "5. | 触るな",
+    "translation": {
+      "natural": "5. 請勿碰觸！",
+      "literal": "5. 別摸。"
+    },
+    "words": [
+      {
+        "word": "触る",
+        "reading": "さわる",
+        "note": "動詞，觸碰"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「触る」原形加上禁止終助詞「な」。常出現於展示會、博物館標示或宣導影片中，用以表達「嚴禁碰觸」之意。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:19",
+    "japanese": "6. 開けるな",
+    "furigana": "6. <ruby>開<rt>あ</rt></ruby>けるな",
+    "segmentation": "6. | 開けるな",
+    "translation": {
+      "natural": "6. 不准開啟！",
+      "literal": "6. 別開。"
+    },
+    "words": [
+      {
+        "word": "開ける",
+        "reading": "あける",
+        "note": "動詞，打開"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「開ける」原形＋「な」。具權威感的禁止指令，常用於機器設備危險標籤或戲劇張力極強的旁白中。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:22",
+    "japanese": "7. ダウンロードするな",
+    "furigana": "7. ダウンロードするな",
+    "segmentation": "7. | ダウンロードするな",
+    "translation": {
+      "natural": "7. 切勿下載！",
+      "literal": "7. 別下載。"
+    },
+    "words": [
+      {
+        "word": "ダウンロードする",
+        "reading": "だうんろーどする",
+        "note": "動詞，下載"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "三變（サ變）動詞「ダウンロードする」直接接「な」。資安防護宣導影片或防詐騙廣告中，強調危險動作時的直接語態。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:26",
+    "japanese": "8. 相手にするな",
+    "furigana": "8. <ruby>相<rt>あい</rt></ruby><ruby>手<rt>て</rt></ruby>にするな",
+    "segmentation": "8. | 相手にするな",
+    "translation": {
+      "natural": "8. 別理他！",
+      "literal": "8. 別當作對手。"
+    },
+    "words": [
+      {
+        "word": "相手にする",
+        "reading": "あいてにする",
+        "note": "慣用句，理睬、當作對手"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋にする 形成慣用片語「相手にする」（理會），加上「な」構成禁止語氣。常用於生活劇、動畫宣導等的情境演譯中。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:29",
+    "japanese": "9. 無視するな",
+    "furigana": "9. <ruby>無<rt>む</rt></ruby><ruby>視<rt>し</rt></ruby>するな",
+    "segmentation": "9. | 無視するな",
+    "translation": {
+      "natural": "9. 不要無視我！",
+      "literal": "9. 別無視。"
+    },
+    "words": [
+      {
+        "word": "無視する",
+        "reading": "むしする",
+        "note": "動詞，無視、忽視"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「無視する」＋「な」。具強烈的警告情緒，常見於交通安全宣導廣告（如「勿忽視號誌」）或人際溝通情境之戲劇對白。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:32",
+    "japanese": "10. アップロードするな",
+    "furigana": "10. アップロードするな",
+    "segmentation": "10. | アップロードするな",
+    "translation": {
+      "natural": "10. 切勿上傳！",
+      "literal": "10. 別上傳。"
+    },
+    "words": [
+      {
+        "word": "アップロードする",
+        "reading": "あっぷろーどする",
+        "note": "動詞，上傳"
+      },
+      {
+        "word": "な",
+        "reading": "な",
+        "note": "終助詞，強烈禁止"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「アップロードする」＋「な」。常用於網路著作權法宣導或網路安全防護廣告，提供極具警示力的指令。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:36",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:38",
+    "japanese": "それをダウンロードするな。コンピューターウイルスですか？",
+    "furigana": "それをダウンロードするな。<ruby>コ<rt></rt></ruby><ruby>ン<rt></rt></ruby><ruby>ピ<rt></rt></ruby><ruby>ュ<rt></rt></ruby><ruby>ー<rt></rt></ruby><ruby>タ<rt></rt></ruby><ruby>ー<rt></rt></ruby>ウイルスですか？",
+    "segmentation": "それを | ダウンロードするな。| コンピューターウイルスですか？",
+    "translation": {
+      "natural": "千萬別下載那個！那是電腦病毒嗎？",
+      "literal": "別下載那個。是電腦病毒嗎？"
+    },
+    "words": [
+      {
+        "word": "それ",
+        "reading": "それ",
+        "note": "代名詞，那個"
+      },
+      {
+        "word": "ダウンロードする",
+        "reading": "だうんろーどする",
+        "note": "動詞，下載"
+      },
+      {
+        "word": "コンピューターウイルス",
+        "reading": "こんぴゅーたーういるす",
+        "note": "名詞，電腦病毒"
+      }
+    ],
+    "context_grammar": [
+      "前句使用指示代名詞「それ」作為賓詞修飾「ダウンロードするな」；後句為標準的名詞＋ですか（疑問句）。示範情境劇中高緊張度的口語對話與反應。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:44",
+    "japanese": "112. ないで",
+    "furigana": "112. ないで",
+    "segmentation": "112 | ないで",
+    "translation": {
+      "natural": "112 「ないで」（不……而……）",
+      "literal": "112 ないで"
+    },
+    "words": [
+      {
+        "word": "112",
+        "reading": "ひゃくじゅうに",
+        "note": "數詞，112"
+      },
+      {
+        "word": "ないで",
+        "reading": "ないで",
+        "note": "接續助詞，不……而……"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:48",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "00:50",
+    "japanese": "1. 起きないで、寝ています。",
+    "furigana": "1. <ruby>起<rt>お</rt></ruby>きないで、<ruby>寝<rt>ね</rt></ruby>ています。",
+    "segmentation": "1. | 起きないで、| 寝ています。",
+    "translation": {
+      "natural": "1. 沒起來，還在睡覺。",
+      "literal": "1. 不起來而睡著。"
+    },
+    "words": [
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "note": "動詞，起床、起來"
+      },
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "note": "動詞，睡覺（連用形「寝」＋ています 表示持續狀態）"
+      }
+    ],
+    "context_grammar": [
+      "動詞未然形＋ないで：表「在不進行前項動作的情況下，進行後項動作」之接續形態。「～ています」則表進行中或結果狀態的持續。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "00:54",
+    "japanese": "2. 地下鉄に乗らないで、歩いていきます。",
+    "furigana": "2. <ruby>地<rt>ち</rt></ruby><ruby>下<rt>か</rt></ruby><ruby>鉄<rt>てつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>らないで、<ruby>歩<rt>ある</rt></ruby>いていきます。",
+    "segmentation": "2. | 地下鉄に乗らないで、| 歩いていきます。",
+    "translation": {
+      "natural": "2. 不搭電車，打算走路過去。",
+      "literal": "2. 不搭地下鐵而走著去。"
+    },
+    "words": [
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "note": "名詞，地下鐵"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "note": "動詞，搭乘（與格助詞「に」搭配）"
+      },
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "note": "動詞，走路（「歩いていく」表徒步前往）"
+      }
+    ],
+    "context_grammar": [
+      "「格助詞 に」指示搭乘目標。「V1-ないで＋V2」作為替代方案的選擇接續，常出現在宣導綠色出行或Lifestyle生活紀錄片中。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "00:59",
+    "japanese": "3. 携帯電話を持たないで、出かけます。",
+    "furigana": "3. <ruby>携<rt>けい</rt></ruby><ruby>帯<rt>たい</rt></ruby><ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby>を<ruby>持<rt>も</rt></ruby>たないで、<ruby>出<rt>で</rt></ruby>かけます。",
+    "segmentation": "3. | 携帯電話を持たないで、| 出かけます。",
+    "translation": {
+      "natural": "3. 沒帶手機就出門了。",
+      "literal": "3. 不拿手機而出門。"
+    },
+    "words": [
+      {
+        "word": "携帯電話",
+        "reading": "けいたいでんわ",
+        "note": "名詞，手機"
+      },
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "note": "動詞，攜帶、持有"
+      },
+      {
+        "word": "出かける",
+        "reading": "でかける",
+        "note": "動詞，出門"
+      }
+    ],
+    "context_grammar": [
+      "「～を 持たないで」作為修飾後句動作「出かけます」的情態狀語，強調「在未配備某物」狀態下的行動模式。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:04",
+    "japanese": "4. シートベルトをしめないで、運転します。",
+    "furigana": "4. シートベルトを<ruby>し<rt></rt></ruby>めないで、<ruby>運<rt>うん</rt></ruby><ruby>転<rt>てん</rt></ruby>します。",
+    "segmentation": "4. | シートベルトをしめないで、| 運転します。",
+    "translation": {
+      "natural": "4. 沒繫安全帶就開車。",
+      "literal": "4. 不繫安全帶而駕駛。"
+    },
+    "words": [
+      {
+        "word": "シートベルト",
+        "reading": "しーとべると",
+        "note": "外來語名詞，安全帶"
+      },
+      {
+        "word": "締める",
+        "reading": "しめる",
+        "note": "動詞，繫上、扣上"
+      },
+      {
+        "word": "運転する",
+        "reading": "うんてんする",
+        "note": "動詞，駕駛"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「締める」變形為否定連用接續「しめないで」。在交通安全教育廣告中，常用此描繪不當行為作為反面教材。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:10",
+    "japanese": "5. テレビを消さないで、寝ました。",
+    "furigana": "5. テレビを<ruby>消<rt>け</rt></ruby>さないで、<ruby>寝<rt>ね</rt></ruby>ました。",
+    "segmentation": "5. | テレビを消さないで、| 寝ました。",
+    "translation": {
+      "natural": "5. 電視沒關就睡著了。",
+      "literal": "5. 不關電視而睡了。"
+    },
+    "words": [
+      {
+        "word": "テレビ",
+        "reading": "てれび",
+        "note": "外來語名詞，電視"
+      },
+      {
+        "word": "消す",
+        "reading": "けす",
+        "note": "動詞，關閉（電源）"
+      },
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "note": "動詞，睡覺（過去式「寝ました」）"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「消す」未然形「消さ」＋「ないで」。表示在保持電視未關的附帶狀況下進行了「寢る」的過去動作。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:15",
+    "japanese": "6. 電気をつけないで、本を読みます。",
+    "furigana": "6. <ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby>をつけないで、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+    "segmentation": "6. | 電気をつけないで、| 本を読みます。",
+    "translation": {
+      "natural": "6. 不開燈看書。",
+      "literal": "6. 不點燈而讀書。"
+    },
+    "words": [
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "note": "名詞，電燈"
+      },
+      {
+        "word": "つける",
+        "reading": "つける",
+        "note": "動詞，開啟（電源、燈光）"
+      },
+      {
+        "word": "本",
+        "reading": "ほん",
+        "note": "名詞，書本"
+      },
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "note": "動詞，閱讀"
+      }
+    ],
+    "context_grammar": [
+      "「V1-ないで」修飾後項動作「本を読みます」的伴隨狀態。常用於宣導保護視力或省電主題的公益短片中。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:20",
+    "japanese": "7. 遊ばないで、勉強します。",
+    "furigana": "7. <ruby>遊<rt>あそ</rt></ruby>ばないで、<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>します。",
+    "segmentation": "7. | 遊ばないで、| 勉強します。",
+    "translation": {
+      "natural": "7. 不去玩，乖乖念書。",
+      "literal": "7. 不玩耍而學習。"
+    },
+    "words": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "note": "動詞，玩耍"
+      },
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "note": "動詞，學習"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「遊ぶ」未然形「遊ば」＋「ないで」，表對比性的行為選擇（捨棄遊玩而選擇學習），常見於文教補習班廣告。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:25",
+    "japanese": "8. 働かないで、毎日遊びます。",
+    "furigana": "8. <ruby>働<rt>はたら</rt></ruby>かないで、<ruby>毎<rt>まい</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>遊<rt>あそ</rt></ruby>びます。",
+    "segmentation": "8. | 働かないで、| 毎日遊びます。",
+    "translation": {
+      "natural": "8. 不工作，每天都在玩樂。",
+      "literal": "8. 不工作而每天玩耍。"
+    },
+    "words": [
+      {
+        "word": "働く",
+        "reading": "はたらく",
+        "note": "動詞，工作"
+      },
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "note": "副詞/名詞，每天"
+      },
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "note": "動詞，玩樂"
+      }
+    ],
+    "context_grammar": [
+      "「働かないで」表示未進行工作此一前提狀態，「毎日」作為修飾「遊びます」的時間副詞，呈現連續性的日常描繪。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:30",
+    "japanese": "9. ヘルメットをかぶらないで、オートバイに乗ります。",
+    "furigana": "9. ヘルメットをかぶらないで、オートバイに<ruby>乗<rt>の</rt></ruby>ります。",
+    "segmentation": "9. | ヘルメットをかぶらないで、| オートバイに乗ります。",
+    "translation": {
+      "natural": "9. 沒戴安全帽就騎機車。",
+      "literal": "9. 不戴安全帽而搭乘機車。"
+    },
+    "words": [
+      {
+        "word": "ヘルメット",
+        "reading": "へるめっと",
+        "note": "外來語名詞，安全帽"
+      },
+      {
+        "word": "かぶる",
+        "reading": "かぶる",
+        "note": "動詞，戴（帽子等）"
+      },
+      {
+        "word": "オートバイ",
+        "reading": "おーとばい",
+        "note": "外來語名詞，摩托車/機車"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "note": "動詞，騎乘"
+      }
+    ],
+    "context_grammar": [
+      "「～を かぶらないで」描繪未穿戴防護裝備的狀態。常出現在道安宣傳影片中，作為不良習慣之示範。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:36",
+    "japanese": "10. からしを入れないで、納豆を食べます。",
+    "furigana": "10. からしを<ruby>入<rt>い</rt></ruby>れないで、<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
+    "segmentation": "10. | からしを入れないで、| 納豆を食べます。",
+    "translation": {
+      "natural": "10. 不加黃芥末，直接吃納豆。",
+      "literal": "10. 不放入芥末而吃納豆。"
+    },
+    "words": [
+      {
+        "word": "からし",
+        "reading": "からし",
+        "note": "名詞，黃芥末"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，加入"
+      },
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，食用"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「入れる」未然形「入れ」＋「ないで」。表示排除某種調味料的特定飲食習慣，常用於飲食節目或美食廣告。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:41",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:43",
+    "japanese": "私はからしを入れないで納豆を食べます。からしを入れるとおいしくなりますよ。",
+    "furigana": "私(わたし)はからしを<ruby>入<rt>い</rt></ruby>れないで<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。からしを<ruby>入<rt>い</rt></ruby>れるとおいしくなりますよ。",
+    "segmentation": "私は | からしを入れないで | 納豆を食べます。| からしを入れると | おいしくなりますよ。",
+    "translation": {
+      "natural": "我都吃不加黃芥末的納豆。加了黃芥末會變得更好吃喔！",
+      "literal": "我不加黃芥末吃納豆。若加入黃芥末的話會變美味喔。"
+    },
+    "words": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "note": "代名詞，我"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，放入"
+      },
+      {
+        "word": "美味しい",
+        "reading": "おいしい",
+        "note": "形容詞，美味的（連用形「おいしく」＋なります 表示狀態轉變）"
+      }
+    ],
+    "context_grammar": [
+      "後句「動詞連體形＋と」為條件順接接續（一……就……）；形容詞連用形「おいしく」＋「なります」表示性質變化。屬典型飲食CM常見的對話推介風格。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:52",
+    "japanese": "113. ないでください",
+    "furigana": "113. ないでください",
+    "segmentation": "113 | ないでください",
+    "translation": {
+      "natural": "113 「ないでください」（請不要……）",
+      "literal": "113 ないでください"
+    },
+    "words": [
+      {
+        "word": "113",
+        "reading": "ひゃくじゅうさん",
+        "note": "數詞，113"
+      },
+      {
+        "word": "ないでください",
+        "reading": "ないでください",
+        "note": "句型，請不要……"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:57",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:58",
+    "japanese": "1. 会議中は電話をしないでください。",
+    "furigana": "1. <ruby>会<rt>かい</rt></ruby><ruby>議<rt>ぎ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby>をしないでください。",
+    "segmentation": "1. | 会議中は | 電話をしないでください。",
+    "translation": {
+      "natural": "1. 會議期間請勿打電話。",
+      "literal": "1. 會議中請不要打電話。"
+    },
+    "words": [
+      {
+        "word": "会議中",
+        "reading": "かいぎちゅう",
+        "note": "名詞，會議中"
+      },
+      {
+        "word": "電話をする",
+        "reading": "でんわをする",
+        "note": "動詞，打電話"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋中（ちゅう）＋は」提示時間範圍背景；「V-ないでください」為標準的禮貌禁止句型，高度適用於商務職場宣導影音。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:04",
+    "japanese": "2. ここに入らないでください。",
+    "furigana": "2. ここに<ruby>入<rt>はい</rt></ruby>らないでください。",
+    "segmentation": "2. | ここに | 入らないでください。",
+    "translation": {
+      "natural": "2. 請勿進入此處。",
+      "literal": "2. 請不要進入這裡。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "指示代名詞，這裡"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入"
+      }
+    ],
+    "context_grammar": [
+      "「格助詞 に」指示進入之目的地。五段動詞「入る」未然形「入ら」＋「ないでください」，常用於企業展館或管制區警告告示。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:08",
+    "japanese": "3. 話さないでください。",
+    "furigana": "3. <ruby>話<rt>はな</rt></ruby>さないでください。",
+    "segmentation": "3. | 話さないでください。",
+    "translation": {
+      "natural": "3. 請勿交談。",
+      "literal": "3. 請不要說話。"
+    },
+    "words": [
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "note": "動詞，說話、交談"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「話す」未然形「話さ」＋「ないでください」。公共場所、播音室或電影院禮儀宣導影片之標準用語。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:11",
+    "japanese": "4. 知らせないでください。",
+    "furigana": "4. <ruby>知<rt>し</rt></ruby>らせないでください。",
+    "segmentation": "4. | 知らせないでください。",
+    "translation": {
+      "natural": "4. 請不要告知他人。",
+      "literal": "4. 請不要通知。"
+    },
+    "words": [
+      {
+        "word": "知らせる",
+        "reading": "しらせる",
+        "note": "動詞，通知、告知"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「知らせる」未然形「知らせ」＋「ないでください」。保密協議或懸疑劇推廣宣導中，常用於營造神秘感。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:15",
+    "japanese": "5. 教えないでください。",
+    "furigana": "5. <ruby>教<rt>おし</rt></ruby>えないでください。",
+    "segmentation": "5. | 教えないでください。",
+    "translation": {
+      "natural": "5. 請不要告訴我。",
+      "literal": "5. 請不要教/透露。"
+    },
+    "words": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "note": "動詞，教導、透露（資訊）"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「教える」變形為否定請求。在商業影片中可用於預防防劇透（スpoiラー）或個資保護宣導。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:19",
+    "japanese": "6. 遅刻しないでください。",
+    "furigana": "6. <ruby>遅<rt>ち</rt></ruby><ruby>刻<rt>こく</rt></ruby>しないでください。",
+    "segmentation": "6. | 遅刻しないでください。",
+    "translation": {
+      "natural": "6. 請勿遲到。",
+      "literal": "6. 請不要遲到。"
+    },
+    "words": [
+      {
+        "word": "遅刻する",
+        "reading": "ちこくする",
+        "note": "動詞，遲到"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「遅刻する」否定語尾變形。常用於企業內部培訓影片或面試須知廣告中。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:22",
+    "japanese": "7. 砂糖を入れないでください。",
+    "furigana": "7. <ruby>砂<rt>さ</rt></ruby><ruby>糖<rt>とう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れないでください。",
+    "segmentation": "7. | 砂糖を入れないでください。",
+    "translation": {
+      "natural": "7. 請不要加糖。",
+      "literal": "7. 請不要放入砂糖。"
+    },
+    "words": [
+      {
+        "word": "砂糖",
+        "reading": "さとう",
+        "note": "名詞，砂糖"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，加入"
+      }
+    ],
+    "context_grammar": [
+      "賓格助詞「を」指示動作對象。餐飲點餐或健康飲食廣告中極為實用的禮貌客製化要求語句。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:27",
+    "japanese": "8. 氷を入れないでください。",
+    "furigana": "8. <ruby>氷<rt>こおり</rt></ruby>を<ruby>入<rt>い</rt></ruby>れないでください。",
+    "segmentation": "8. | 氷を入れないでください。",
+    "translation": {
+      "natural": "8. 請去冰（請不要加冰塊）。",
+      "literal": "8. 請不要放入冰塊。"
+    },
+    "words": [
+      {
+        "word": "氷",
+        "reading": "こおり",
+        "note": "名詞，冰塊"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，加入"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「入れる」未然形＋「ないでください」。手搖飲、咖啡廳廣告情境中，「去冰」的標準日文表達。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:31",
+    "japanese": "9. 起こさないでください。",
+    "furigana": "9. <ruby>起<rt>お</rt></ruby>こさないでください。",
+    "segmentation": "9. | 起こさないでください。",
+    "translation": {
+      "natural": "9. 請不要叫醒我。",
+      "literal": "9. 請不要叫醒。"
+    },
+    "words": [
+      {
+        "word": "起こす",
+        "reading": "おこす",
+        "note": "動詞，叫醒"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「起こす」未然形「起こさ」＋「ないでください」。飯店「請勿打擾」掛牌或床寢用品廣告中的常客語句。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:35",
+    "japanese": "10. 寝ないでください。",
+    "furigana": "10. <ruby>寝<rt>ね</rt></ruby>ないでください。",
+    "segmentation": "10. | 寝ないでください。",
+    "translation": {
+      "natural": "10. 請不要睡著。",
+      "literal": "10. 請不要睡覺。"
+    },
+    "words": [
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "note": "動詞，睡覺"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「寝る」未然形「寝」＋「ないでください」。常用於駕駛防疲勞警報廣告或提神飲料旁白。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:39",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:41",
+    "japanese": "氷は入れますか？ 氷は入れないでください。",
+    "furigana": "氷(こおり)は<ruby>入<rt>い</rt></ruby>れますか？ 氷(こおり)は<ruby>入<rt>い</rt></ruby>れないでください。",
+    "segmentation": "氷は入れますか？ | 氷は入れないでください。",
+    "translation": {
+      "natural": "需要加冰塊嗎？ 請幫我去冰（不要加冰塊）。",
+      "literal": "要放入冰塊嗎？ 請不要放入冰塊。"
+    },
+    "words": [
+      {
+        "word": "氷",
+        "reading": "こおり",
+        "note": "名詞，冰塊（以提示主題助詞「は」提起討論話題）"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，加入"
+      }
+    ],
+    "context_grammar": [
+      "「提示助詞 は」取代賓格助詞「を」，用來對比或作為對話主題。為餐飲店家與顧客之間的典型互動對話範例。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:48",
+    "japanese": "114. ないといけません",
+    "furigana": "114. ないといけません",
+    "segmentation": "114 | ないといけません",
+    "translation": {
+      "natural": "114 「ないといけません」（必須……）",
+      "literal": "114 ないといけません"
+    },
+    "words": [
+      {
+        "word": "114",
+        "reading": "ひゃくじゅうよん",
+        "note": "數詞，114"
+      },
+      {
+        "word": "ないといけません",
+        "reading": "ないといけません",
+        "note": "句型，必須……、非做……不可"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:53",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:54",
+    "japanese": "1. 薬を塗らないといけません。",
+    "furigana": "1. <ruby>薬<rt>くすり</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>らないといけません。",
+    "segmentation": "1. | 薬を塗らないといけません。",
+    "translation": {
+      "natural": "1. 一定要擦藥才行。",
+      "literal": "1. 不塗藥的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "薬",
+        "reading": "くすり",
+        "note": "名詞，藥"
+      },
+      {
+        "word": "塗る",
+        "reading": "ぬる",
+        "note": "動詞，塗抹"
+      }
+    ],
+    "context_grammar": [
+      "「V-ない（條件假定）＋と（則）＋いけません（不行）」：表示雙重否定產生的「必須」義務，口語與衛教影片中十分常用。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:59",
+    "japanese": "2. 目薬をささないといけません。",
+    "furigana": "2. <ruby>目<rt>め</rt></ruby><ruby>薬<rt>ぐすり</rt></ruby>をささないといけません。",
+    "segmentation": "2. | 目薬をささないといけません。",
+    "translation": {
+      "natural": "2. 必須要點眼藥水才行。",
+      "literal": "2. 不點眼藥水的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "目薬",
+        "reading": "めぐすり",
+        "note": "名詞，眼藥水"
+      },
+      {
+        "word": "さす",
+        "reading": "さす",
+        "note": "動詞，滴、點（眼藥水）"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「さす」未然形「ささ」＋「ないといけません」。常見於眼科藥品宣導廣告或保健指導。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:04",
+    "japanese": "3. ビザを申請しないといけません。",
+    "furigana": "3. ビザを<ruby>申<rt>しん</rt></ruby><ruby>請<rt>せい</rt></ruby>しないといけません。",
+    "segmentation": "3. | ビザを申請しないといけません。",
+    "translation": {
+      "natural": "3. 必須要申請簽證才行。",
+      "literal": "3. 不申請簽證的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "ビザ",
+        "reading": "びざ",
+        "note": "外來語名詞，簽證"
+      },
+      {
+        "word": "申請する",
+        "reading": "しんせいする",
+        "note": "動詞，申請"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「申請する」未然形「申請し」＋「ないといけません」。海外旅遊或留學代辦廣告的常見語句。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:09",
+    "japanese": "4. うちに帰らないといけません。",
+    "furigana": "4. うちに<ruby>帰<rt>かえ</rt></ruby>らないといけません。",
+    "segmentation": "4. | うちに帰らないといけません。",
+    "translation": {
+      "natural": "4. 我得回家了。",
+      "literal": "4. 不回家的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "うち",
+        "reading": "うち",
+        "note": "名詞，家"
+      },
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "note": "動詞，回家、歸去"
+      }
+    ],
+    "context_grammar": [
+      "「格助詞 に」指示歸點。五段動詞「帰る」未然形「帰ら」＋「ないといけません」，表強烈的個人義務或時間壓迫感。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:13",
+    "japanese": "5. クリーニングに出さないといけません。",
+    "furigana": "5. クリーニングに<ruby>出<rt>だ</rt></ruby>さないといけません。",
+    "segmentation": "5. | クリーニングに出さないといけません。",
+    "translation": {
+      "natural": "5. 這一定要拿去送洗才行。",
+      "literal": "5. 不送去送洗的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "クリーニング",
+        "reading": "くりーにんぐ",
+        "note": "外來語名詞，乾洗/洗衣店"
+      },
+      {
+        "word": "出す",
+        "reading": "だす",
+        "note": "動詞，送去、拿出去"
+      }
+    ],
+    "context_grammar": [
+      "「クリーニングに出す」為常見動詞片語（送乾洗）。配合「～ないといけません」強調特定衣物材質必須專業處理的語境。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:18",
+    "japanese": "6. 花に水をやらないといけません。",
+    "furigana": "6. <ruby>花<rt>はな</rt></ruby>に<ruby>水<rt>みず</rt></ruby>をやらないといけません。",
+    "segmentation": "6. | 花に水をやらないといけません。",
+    "translation": {
+      "natural": "6. 必須要給花澆水才行。",
+      "literal": "6. 不給花澆水的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "花",
+        "reading": "はな",
+        "note": "名詞，花"
+      },
+      {
+        "word": "水",
+        "reading": "みず",
+        "note": "名詞，水"
+      },
+      {
+        "word": "やる",
+        "reading": "やる",
+        "note": "動詞，給予（對動植物或晚輩）"
+      }
+    ],
+    "context_grammar": [
+      "「花（對象）に 水（賓語）を やる（給予）」。五段動詞未然形「やら」＋「ないといけません」，常用於園藝商品或生活家庭CM。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:23",
+    "japanese": "7. 犬の世話をしないといけません。",
+    "furigana": "7. <ruby>犬<rt>いぬ</rt></ruby>の<ruby>世<rt>せ</rt></ruby><ruby>話<rt>わ</rt></ruby>をしないといけません。",
+    "segmentation": "7. | 犬の世話をしないといけません。",
+    "translation": {
+      "natural": "7. 必須照顧狗狗才行。",
+      "literal": "7. 不照顧狗的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "note": "名詞，狗"
+      },
+      {
+        "word": "世話をする",
+        "reading": "せわをする",
+        "note": "動詞片語，照顧、照料"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋の＋世話をする」結構。動詞「する」否定未然形「し」＋「ないといけません」，強調對寵物的責任感。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:28",
+    "japanese": "8. 手入れをしないといけません。",
+    "furigana": "8. <ruby>手<rt>て</rt></ruby><ruby>入<rt>い</rt></ruby>れをしないといけません。",
+    "segmentation": "8. | 手入れをしないといけません。",
+    "translation": {
+      "natural": "8. 必須做好保養維護才行。",
+      "literal": "8. 不做保養修飾的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "手入れ",
+        "reading": "ていれ",
+        "note": "名詞，保養、維護、修剪"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做"
+      }
+    ],
+    "context_grammar": [
+      "「手入れをする」為皮件、汽車或肌膚保養宣傳影片中的關鍵動詞片語，配合「～ないといけません」強調維護之必要性。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:32",
+    "japanese": "9. 肥料をやらないといけません。",
+    "furigana": "9. <ruby>肥<rt>ひ</rt></ruby><ruby>料<rt>りょう</rt></ruby>をやらないといけません。",
+    "segmentation": "9. | 肥料をやらないといけません。",
+    "translation": {
+      "natural": "9. 一定要施肥才行。",
+      "literal": "9. 不給肥料的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "肥料",
+        "reading": "ひりょう",
+        "note": "名詞，肥料"
+      },
+      {
+        "word": "やる",
+        "reading": "やる",
+        "note": "動詞，施加、給予"
+      }
+    ],
+    "context_grammar": [
+      "「肥料をやる」（施肥）。「V-ないといけません」在農業資材或家庭園藝用品宣傳中用以強調植物養護知識。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:37",
+    "japanese": "10. 餌をやらないといけません。",
+    "furigana": "10. <ruby>餌<rt>えさ</rt></ruby>をやらないといけません。",
+    "segmentation": "10. | 餌をやらないといけません。",
+    "translation": {
+      "natural": "10. 必須要餵飼料才行。",
+      "literal": "10. 不給餌食的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "餌",
+        "reading": "えさ",
+        "note": "名詞，飼料、餌食"
+      },
+      {
+        "word": "やる",
+        "reading": "やる",
+        "note": "動詞，餵食、給予"
+      }
+    ],
+    "context_grammar": [
+      "「餌をやる」（餵食）。「～ないといけません」呈現出飼主對寵物或動物例行性不可或缺的照顧義務。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:42",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:43",
+    "japanese": "これは洗濯機で洗えますか？ いいえ、クリーニングに出さないといけません。",
+    "furigana": "これは<ruby>洗<rt>せん</rt></ruby><ruby>託<rt>たく</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>洗<rt>あら</rt></ruby>えますか？ いいえ、クリーニングに<ruby>出<rt>だ</rt></ruby>さないといけません。",
+    "segmentation": "這是 | 洗濯機で洗えますか？ | いいえ、| クリーニングに出さないといけません。",
+    "translation": {
+      "natural": "這個可以用洗衣機洗嗎？ 不行，這一定要送乾洗才行。",
+      "literal": "這個用洗衣機洗得了嗎？ 不，不拿去送洗的話是不行的。"
+    },
+    "words": [
+      {
+        "word": "洗濯機",
+        "reading": "せんたくき",
+        "note": "名詞，洗衣機（格助詞「で」表工具手段）"
+      },
+      {
+        "word": "洗う",
+        "reading": "あらう",
+        "note": "動詞，洗滌（可能形為「洗える」）"
+      },
+      {
+        "word": "クリーニング",
+        "reading": "くりーにんぐ",
+        "note": "外來語名詞，乾洗"
+      }
+    ],
+    "context_grammar": [
+      "前句「洗える」為動詞可能形；後句以否定否認後接「～ないといけません」補充正確維護方式，常見於高級服飾保養與標籤說明情境。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:52",
+    "japanese": "115. ないほうがいいです",
+    "furigana": "115. ないほうがいいです",
+    "segmentation": "115 | ないほうがいいです",
+    "translation": {
+      "natural": "115 「ないほうがいいです」（最好不要……）",
+      "literal": "115 ないほうがいいです"
+    },
+    "words": [
+      {
+        "word": "115",
+        "reading": "ひゃくじゅうご",
+        "note": "數詞，115"
+      },
+      {
+        "word": "ないほうがいいです",
+        "reading": "ないほうがいいです",
+        "note": "句型，最好不要……（建議）"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:57",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:59",
+    "japanese": "1. 行かないほうがいいです。",
+    "furigana": "1. <ruby>行<rt>い</rt></ruby>かないほうがいいです。",
+    "segmentation": "1. | 行かないほうがいいです。",
+    "translation": {
+      "natural": "1. 最好不要去。",
+      "literal": "1. 不去比較好。"
+    },
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      },
+      {
+        "word": "ほう",
+        "reading": "ほう",
+        "note": "形式名詞，方向、比較的一方"
+      }
+    ],
+    "context_grammar": [
+      "動詞否定形「行かない」＋「ほうがいいです」（勸告句型）。語氣比「～ないでください」溫和，常用於諮詢或專家建議短片。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:02",
+    "japanese": "2. 食べないほうがいいです。",
+    "furigana": "2. <ruby>食<rt>た</rt></ruby>べないほうがいいです。",
+    "segmentation": "2. | 食べないほうがいいです。",
+    "translation": {
+      "natural": "2. 最好不要吃。",
+      "literal": "2. 不吃比較好。"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「食べる」未然形「食べ」＋「ないほうがいいです」。在健康、減重或飲食衛教影片中，用於給予聽眾溫和的飲食忠告。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:06",
+    "japanese": "3. 飲まないほうがいいです。",
+    "furigana": "3. <ruby>飲<rt>の</rt></ruby>まないほうがいいです。",
+    "segmentation": "3. | 飲まないほうがいいです。",
+    "translation": {
+      "natural": "3. 最好不要喝。",
+      "literal": "3. 不喝比較好。"
+    },
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「飲む」未然形「飲ま」＋「ないほうがいいです」。常用於醫藥健康諮詢宣導（如：服藥期間最好不要喝酒）。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:09",
+    "japanese": "4. 電話番号を渡さないほうがいいです。",
+    "furigana": "4. <ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby><ruby>番<rt>ばん</rt></ruby><ruby>号<rt>ごう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>さないほうがいいです。",
+    "segmentation": "4. | 電話番号を渡さないほうがいいです。",
+    "translation": {
+      "natural": "4. 最好不要把電話號碼給別人。",
+      "literal": "4. 不交付電話號碼比較好。"
+    },
+    "words": [
+      {
+        "word": "電話番号",
+        "reading": "でんわばんごう",
+        "note": "名詞，電話號碼"
+      },
+      {
+        "word": "渡す",
+        "reading": "わたす",
+        "note": "動詞，交付、給予"
+      }
+    ],
+    "context_grammar": [
+      "「電話番号（賓語）を 渡す（動詞）」。五段動詞未然形「渡さ」＋「ないほうがいいです」，常見於個人資訊安全宣導。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:15",
+    "japanese": "5. 知り合いにならないほうがいいです。",
+    "furigana": "5. <ruby>知<rt>し</rt></ruby>り<ruby>合<rt>あ</rt></ruby>いにならないほうがいいです。",
+    "segmentation": "5. | 知り合いにならないほうがいいです。",
+    "translation": {
+      "natural": "5. 最好不要和那種人結識。",
+      "literal": "5. 不成為熟人比較好。"
+    },
+    "words": [
+      {
+        "word": "知り合い",
+        "reading": "しりあい",
+        "note": "名詞，熟人、相識"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，成為（與補格助詞「に」連用）"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋に＋なる」（狀態轉變）。五段動詞「なる」未然形「なら」＋「ないほうがいいです」，常出現在社交建議或宣導情境。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:20",
+    "japanese": "6. 聞かないほうがいいです。",
+    "furigana": "6. <ruby>聞<rt>き</rt></ruby>かないほうがいいです。",
+    "segmentation": "6. | 聞かないほうがいいです。",
+    "translation": {
+      "natural": "6. 最好還是不要打聽比較好。",
+      "literal": "6. 不打聽比較好。"
+    },
+    "words": [
+      {
+        "word": "打聽/詢問",
+        "reading": "きく",
+        "note": "動詞，聽、詢問"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「聞く」未然形「聞か」＋「ないほうがいいです」。戲劇、影集廣播中常出現的警示用語，用以勸阻好奇心。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:23",
+    "japanese": "7. 参加しないほうがいいです。",
+    "furigana": "7. <ruby>参<rt>さん</rt></ruby><ruby>加<rt>か</rt></ruby>しないほうがいいです。",
+    "segmentation": "7. | 参加しないほうがいいです。",
+    "translation": {
+      "natural": "7. 最好不要參加。",
+      "literal": "7. 不參加比較好。"
+    },
+    "words": [
+      {
+        "word": "参加する",
+        "reading": "さんかする",
+        "note": "動詞，參加"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「参加する」否定未然形「参加し」＋「ないほうがいいです」。用於規避風險、職場或活動評估時的建議用語。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:27",
+    "japanese": "8. ダウンロードしないほうがいいです。",
+    "furigana": "8. ダウンロードしないほうがいいです。",
+    "segmentation": "8. | ダウンロードしないほうがいいです。",
+    "translation": {
+      "natural": "8. 最好不要下載。",
+      "literal": "8. 不下載比較好。"
+    },
+    "words": [
+      {
+        "word": "ダウンロードする",
+        "reading": "だうんろーどする",
+        "note": "動詞，下載"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「ダウンロードする」未然形「ダウンロードし」＋「ないほうがいいです」。在資安教育中提供給使用者的軟性勸告。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:32",
+    "japanese": "9. 信じないほうがいいです。",
+    "furigana": "9. <ruby>信<rt>しん</rt></ruby>じないほうがいいです。",
+    "segmentation": "9. | 信じないほうがいいです。",
+    "translation": {
+      "natural": "9. 最好不要相信。",
+      "literal": "9. 不相信比較好。"
+    },
+    "words": [
+      {
+        "word": "信じる",
+        "reading": "しんじる",
+        "note": "動詞，相信"
+      }
+    ],
+    "context_grammar": [
+      "上一段動詞「信じる」未然形「信じ」＋「ないほうがいいです」。常用於防詐騙宣導片，提醒大眾對於可疑訊息保持警覺。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:35",
+    "japanese": "10. 座らないほうがいいです。",
+    "furigana": "10. <ruby>座<rt>すわ</rt></ruby>らないほうがいいです。",
+    "segmentation": "10. | 座らないほうがいいです。",
+    "translation": {
+      "natural": "10. 最好不要坐下。",
+      "literal": "10. 不坐比較好。"
+    },
+    "words": [
+      {
+        "word": "座る",
+        "reading": "すわる",
+        "note": "動詞，坐下"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「座る」未然形「座ら」＋「ないほうがいいです」。常出現在油漆未乾、設施維護等警告情境之旁白示警。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:39",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "外來語名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:41",
+    "japanese": "台風ですから、行かないほうがいいですよ。そうですね。",
+    "furigana": "台(たい)風(ふう)ですから、<ruby>行<rt>い</rt></ruby>かないほうがいいですよ。そうですね。",
+    "segmentation": "台風ですから、| 行かないほうがいいですよ。| そうですね。",
+    "translation": {
+      "natural": "因為有颱風，最好還是不要去喔。說得也是呢。",
+      "literal": "因為是颱風，不去比較好喔。是那樣呢。"
+    },
+    "words": [
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "note": "名詞，颱風"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接續助詞，因為……（表原因理由）"
+      },
+      {
+        "word": "そうですね",
+        "reading": "そうですね",
+        "note": "慣用應答語，確實如此、說的也是"
+      }
+    ],
+    "context_grammar": [
+      "前句「名詞＋です＋から」提供不可抗力之理由，接續「～ないほうがいいですよ」（帶有提醒終助詞「よ」的溫和建議）；後句以「そうですね」做附和。極具日常的生活感對話模組。"
+    ]
+  }
+]

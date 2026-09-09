@@ -1,0 +1,1625 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "126. なくてもかまいません",
+    "furigana": "126. なくてもかまいません",
+    "segmentation": "126. なくても | かまいません",
+    "translation": {
+      "natural": "126. 即使沒有也沒關係",
+      "literal": "126. 就算沒有也不介意"
+    },
+    "words": [
+      {
+        "word": "ない",
+        "reading": "ない",
+        "note": "形容詞，沒有、不存在"
+      },
+      {
+        "word": "構う",
+        "reading": "かまう",
+        "note": "動詞，介意、在乎（否定形為構いません）"
+      }
+    ],
+    "context_grammar": [
+      "～なくても構いません：句型，由「ない（條件連用形なくても）」結合「構いません」組成，表示許可或不強制，意為「即使不……也沒關係」。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:05",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "標題用語，外來語 Step 的音譯。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:07",
+    "japanese": "1. 新品でなくてもかまいません",
+    "furigana": "1. <ruby>新<rt>しん</rt></ruby><ruby>品<rt>ひん</rt></ruby>でなくてもかまいません",
+    "segmentation": "1. 新品でなくても | かまいません",
+    "translation": {
+      "natural": "1. 不是新品也沒關係。",
+      "literal": "1. 即使不是新品也不介意。"
+    },
+    "words": [
+      {
+        "word": "新品",
+        "reading": "しんひん",
+        "note": "名詞，全新品"
+      }
+    ],
+    "context_grammar": [
+      "名詞 ＋ でなくても構いません：名詞否定條件形，表示即便不符合該名詞狀態也無妨。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:11",
+    "japanese": "2. 有名でなくてもかまいません",
+    "furigana": "2. <ruby>有<rt>ゆう</rt></ruby><ruby>名<rt>めい</rt></ruby>でなくてもかまいません",
+    "segmentation": "2. 有名でなくても | かまいません",
+    "translation": {
+      "natural": "2. 不有名也沒關係。",
+      "literal": "2. 即使不有名也不介意。"
+    },
+    "words": [
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "note": "な形容詞，著名的、有名的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞 ＋ でなくても構いません：な形容詞詞幹接續否定條件形，表示不具備該特質亦可。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:16",
+    "japanese": "3. 冷たくなくてもかまいません",
+    "furigana": "3. <ruby>冷<rt>つめ</rt></ruby>たくなくてもかまいません",
+    "segmentation": "3. 冷たくなくても | かまいません",
+    "translation": {
+      "natural": "3. 不冰也沒關係。",
+      "literal": "3. 即使不冰冷也不介意。"
+    },
+    "words": [
+      {
+        "word": "冷たい",
+        "reading": "つめたい",
+        "note": "い形容詞，冰冷的"
+      }
+    ],
+    "context_grammar": [
+      "冷たくなくても：い形容詞去詞尾「い」加「くなくても」，構成否定條件連用形修飾後方的「かまいません」。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:20",
+    "japanese": "4. 今日でなくてもかまいません",
+    "furigana": "4. <ruby>今<rt>きょう</rt></ruby><ruby>日<rt>び</rt></ruby>でなくてもかまいません",
+    "segmentation": "4. 今日でなくても | かまいません",
+    "translation": {
+      "natural": "4. 不是今天也沒關係。",
+      "literal": "4. 即使不是今天也不介意。"
+    },
+    "words": [
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "note": "名詞，今天"
+      }
+    ],
+    "context_grammar": [
+      "名詞 ＋ でなくても：提示時間名詞限定，說明時間點不限定於今天。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:25",
+    "japanese": "5. ベテランでなくてもかまいません",
+    "furigana": "5. ベテランでなくてもかまいません",
+    "segmentation": "5. ベテランでなくても | かまいません",
+    "translation": {
+      "natural": "5. 不是資深人員也沒關係。",
+      "literal": "5. 即使不是資深老手也不介意。"
+    },
+    "words": [
+      {
+        "word": "ベテラン",
+        "reading": "べてらん",
+        "note": "名詞，老手、資深人士"
+      }
+    ],
+    "context_grammar": [
+      "常用於招募廣告或商業情境，放寬條件門檻的說法。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:30",
+    "japanese": "6. 終わらなくてもかまいません",
+    "furigana": "6. <ruby>終<rt>お</rt></ruby>わらなくてもかまいません",
+    "segmentation": "6. 終わらなくても | かまいません",
+    "translation": {
+      "natural": "6. 沒做完也沒關係。",
+      "literal": "6. 即使不結束也不介意。"
+    },
+    "words": [
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，結束、完成"
+      }
+    ],
+    "context_grammar": [
+      "終わらなくても：第一類動詞未然形（終わら）＋ なくても，表示動作未完成的情形亦可容許。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:34",
+    "japanese": "7. 毎日来なくてもかまいません",
+    "furigana": "7. <ruby>毎<rt>まい</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>来<rt>こ</rt></ruby>なくてもかまいません",
+    "segmentation": "7. 毎日 | 来なくても | かまいません",
+    "translation": {
+      "natural": "7. 不必每天來也沒關係。",
+      "literal": "7. 每天即使不來也不介意。"
+    },
+    "words": [
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "note": "副詞/名詞，每天"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "動詞，來（未然形為來（こ））"
+      }
+    ],
+    "context_grammar": [
+      "来なくても：第三類動詞「来る」的未然形「こ」＋ なくても，修飾句尾的許可表現。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:39",
+    "japanese": "8. 返さなくてもかまいません",
+    "furigana": "8. <ruby>返<rt>かえ</rt></ruby>さなくてもかまいません",
+    "segmentation": "8. 返さなくても | かまいません",
+    "translation": {
+      "natural": "8. 不歸還也沒關係。",
+      "literal": "8. 即使不歸還也不介意。"
+    },
+    "words": [
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "note": "動詞，歸還、還給"
+      }
+    ],
+    "context_grammar": [
+      "返さなくても：五段動詞未然形變化（返す -> 返さ），接續「なくても」表達對不歸還行為的許可或寬限。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:44",
+    "japanese": "9. 参加しなくてもかまいません",
+    "furigana": "9. <ruby>参<rt>さん</rt></ruby><ruby>加<rt>か</rt></ruby>しなくてもかまいません",
+    "segmentation": "9. 参加しなくても | かまいません",
+    "translation": {
+      "natural": "9. 不參加也沒關係。",
+      "literal": "9. 即使不參加也不介意。"
+    },
+    "words": [
+      {
+        "word": "参加する",
+        "reading": "さんかする",
+        "note": "動詞，參加"
+      }
+    ],
+    "context_grammar": [
+      "参加しなくても：サ變動詞語幹「参加」＋未然形「し」＋ なくても。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:48",
+    "japanese": "10. 電気を消さなくてもかまいません",
+    "furigana": "10. <ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby>を<ruby>消<rt>け</rt></ruby>さなくてもかまいません",
+    "segmentation": "10. 電気を | 消さなくても | かまいません",
+    "translation": {
+      "natural": "10. 不關燈也沒關係。",
+      "literal": "10. 即使不把電燈熄滅也不介意。"
+    },
+    "words": [
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "note": "名詞，電燈、電力"
+      },
+      {
+        "word": "消す",
+        "reading": "けす",
+        "note": "動詞，關閉（電源）、關（燈）"
+      }
+    ],
+    "context_grammar": [
+      "電気を：格助詞「を」指示賓語「電気」。",
+      "消さなくても：第一類動詞「消す」未然形「消さ」＋ なくても。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:54",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:56",
+    "japanese": "全部食べなくてもかまいませんよ。はい、わかりました。",
+    "furigana": "<ruby>全<rt>ぜん</rt></ruby><ruby>部<rt>ぶ</rt></ruby><ruby>食<rt>た</rt></ruby>べなくてもかまいませんよ。<ruby>好<rt>はい</rt></ruby>、わかりました。",
+    "segmentation": "全部 | 食べなくても | かまいませんよ。 | はい、| わかりました。",
+    "translation": {
+      "natural": "沒吃完也沒關係喔。好的，我知道了。",
+      "literal": "全部即使不吃也不介意喔。是的，明白了。"
+    },
+    "words": [
+      {
+        "word": "全部",
+        "reading": "ぜんぶ",
+        "note": "副詞/名詞，全部"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（未然形為食べ）"
+      },
+      {
+        "word": "分かった",
+        "reading": "わかった",
+        "note": "動詞，明白、了解（丁寧體為わかりました）"
+      }
+    ],
+    "context_grammar": [
+      "かまいませんよ：終助詞「よ」用於給予對方安心感或提醒資訊。",
+      "わかりました：回應指示或說明的標準禮貌用語。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:03",
+    "japanese": "127. なくても大丈夫です",
+    "furigana": "127. なくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "127. なくても | 大丈夫です",
+    "translation": {
+      "natural": "127. 沒有也沒關係/沒問題",
+      "literal": "127. 即使沒有也是沒問題的"
+    },
+    "words": [
+      {
+        "word": "大丈夫",
+        "reading": "だいじょうぶ",
+        "note": "な形容詞，沒問題、沒關係"
+      }
+    ],
+    "context_grammar": [
+      "～なくても大丈夫です：較口語化且親切的否定許可句型，常用於日常生活交流與口語會話中。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:08",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:10",
+    "japanese": "1. 正座しなくても大丈夫です",
+    "furigana": "1. <ruby>正<rt>せい</rt></ruby><ruby>座<rt>ざ</rt></ruby>しなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "1. 正座しなくても | 大丈夫です",
+    "translation": {
+      "natural": "1. 不端坐（跪坐）也沒關係。",
+      "literal": "1. 即使不跪坐也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "正座する",
+        "reading": "せいざする",
+        "note": "動詞，端坐、跪坐"
+      }
+    ],
+    "context_grammar": [
+      "正座しなくても：サ變動詞「正座する」未然形「正座し」＋ なくても。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:14",
+    "japanese": "2. 料理しなくても大丈夫です",
+    "furigana": "2. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>しなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "2. 料理しなくても | 大丈夫です",
+    "translation": {
+      "natural": "2. 不做飯也沒關係。",
+      "literal": "2. 即使不做料理也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "料理する",
+        "reading": "りょうりする",
+        "note": "動詞，做菜、烹調"
+      }
+    ],
+    "context_grammar": [
+      "料理しなくても：動作未執行的條件緩和接續。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:19",
+    "japanese": "3. 醤油をかけなくても大丈夫です",
+    "furigana": "3. <ruby>醬<rt>しょう</rt></ruby><ruby>油<rt>ゆ</rt></ruby>をかけなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "3. 醤油を | かけなくても | 大丈夫です",
+    "translation": {
+      "natural": "3. 不加醬油也沒關係。",
+      "literal": "3. 即使不淋上醬油也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "醤油",
+        "reading": "しょうゆ",
+        "note": "名詞，醬油"
+      },
+      {
+        "word": "かける",
+        "reading": "かける",
+        "note": "動詞，淋上、淋（未然形為かけ）"
+      }
+    ],
+    "context_grammar": [
+      "かけなくても：第二類動詞去「る」加「なくても」。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:24",
+    "japanese": "4. ビタミン剤を飲まなくても大丈夫です",
+    "furigana": "4. ビタミン<ruby>剤<rt>ざい</rt></ruby>を<ruby>飲<rt>の</rt></ruby>まなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "4. ビタミン剤を | 飲まなくても | 大丈夫です",
+    "translation": {
+      "natural": "4. 不吃維他命也沒關係。",
+      "literal": "4. 即使不喝維他命劑也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "ビタミン剤",
+        "reading": "びたみんざい",
+        "note": "名詞，維他命錠/劑"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝、服用（藥品）"
+      }
+    ],
+    "context_grammar": [
+      "飲まなくても：第一類動詞未然形（のむ -> のま）＋ なくても。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:29",
+    "japanese": "5. 検査を受けなくても大丈夫です",
+    "furigana": "5. <ruby>檢<rt>けん</rt></ruby><ruby>査<rt>さ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "5. 検査を | 受けなくても | 大丈夫です",
+    "translation": {
+      "natural": "5. 不做檢查也沒關係。",
+      "literal": "5. 即使不接受檢查也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "検査",
+        "reading": "けんさ",
+        "note": "名詞，檢查"
+      },
+      {
+        "word": "受ける",
+        "reading": "うける",
+        "note": "動詞，接受、進行（檢查/考試）"
+      }
+    ],
+    "context_grammar": [
+      "受けなくても：第二類動詞去「る」加「なくても」。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:34",
+    "japanese": "6. 心配しなくても大丈夫です",
+    "furigana": "6. <ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>しなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "6. 心配しなくても | 大丈夫です",
+    "translation": {
+      "natural": "6. 不必擔心也沒關係。",
+      "literal": "6. 即使不擔心也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "心配する",
+        "reading": "しんぱいする",
+        "note": "動詞，擔心、掛念"
+      }
+    ],
+    "context_grammar": [
+      "安撫情緒、緩解對方焦慮時常見的商務及日常生活用語。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:38",
+    "japanese": "7. リハビリしなくても大丈夫です",
+    "furigana": "7. リハビリしなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "7. リハビリしなくても | 大丈夫です",
+    "translation": {
+      "natural": "7. 不做復健也沒關係。",
+      "literal": "7. 即使不做復健也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "リハビリ",
+        "reading": "りはびり",
+        "note": "名詞，復健（Rehabilitation 的簡稱）"
+      }
+    ],
+    "context_grammar": [
+      "リハビリ＋する：外來語名詞轉化為サ變動詞用法。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:43",
+    "japanese": "8. すぐ返事をしなくても大丈夫です",
+    "furigana": "8. すぐ<ruby>返<rt>へん</rt></ruby><ruby>事<rt>じ</rt></ruby>をしなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "8. すぐ | 返事をしなくても | 大丈夫です",
+    "translation": {
+      "natural": "8. 不馬上回覆也沒關係。",
+      "literal": "8. 即使不立刻進行回覆也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "すぐ",
+        "reading": "すぐ",
+        "note": "副詞，立刻、馬上"
+      },
+      {
+        "word": "返事",
+        "reading": "へんじ",
+        "note": "名詞，回覆、答覆"
+      }
+    ],
+    "context_grammar": [
+      "副詞「すぐ」修飾後方的動詞句「返事をしなくても」，提供時間上的緩衝。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:48",
+    "japanese": "9. 翻訳しなくても大丈夫です",
+    "furigana": "9. <ruby>翻<rt>ほん</rt></ruby><ruby>訳<rt>やく</rt></ruby>しなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "9. 翻訳しなくても | 大丈夫です",
+    "translation": {
+      "natural": "9. 不翻譯也沒關係。",
+      "literal": "9. 即使不翻譯也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "翻訳する",
+        "reading": "ほんやくする",
+        "note": "動詞，翻譯（筆譯）"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「翻訳する」之未然否定接續形。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:52",
+    "japanese": "10. 通訳しなくても大丈夫です",
+    "furigana": "10. <ruby>通<rt>つう</rt></ruby><ruby>訳<rt>やく</rt></ruby>しなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>です",
+    "segmentation": "10. 通訳しなくても | 大丈夫です",
+    "translation": {
+      "natural": "10. 不口譯也沒關係。",
+      "literal": "10. 即使不進行通譯也是沒問題的。"
+    },
+    "words": [
+      {
+        "word": "通訳する",
+        "reading": "つうやくする",
+        "note": "動詞，口譯"
+      }
+    ],
+    "context_grammar": [
+      "通訳（口譯）與上句的 翻訳（筆譯）形成對比用法。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:57",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:00",
+    "japanese": "正座しなくても大丈夫ですよ。そうですか、ありがとうございます。",
+    "furigana": "<ruby>正<rt>せい</rt></ruby><ruby>座<rt>ざ</rt></ruby>しなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>ですよ。そうですか、ありがとうございます。",
+    "segmentation": "正座しなくても | 大丈夫ですよ。 | そうですか、| ありがとうございます。",
+    "translation": {
+      "natural": "不必跪坐也沒關係喔。這樣啊，非常感謝您。",
+      "literal": "即使不跪坐也是沒問題的喔。是那樣嗎，謝謝您。"
+    },
+    "words": [
+      {
+        "word": "正座",
+        "reading": "せいざ",
+        "note": "名詞，跪坐"
+      },
+      {
+        "word": "ありがとう",
+        "reading": "ありがとう",
+        "note": "感嘆詞，謝謝（丁寧體為ありがとうございます）"
+      }
+    ],
+    "context_grammar": [
+      "大丈夫ですよ：語氣助詞「よ」表示向對方提供建議或緩和嚴肅氣氛。",
+      "そうですか：表示領會新資訊的反響詞。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:07",
+    "japanese": "128. なくちゃ",
+    "furigana": "128. なくちゃ",
+    "segmentation": "128. なくちゃ",
+    "translation": {
+      "natural": "128. 必須/得要……",
+      "literal": "128. 不……的話（不行）"
+    },
+    "words": [
+      {
+        "word": "なくちゃ",
+        "reading": "なくちゃ",
+        "note": "接續助詞，必須（「なくしては」或「なければならない」的口語縮略）"
+      }
+    ],
+    "context_grammar": [
+      "～なくちゃ：為「～なければ（いけない/ならない）」的口語省略形，後面省去了「いけない/ならない」，用於表達個人的義務、迫切感或自我提醒。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:11",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:13",
+    "japanese": "1. 寝なくちゃ",
+    "furigana": "1. <ruby>寝<rt>ね</rt></ruby>なくちゃ",
+    "segmentation": "1. 寝なくちゃ",
+    "translation": {
+      "natural": "1. 得睡覺了。",
+      "literal": "1. 不睡覺的話。"
+    },
+    "words": [
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "note": "動詞，睡覺（未然形為ね）"
+      }
+    ],
+    "context_grammar": [
+      "寝なくちゃ：第二類動詞去「る」＋「なくちゃ」，常為內心獨白或口語對話中的自我提醒。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:16",
+    "japanese": "2. 届けなくちゃ",
+    "furigana": "2. <ruby>届<rt>とど</rt></ruby>けなくちゃ",
+    "segmentation": "2. 届けなくちゃ",
+    "translation": {
+      "natural": "2. 得送達才行。",
+      "literal": "2. 不送去的話。"
+    },
+    "words": [
+      {
+        "word": "届ける",
+        "reading": "とどける",
+        "note": "動詞，送達、遞送"
+      }
+    ],
+    "context_grammar": [
+      "届けなくちゃ：第二類動詞去「る」＋「なくちゃ」。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:19",
+    "japanese": "3. 送らなくちゃ",
+    "furigana": "3. <ruby>送<rt>おく</rt></ruby>らなくちゃ",
+    "segmentation": "3. 送らなくちゃ",
+    "translation": {
+      "natural": "3. 得寄出才行。",
+      "literal": "3. 不寄送的話。"
+    },
+    "words": [
+      {
+        "word": "送る",
+        "reading": "おくる",
+        "note": "動詞，寄送、傳送"
+      }
+    ],
+    "context_grammar": [
+      "送らなくちゃ：第一類動詞未然形（送る -> 送ら）＋ なくちゃ。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:22",
+    "japanese": "4. 帰らなくちゃ",
+    "furigana": "4. <ruby>帰<rt>かえ</rt></ruby>らなくちゃ",
+    "segmentation": "4. 帰らなくちゃ",
+    "translation": {
+      "natural": "4. 得回家才行。",
+      "literal": "4. 不回去的話。"
+    },
+    "words": [
+      {
+        "word": "帰る",
+        "reading": "かえる",
+        "note": "動詞，回家、回去"
+      }
+    ],
+    "context_grammar": [
+      "帰らなくちゃ：第一類動詞未然形（帰る -> 帰ら）＋ なくちゃ。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:25",
+    "japanese": "5. 電話しなくちゃ",
+    "furigana": "5. <ruby>電<rt>でん</rt></ruby><ruby>話<rt>わ</rt></ruby>しなくちゃ",
+    "segmentation": "5. 電話しなくちゃ",
+    "translation": {
+      "natural": "5. 得打電話才行。",
+      "literal": "5. 不打電話的話。"
+    },
+    "words": [
+      {
+        "word": "電話する",
+        "reading": "でんわする",
+        "note": "動詞，打電話"
+      }
+    ],
+    "context_grammar": [
+      "電話しなくちゃ：サ變動詞「する」變形為「し」＋ なくちゃ。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:29",
+    "japanese": "6. アイロンをかけなくちゃ",
+    "furigana": "6. アイロンをかけなくちゃ",
+    "segmentation": "6. アイロンを | かけなくちゃ",
+    "translation": {
+      "natural": "6. 得燙衣服才行。",
+      "literal": "6. 不熨燙熨鬥的話。"
+    },
+    "words": [
+      {
+        "word": "アイロン",
+        "reading": "あいろん",
+        "note": "名詞，熨鬥"
+      },
+      {
+        "word": "かける",
+        "reading": "かける",
+        "note": "動詞，熨燙（衣物）"
+      }
+    ],
+    "context_grammar": [
+      "アイロンをかける：固定動詞片語，表示「熨燙」。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:32",
+    "japanese": "7. 出かけなくちゃ",
+    "furigana": "7. <ruby>出<rt>で</rt></ruby>かけなくちゃ",
+    "segmentation": "7. 出かけなくちゃ",
+    "translation": {
+      "natural": "7. 得出門才行。",
+      "literal": "7. 不出門的話。"
+    },
+    "words": [
+      {
+        "word": "出かける",
+        "reading": "でかける",
+        "note": "動詞，出門、外出"
+      }
+    ],
+    "context_grammar": [
+      "出かけなくちゃ：第二類動詞去「る」＋ なくちゃ。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:36",
+    "japanese": "8. レポート書かなくちゃ",
+    "furigana": "8. レポート<ruby>書<rt>か</rt></ruby>かなくちゃ",
+    "segmentation": "8. レポート | 書かなくちゃ",
+    "translation": {
+      "natural": "8. 得寫報告才行。",
+      "literal": "8. 不寫報告的話。"
+    },
+    "words": [
+      {
+        "word": "レポート",
+        "reading": "れぽーと",
+        "note": "名詞，報告、論文"
+      },
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，撰寫"
+      }
+    ],
+    "context_grammar": [
+      "書かなくちゃ：第一類動詞未然形（書く -> 書か）＋ なくちゃ。在此處受詞助詞「を」被省略，為口語常見現象。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:39",
+    "japanese": "9. 連絡しなくちゃ",
+    "furigana": "9. <ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>しなくちゃ",
+    "segmentation": "9. 連絡しなくちゃ",
+    "translation": {
+      "natural": "9. 得聯絡才行。",
+      "literal": "9. 不進行聯絡的話。"
+    },
+    "words": [
+      {
+        "word": "連絡する",
+        "reading": "れんらくする",
+        "note": "動詞，聯絡、聯繫"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞口語急迫語氣表現。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:43",
+    "japanese": "10. 洗わなくちゃ",
+    "furigana": "10. <ruby>洗<rt>あら</rt></ruby>わなくちゃ",
+    "segmentation": "10. 洗わなくちゃ",
+    "translation": {
+      "natural": "10. 得清洗才行。",
+      "literal": "10. 不清洗的話。"
+    },
+    "words": [
+      {
+        "word": "洗う",
+        "reading": "あらう",
+        "note": "動詞，清洗"
+      }
+    ],
+    "context_grammar": [
+      "洗わなくちゃ：以「う」結尾的第一類動詞，未然形轉化為「わ」（洗う -> 洗わ）。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:47",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:49",
+    "japanese": "シャツがシワシワですね。アイロンをかけなくちゃ。",
+    "furigana": "シャツがシワシワですね。アイロンをかけなくちゃ。",
+    "segmentation": "シャツが | シワシワですね。 | アイロンを | かけなくちゃ。",
+    "translation": {
+      "natural": "襯衫皺巴巴的呢。得燙一下才行了。",
+      "literal": "襯衫皺褶呢。不熨燙熨鬥的話。"
+    },
+    "words": [
+      {
+        "word": "シャツ",
+        "reading": "しゃつ",
+        "note": "名詞，襯衫"
+      },
+      {
+        "word": "シワシワ",
+        "reading": "しわしわ",
+        "note": "擬態詞/な形容詞，皺皺的、滿是皺紋的"
+      }
+    ],
+    "context_grammar": [
+      "が：格助詞，提示現象的主語「シャツ」。",
+      "アイロンをかけなくちゃ：看到當前狀態（襯衫皺）後引出的即時行動決策。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:56",
+    "japanese": "129. なくもない",
+    "furigana": "129. なくもない",
+    "segmentation": "129. なくも | ない",
+    "translation": {
+      "natural": "129. 不是不/也不是沒有……",
+      "literal": "129. 即使沒有也不是沒有"
+    },
+    "words": [
+      {
+        "word": "なくもない",
+        "reading": "なくもない",
+        "note": "句型，並非不……、也不是沒有……"
+      }
+    ],
+    "context_grammar": [
+      "～なくもない：雙重否定句型，用以表達語氣委婉的肯定或帶有保留的同意。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:00",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:02",
+    "japanese": "1. 行かなくもない",
+    "furigana": "1. <ruby>行<rt>い</rt></ruby>かなくもない",
+    "segmentation": "1. 行かなくも | ない",
+    "translation": {
+      "natural": "1. 不是不去（去也無妨）。",
+      "literal": "1. 即使不去也不是不去。"
+    },
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "行かなくもない：第一類動詞未然形（行かない）連用形「行かなく」＋ 副助詞「も」＋「ない」，表示消極地願意前往。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:05",
+    "japanese": "2. 食べなくもない",
+    "furigana": "2. <ruby>食<rt>た</rt></ruby>べなくもない",
+    "segmentation": "2. 食べなくも | ない",
+    "translation": {
+      "natural": "2. 不是不吃（吃也是可以吃）。",
+      "literal": "2. 即使不吃也不是不吃。"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "食べなくもない：第二類動詞未然否定連用接續，表達保留性的接受。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:09",
+    "japanese": "3. 聞かなくもない",
+    "furigana": "3. <ruby>聞<rt>き</rt></ruby>かなくもない",
+    "segmentation": "3. 聞かなくも | ない",
+    "translation": {
+      "natural": "3. 不是不聽（聽也是會聽）。",
+      "literal": "3. 即使不聽也不是不聽。"
+    },
+    "words": [
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "note": "動詞，聽、詢問"
+      }
+    ],
+    "context_grammar": [
+      "聞かなくもない：第一類動詞未然形（聞か）＋ なくもない。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:12",
+    "japanese": "4. 嫉妬しなくもない",
+    "furigana": "4. <ruby>嫉<rt>しっ</rt></ruby><ruby>妬<rt>と</rt></ruby>しなくもない",
+    "segmentation": "4. 嫉妬しなくも | ない",
+    "translation": {
+      "natural": "4. 不是不吃醋（多少有點嫉妒）。",
+      "literal": "4. 即使不嫉妬也不是不嫉妬。"
+    },
+    "words": [
+      {
+        "word": "嫉妬する",
+        "reading": "しっとする",
+        "note": "動詞，嫉妒、吃醋"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「嫉妬する」之雙重否定委婉表達。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:16",
+    "japanese": "5. いじめなくもない",
+    "furigana": "5. いじめなくもない",
+    "segmentation": "5. いじめなくも | ない",
+    "translation": {
+      "natural": "5. 不是不欺負（有時也會捉弄）。",
+      "literal": "5. 即使不欺負也不是不欺負。"
+    },
+    "words": [
+      {
+        "word": "いじる/いじめよう",
+        "reading": "いじる",
+        "note": "動詞，欺負、捉弄（這裡為いじめる）"
+      }
+    ],
+    "context_grammar": [
+      "いじめなくもない：第二類動詞「いじめる」之否定形「いじめない」轉成雙重否定。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:19",
+    "japanese": "6. 間違えなくもない",
+    "furigana": "6. <ruby>間<rt>ま</rt></ruby><ruby>違<rt>ちが</rt></ruby>えなくもない",
+    "segmentation": "6. 間違えなくも | ない",
+    "translation": {
+      "natural": "6. 不是沒有弄錯（也有可能弄錯）。",
+      "literal": "6. 即使不搞錯也不是不搞錯。"
+    },
+    "words": [
+      {
+        "word": "間違える",
+        "reading": "まちがえる",
+        "note": "動詞，弄錯、搞錯"
+      }
+    ],
+    "context_grammar": [
+      "間違えなくもない：表示承認有出錯的可能性。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:23",
+    "japanese": "7. 暑くもない",
+    "furigana": "7. <ruby>暑<rt>あつ</rt></ruby>くもない",
+    "segmentation": "7. 暑くも | ない",
+    "translation": {
+      "natural": "7. 也算不上熱（不怎麼熱）。",
+      "literal": "7. 即使熱也不是熱。"
+    },
+    "words": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "note": "い形容詞，（天氣）炎熱的"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞 ＋ くもない：形容詞連用形「く」＋「も」＋「ない」，緩和肯定語氣。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:27",
+    "japanese": "8. 寒くもない",
+    "furigana": "8. <ruby>寒<rt>さむ</rt></ruby>くもない",
+    "segmentation": "8. 寒くも | ない",
+    "translation": {
+      "natural": "8. 也算不上冷（不怎麼冷）。",
+      "literal": "8. 即使冷也不是冷。"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "い形容詞，（天氣）寒冷的"
+      }
+    ],
+    "context_grammar": [
+      "寒くもない：い形容詞去「い」加「くもない」。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:30",
+    "japanese": "9. 高くもない",
+    "furigana": "9. <ruby>高<rt>たか</rt></ruby>くもない",
+    "segmentation": "9. 高くも | ない",
+    "translation": {
+      "natural": "9. 也算不上貴（不怎麼貴）。",
+      "literal": "9. 即使高昂也不是高昂。"
+    },
+    "words": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "note": "い形容詞，昂貴的、高的"
+      }
+    ],
+    "context_grammar": [
+      "用於評價價格或程度時的保留態度。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:34",
+    "japanese": "10. 大きくもない",
+    "furigana": "10. <ruby>大<rt>おお</rt></ruby>きくもない",
+    "segmentation": "10. 大きくも | ない",
+    "translation": {
+      "natural": "10. 也算不上大（不怎麼大）。",
+      "literal": "10. 即使巨大也不是巨大。"
+    },
+    "words": [
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "note": "い形容詞，巨大的"
+      }
+    ],
+    "context_grammar": [
+      "大きくもない：い形容詞之委婉否定表示。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:38",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:40",
+    "japanese": "納豆を食べますか？食べなくもないです。",
+    "furigana": "<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか？<ruby>食<rt>た</rt></ruby>べなくもないです。",
+    "segmentation": "納豆を | 食べますか？ | 食べなくもないです。",
+    "translation": {
+      "natural": "你吃納豆嗎？也不是不吃啦（偶爾會吃）。",
+      "literal": "吃納豆嗎？即使不吃也不是不吃。"
+    },
+    "words": [
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "食べなくもないです：在「なくもない」後方加上丁寧體「です」，向對方表達有條件或不排斥的態度。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:46",
+    "japanese": "130. なければ〜ません",
+    "furigana": "130. なければ〜ません",
+    "segmentation": "130. なければ | 〜ません",
+    "translation": {
+      "natural": "130. 如果不……就不/無法……",
+      "literal": "130. 如果沒有的話，不……"
+    },
+    "words": [
+      {
+        "word": "なければ",
+        "reading": "なければ",
+        "note": "接續助詞/形容詞假定形，如果不……的話"
+      }
+    ],
+    "context_grammar": [
+      "～なければ～ません：條件假設句型，前半句為否定條件（なければ），後半句為否定結果（～ません），用以強調前半句條件的必要性。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:51",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:53",
+    "japanese": "1. あなたがいなければ完成できません",
+    "furigana": "1. あなたがいなければ<ruby>完<rt>かん</rt></ruby><ruby>成<rt>せい</rt></ruby>できません",
+    "segmentation": "1. あなたが | いなければ | 完成できません",
+    "translation": {
+      "natural": "1. 如果沒有你，就無法完成。",
+      "literal": "1. 如果你不在的話，無法完成。"
+    },
+    "words": [
+      {
+        "word": "あなた",
+        "reading": "あなた",
+        "note": "代名詞，你"
+      },
+      {
+        "word": "いる",
+        "reading": "いる",
+        "note": "動詞，存在、在（人/動物）"
+      },
+      {
+        "word": "完成する",
+        "reading": "かんせいする",
+        "note": "動詞，完成（可能形否定為完成できません）"
+      }
+    ],
+    "context_grammar": [
+      "いなければ：動詞「いる」未然形「い」＋「なければ」，構成否定假定。",
+      "完成できません：サ變動詞可能形否定，表示能力或客觀條件上無法完成。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:58",
+    "japanese": "2. 勉強しなければ合格できません",
+    "furigana": "2. <ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>しなければ<ruby>合<rt>ごう</rt></ruby><ruby>格<rt>かく</rt></ruby>できません",
+    "segmentation": "2. 勉強しなければ | 合格できません",
+    "translation": {
+      "natural": "2. 如果不讀書，就無法考上。",
+      "literal": "2. 如果不學習的話，無法合格。"
+    },
+    "words": [
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "note": "動詞，學習、讀書"
+      },
+      {
+        "word": "合格する",
+        "reading": "ごうかくする",
+        "note": "動詞，考上、合格"
+      }
+    ],
+    "context_grammar": [
+      "勉強しなければ：サ變動詞「する」之假定否定形（しなければ）。",
+      "合格できません：可能形否定，強調努力與結果的必然因果。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:03",
+    "japanese": "3. 運動しなければ健康になりません",
+    "furigana": "3. <ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>しなければ<ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby>になりません",
+    "segmentation": "3. 運動しなければ | 健康になりません",
+    "translation": {
+      "natural": "3. 如果不運動，就不會變得健康。",
+      "literal": "3. 如果不運動的話，不會變成健康。"
+    },
+    "words": [
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動"
+      },
+      {
+        "word": "健康",
+        "reading": "けんこう",
+        "note": "な形容詞/名詞，健康"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，變成、成為"
+      }
+    ],
+    "context_grammar": [
+      "健康になりません：名詞/な形容詞 ＋ になる（變成……），否定形為「になりません」。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:09",
+    "japanese": "4. 練習しなければ上手になりません",
+    "furigana": "4. <ruby>練<rt>れん</rt></ruby><ruby>習<rt>しゅう</rt></ruby>しなければ<ruby>上<rt>じょう</rt></ruby><ruby>手<rt>ず</rt></ruby>になりません",
+    "segmentation": "4. 練習しなければ | 上手になりません",
+    "translation": {
+      "natural": "4. 如果不練習，就不會變擅長。",
+      "literal": "4. 如果不練習的話，不會變成上手。"
+    },
+    "words": [
+      {
+        "word": "練習する",
+        "reading": "れんしゅうする",
+        "note": "動詞，練習"
+      },
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "note": "な形容詞，熟練的、擅長的"
+      }
+    ],
+    "context_grammar": [
+      "上手になりません：な形容詞 ＋ になる 之否定式，表示狀態無法提升。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:14",
+    "japanese": "5. 努力しなければ成功できません",
+    "furigana": "5. <ruby>努<rt>ど</rt></ruby><ruby>力<rt>りょく</rt></ruby>しなければ<ruby>成<rt>せい</rt></ruby><ruby>功<rt>こう</rt></ruby>できません",
+    "segmentation": "5. 努力しなければ | 成功できません",
+    "translation": {
+      "natural": "5. 如果不努力，就無法成功。",
+      "literal": "5. 如果不努力的話，無法成功。"
+    },
+    "words": [
+      {
+        "word": "努力する",
+        "reading": "どりょくする",
+        "note": "動詞，努力"
+      },
+      {
+        "word": "成功する",
+        "reading": "せいこうする",
+        "note": "動詞，成功"
+      }
+    ],
+    "context_grammar": [
+      "成功できません：サ變動詞「成功する」之可能形否定「成功できる」->「成功できません」。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:19",
+    "japanese": "6. やらなければ結果は出ません",
+    "furigana": "6. やらなければ<ruby>結<rt>けっ</rt></ruby><ruby>果<rt>か</rt></ruby>は<ruby>出<rt>で</rt></ruby>ません",
+    "segmentation": "6. やらなければ | 結果は | 出ません",
+    "translation": {
+      "natural": "6. 如果不做，就不會有結果。",
+      "literal": "6. 如果不做的話，結果是不會出來的。"
+    },
+    "words": [
+      {
+        "word": "やる",
+        "reading": "やる",
+        "note": "動詞，做、實行"
+      },
+      {
+        "word": "結果",
+        "reading": "けっか",
+        "note": "名詞，結果"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "note": "動詞，出來、出現"
+      }
+    ],
+    "context_grammar": [
+      "やらなければ：第一類動詞未然假定形（やる -> やら）＋ なければ。",
+      "結果は出ません：提示助詞「は」強調主語「結果」，帶出否定結論。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:24",
+    "japanese": "7. 書かなければ論文は終わりません",
+    "furigana": "7. <ruby>書<rt>か</rt></ruby>かなければ<ruby>論<rt>ろん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>は<ruby>終<rt>お</rt></ruby>わりません",
+    "segmentation": "7. 書かなければ | 論文は | 終わりません",
+    "translation": {
+      "natural": "7. 如果不動筆寫，論文就不會結束。",
+      "literal": "7. 如果不寫的話，論文是不會結束的。"
+    },
+    "words": [
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，書寫"
+      },
+      {
+        "word": "論文",
+        "reading": "ろんぶん",
+        "note": "名詞，論文"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，完成、結束"
+      }
+    ],
+    "context_grammar": [
+      "書かなければ：第一類動詞未然假定形（書く -> 書か）＋ なければ。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:29",
+    "japanese": "8. 反省しなければ改善できません",
+    "furigana": "8. <ruby>反<rt>はん</rt></ruby><ruby>省<rt>せい</rt></ruby>しなければ<ruby>改<rt>かい</rt></ruby><ruby>善<rt>ぜん</rt></ruby>できません",
+    "segmentation": "8. 反省しなければ | 改善できません",
+    "translation": {
+      "natural": "8. 如果不反省，就無法改善。",
+      "literal": "8. 如果不反省的話，無法改善。"
+    },
+    "words": [
+      {
+        "word": "反省する",
+        "reading": "はんせいする",
+        "note": "動詞，反省、檢討"
+      },
+      {
+        "word": "改善する",
+        "reading": "かいぜんする",
+        "note": "動詞，改善、進步"
+      }
+    ],
+    "context_grammar": [
+      "改善できません：サ變動詞可能形否定，常見於商務檢討與企業宣導等語境。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:34",
+    "japanese": "9. 始めなければ終わりません",
+    "furigana": "9. <ruby>始<rt>はじ</rt></ruby>めなければ<ruby>終<rt>お</rt></ruby>わりません",
+    "segmentation": "9. 始めなければ | 終わりません",
+    "translation": {
+      "natural": "9. 如果不開始，就不會結束。",
+      "literal": "9. 如果不開始的話，不會結束。"
+    },
+    "words": [
+      {
+        "word": "始める",
+        "reading": "はじめる",
+        "note": "動詞，開始"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，結束"
+      }
+    ],
+    "context_grammar": [
+      "始めなければ：第二類動詞去「る」＋ なければ。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:39",
+    "japanese": "10. 話さなければわかりません",
+    "furigana": "10. <ruby>話<rt>はな</rt></ruby>さなければわかりません",
+    "segmentation": "10. 話さなければ | わかりません",
+    "translation": {
+      "natural": "10. 如果不說出來，就不會有人明白。",
+      "literal": "10. 如果不講的話，不會明白。"
+    },
+    "words": [
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "note": "動詞，交談、說出"
+      },
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "note": "動詞，理解、明白"
+      }
+    ],
+    "context_grammar": [
+      "話さなければ：第一類動詞未然假定形（話す -> 話さ）＋ なければ。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:44",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題用語。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:46",
+    "japanese": "練習しなければ上手になりませんよ。はい、わかりました。頑張ります。",
+    "furigana": "<ruby>練<rt>れん</rt></ruby><ruby>習<rt>しゅう</rt></ruby>しなければ<ruby>上<rt>じょう</rt></ruby><ruby>手<rt>ず</rt></ruby>になりませんよ。<ruby>好<rt>はい</rt></ruby>、わかりました。<ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>ります。",
+    "segmentation": "練習しなければ | 上手になりませんよ。 | はい、| わかりました。 | 頑張ります。",
+    "translation": {
+      "natural": "如果不練習的話是無法變擅長的喔。是的，我知道了。我會努力的。",
+      "literal": "如果不練習的話不會變成上手喔。是的，知道了。會努力的。"
+    },
+    "words": [
+      {
+        "word": "練習する",
+        "reading": "れんしゅうする",
+        "note": "動詞，練習"
+      },
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "note": "動詞，努力、加油（丁寧體為頑張ります）"
+      }
+    ],
+    "context_grammar": [
+      "上手になりませんよ：終助詞「よ」帶有提醒、叮嚀的語調。",
+      "頑張ります：第一類動詞「頑張る」之丁寧體，用來表達決心與態度。"
+    ]
+  }
+]

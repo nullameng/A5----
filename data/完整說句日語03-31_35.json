@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "131.",
+    "furigana": "131.",
+    "segmentation": "131.",
+    "translation": {
+      "natural": "131。",
+      "literal": "131。"
+    },
+    "words": [],
+    "context_grammar": [
+      "數字標題：僅作為單元編號閱讀。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:02",
+    "japanese": "なければなりません",
+    "furigana": "なければなりません",
+    "segmentation": "なければなりません",
+    "translation": {
+      "natural": "必須、一定要。",
+      "literal": "如果不這樣做就不行。"
+    },
+    "words": [
+      {
+        "word": "なければ",
+        "reading": "なければ",
+        "note": "否定假定形，若不……的話"
+      },
+      {
+        "word": "なりません",
+        "reading": "なりません",
+        "note": "動詞「なる」的否定禮貌體，不行、不成"
+      }
+    ],
+    "context_grammar": [
+      "～なければなりません：雙重否定形成的強烈義務句型，表示「必須做某事」。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "Step 1。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "標題：步驟說明指示。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:07",
+    "japanese": "1. 医者の言うことを聞かなければなりません。",
+    "furigana": "1. <ruby>医<rt>い</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>言<rt>い</rt></ruby>うことを<ruby>聞<rt>き</rt></ruby>かなければなりません。",
+    "segmentation": "1. 医者の｜言うことを｜聞かなければなりません。",
+    "translation": {
+      "natural": "1. 必須聽從醫生說的話。",
+      "literal": "1. 必須聽醫生所說的事。"
+    },
+    "words": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "note": "名詞，醫生"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "note": "動詞，說"
+      },
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "note": "動詞，聽、聽從（未然形為聞か）"
+      }
+    ],
+    "context_grammar": [
+      "言うこと：連體修飾，以動詞「言う」修飾名詞「こと」，表示「所說的話/內容」。",
+      "聞かなければなりません：動詞「聞く」的未然形「聞か」接續條件助詞「なければ」與否定語「なりません」，表達強烈必須性。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:12",
+    "japanese": "2. 休まなければなりません。",
+    "furigana": "2. <ruby>休<rt>やす</rt></ruby>まなければなりません。",
+    "segmentation": "2. 休まなければなりません。",
+    "translation": {
+      "natural": "2. 必須好好休息。",
+      "literal": "2. 不休息的話不行。"
+    },
+    "words": [
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "note": "動詞，休息（未然形為休ま）"
+      }
+    ],
+    "context_grammar": [
+      "休まなければなりません：五段活用動詞「休む」轉未然形「休ま」結合「～なければなりません」，常用於醫囑或指示事項。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:16",
+    "japanese": "3. リハビリしなければなりません。",
+    "furigana": "3. リハビリしなければなりません。",
+    "segmentation": "3. リハビリ｜しなければなりません。",
+    "translation": {
+      "natural": "3. 必須進行復健。",
+      "literal": "3. 不做復健的話不行。"
+    },
+    "words": [
+      {
+        "word": "リハビリ",
+        "reading": "りはびり",
+        "note": "名詞，復健 (Rehabilitation)"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做（未然形為し）"
+      }
+    ],
+    "context_grammar": [
+      "サ変動詞「する」變形：未然形「し」接續「～なければなりません」，用於說明必要的行動或療程。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:20",
+    "japanese": "4. 経験者でなければなりません。",
+    "furigana": "4. <ruby>経<rt>けい</rt></ruby><ruby>験<rt>けん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>でなければなりません。",
+    "segmentation": "4. 経験者でなければなりません。",
+    "translation": {
+      "natural": "4. 必須是有經驗者。",
+      "literal": "4. 若不是經驗者的話不行。"
+    },
+    "words": [
+      {
+        "word": "経験者",
+        "reading": "けいけんしゃ",
+        "note": "名詞，有經驗的人"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋でなければなりません：名詞接續助動詞「だ」的連用形「で」加上「なければなりません」，常用於徵才廣告中的資格要件說明。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:25",
+    "japanese": "5. 日本人でなければなりません。",
+    "furigana": "5. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>人<rt>じん</rt></ruby>でなければなりません。",
+    "segmentation": "5. 日本人でなければなりません。",
+    "translation": {
+      "natural": "5. 必須是日本人。",
+      "literal": "5. 若不是日本人的話不行。"
+    },
+    "words": [
+      {
+        "word": "日本人",
+        "reading": "にほんじん",
+        "note": "名詞，日本人"
+      }
+    ],
+    "context_grammar": [
+      "名詞條件限定：明確規定身份或資格必須符合條件。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:29",
+    "japanese": "6. 熱くなければなりません。",
+    "furigana": "6. <ruby>熱<rt>あつ</rt></ruby>くなければなりません。",
+    "segmentation": "6. 熱くなければなりません。",
+    "translation": {
+      "natural": "6. 必須是熱的。",
+      "literal": "6. 若不熱的話不行。"
+    },
+    "words": [
+      {
+        "word": "熱い",
+        "reading": "あつい",
+        "note": "イ形容詞，熱的、燙的（連用形為熱く）"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞＋く＋なければなりません：形容詞去「い」換「く」接續否定假定，常用於商品規格或食用方式說明。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:33",
+    "japanese": "7. 冷えてなければなりません。",
+    "furigana": "7. <ruby>冷<rt>ひ</rt></ruby>えてなければなりません。",
+    "segmentation": "7. 冷えてなければなりません。",
+    "translation": {
+      "natural": "7. 必須是冰涼的狀態。",
+      "literal": "7. 不處於冷卻狀態的話不行。"
+    },
+    "words": [
+      {
+        "word": "冷える",
+        "reading": "ひえる",
+        "note": "動詞，變冷、變涼（て形為冷えて）"
+      }
+    ],
+    "context_grammar": [
+      "～て（い）なければなりません：動詞「冷える」的て形結合狀態持續「いる」（口語中省略「い」）的否定假定，表示「必須維持某種狀態」。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:38",
+    "japanese": "8. 簡単でなければなりません。",
+    "furigana": "8. <ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>でなければなりません。",
+    "segmentation": "8. 簡単でなければなりません。",
+    "translation": {
+      "natural": "8. 必須很簡單才行。",
+      "literal": "8. 若不簡單的話不行。"
+    },
+    "words": [
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "note": "な形容詞，簡單的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞＋でなければなりません：な形容詞詞幹加上「で」接續否定假定，常見於產品特點宣傳。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:42",
+    "japanese": "9. 静かでなければなりません。",
+    "furigana": "9. <ruby>静<rt>しず</rt></ruby>かでなければなりません。",
+    "segmentation": "9. 静かでなければなりません。",
+    "translation": {
+      "natural": "9. 必須要安靜。",
+      "literal": "9. 若不安靜的話不行。"
+    },
+    "words": [
+      {
+        "word": "静か",
+        "reading": "しずか",
+        "note": "な形容詞，安靜的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞否定假定：限定環境或場所的必要條件。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:46",
+    "japanese": "10. 現金でなければなりません。",
+    "furigana": "10. <ruby>現<rt>げん</rt></ruby><ruby>金<rt>きん</rt></ruby>でなければなりません。",
+    "segmentation": "10. 現金でなければなりません。",
+    "translation": {
+      "natural": "10. 必須使用現金。",
+      "literal": "10. 若不是現金的話不行。"
+    },
+    "words": [
+      {
+        "word": "現金",
+        "reading": "げんきん",
+        "note": "名詞，現金"
+      }
+    ],
+    "context_grammar": [
+      "名詞條件限定：廣泛應用於店家告示，強調唯一的支付媒介。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:51",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "Step 3。"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "標題：會話實踐單元。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:53",
+    "japanese": "カードでもいいですか？",
+    "furigana": "カードでもいいですか？",
+    "segmentation": "カードで｜もいいですか？",
+    "translation": {
+      "natural": "刷卡也可以嗎？",
+      "literal": "用卡片也可以嗎？"
+    },
+    "words": [
+      {
+        "word": "カード",
+        "reading": "かーど",
+        "note": "名詞，卡片、信用卡 (Card)"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "イ形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋でもいい：格助詞「で」（手段方法）＋副助詞「も」，表許可「用……也可以」。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:56",
+    "japanese": "いいえ、現金で払わなければなりません。",
+    "furigana": "いいえ、<ruby>現<rt>げん</rt></ruby><ruby>金<rt>きん</rt></ruby>で<ruby>払<rt>はら</rt></ruby>わなければなりません。",
+    "segmentation": "いいえ、｜現金で｜払わなければなりません。",
+    "translation": {
+      "natural": "不行，必須以現金支付。",
+      "literal": "不，不用現金支付的話不行。"
+    },
+    "words": [
+      {
+        "word": "現金",
+        "reading": "げんきん",
+        "note": "名詞，現金"
+      },
+      {
+        "word": "払う",
+        "reading": "はらう",
+        "note": "動詞，支付（未然形為払わ）"
+      }
+    ],
+    "context_grammar": [
+      "現金で：格助詞「で」表示支付手段方式。",
+      "払わなければなりません：五段動詞「払う」之未然形「払わ」接續義務句型，用於店家禮貌但堅定地告知規定。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:00",
+    "japanese": "132.",
+    "furigana": "132.",
+    "segmentation": "132.",
+    "translation": {
+      "natural": "132。",
+      "literal": "132。"
+    },
+    "words": [],
+    "context_grammar": [
+      "數字標題。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:03",
+    "japanese": "なしでは～ない",
+    "furigana": "なしでは～ない",
+    "segmentation": "なしでは～ない",
+    "translation": {
+      "natural": "沒有……就無法……",
+      "literal": "沒有的話就不……"
+    },
+    "words": [
+      {
+        "word": "なし",
+        "reading": "なし",
+        "note": "名詞/副詞，沒有、無"
+      }
+    ],
+    "context_grammar": [
+      "～なしでは…ない：表示「若缺少前述條件，後果便無法實現」，帶有不可或缺的強調口吻。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:06",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "Step 1。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：步驟說明指示。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:08",
+    "japanese": "1. パスポートなしでは海外旅行はできない。",
+    "furigana": "1. パスポートなしでは<ruby>海<rt>かい</rt></ruby><ruby>外<rt>がい</rt></ruby><ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>はできない。",
+    "segmentation": "1. パスポートなしでは｜海外旅行は｜できない。",
+    "translation": {
+      "natural": "1. 沒有護照就無法去海外旅行。",
+      "literal": "1. 沒有護照的話，海外旅行是無法做到的。"
+    },
+    "words": [
+      {
+        "word": "パスポート",
+        "reading": "ぱすぽーと",
+        "note": "名詞，護照 (Passport)"
+      },
+      {
+        "word": "海外旅行",
+        "reading": "かいがいりょこう",
+        "note": "名詞，海外旅行"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，能夠、可以（否定形為できない）"
+      }
+    ],
+    "context_grammar": [
+      "パスポートなしでは：名詞＋なしでは，強調必備條件。",
+      "海外旅行はできない：提示主題助詞「は」加上可能動詞否定形「できない」，表達絕對無法達成。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:13",
+    "japanese": "2. クーラーなしでは夏は過ごせない。",
+    "furigana": "2. クーラーなしでは<ruby>夏<rt>なつ</rt></ruby>は<ruby>過<rt>すご</rt></ruby>せない。",
+    "segmentation": "2. クーラーなしでは｜夏は｜過ごせない。",
+    "translation": {
+      "natural": "2. 沒有冷氣的話夏天根本過不下去。",
+      "literal": "2. 沒有冷氣的話，夏天是無法度過的。"
+    },
+    "words": [
+      {
+        "word": "クーラー",
+        "reading": "くーらー",
+        "note": "名詞，冷氣 (Cooler)"
+      },
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "note": "名詞，夏天"
+      },
+      {
+        "word": "過ごす",
+        "reading": "すごす",
+        "note": "動詞，度過（可能動詞否定形為過ごせない）"
+      }
+    ],
+    "context_grammar": [
+      "過ごせない：下一段動詞「過ごせる」（過ごす的可能形）之否定，形容生活條件的依賴。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:18",
+    "japanese": "3. 水なしでは生活できない。",
+    "furigana": "3. <ruby>水<rt>みず</rt></ruby>なしでは<ruby>生<rt>せい</rt></ruby><ruby>活<rt>かつ</rt></ruby>できない。",
+    "segmentation": "3. 水なしでは｜生活できない。",
+    "translation": {
+      "natural": "3. 沒有水就無法生活。",
+      "literal": "3. 沒有水的話無法生活。"
+    },
+    "words": [
+      {
+        "word": "水",
+        "reading": "みず",
+        "note": "名詞，水"
+      },
+      {
+        "word": "生活する",
+        "reading": "せいかつする",
+        "note": "動詞，生活（可能否定形為生活できない）"
+      }
+    ],
+    "context_grammar": [
+      "生活できない：サ変動詞「生活する」可能否定態，強調生存的基本要素。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:23",
+    "japanese": "4. 唐辛子なしでは韓国料理は作れない。",
+    "furigana": "4. <ruby>唐<rt>とう</rt></ruby><ruby>辛<rt>がらし</rt></ruby><ruby>子<rt>子</rt></ruby>なしでは<ruby>韓<rt>かん</rt></ruby><ruby>国<rt>こく</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>作<rt>つく</rt></ruby>れない。",
+    "segmentation": "4. 唐辛子なしでは｜韓国料理は｜作れない。",
+    "translation": {
+      "natural": "4. 沒有辣椒就做不出韓國料理。",
+      "literal": "4. 沒有辣椒的話，韓國料理是無法製作的。"
+    },
+    "words": [
+      {
+        "word": "唐辛子",
+        "reading": "とうがらし",
+        "note": "名詞，辣椒"
+      },
+      {
+        "word": "韓国料理",
+        "reading": "かんこくりょうり",
+        "note": "名詞，韓國料理"
+      },
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "note": "動詞，製作（可能否定形為作れない）"
+      }
+    ],
+    "context_grammar": [
+      "作れない：五段動詞「作る」變可能形「作れる」後的否定態，強調材料的不可替代性。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:28",
+    "japanese": "5. わさびなしでは刺身は食べられない。",
+    "furigana": "5. わさびなしでは<ruby>刺<rt>さ</rt></ruby><ruby>身<rt>しみ</rt></ruby>は<ruby>食<rt>た</rt></ruby>べられない。",
+    "segmentation": "5. わさびなしでは｜刺身は｜食べられない。",
+    "translation": {
+      "natural": "5. 生魚片沒有芥末就不好吃了（吃不下）。",
+      "literal": "5. 沒有芥末的話，生魚片是無法吃下的。"
+    },
+    "words": [
+      {
+        "word": "わさび",
+        "reading": "わさび",
+        "note": "名詞，芥末"
+      },
+      {
+        "word": "刺身",
+        "reading": "さしみ",
+        "note": "名詞，生魚片"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（可能否定形為食べられない）"
+      }
+    ],
+    "context_grammar": [
+      "食べられない：下一段動詞「食べる」之可能否定形，語境中帶有「缺乏搭配就失味」的主觀感受。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:33",
+    "japanese": "6. 医療なしでは生きていけない。",
+    "furigana": "6. <ruby>医<rt>い</rt></ruby><ruby>療<rt>りょう</rt></ruby>なしでは<ruby>生<rt>い</rt></ruby>きていけない。",
+    "segmentation": "6. 医療なしでは｜生きていけない。",
+    "translation": {
+      "natural": "6. 沒有醫療就無法生存下去。",
+      "literal": "6. 沒有醫療的話，無法活下去。"
+    },
+    "words": [
+      {
+        "word": "医療",
+        "reading": "いりょう",
+        "note": "名詞，醫療"
+      },
+      {
+        "word": "生きる",
+        "reading": "いきる",
+        "note": "動詞，生存（て形為生きて）"
+      },
+      {
+        "word": "いく",
+        "reading": "いく",
+        "note": "補助動詞，繼續下去（可能否定形為いけない）"
+      }
+    ],
+    "context_grammar": [
+      "生きていけない：動詞「生きる」て形＋補助動詞「いく」的可能否定形，表達針對未來的生存持續性。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:38",
+    "japanese": "7. 薬なしでは治療できない。",
+    "furigana": "7. <ruby>薬<rt>くすり</rt></ruby>なしでは<ruby>治<rt>ち</rt></ruby><ruby>療<rt>りょう</rt></ruby>できない。",
+    "segmentation": "7. 薬なしでは｜治療できない。",
+    "translation": {
+      "natural": "7. 沒有藥物就無法進行治療。",
+      "literal": "7. 沒有藥的話無法治療。"
+    },
+    "words": [
+      {
+        "word": "薬",
+        "reading": "くすり",
+        "note": "名詞，藥物"
+      },
+      {
+        "word": "治療する",
+        "reading": "ちりょうする",
+        "note": "動詞，治療（可能否定形為治療できない）"
+      }
+    ],
+    "context_grammar": [
+      "治療できない：サ変動詞可能否定，說明特定手段的必然性。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:43",
+    "japanese": "8. 部品なしでは生産できない。",
+    "furigana": "8. <ruby>部<rt>ぶ</rt></ruby><ruby>品<rt>ひん</rt></ruby>なしでは<ruby>生<rt>せい</rt></ruby><ruby>産<rt>さん</rt></ruby>できない。",
+    "segmentation": "8. 部品なしでは｜生産できない。",
+    "translation": {
+      "natural": "8. 沒有零件就無法進行生產。",
+      "literal": "8. 沒有零件的話無法生產。"
+    },
+    "words": [
+      {
+        "word": "部品",
+        "reading": "ぶひん",
+        "note": "名詞，零件"
+      },
+      {
+        "word": "生産する",
+        "reading": "せいさんする",
+        "note": "動詞，生產（可能否定形為生産できない）"
+      }
+    ],
+    "context_grammar": [
+      "商業文脈：廣泛應用於製造業簡報或供應鏈報告中，強調料件到位的重要性。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:48",
+    "japanese": "9. 交通手段なしでは移動できない。",
+    "furigana": "9. <ruby>交<rt>こう</rt></ruby><ruby>通<rt>つう</rt></ruby><ruby>手<rt>しゅ</rt></ruby><ruby>段<rt>だん</rt></ruby>なしでは<ruby>移<rt>い</rt></ruby><ruby>動<rt>どう</rt></ruby>できない。",
+    "segmentation": "9. 交通手段なしでは｜移動できない。",
+    "translation": {
+      "natural": "9. 沒有交通工具就無法移動。",
+      "literal": "9. 沒有交通手段的話無法移動。"
+    },
+    "words": [
+      {
+        "word": "交通手段",
+        "reading": "こうつうしゅだん",
+        "note": "名詞，交通工具、交通方式"
+      },
+      {
+        "word": "移動する",
+        "reading": "いどうする",
+        "note": "動詞，移動（可能否定形為移動できない）"
+      }
+    ],
+    "context_grammar": [
+      "移動できない：說明客觀環境造成的行動受限。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:53",
+    "japanese": "10. 材料なしでは料理はできない。",
+    "furigana": "10. <ruby>材<rt>ざい</rt></ruby><ruby>料<rt>りょう</rt></ruby>なしでは<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>はできない。",
+    "segmentation": "10. 材料なしでは｜料理はできない。",
+    "translation": {
+      "natural": "10. 沒有食材就無法做料理。",
+      "literal": "10. 沒有材料的話，料理是做不出來的。"
+    },
+    "words": [
+      {
+        "word": "材料",
+        "reading": "ざいりょう",
+        "note": "名詞，材料、食材"
+      },
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、做菜"
+      }
+    ],
+    "context_grammar": [
+      "料理はできない：使用提示助詞「は」做主題對比，強調根本前提不成立。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:58",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "Step 3。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：實境會話應用。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:00",
+    "japanese": "今回の台風で土砂崩れが発生し、現在復旧作業を行っています。",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>の<ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>で<ruby>土<rt>ど</rt></ruby><ruby>砂<rt>しゃ</rt></ruby><ruby>崩<rt>くず</rt></ruby>れが<ruby>発<rt>はっ</rt></ruby><ruby>生<rt>せい</rt></ruby>し、<ruby>現<rt>げん</rt></ruby><ruby>在<rt>ざい</rt></ruby><ruby>復<rt>ふく</rt></ruby><ruby>旧<rt>きゅう</rt></ruby><ruby>作<rt>さく</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>っています。",
+    "segmentation": "今回の台風で｜土砂崩れが発生し、｜現在｜復旧作業を行っています。",
+    "translation": {
+      "natural": "受本次颱風影響引發了土石流，目前正在進行搶修工作。",
+      "literal": "因這次的颱風發生了土石流，現在正在進行復原作業。"
+    },
+    "words": [
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "note": "名詞，颱風"
+      },
+      {
+        "word": "土砂崩れ",
+        "reading": "どしゃくずれ",
+        "note": "名詞，土石流、山崩"
+      },
+      {
+        "word": "発生する",
+        "reading": "はっせいする",
+        "note": "動詞，發生（連用形中斷為発生し）"
+      },
+      {
+        "word": "復旧作業",
+        "reading": "ふくきゅうさぎょう",
+        "note": "名詞，搶修/復原工作"
+      },
+      {
+        "word": "行う",
+        "reading": "おこなう",
+        "note": "動詞，進行、實施（進行式為行っている）"
+      }
+    ],
+    "context_grammar": [
+      "台風で：格助詞「で」表示原因理由。",
+      "発生し、：動詞連用形中斷法，用於新聞或官方廣播中連貫前後兩個事件關係。",
+      "行っています：進行式「～ている」之敬體，說明當前正在進行的狀態。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:07",
+    "japanese": "交通手段なしでは移動できませんね。",
+    "furigana": "<ruby>交<rt>こう</rt></ruby><ruby>通<rt>つう</rt></ruby><ruby>手<rt>しゅ</rt></ruby><ruby>段<rt>だん</rt></ruby>なしでは<ruby>移<rt>い</rt></ruby><ruby>動<rt>どう</rt></ruby>できませんね。",
+    "segmentation": "交通手段なしでは｜移動できませんね。",
+    "translation": {
+      "natural": "沒有交通工具的話真的沒辦法移動呢。",
+      "literal": "沒有交通手段的話無法移動呢。"
+    },
+    "words": [
+      {
+        "word": "交通手段",
+        "reading": "こうつうしゅだん",
+        "note": "名詞，交通方式"
+      },
+      {
+        "word": "移動する",
+        "reading": "いどうする",
+        "note": "動詞，移動"
+      }
+    ],
+    "context_grammar": [
+      "移動できませんね：可能動詞否定形「できません」加上感嘆終助詞「ね」，用於對當前狀況表達同感或無奈共鳴。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:12",
+    "japanese": "133.",
+    "furigana": "133.",
+    "segmentation": "133.",
+    "translation": {
+      "natural": "133。",
+      "literal": "133。"
+    },
+    "words": [],
+    "context_grammar": [
+      "數字標題。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:15",
+    "japanese": "べからず",
+    "furigana": "べからず",
+    "segmentation": "べからず",
+    "translation": {
+      "natural": "禁止、不可（文言禁止指令）。",
+      "literal": "不可以。"
+    },
+    "words": [
+      {
+        "word": "べからず",
+        "reading": "べからず",
+        "note": "助動詞，絕對不可、禁止（文語體）"
+      }
+    ],
+    "context_grammar": [
+      "～べからず：衍生自古文推量助動詞「べし」的否定形，常見於公眾場所的硬性禁止告示（如：標語、看板）。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:18",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "Step 1。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：步驟說明指示。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:20",
+    "japanese": "1. 行くべからず",
+    "furigana": "1. <ruby>行<rt>い</rt></ruby>くべからず",
+    "segmentation": "1. 行くべからず",
+    "translation": {
+      "natural": "1. 切勿前往（切勿前往之處）。",
+      "literal": "1. 不可前往。"
+    },
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，前往"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋べからず：以終止形直接接續文言禁止助動詞，用於嚴厲警告。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:22",
+    "japanese": "2. 入るべからず",
+    "furigana": "2. <ruby>入<rt>はい</rt></ruby>るべからず",
+    "segmentation": "2. 入るべからず",
+    "translation": {
+      "natural": "2. 請勿進入（禁止進入）。",
+      "literal": "2. 不可進入。"
+    },
+    "words": [
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入"
+      }
+    ],
+    "context_grammar": [
+      "入るべからず：立牌告示的經典用語（相當於「進入禁止」）。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:25",
+    "japanese": "3. 泳ぐべからず",
+    "furigana": "3. <ruby>泳<rt>およ</rt></ruby>ぐべからず",
+    "segmentation": "3. 泳ぐべからず",
+    "translation": {
+      "natural": "3. 禁止游泳。",
+      "literal": "3. 不可游泳。"
+    },
+    "words": [
+      {
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "note": "動詞，游泳"
+      }
+    ],
+    "context_grammar": [
+      "泳ぐべからず：水邊警告標示常見文體。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:28",
+    "japanese": "4. 飲むべからず",
+    "furigana": "4. <ruby>飲<rt>の</rt></ruby>むべからず",
+    "segmentation": "4. 飲むべからず",
+    "translation": {
+      "natural": "4. 請勿飲用（非飲用水）。",
+      "literal": "4. 不可飲用。"
+    },
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝、飲用"
+      }
+    ],
+    "context_grammar": [
+      "飲むべからず：工業用水或非飲料水標示。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:30",
+    "japanese": "5. 食べるべからず",
+    "furigana": "5. <ruby>食<rt>た</rt></ruby>べるべからず",
+    "segmentation": "5. 食べるべからず",
+    "translation": {
+      "natural": "5. 禁止食用。",
+      "literal": "5. 不可食用。"
+    },
+    "words": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞辭書形＋べからず。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:33",
+    "japanese": "6. 笑うべからず",
+    "furigana": "6. <ruby>笑<rt>わら</rt></ruby>うべからず",
+    "segmentation": "6. 笑うべからず",
+    "translation": {
+      "natural": "6. 不准發笑（禁止嬉笑）。",
+      "literal": "6. 不可發笑。"
+    },
+    "words": [
+      {
+        "word": "笑う",
+        "reading": "わらう",
+        "note": "動詞，笑"
+      }
+    ],
+    "context_grammar": [
+      "常用於嚴肅場所的規範或特定競賽規則。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:36",
+    "japanese": "7. 座るべからず",
+    "furigana": "7. <ruby>座<rt>すわ</rt></ruby>るべからず",
+    "segmentation": "7. 座るべからず",
+    "translation": {
+      "natural": "7. 請勿乘坐（請勿坐下）。",
+      "literal": "7. 不可坐下。"
+    },
+    "words": [
+      {
+        "word": "座る",
+        "reading": "すわる",
+        "note": "動詞，坐"
+      }
+    ],
+    "context_grammar": [
+      "用於展示品、未乾燥設施上的警告。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:39",
+    "japanese": "8. 立つべからず",
+    "furigana": "8. <ruby>立<rt>た</rt></ruby>つべからず",
+    "segmentation": "8. 立つべからず",
+    "translation": {
+      "natural": "8. 請勿站立。",
+      "literal": "8. 不可站立。"
+    },
+    "words": [
+      {
+        "word": "立つ",
+        "reading": "たつ",
+        "note": "動詞，站立"
+      }
+    ],
+    "context_grammar": [
+      "常用於遊樂設施、乘載工具上的警語。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:41",
+    "japanese": "9. 話すべからず",
+    "furigana": "9. <ruby>話<rt>はな</rt></ruby>すべからず",
+    "segmentation": "9. 話すべからず",
+    "translation": {
+      "natural": "9. 禁止交談。",
+      "literal": "9. 不可交談。"
+    },
+    "words": [
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "note": "動詞，說話、交談"
+      }
+    ],
+    "context_grammar": [
+      "常用於考場、閱覽室等嚴格肅靜場所。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:44",
+    "japanese": "10. 書くべからず",
+    "furigana": "10. <ruby>書<rt>か</rt></ruby>くべからず",
+    "segmentation": "10. 書くべからず",
+    "translation": {
+      "natural": "10. 請勿塗寫（禁止書寫）。",
+      "literal": "10. 不可書寫。"
+    },
+    "words": [
+      {
+        "word": "書く",
+        "reading": "かく",
+        "note": "動詞，寫"
+      }
+    ],
+    "context_grammar": [
+      "用於文物、展品或非填寫區塊標記。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:47",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "Step 3。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：會話練習單元。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:49",
+    "japanese": "「泳ぐべからず」てどういう意味ですか？",
+    "furigana": "「<ruby>泳<rt>およ</rt></ruby>ぐべからず」てどういう<ruby>意<rt>い</rt></ruby><ruby>味<rt>み</rt></ruby>ですか？",
+    "segmentation": "「泳ぐべからず」て｜どういう意味ですか？",
+    "translation": {
+      "natural": "「泳ぐべからず」是什麼意思呀？",
+      "literal": "「泳ぐべからず」這句話是怎樣的意思呢？"
+    },
+    "words": [
+      {
+        "word": "て",
+        "reading": "て",
+        "note": "助詞，引用聽到的內容（口語省略「と」）"
+      },
+      {
+        "word": "どういう",
+        "reading": "どういう",
+        "note": "連体詞，怎麼樣的"
+      },
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "note": "名詞，意思"
+      }
+    ],
+    "context_grammar": [
+      "「文」＋て：引用助詞「と」在口語轉化為「て」，用來詢問剛看到或聽到的詞彙用語。",
+      "どういう意味ですか：固定詢問語意之日常問句。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:53",
+    "japanese": "ここで泳ぐなという意味ですよ。",
+    "furigana": "ここで<ruby>泳<rt>およ</rt></ruby>ぐなという<ruby>意<rt>い</rt></ruby><ruby>味<rt>み</rt></ruby>ですよ。",
+    "segmentation": "ここで｜泳ぐなという｜意味ですよ。",
+    "translation": {
+      "natural": "意思是「不可以在這裡游泳」喔。",
+      "literal": "是「不准在這裡游泳」這樣的意思喔。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "代名詞，這裡"
+      },
+      {
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "note": "動詞，游泳（加上「な」為口語禁止形）"
+      },
+      {
+        "word": "という",
+        "reading": "という",
+        "note": "格助詞組，叫做……的、意思是……的"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋な：口語命令體之「禁止形」（不准……）。",
+      "～という意味ですよ：同位語結構，將硬式的古文標語用口語「～な」重新解釋說明。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "02:57",
+    "japanese": "134.",
+    "furigana": "134.",
+    "segmentation": "134.",
+    "translation": {
+      "natural": "134。",
+      "literal": "134。"
+    },
+    "words": [],
+    "context_grammar": [
+      "數字標題。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:00",
+    "japanese": "べきではない",
+    "furigana": "べきではない",
+    "segmentation": "べきではない",
+    "translation": {
+      "natural": "不應該……",
+      "literal": "應該不是……"
+    },
+    "words": [
+      {
+        "word": "べき",
+        "reading": "べき",
+        "note": "助動詞，應該"
+      },
+      {
+        "word": "ではない",
+        "reading": "ではない",
+        "note": "否定式，不是"
+      }
+    ],
+    "context_grammar": [
+      "～べきではない：表示基於道德、常理、常識判斷「不應該去做某事」。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:03",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "Step 1。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：步驟說明指示。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:05",
+    "japanese": "1. 外へ行くべきではない。",
+    "furigana": "1. <ruby>外<rt>そと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くべきではない。",
+    "segmentation": "1. 外へ｜行くべきではない。",
+    "translation": {
+      "natural": "1. 不應該往外頭走。",
+      "literal": "1. 不應該去外面。"
+    },
+    "words": [
+      {
+        "word": "外",
+        "reading": "そと",
+        "note": "名詞，外面"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去"
+      }
+    ],
+    "context_grammar": [
+      "外へ：方向助詞「へ」指示動作前往的目標。",
+      "行くべきではない：動詞辭書形＋べきではない，表達常理上的諫言。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:09",
+    "japanese": "2. 約束を忘れるべきではない。",
+    "furigana": "2. <ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れるべきではない。",
+    "segmentation": "2. 約束を｜忘れるべきではない。",
+    "translation": {
+      "natural": "2. 不應該忘記約定。",
+      "literal": "2. 不應該忘記約束。"
+    },
+    "words": [
+      {
+        "word": "約束",
+        "reading": "やくそく",
+        "note": "名詞，約定"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "note": "動詞，忘記"
+      }
+    ],
+    "context_grammar": [
+      "忘れるべきではない：下一段動詞辭書形接續「べきではない」，做社會倫理上的忠告。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:13",
+    "japanese": "3. 借りたものをなくすべきではない。",
+    "furigana": "3. <ruby>借<rt>か</rt></ruby>りたものをなくすべきではない。",
+    "segmentation": "3. 借りたものを｜なくすべきではない。",
+    "translation": {
+      "natural": "3. 不應該把借來的東西弄丟。",
+      "literal": "3. 不應該弄丟借來的東西。"
+    },
+    "words": [
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "note": "動詞，借入（過去形為借りた）"
+      },
+      {
+        "word": "もの",
+        "reading": "もの",
+        "note": "名詞，物品"
+      },
+      {
+        "word": "なくす",
+        "reading": "なくす",
+        "note": "動詞，遺失、弄丟"
+      }
+    ],
+    "context_grammar": [
+      "借りたもの：過去形「借りた」作連體修飾名詞「もの」（借來的東西）。",
+      "なくすべきではない：五段動詞＋べきではない。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:18",
+    "japanese": "4. 承諾するべきではない。",
+    "furigana": "4. <ruby>承<rt>しょう</rt></ruby><ruby>諾<rt>だく</rt></ruby>するべきではない。",
+    "segmentation": "4. 承諾するべきではない。",
+    "translation": {
+      "natural": "4. 不應該隨意答應（承諾）。",
+      "literal": "4. 不應該進行承諾。"
+    },
+    "words": [
+      {
+        "word": "承諾する",
+        "reading": "しょうだくする",
+        "note": "動詞，答應、同意"
+      }
+    ],
+    "context_grammar": [
+      "サ変動詞辭書形＋べきではない（亦可為するべき/すべき）。商業商務溝通中用於提醒風險控管。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:22",
+    "japanese": "5. 逃げるべきではない。",
+    "furigana": "5. <ruby>逃<rt>に</rt></ruby>げるべきではない。",
+    "segmentation": "5. 逃げるべきではない。",
+    "translation": {
+      "natural": "5. 不應該逃避。",
+      "literal": "5. 不應該逃跑。"
+    },
+    "words": [
+      {
+        "word": "逃げる",
+        "reading": "にげる",
+        "note": "動詞，逃跑、逃避"
+      }
+    ],
+    "context_grammar": [
+      "逃げるべきではない：下一段動詞直接接續，態度堅定的勸告。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:26",
+    "japanese": "6. 隠れるべきではない。",
+    "furigana": "6. <ruby>隠<rt>かく</rt></ruby>れるべきではない。",
+    "segmentation": "6. 隠れるべきではない。",
+    "translation": {
+      "natural": "6. 不應該躲藏起來。",
+      "literal": "6. 不應該隱藏。"
+    },
+    "words": [
+      {
+        "word": "隠れる",
+        "reading": "かくれる",
+        "note": "動詞，躲藏"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞連體形/辭書形接續「べきではない」。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:30",
+    "japanese": "7. 法律に違反するべきではない。",
+    "furigana": "7. <ruby>法<rt>ほう</rt></ruby><ruby>律<rt>りつ</rt></ruby>に<ruby>違<rt>い</rt></ruby><ruby>反<rt>はん</rt></ruby>するべきではない。",
+    "segmentation": "7. 法律に｜違反するべきではない。",
+    "translation": {
+      "natural": "7. 不應該觸犯法律。",
+      "literal": "7. 不應該違反法律。"
+    },
+    "words": [
+      {
+        "word": "法律",
+        "reading": "ほうりつ",
+        "note": "名詞，法律"
+      },
+      {
+        "word": "違反する",
+        "reading": "いはんする",
+        "note": "動詞，違反"
+      }
+    ],
+    "context_grammar": [
+      "法律に：補語格助詞「に」指示違反的對象。",
+      "違反するべきではない：代表法規道德與社會規範上的禁止。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:35",
+    "japanese": "8. 運動するべきではない。",
+    "furigana": "8. <ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>するべきではない。",
+    "segmentation": "8. 運動するべきではない。",
+    "translation": {
+      "natural": "8. 不適宜進行運動。",
+      "literal": "8. 不應該運動。"
+    },
+    "words": [
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動"
+      }
+    ],
+    "context_grammar": [
+      "醫療保健或生病時，醫生給予病患的建議用語。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:39",
+    "japanese": "9. アドバイスするべきではない。",
+    "furigana": "9. アドバイスするべきではない。",
+    "segmentation": "9. アドバイスするべきではない。",
+    "translation": {
+      "natural": "9. 不應該給予建議。",
+      "literal": "9. 不應該進行建議。"
+    },
+    "words": [
+      {
+        "word": "アドバイスする",
+        "reading": "あどばいすする",
+        "note": "動詞，給予建議 (Advice)"
+      }
+    ],
+    "context_grammar": [
+      "外來語動作名詞＋する＋べきではない。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:43",
+    "japanese": "10. 報告するべきではない。",
+    "furigana": "10. <ruby>報<rt>ほう</rt></ruby><ruby>告<rt>こく</rt></ruby>するべきではない。",
+    "segmentation": "10. 報告するべきではない。",
+    "translation": {
+      "natural": "10. 不應該呈報。",
+      "literal": "10. 不應該報告。"
+    },
+    "words": [
+      {
+        "word": "報告する",
+        "reading": "ほうこくする",
+        "note": "動詞，報告、呈報"
+      }
+    ],
+    "context_grammar": [
+      "職場情境中針對保密協議或特定時機點的判斷說明。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "03:48",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "Step 3。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：會話練習單元。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:50",
+    "japanese": "台風が上陸しましたから、外へ行くべきではないですよ。",
+    "furigana": "<ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>が<ruby>上<rt>じょう</rt></ruby><ruby>陸<rt>りく</rt></ruby>しましたから、｜<ruby>外<rt>そと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くべきではないですよ。",
+    "segmentation": "台風が上陸しましたから、｜外へ行くべきではないですよ。",
+    "translation": {
+      "natural": "颱風已經登陸了，所以最好不要出門喔。",
+      "literal": "因為颱風已經上陸了，不應該去外面喔。"
+    },
+    "words": [
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "note": "名詞，颱風"
+      },
+      {
+        "word": "上陸する",
+        "reading": "じょうりくする",
+        "note": "動詞，登陸（過去形為上陸しました）"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接續助詞，因為……所以"
+      }
+    ],
+    "context_grammar": [
+      "上陸しましたから：丁寧體＋原因接續助詞「から」，客觀敘述原因。",
+      "行くべきではないですよ：否定句尾加上叮嚀助詞「よ」，態度親切且富含關懷提醒意味。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "03:55",
+    "japanese": "そうですね。危ないですからね。",
+    "furigana": "そうですね。<ruby>危<rt>あぶ</rt></ruby>ないですからね。",
+    "segmentation": "そうですね。｜危ないですからね。",
+    "translation": {
+      "natural": "說得也是呢，畢竟很危險嘛。",
+      "literal": "是這樣呢。因為危險呢。"
+    },
+    "words": [
+      {
+        "word": "そう",
+        "reading": "そう",
+        "note": "副詞，那樣"
+      },
+      {
+        "word": "危ない",
+        "reading": "あぶない",
+        "note": "イ形容詞，危險的"
+      }
+    ],
+    "context_grammar": [
+      "そうですね：認同對方說法的應答用語。",
+      "危ないですからね：形容詞＋丁寧助動詞「です」＋原因「から」＋終助詞「ね」，補述理由並求同感。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "03:59",
+    "japanese": "135.",
+    "furigana": "135.",
+    "segmentation": "135.",
+    "translation": {
+      "natural": "135。",
+      "literal": "135。"
+    },
+    "words": [],
+    "context_grammar": [
+      "數字標題。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:02",
+    "japanese": "ほとんど～ない",
+    "furigana": "ほとんど～ない",
+    "segmentation": "ほとんど～ない",
+    "translation": {
+      "natural": "幾乎不……",
+      "literal": "幾乎沒有……"
+    },
+    "words": [
+      {
+        "word": "ほとんど",
+        "reading": "ほとんど",
+        "note": "副詞，幾乎、大致"
+      }
+    ],
+    "context_grammar": [
+      "ほとんど＋動詞否定形：副詞呼應否定，表示頻率極低或數量極少。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:05",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "步驟 1。",
+      "literal": "Step 1。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：步驟說明指示。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:07",
+    "japanese": "1. ほとんど食べない。",
+    "furigana": "1. ほとんど<ruby>食<rt>た</rt></ruby>べない。",
+    "segmentation": "1. ほとんど｜食べない。",
+    "translation": {
+      "natural": "1. 幾乎不吃。",
+      "literal": "1. 幾乎不吃。"
+    },
+    "words": [
+      {
+        "word": "ほとんど",
+        "reading": "ほとんど",
+        "note": "副詞，幾乎"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（否定形為食べない）"
+      }
+    ],
+    "context_grammar": [
+      "副詞「ほとんど」修飾否定形動詞，強調飲食習慣或食慾極低。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:10",
+    "japanese": "2. ほとんど分からない。",
+    "furigana": "2. ほとんど<ruby>分<rt>わ</rt></ruby>からない。",
+    "segmentation": "2. ほとんど｜分からない。",
+    "translation": {
+      "natural": "2. 幾乎不懂（幾乎不明白）。",
+      "literal": "2. 幾乎不了解。"
+    },
+    "words": [
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "note": "動詞，明白、理解（否定形為分からない）"
+      }
+    ],
+    "context_grammar": [
+      "修飾理解程度，表示對內容掌握度極低。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:13",
+    "japanese": "3. ほとんど出席しない。",
+    "furigana": "3. ほとんど<ruby>出<rt>しゅっ</rt></ruby><ruby>席<rt>せき</rt></ruby>しない。",
+    "segmentation": "3. ほとんど｜出席しない。",
+    "translation": {
+      "natural": "3. 幾乎不出席。",
+      "literal": "3. 幾乎不出席。"
+    },
+    "words": [
+      {
+        "word": "出席する",
+        "reading": "しゅっせきする",
+        "note": "動詞，出席（否定形為出席しない）"
+      }
+    ],
+    "context_grammar": [
+      "修飾出席頻率，表示極少參加活動或會議。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "04:18",
+    "japanese": "4. ほとんど飲まない。",
+    "furigana": "4. ほとんど<ruby>飲<rt>の</rt></ruby>まない。",
+    "segmentation": "4. ほとんど｜飲まない。",
+    "translation": {
+      "natural": "4. 幾乎不喝（酒/飲料）。",
+      "literal": "4. 幾乎不喝。"
+    },
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝（未然形為飲ま）"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞未然形＋ない，常見於說明個人習慣（如：不喝酒）。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "04:21",
+    "japanese": "5. ほとんど行かない。",
+    "furigana": "5. ほとんど<ruby>行<rt>い</rt></ruby>かない。",
+    "segmentation": "5. ほとんど｜行かない。",
+    "translation": {
+      "natural": "5. 幾乎不去。",
+      "literal": "5. 幾乎不去。"
+    },
+    "words": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去（未然形為行か）"
+      }
+    ],
+    "context_grammar": [
+      "形容造訪某地的頻率趨近於零。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "04:24",
+    "japanese": "6. ほとんど勉強しない。",
+    "furigana": "6. ほとんど<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>しない。",
+    "segmentation": "6. ほとんど｜勉強しない。",
+    "translation": {
+      "natural": "6. 幾乎不讀書（學習）。",
+      "literal": "6. 幾乎不學習。"
+    },
+    "words": [
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "note": "動詞，讀書、學習（否定形為勉強しない）"
+      }
+    ],
+    "context_grammar": [
+      "サ変動詞未然形「し」＋「ない」，修飾學習態度或時間長短。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "04:28",
+    "japanese": "7. ほとんど見ない。",
+    "furigana": "7. ほとんど<ruby>見<rt>み</rt></ruby>ない。",
+    "segmentation": "7. ほとんど｜見ない。",
+    "translation": {
+      "natural": "7. 幾乎不看。",
+      "literal": "7. 幾乎不看。"
+    },
+    "words": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（未然形為見）"
+      }
+    ],
+    "context_grammar": [
+      "上一段動詞去「る」加「ない」，修飾觀看娛樂節目或書籍的頻率。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "04:31",
+    "japanese": "8. ほとんど読まない。",
+    "furigana": "8. ほとんど<ruby>読<rt>よ</rt></ruby>まない。",
+    "segmentation": "8. ほとんど｜読まない。",
+    "translation": {
+      "natural": "8. 幾乎不閱讀。",
+      "literal": "8. 幾乎不讀。"
+    },
+    "words": [
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "note": "動詞，讀（未然形為読ま）"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞未然形接續否定，說明閱讀習慣。"
+    ]
+  },
+  {
+    "id": "076",
+    "time": "04:34",
+    "japanese": "9. ほとんど会わない。",
+    "furigana": "9. ほとんど<ruby>会<rt>あ</rt></ruby>わない。",
+    "segmentation": "9. ほとんど｜会わない。",
+    "translation": {
+      "natural": "9. 幾乎不見面。",
+      "literal": "9. 幾乎不見。"
+    },
+    "words": [
+      {
+        "word": "会う",
+        "reading": "あう",
+        "note": "動詞，見面（未然形為会わ）"
+      }
+    ],
+    "context_grammar": [
+      "語尾為「う」的五段動詞，未然形為「わ」＋「ない」，形容人際交際頻率。"
+    ]
+  },
+  {
+    "id": "077",
+    "time": "04:38",
+    "japanese": "10. ほとんど聞かない。",
+    "furigana": "10. ほとんど<ruby>聞<rt>き</rt></ruby>かない。",
+    "segmentation": "10. ほとんど｜聞かない。",
+    "translation": {
+      "natural": "10. 幾乎不聽（或幾乎不打聽/詢問）。",
+      "literal": "10. 幾乎不聽。"
+    },
+    "words": [
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "note": "動詞，聽、打聽（未然形為聞か）"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞未然形＋ない，形容聽音樂、新聞或詢問的頻率。"
+    ]
+  },
+  {
+    "id": "078",
+    "time": "04:41",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟 3。",
+      "literal": "Step 3。"
+    },
+    "words": [],
+    "context_grammar": [
+      "標題：會話練習單元。"
+    ]
+  },
+  {
+    "id": "079",
+    "time": "04:43",
+    "japanese": "よく映画を見ますか？",
+    "furigana": "よく<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>を<ruby>見<rt>み</rt></ruby>ますか？",
+    "segmentation": "よく｜映画を｜見ますか？",
+    "translation": {
+      "natural": "你經常看電影嗎？",
+      "literal": "常常看電影嗎？"
+    },
+    "words": [
+      {
+        "word": "よく",
+        "reading": "よく",
+        "note": "副詞，經常"
+      },
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（禮貌體為見ます）"
+      }
+    ],
+    "context_grammar": [
+      "よく：頻率副詞，用於詢問習慣。",
+      "映画を：目的格助詞「を」指示動作「見る」的對象。"
+    ]
+  },
+  {
+    "id": "080",
+    "time": "04:46",
+    "japanese": "ほとんど見ません。",
+    "furigana": "ほとんど<ruby>見<rt>み</rt></ruby>ません。",
+    "segmentation": "ほとんど｜見ません。",
+    "translation": {
+      "natural": "幾乎不看呢。",
+      "literal": "幾乎不看。"
+    },
+    "words": [
+      {
+        "word": "ほとんど",
+        "reading": "ほとんど",
+        "note": "副詞，幾乎"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（禮貌否定形為見ません）"
+      }
+    ],
+    "context_grammar": [
+      "ほとんど＋見ません：呼應上一句的「よく（經常）」，以否定副詞搭配禮貌體否定形「見ません」做極低頻率的回應。"
+    ]
+  }
+]
