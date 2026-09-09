@@ -1,0 +1,1901 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "181. おかげでステップ1",
+    "furigana": "181. おかげでステップ1",
+    "segmentation": "181おかげで | ステップ1",
+    "translation": {
+      "natural": "181 多虧了 步驟一",
+      "literal": "181 多虧了 步驟一"
+    },
+    "words": [
+      {
+        "word": "おかげで",
+        "reading": "おかげで",
+        "note": "接續詞/句型，多虧了（表示好的結果的原因）"
+      },
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題與章節指示，無需繁複語法分析。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "1.自然環境に恵まれているおかげで色々な果物があります。",
+    "furigana": "1.<ruby>自<rt>じ</rt></ruby><ruby>然<rt>ぜん</rt></ruby><ruby>環<rt>かん</rt></ruby><ruby>境<rt>きょう</rt></ruby>に<ruby>恵<rt>めぐ</rt></ruby>まれているおかげで<ruby>色<rt>いろいろ</rt></ruby>々な<ruby>果<rt>くだ</rt></ruby><ruby>物<rt>もの</rt></ruby>があります。",
+    "segmentation": "1.自然環境に | 恵まれている | おかげで | 色々な果物が | あります。",
+    "translation": {
+      "natural": "多虧有著得天獨厚的自然環境，才能擁有各式各樣的水果。",
+      "literal": "多虧被自然環境賜予著，有各式各樣的水果。"
+    },
+    "words": [
+      {
+        "word": "自然環境",
+        "reading": "しぜんかんきょう",
+        "note": "名詞，自然環境"
+      },
+      {
+        "word": "恵まれる",
+        "reading": "めぐまれる",
+        "note": "動詞，得天獨厚、受到恩賜（「恵む」的被動型）"
+      },
+      {
+        "word": "色々",
+        "reading": "いろいろ",
+        "note": "形動/副詞，各式各樣"
+      },
+      {
+        "word": "果物",
+        "reading": "くだもの",
+        "note": "名詞，水果"
+      }
+    ],
+    "context_grammar": [
+      "恵まれている：動詞「恵む（賜予）」的被動形「恵まれる」，加上「ている」表示狀態持續，用來連體修飾形式名詞「おかげ」。",
+      "～おかげで：表示「多虧了…」，後接表達積極正面結果的句子。",
+      "商業與觀光影片中常用於強調地方特色與自然資源優勢的表達。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:10",
+    "japanese": "2.あなたが車で送ってくれたおかげで間に合いました。",
+    "furigana": "2.あなたが<ruby>車<rt>くるま</rt></ruby>で<ruby>送<rt>おく</rt></ruby>ってくれたおかげで<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。",
+    "segmentation": "2.あなたが | 車で | 送ってくれた | おかげで | 間に合いました。",
+    "translation": {
+      "natural": "多虧你開車送我，我才趕上了。",
+      "literal": "多虧你用車子送了我，趕上了。"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，車子、汽車"
+      },
+      {
+        "word": "送る",
+        "reading": "おくる",
+        "note": "動詞，接送、送到目的地"
+      },
+      {
+        "word": "間に合う",
+        "reading": "まにあう",
+        "note": "動詞，趕上、及時"
+      }
+    ],
+    "context_grammar": [
+      "送ってくれた：動詞て形「送って」加上「くれた（給我）」，表示他人為說話者提供某種協助或恩惠。",
+      "間に合いました：「間に合う」的丁寧體過去式，作為正面的結果放在「おかげで」之後。",
+      "日文中常用於表達對他人具體幫助的謝意與肯定。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:16",
+    "japanese": "3.雨が降ったおかげで涼しくなりました。",
+    "furigana": "3.<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったおかげで<ruby>涼<rt>すず</rt></ruby>しくなりました。",
+    "segmentation": "3.雨が | 降った | おかげで | 涼しくなりました。",
+    "translation": {
+      "natural": "還好下了一場雨，天氣變得涼爽多了。",
+      "literal": "多虧下了雨，變得涼爽了。"
+    },
+    "words": [
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "note": "名詞，雨"
+      },
+      {
+        "word": "降る",
+        "reading": "ふる",
+        "note": "動詞，下（雨/雪）"
+      },
+      {
+        "word": "涼しい",
+        "reading": "すずしい",
+        "note": "形容詞，涼爽的"
+      }
+    ],
+    "context_grammar": [
+      "降った：動詞「降る」的過去式簡體，用於修飾「おかげで」。",
+      "涼しくなりました：形容詞「涼しい」去い加上「く」連用形，接動詞「なる（變得）」，表示狀態的變化。",
+      "常用於對天氣或環境正面轉變的感想陳述。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:21",
+    "japanese": "4.あなたのおかげで早く終わりました。",
+    "furigana": "4.あなたのおかげで<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わりました。",
+    "segmentation": "4.あなたの | おかげで | 早く | 終わりました。",
+    "translation": {
+      "natural": "多虧有你，事情才能提早結束。",
+      "literal": "多虧你，提早結束了。"
+    },
+    "words": [
+      {
+        "word": "あなた",
+        "reading": "あなた",
+        "note": "代名詞，你"
+      },
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "note": "形容詞，早的、快的"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，結束"
+      }
+    ],
+    "context_grammar": [
+      "名詞 ＋ の ＋ おかげで：「おかげ」作為名詞，直接以「の」接續前面的代名詞或人名。",
+      "早く：形容詞「早い」的副詞形，直接修飾動詞「終わりました」。",
+      "非常經典的商務/日常表達，向合作對象表達誠摯謝意時不可或缺。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:26",
+    "japanese": "5.先生のご指導のおかげで卒業できました。",
+    "furigana": "5.<ruby>先<rt>せん</rt></ruby><ruby>生<rt>せい</rt></ruby>のご<ruby>指<rt>し</rt></ruby><ruby>導<rt>どう</rt></ruby>のおかげで<ruby>卒<rt>そつ</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>できました。",
+    "segmentation": "5.先生の | ご指導の | おかげで | 卒業できました。",
+    "translation": {
+      "natural": "多虧老師的悉心指導，我才能順利畢業。",
+      "literal": "多虧老師的指導，能夠畢業了。"
+    },
+    "words": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "note": "名詞，老師"
+      },
+      {
+        "word": "指導",
+        "reading": "しどう",
+        "note": "名詞，指導（接ご冠詞表敬意）"
+      },
+      {
+        "word": "卒業",
+        "reading": "そつぎょう",
+        "note": "名詞，畢業（卒業できる為可能型）"
+      }
+    ],
+    "context_grammar": [
+      "ご指導：加上美化語/敬語前綴「ご」，對長輩或指導者的敬稱。",
+      "卒業できました：動詞「卒業する」的可能型「卒業できる」之丁寧過去式，強調能夠達成結果的許可是受惠於對方。",
+      "常見於感言、禮儀應答或謝師宴等隆重語境中。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:32",
+    "japanese": "6.先生のおかげで就職できました。",
+    "furigana": "6.<ruby>先<rt>せん</rt></ruby><ruby>生<rt>せい</rt></ruby>のおかげで<ruby>就<rt>しゅう</rt></ruby><ruby>職<rt>しょく</rt></ruby>できました。",
+    "segmentation": "6.先生の | おかげで | 就職できました。",
+    "translation": {
+      "natural": "多虧了老師，我才得以找到工作。",
+      "literal": "多虧老師，能夠就職了。"
+    },
+    "words": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "note": "名詞，老師"
+      },
+      {
+        "word": "就職",
+        "reading": "しゅうしょく",
+        "note": "名詞，就業、找到工作"
+      }
+    ],
+    "context_grammar": [
+      "先生のおかげで：名詞「先生」接「の」修飾「おかげで」。",
+      "就職できました：動詞「就職する」的可能型過去式「就職できた」的禮貌體，強調成功求職的能力與結果歸功於老師的協助。",
+      "典型表達感激人際助力與指引的句型。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:36",
+    "japanese": "7.友達のおかげで恋人ができました。",
+    "furigana": "7.<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>のおかげで<ruby>恋<rt>こい</rt></ruby><ruby>人<rt>びと</rt></ruby>ができました。",
+    "segmentation": "7.友達の | おかげで | 恋人が | できました。",
+    "translation": {
+      "natural": "多虧了朋友，我才交到了另一半。",
+      "literal": "多虧朋友，有了戀人。"
+    },
+    "words": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "note": "名詞，朋友"
+      },
+      {
+        "word": "恋人",
+        "reading": "こいびと",
+        "note": "名詞，戀人、另一半"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，形成、交到（朋友/戀人）"
+      }
+    ],
+    "context_grammar": [
+      "恋人ができました：動詞「できる」在此表示「出現、獲得、交到（對象）」，過去式表示客觀事實已達成。",
+      "句型「～のおかげで」連接正面美好的結果，體現朋友牽線或協助之功。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:41",
+    "japanese": "8.ジムに通ったおかげで痩せられました。",
+    "furigana": "8.ジムに<ruby>通<rt>かよ</rt></ruby>ったおかげで<ruby>痩<rt>や</rt></ruby>せられました。",
+    "segmentation": "8.ジムに | 通った | おかげで | 痩せられました。",
+    "translation": {
+      "natural": "多虧有持之以恆去健身房，我才成功瘦了下來。",
+      "literal": "多虧去上了健身房，能夠瘦下來了。"
+    },
+    "words": [
+      {
+        "word": "ジム",
+        "reading": "ジム",
+        "note": "名詞，健身房 (Gym)"
+      },
+      {
+        "word": "通う",
+        "reading": "かよう",
+        "note": "動詞，定期往返、上（健身房/學校）"
+      },
+      {
+        "word": "痩せる",
+        "reading": "やせる",
+        "note": "動詞，變瘦（痩せられる為可能型）"
+      }
+    ],
+    "context_grammar": [
+      "通った：動詞「通う」的過去式簡體，作為連體修飾修飾「おかげで」。",
+      "痩せられました：動詞「痩せる」的可能型「痩せられる」之丁寧過去式，突出「成功達成瘦身目標」的成就感。",
+      "常見於減肥廣告或健康養生主題影片的語境。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:47",
+    "japanese": "9.医者のおかげで病気が治りました。",
+    "furigana": "9.<ruby>医<rt>い</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のおかげで<ruby>病<rt>びょう</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>治<rt>なお</rt></ruby>りました。",
+    "segmentation": "9.医者の | おかげで | 病気が | 治りました。",
+    "translation": {
+      "natural": "多虧了醫生，我的病才得以康復。",
+      "literal": "多虧醫生，疾病治好了。"
+    },
+    "words": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "note": "名詞，醫生"
+      },
+      {
+        "word": "病気",
+        "reading": "びょうき",
+        "note": "名詞，疾病、生病"
+      },
+      {
+        "word": "治る",
+        "reading": "なおる",
+        "note": "動詞，（疾病/傷勢）痊癒、治好"
+      }
+    ],
+    "context_grammar": [
+      "病気が治りました：自動詞「治る」與主格助詞「が」搭配，表示疾病自體痊癒、恢復健康的客觀結果。",
+      "前接「医者のおかげで」，表達對醫療專業與照顧的感激之情。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:52",
+    "japanese": "10.看護師さんのおかげで元気になりました。",
+    "furigana": "10.<ruby>看<rt>かん</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>師<rt>し</rt></ruby>さんのおかげで<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>になりました。",
+    "segmentation": "10.看護師さんの | おかげで | 元気に | なりました。",
+    "translation": {
+      "natural": "多虧有護理師的照顧，我才恢復了活力。",
+      "literal": "多虧護理師，變得有精神了。"
+    },
+    "words": [
+      {
+        "word": "看護師",
+        "reading": "かんごし",
+        "note": "名詞，護理師"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "note": "形動，健康的、有精神的"
+      }
+    ],
+    "context_grammar": [
+      "看護師さん：「～さん」為接尾辭，增加對護理人員的親切與尊重感。",
+      "元気にになりました：形容動詞「元気」的連用形「元気に」接動詞「なる」，表達狀況轉為健康良好。",
+      "常用於病患康復謝詞或醫療服務形象廣告。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:57",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟三"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:00",
+    "japanese": "看護師さんのおかげで元気になりました。本当にありがとうございました。",
+    "furigana": "<ruby>看<rt>かん</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>師<rt>し</rt></ruby>さんのおかげで<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>になりました。<ruby>本<rt>ほん</rt></ruby><ruby>当<rt>とう</rt></ruby>にありがとうございました。",
+    "segmentation": "看護師さんの | おかげで | 元気に | なりました。| 本当に | ありがとうございました。",
+    "translation": {
+      "natural": "多虧有護理師照顧，我才恢復了健康。真的非常謝謝您。",
+      "literal": "多虧護理師變得有精神了。真的非常感謝了。"
+    },
+    "words": [
+      {
+        "word": "看護師",
+        "reading": "かんごし",
+        "note": "名詞，護理師"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "note": "形動，健康的、有精神的"
+      },
+      {
+        "word": "本当に",
+        "reading": "ほんとうに",
+        "note": "副詞，真正地、非常"
+      },
+      {
+        "word": "ありがとう",
+        "reading": "ありがとう",
+        "note": "感歎詞，謝謝（過去敬體為ありがとうございました）"
+      }
+    ],
+    "context_grammar": [
+      "元気にになりました：表達狀態的積極轉變。",
+      "本当にありがとうございました：過去式謝辭，用來對已經發生的幫助與照料表達至高的深謝。",
+      "情境會話示範，常用於出院或服務結束時的表達。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:06",
+    "japanese": "いいえ、どういたしまして。",
+    "furigana": "いいえ、どういたしまして。",
+    "segmentation": "いいえ、| どういたしまして。",
+    "translation": {
+      "natural": "不客氣，這是我應該做的。",
+      "literal": "不，不用客氣。"
+    },
+    "words": [
+      {
+        "word": "いいえ",
+        "reading": "いいえ",
+        "note": "感歎詞，不、沒什麼"
+      },
+      {
+        "word": "どういたしまして",
+        "reading": "どういたしまして",
+        "note": "慣用句，不客氣"
+      }
+    ],
+    "context_grammar": [
+      "いいえ、どういたしまして：標準且禮貌的客氣應答句，用於回應他人的感謝。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:10",
+    "japanese": "182. はにふさわしいですステップ1",
+    "furigana": "182. はにふさわしいですステップ1",
+    "segmentation": "182は | にふさわしいです | ステップ1",
+    "translation": {
+      "natural": "182 適合… 步驟一",
+      "literal": "182 適合… 步驟一"
+    },
+    "words": [
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的、相稱的"
+      },
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題，無需複雜文法拆解。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:16",
+    "japanese": "1.そのドレスはあなたにふさわしいです。",
+    "furigana": "1.そのドレスはあなたにふさわしいです。",
+    "segmentation": "1.そのドレスは | あなたに | ふさわしいです。",
+    "translation": {
+      "natural": "這件禮服非常適合你。",
+      "literal": "那件禮服對你而言是相稱的。"
+    },
+    "words": [
+      {
+        "word": "ドレス",
+        "reading": "ドレス",
+        "note": "名詞，禮服 (Dress)"
+      },
+      {
+        "word": "あなた",
+        "reading": "あなた",
+        "note": "代名詞，你"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，相稱的、適合的"
+      }
+    ],
+    "context_grammar": [
+      "名詞 ＋ にふさわしい：補語助詞「に」指出稱配對象，表示「與…相稱/適合」。",
+      "ふさわしいです：形容詞「ふさわしい」接丁寧語「です」，常出現於高階服飾宣傳或讚美場合。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:21",
+    "japanese": "2.その役職はあなたにふさわしいです。",
+    "furigana": "2.その<ruby>役<rt>やく</rt></ruby><ruby>職<rt>しょく</rt></ruby>はあなたにふさわしいです。",
+    "segmentation": "2.その役職は | あなたに | ふさわしいです。",
+    "translation": {
+      "natural": "這個職位非你莫屬、非常適合你。",
+      "literal": "那個職務對你而言是相稱的。"
+    },
+    "words": [
+      {
+        "word": "役職",
+        "reading": "やくしょく",
+        "note": "名詞，職位、職務"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的、相稱的"
+      }
+    ],
+    "context_grammar": [
+      "～にふさわしい：用於肯定某人的能力、地位與該職務極為符合。",
+      "商業文脈中常用於晉升慶賀、人事推薦或企業形象宣傳。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:31",
+    "japanese": "3.このブランドのバッグはあなたにふさわしいです。",
+    "furigana": "3.このブランドのバッグはあなたにふさわしいです。",
+    "segmentation": "3.このブランドのバッグは | あなたに | ふさわしいです。",
+    "translation": {
+      "natural": "這款名牌包非常襯托你的氣質。",
+      "literal": "這個品牌的包包對你而言是相稱的。"
+    },
+    "words": [
+      {
+        "word": "ブランド",
+        "reading": "ブランド",
+        "note": "名詞，品牌 (Brand)"
+      },
+      {
+        "word": "バッグ",
+        "reading": "バッグ",
+        "note": "名詞，包包 (Bag)"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的、相稱的"
+      }
+    ],
+    "context_grammar": [
+      "このブランドのバッグ：連體修飾結構「品牌＋の＋包包」，作為全句的提示主題（は）。",
+      "奢侈品廣告旁白經典句型，給予消費者獨特尊榮感。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:31",
+    "japanese": "4.あの人はあなたにふさわしくないです。",
+    "furigana": "4.あの<ruby>人<rt>ひと</rt></ruby>はあなたにふさわしくないです。",
+    "segmentation": "4.あの人は | あなたに | ふさわしくないです。",
+    "translation": {
+      "natural": "那個人配不上你。",
+      "literal": "那個人對你而言是不相稱的。"
+    },
+    "words": [
+      {
+        "word": "あの人",
+        "reading": "あのひと",
+        "note": "名詞，那個人"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，相稱的（否定形為ふさわしくない）"
+      }
+    ],
+    "context_grammar": [
+      "ふさわしくない：形容詞「ふさわしい」去い改為否定連用形「ふさわしく」接「ない」，表示「不相稱、不合適」。",
+      "常用於勸說、給予建議或情感評論的語境中。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:36",
+    "japanese": "5.そのスポーツカーは彼にふさわしくないです。",
+    "furigana": "5.そのスポーツカーは<ruby>彼<rt>かれ</rt></ruby>にふさわしくないです。",
+    "segmentation": "5.そのスポーツカーは | 彼に | ふさわしくないです。",
+    "translation": {
+      "natural": "那台跑車跟他並不相襯。",
+      "literal": "那台跑車對他而言是不相稱的。"
+    },
+    "words": [
+      {
+        "word": "スポーツカー",
+        "reading": "スポーツカー",
+        "note": "名詞，跑車 (Sports car)"
+      },
+      {
+        "word": "彼",
+        "reading": "かれ",
+        "note": "代名詞，他"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的"
+      }
+    ],
+    "context_grammar": [
+      "彼にふさわしくない：否定句型，指出事物（跑車）與主體（他）的氣質、身份不搭配。",
+      "常見於評論風格或戲劇台詞中。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:42",
+    "japanese": "6.あの人は大統領にふさわしくないです。",
+    "furigana": "6.あの<ruby>人<rt>ひと</rt></ruby>は<ruby>大<rt>だい</rt></ruby><ruby>統<rt>とう</rt></ruby><ruby>領<rt>りょう</rt></ruby>にふさわしくないです。",
+    "segmentation": "6.あの人は | 大統領に | ふさわしくないです。",
+    "translation": {
+      "natural": "那個人不適合擔任總統。",
+      "literal": "那個人對大統領而言是不相稱的。"
+    },
+    "words": [
+      {
+        "word": "大統領",
+        "reading": "だいとうりょう",
+        "note": "名詞，總統"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的、勝任的"
+      }
+    ],
+    "context_grammar": [
+      "大統領にふさわしくない：用於否定個人的資質或資格不符合某特定高階職位（總統）。",
+      "政治評論或新聞專題常用用語。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:47",
+    "japanese": "7.この邸宅は私にふさわしくないです。",
+    "furigana": "7.この<ruby>邸<rt>てい</rt></ruby><ruby>宅<rt>たく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>にふさわしくないです。",
+    "segmentation": "7.この邸宅は | 私に | ふさわしくないです。",
+    "translation": {
+      "natural": "這棟豪宅我實在不敢當、配不上我。",
+      "literal": "這棟邸宅對我而言是不相稱的。"
+    },
+    "words": [
+      {
+        "word": "邸宅",
+        "reading": "ていたく",
+        "note": "名詞，豪宅、邸宅"
+      },
+      {
+        "word": "私",
+        "reading": "わたし",
+        "note": "代名詞，我"
+      }
+    ],
+    "context_grammar": [
+      "私にふさわしくない：說話者表達謙虛，認為自己的身分地位承受不起過於豪華的物品或房屋。",
+      "不動產節目或戲劇文脈中常見的自謙口吻。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:52",
+    "japanese": "8.その会社はあなたにふさわしいです。",
+    "furigana": "8.その<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>はあなたにふさわしいです。",
+    "segmentation": "8.その会社は | あなたに | ふさわしいです。",
+    "translation": {
+      "natural": "那家公司非常適合你。",
+      "literal": "那家公司對你而言是相稱的。"
+    },
+    "words": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "note": "名詞，公司"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的"
+      }
+    ],
+    "context_grammar": [
+      "その会社はあなたにふさわしい：肯定的判斷，評價職場環境與求職者能力契合。",
+      "求職顧問或職涯規劃講座中的經典用語。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:57",
+    "japanese": "9.この学校はあなたにふさわしいです。",
+    "furigana": "9.この<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>はあなたにふさわしいです。",
+    "segmentation": "9.この学校は | あなたに | ふさわしいです。",
+    "translation": {
+      "natural": "這所學校非常適合你。",
+      "literal": "這所學校對你而言是相稱的。"
+    },
+    "words": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "note": "名詞，學校"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的"
+      }
+    ],
+    "context_grammar": [
+      "この学校はあなたにふさわしい：強調教育環境、校風與學生的潛能相符合。",
+      "招生宣傳影片或升學諮詢常見句型。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "02:02",
+    "japanese": "10.このシャンデリアはこのホテルにふさわしいです。",
+    "furigana": "10.このシャンデリアはこのホテルにふさわしいです。",
+    "segmentation": "10.このシャンデリアは | このホテルに | ふさわしいです。",
+    "translation": {
+      "natural": "這盞水晶吊燈跟這家飯店相得益彰。",
+      "literal": "這個水晶吊燈對這家飯店而言是相稱的。"
+    },
+    "words": [
+      {
+        "word": "シャンデリア",
+        "reading": "シャンデリア",
+        "note": "名詞，水晶吊燈 (Chandelier)"
+      },
+      {
+        "word": "ホテル",
+        "reading": "ホテル",
+        "note": "名詞，飯店 (Hotel)"
+      }
+    ],
+    "context_grammar": [
+      "このホテルにふさわしい：表達家飾裝潢與建築整體風格風格統一、質感契合。",
+      "室內設計或飯店宣傳影片用語。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "02:08",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟三"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單段落標題，僅提供直譯。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "02:10",
+    "japanese": "このシャンデリアはこのホテルにふさわしいですね。",
+    "furigana": "このシャンデリアはこのホテルにふさわしいですね。",
+    "segmentation": "このシャンデリアは | このホテルに | ふさわしいですね。",
+    "translation": {
+      "natural": "這盞水晶吊燈真的很適合這家飯店呢。",
+      "literal": "這個水晶吊燈對這家飯店而言很相稱呢。"
+    },
+    "words": [
+      {
+        "word": "シャンデリア",
+        "reading": "シャンデリア",
+        "note": "名詞，水晶吊燈"
+      },
+      {
+        "word": "ふさわしい",
+        "reading": "ふさわしい",
+        "note": "形容詞，適合的"
+      }
+    ],
+    "context_grammar": [
+      "ふさわしいですね：句尾加上終助詞「ね」，用來尋求對方的認同感與共鳴。",
+      "對話實踐示範。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:14",
+    "japanese": "ええ、とても素敵ですね。",
+    "furigana": "ええ、とても<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>ですね。",
+    "segmentation": "ええ、| とても | 素敵ですね。",
+    "translation": {
+      "natural": "是啊，真的非常美妙呢。",
+      "literal": "嗯，非常出色呢。"
+    },
+    "words": [
+      {
+        "word": "ええ",
+        "reading": "ええ",
+        "note": "感歎詞，是的（比「はい」稍微緩和自然）"
+      },
+      {
+        "word": "とても",
+        "reading": "とても",
+        "note": "副詞，非常"
+      },
+      {
+        "word": "素敵",
+        "reading": "すてき",
+        "note": "形動，極好的、絕妙的"
+      }
+    ],
+    "context_grammar": [
+      "素敵ですね：形容動詞「素敵」接「です」與語氣助詞「ね」，順著對方的稱讚進行同意與延伸。",
+      "高雅對話中的標準肯定回覆。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:18",
+    "japanese": "183. は一生の思い出になりますステップ1",
+    "furigana": "183. は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になりますステップ1",
+    "segmentation": "183は | 一生の思い出に | なります | ステップ1",
+    "translation": {
+      "natural": "183 …會成為一輩子的回憶 步驟一",
+      "literal": "183 …會成為一生的回憶 步驟一"
+    },
+    "words": [
+      {
+        "word": "一生",
+        "reading": "いっしょう",
+        "note": "名詞，一生、一輩子"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "note": "名詞，回憶"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，變成、成為"
+      }
+    ],
+    "context_grammar": [
+      "簡單章節標題，直譯呈現。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:25",
+    "japanese": "1.家族旅行は一生の思い出になります。",
+    "furigana": "1.<ruby>家<rt>か</rt></ruby><ruby>族<rt>ぞく</rt></ruby><ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "1.家族旅行は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "家族旅遊會成為一輩子的美好回憶。",
+      "literal": "家族旅行會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "家族旅行",
+        "reading": "かぞくりょこう",
+        "note": "名詞，家庭旅遊"
+      },
+      {
+        "word": "一生",
+        "reading": "いっしょう",
+        "note": "名詞，一生"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "note": "名詞，回憶"
+      }
+    ],
+    "context_grammar": [
+      "一生の思い出：名詞修飾連體結構「一生＋の＋思い出」。",
+      "～になります：結果格助詞「に」與「なります」搭配，表示事物變化或歸宿為某種狀態。",
+      "旅遊業廣告文案核心用語，訴求情感價值。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:30",
+    "japanese": "2.誕生日パーティーは一生の思い出になります。",
+    "furigana": "2.<ruby>誕<rt>たん</rt></ruby><ruby>生<rt>じょう</rt></ruby><ruby>日<rt>び</rt></ruby>パーティーは<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "2.誕生日パーティーは | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "生日派對會成為一輩子的難忘回憶。",
+      "literal": "生日派對會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "誕生日",
+        "reading": "たんじょうび",
+        "note": "名詞，生日"
+      },
+      {
+        "word": "パーティー",
+        "reading": "パーティー",
+        "note": "名詞，派對 (Party)"
+      }
+    ],
+    "context_grammar": [
+      "名詞 ＋ は ＋ 一生の思い出になります：將特定活動或事件作為主題（は），強調其長遠的情感影響力。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:36",
+    "japanese": "3.結婚式は一生の思い出になります。",
+    "furigana": "3.<ruby>結<rt>けっ</rt></ruby><ruby>婚<rt>こん</rt></ruby><ruby>式<rt>しき</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "3.結婚式は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "婚禮會成為一輩子珍藏的回憶。",
+      "literal": "結婚儀式會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "結婚式",
+        "reading": "けっこんしき",
+        "note": "名詞，婚禮、結婚典禮"
+      }
+    ],
+    "context_grammar": [
+      "結婚式は一生の思い出になります：形容重要人生儀式帶來的永久價值。",
+      "婚務會館或婚紗攝影宣傳經典文案。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:41",
+    "japanese": "4.今回の経験は一生の思い出になります。",
+    "furigana": "4.<ruby>今<rt>こん</rt></ruby><ruby>回<rt>かい</rt></ruby>の<ruby>経<rt>けい</rt></ruby><ruby>験<rt>けん</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "4.今回の経験は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "這次的經驗會成為一輩子的寶貴回憶。",
+      "literal": "這次的經驗會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "今回",
+        "reading": "こんかい",
+        "note": "名詞，這次"
+      },
+      {
+        "word": "経験",
+        "reading": "けいけん",
+        "note": "名詞，經驗、經歷"
+      }
+    ],
+    "context_grammar": [
+      "今回の経験：指示詞與名詞連結「今回＋の＋経験」。",
+      "用於感言、專案總結或演講結尾，賦予活動深層意義。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:46",
+    "japanese": "5.海外留学は一生の思い出になります。",
+    "furigana": "5.<ruby>海<rt>かい</rt></ruby><ruby>外<rt>がい</rt></ruby><ruby>留<rt>りゅう</rt></ruby><ruby>学<rt>がく</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "5.海外留学は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "海外出國留學會成為一輩子的回憶。",
+      "literal": "海外留學會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "海外",
+        "reading": "かいがい",
+        "note": "名詞，海外、國外"
+      },
+      {
+        "word": "留学",
+        "reading": "りゅうがく",
+        "note": "名詞，留學"
+      }
+    ],
+    "context_grammar": [
+      "海外留学は…：將海外體驗拉升至人生里程碑的高度。",
+      "留學代辦或語言學校廣宣常用宣傳詞。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:51",
+    "japanese": "6.学生生活は一生の思い出になります。",
+    "furigana": "6.<ruby>学<rt>がく</rt></ruby><ruby>生<rt>せい</rt></ruby><ruby>生<rt>せい</rt></ruby><ruby>活<rt>かつ</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "6.学生生活は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "學生生活會成為一輩子難忘的回憶。",
+      "literal": "學生生活會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "note": "名詞，學生"
+      },
+      {
+        "word": "生活",
+        "reading": "せいかつ",
+        "note": "名詞，生活"
+      }
+    ],
+    "context_grammar": [
+      "学生生活：複合名詞，代表就學階段的整段青春時光。",
+      "畢業季專題或青春題材影視作品常出現的情感語句。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:57",
+    "japanese": "7.オリンピック観戦は一生の思い出になります。",
+    "furigana": "7.オリンピック<ruby>観<rt>かん</rt></ruby><ruby>戦<rt>せん</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "7.オリンピック観戦は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "現場觀看奧運比賽會成為一輩子的回憶。",
+      "literal": "奧運觀戰會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "オリンピック",
+        "reading": "オリンピック",
+        "note": "名詞，奧林匹克運動會 (Olympics)"
+      },
+      {
+        "word": "観戦",
+        "reading": "かんせん",
+        "note": "名詞，觀賽"
+      }
+    ],
+    "context_grammar": [
+      "オリンピック観戦：賽事活動結合觀賽動詞，作為主題。",
+      "大型體育盛事或門票抽獎活動文案常用句型。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "03:02",
+    "japanese": "8.富士山登山は一生の思い出になります。",
+    "furigana": "8.<ruby>富<rt>ふ</rt></ruby><ruby>士<rt>じ</rt></ruby><ruby>山<rt>さん</rt></ruby><ruby>登<rt>と</rt></ruby><ruby>山<rt>ざん</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "8.富士山登山は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "攀登富士山會成為一輩子的回憶。",
+      "literal": "富士山登山會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "note": "名詞，富士山"
+      },
+      {
+        "word": "登山",
+        "reading": "とざん",
+        "note": "名詞，登山、爬山"
+      }
+    ],
+    "context_grammar": [
+      "富士山登山：專有名詞加上活動名詞。",
+      "日本觀光宣傳、挑戰極限宣傳片常見的體驗式台詞。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "03:07",
+    "japanese": "9.楽しいキャンプは一生の思い出になります。",
+    "furigana": "9.<ruby>楽<rt>たの</rt></ruby>しいキャンプは<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "9.楽しいキャンプは | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "愉快的露營體驗會成為一輩子的回憶。",
+      "literal": "愉快的露營會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "note": "形容詞，快樂的、愉快的"
+      },
+      {
+        "word": "キャンプ",
+        "reading": "キャンプ",
+        "note": "名詞，露營 (Camp)"
+      }
+    ],
+    "context_grammar": [
+      "楽しいキャンプ：形容詞「楽しい」直接連體修飾名詞「キャンプ」。",
+      "戶外用品或露營場地宣傳用語。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "03:12",
+    "japanese": "10.成果発表会は一生の思い出になります。",
+    "furigana": "10.<ruby>成<rt>せい</rt></ruby><ruby>果<rt>か</rt></ruby><ruby>発<rt>はっ</rt></ruby><ruby>表<rt>ひょう</rt></ruby><ruby>会<rt>かい</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になります。",
+    "segmentation": "10.成果発表会は | 一生の思い出に | なります。",
+    "translation": {
+      "natural": "成果發表會將會成為一輩子的美好回憶。",
+      "literal": "成果發表會會成為一生的回憶。"
+    },
+    "words": [
+      {
+        "word": "成果",
+        "reading": "せいか",
+        "note": "名詞，成果"
+      },
+      {
+        "word": "発表会",
+        "reading": "はっぴょうかい",
+        "note": "名詞，發表會"
+      }
+    ],
+    "context_grammar": [
+      "成果発表会：複合名詞作為主題。",
+      "學校教育成果展示、企業培訓結業報告等的感言用語。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:18",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟三"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題，直譯呈現。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:20",
+    "japanese": "素晴らしい競技でしたね。",
+    "furigana": "<ruby>素<rt>す</rt></ruby>ばらしい<ruby>競<rt>きょう</rt></ruby><ruby>技<rt>ぎ</rt></ruby>でしたね。",
+    "segmentation": "素晴らしい | 競技でしたね。",
+    "translation": {
+      "natural": "真的是非常精彩的比賽呢。",
+      "literal": "是精彩的競技呢。"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "形容詞，極好的、精彩的"
+      },
+      {
+        "word": "競技",
+        "reading": "きょうぎ",
+        "note": "名詞，賽事、競技項目"
+      }
+    ],
+    "context_grammar": [
+      "素晴らしい競技：形容詞連體修飾名詞。",
+      "でしたね：「です」的過去式「でした」加上「ね」，用來與對方共鳴並回顧剛觀看完畢的比賽。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:23",
+    "japanese": "オリンピック観戦は一生の思い出になりますね。",
+    "furigana": "オリンピック<ruby>観<rt>かん</rt></ruby><ruby>戦<rt>せん</rt></ruby>は<ruby>一<rt>いっ</rt></ruby><ruby>生<rt>しょう</rt></ruby>の<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>になりますね。",
+    "segmentation": "オリンピック観戦は | 一生の思い出に | なりますね。",
+    "translation": {
+      "natural": "觀賞奧運賽事真的會成為一輩子的難忘回憶呢。",
+      "literal": "奧運觀戰會成為一生的回憶呢。"
+    },
+    "words": [
+      {
+        "word": "オリンピック",
+        "reading": "オリンピック",
+        "note": "名詞，奧林匹克運動會"
+      },
+      {
+        "word": "観戦",
+        "reading": "かんせん",
+        "note": "名詞，觀賽"
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "note": "名詞，回憶"
+      }
+    ],
+    "context_grammar": [
+      "なりますね：丁寧體句尾加上共鳴助詞「ね」，加強感染力與對談中的親和感。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:28",
+    "japanese": "184. は美しいですステップ1",
+    "furigana": "184. は<ruby>美<rt>うつく</rt></ruby>しいですステップ1",
+    "segmentation": "184は | 美しいです | ステップ1",
+    "translation": {
+      "natural": "184 …很美麗 步驟一",
+      "literal": "184 …很美麗 步驟一"
+    },
+    "words": [
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的、優美的"
+      },
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題，直譯呈現。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:33",
+    "japanese": "1.夕焼けは美しいです。",
+    "furigana": "1.<ruby>夕<rt>ゆう</rt></ruby><ruby>焼<rt>や</rt></ruby>けは<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "1.夕焼けは | 美しいです。",
+    "translation": {
+      "natural": "晚霞非常美麗。",
+      "literal": "夕陽晚霞是很美的。"
+    },
+    "words": [
+      {
+        "word": "夕焼け",
+        "reading": "ゆうやけ",
+        "note": "名詞，晚霞、夕陽餘暉"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "夕焼けは：提示話題的主詞。",
+      "美しいです：形容詞接「です」構成經典的描寫句，用於紀錄片或旅遊介紹。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:37",
+    "japanese": "2.日の出は美しいです。",
+    "furigana": "2.<ruby>日<rt>ひ</rt></ruby>の<ruby>出<rt>で</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "2.日の出は | 美しいです。",
+    "translation": {
+      "natural": "日出景致非常美麗。",
+      "literal": "日出是很美的。"
+    },
+    "words": [
+      {
+        "word": "日の出",
+        "reading": "ひので",
+        "note": "名詞，日出、黎明"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "日の出は美しいです：描寫自然現象與景色之美，文字風格洗練且畫面感強。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:41",
+    "japanese": "3.虹は美しいです。",
+    "furigana": "3.<ruby>虹<rt>にじ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "3.虹は | 美しいです。",
+    "translation": {
+      "natural": "彩虹非常美麗。",
+      "literal": "彩虹是很美的。"
+    },
+    "words": [
+      {
+        "word": "虹",
+        "reading": "にじ",
+        "note": "名詞，彩虹"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "虹は美しいです：單純敘述名詞特質的語句結構。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:45",
+    "japanese": "4.中秋の名月は美しいです。",
+    "furigana": "4.<ruby>中<rt>ちゅう</rt></ruby><ruby>秋<rt>しゅう</rt></ruby>の<ruby>名<rt>めい</rt></ruby><ruby>月<rt>げつ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "4.中秋の名月は | 美しいです。",
+    "translation": {
+      "natural": "中秋的明月非常美麗。",
+      "literal": "中秋的名月是很美的。"
+    },
+    "words": [
+      {
+        "word": "中秋の名月",
+        "reading": "ちゅうしゅうのめいげつ",
+        "note": "名詞，中秋明月、十五夜之月"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "中秋の名月：固定的節氣文化專有名詞，呈現傳統日式美學色彩。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:49",
+    "japanese": "5.自然は美しいです。",
+    "furigana": "5.<ruby>自<rt>じ</rt></ruby><ruby>然<rt>ぜん</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "5.自然は | 美しいです。",
+    "translation": {
+      "natural": "大自然非常美麗。",
+      "literal": "自然是很美的。"
+    },
+    "words": [
+      {
+        "word": "自然",
+        "reading": "しぜん",
+        "note": "名詞，大自然"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "自然は美しいです：簡明扼要地闡述宏觀自然之美，環保或品牌理念廣告常用語。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:53",
+    "japanese": "6.台湾の山は美しいです。",
+    "furigana": "6.<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>の<ruby>山<rt>やま</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "6.台湾の山は | 美しいです。",
+    "translation": {
+      "natural": "台灣的山林景致非常美麗。",
+      "literal": "台灣的山是很美的。"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "專有名詞，台灣"
+      },
+      {
+        "word": "山",
+        "reading": "やま",
+        "note": "名詞，山、山脈"
+      }
+    ],
+    "context_grammar": [
+      "台湾の山：名詞修飾結構，限定地理範疇。",
+      "觀光導覽或旅遊節目極高頻率出現的句型。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:57",
+    "japanese": "7.沖縄の海は美しいです。",
+    "furigana": "7.<ruby>沖<rt>おき</rt></ruby><ruby>縄<rt>なわ</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "7.沖縄の海は | 美しいです。",
+    "translation": {
+      "natural": "沖繩的大海非常美麗。",
+      "literal": "沖繩的海是很美的。"
+    },
+    "words": [
+      {
+        "word": "沖縄",
+        "reading": "おきなわ",
+        "note": "專有名詞，沖繩"
+      },
+      {
+        "word": "海",
+        "reading": "うみ",
+        "note": "名詞，大海"
+      }
+    ],
+    "context_grammar": [
+      "沖縄の海：名詞 ＋ の ＋ 名詞。",
+      "度假村宣傳或日本國內旅遊廣告經典詞句。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "04:02",
+    "japanese": "8.サンゴ礁は美しいです。",
+    "furigana": "8.サンゴ<ruby>礁<rt>しょう</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "8.サンゴ礁は | 美しいです。",
+    "translation": {
+      "natural": "珊瑚礁景色非常美麗。",
+      "literal": "珊瑚礁是很美的。"
+    },
+    "words": [
+      {
+        "word": "サンゴ礁",
+        "reading": "さんごしょう",
+        "note": "名詞，珊瑚礁"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "サンゴ礁は：以海洋生態景色作為主詞點出美感。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "04:06",
+    "japanese": "9.木目は美しいです。",
+    "furigana": "9.<ruby>木<rt>もく</rt></ruby><ruby>目<rt>め</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "9.木目は | 美しいです。",
+    "translation": {
+      "natural": "木材的紋理非常美麗。",
+      "literal": "木頭紋路是很美的。"
+    },
+    "words": [
+      {
+        "word": "木目",
+        "reading": "もくめ",
+        "note": "名詞，木紋、木材紋理"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "木目は美しいです：用於強調木製家具、高級工藝品或建築建材的天然質感優點。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "04:10",
+    "japanese": "10.雪景色は美しいです。",
+    "furigana": "10.<ruby>雪<rt>ゆき</rt></ruby><ruby>景<rt>け</rt></ruby><ruby>色<rt>しき</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいです。",
+    "segmentation": "10.雪景色は | 美しいです。",
+    "translation": {
+      "natural": "雪景非常美麗。",
+      "literal": "雪景是很美的。"
+    },
+    "words": [
+      {
+        "word": "雪景色",
+        "reading": "ゆきげしき",
+        "note": "名詞，雪景"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "雪景色は美しいです：季節風景描寫，日本冬季觀光宣傳必備範例。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "04:14",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟三"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題，直譯呈現。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "04:17",
+    "japanese": "雪景色は美しいですね。",
+    "furigana": "<ruby>雪<rt>ゆき</rt></ruby><ruby>景<rt>け</rt></ruby><ruby>色<rt>しき</rt></ruby>は<ruby>美<rt>うつく</rt></ruby>しいですね。",
+    "segmentation": "雪景色は | 美しいですね。",
+    "translation": {
+      "natural": "雪景真的很漂亮呢。",
+      "literal": "雪景是很美的呢。"
+    },
+    "words": [
+      {
+        "word": "雪景色",
+        "reading": "ゆきげしき",
+        "note": "名詞，雪景"
+      },
+      {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "note": "形容詞，美麗的"
+      }
+    ],
+    "context_grammar": [
+      "美しいですね：加上語氣助詞「ね」，主動徵求聽者對眼前風景的認同感。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:20",
+    "japanese": "一度見たら忘れられませんね。",
+    "furigana": "<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>見<rt>み</rt></ruby>たら<ruby>忘<rt>わす</rt></ruby>れられませんね。",
+    "segmentation": "一度見たら | 忘れられませんね。",
+    "translation": {
+      "natural": "只要看過一次就令人念念不忘呢。",
+      "literal": "如果看了一次的話就無法忘記了呢。"
+    },
+    "words": [
+      {
+        "word": "一度",
+        "reading": "いちど",
+        "note": "副詞/名詞，一次"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "note": "動詞，忘記（忘れられる為可能型）"
+      }
+    ],
+    "context_grammar": [
+      "見たら：動詞「見る」的假定形「たら」，表示「如果看了/一旦看了之後」。",
+      "忘れられません：動詞「忘れる」的可能型否定「忘れられない」之丁寧體，表達「無法忘懷、令人印象深刻」。",
+      "景點行銷極高頻出現的讚美口吻。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:24",
+    "japanese": "185. がおいしいですステップ1",
+    "furigana": "185. がおいしいですステップ1",
+    "segmentation": "185が | おいしいです | ステップ1",
+    "translation": {
+      "natural": "185 …很好吃 步驟一",
+      "literal": "185 …很好吃 步驟一"
+    },
+    "words": [
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "note": "形容詞，美味的、好吃的"
+      },
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題，直譯呈現。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:29",
+    "japanese": "1.日本のラーメンはおいしいです。",
+    "furigana": "1.<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>のラーメンはおいしいです。",
+    "segmentation": "1.日本のラーメンは | おいしいです。",
+    "translation": {
+      "natural": "日本的拉麵非常好吃。",
+      "literal": "日本的拉麵很好吃。"
+    },
+    "words": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "note": "專有名詞，日本"
+      },
+      {
+        "word": "ラーメン",
+        "reading": "ラーメン",
+        "note": "名詞，拉麵 (Ramen)"
+      },
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "note": "形容詞，好吃的"
+      }
+    ],
+    "context_grammar": [
+      "日本のラーメンは：主題（は）提示對象。",
+      "おいしいです：形容詞描述屬性，美食節目或觀光宣傳的基本句型。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:34",
+    "japanese": "2.台湾の小籠包はおいしいです。",
+    "furigana": "2.<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>の<ruby>小<rt>しょう</rt></ruby><ruby>籠<rt>ろう</rt></ruby><ruby>包<rt>ぽう</rt></ruby>はおいしいです。",
+    "segmentation": "2.台湾の小籠包は | おいしいです。",
+    "translation": {
+      "natural": "台灣的小籠包非常好吃。",
+      "literal": "台灣的小籠包很好吃。"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "專有名詞，台灣"
+      },
+      {
+        "word": "小籠包",
+        "reading": "しょうろうぽう",
+        "note": "名詞，小籠包"
+      }
+    ],
+    "context_grammar": [
+      "名詞 ＋ の ＋ 代表美食名詞：表示特定地區的招牌美食。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:39",
+    "japanese": "3.日本の寿司はおいしいです。",
+    "furigana": "3.<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>の<ruby>寿<rt>す</rt></ruby><ruby>司<rt>し</rt></ruby>はおいしいです。",
+    "segmentation": "3.日本の寿司は | おいしいです。",
+    "translation": {
+      "natural": "日本的壽司非常好吃。",
+      "literal": "日本的壽司很好吃。"
+    },
+    "words": [
+      {
+        "word": "寿司",
+        "reading": "すし",
+        "note": "名詞，壽司"
+      }
+    ],
+    "context_grammar": [
+      "日本の寿司は：以日本代表性美食為主詞介紹美饌。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:43",
+    "japanese": "4.うな丼はおいしいです。",
+    "furigana": "4.うな<ruby>丼<rt>どん</rt></ruby>はおいしいです。",
+    "segmentation": "4.うな丼は | おいしいです。",
+    "translation": {
+      "natural": "鰻魚飯非常好吃。",
+      "literal": "鰻魚蓋飯很好吃。"
+    },
+    "words": [
+      {
+        "word": "うな丼",
+        "reading": "うなどん",
+        "note": "名詞，鰻魚蓋飯"
+      }
+    ],
+    "context_grammar": [
+      "うな丼はおいしいです：單純名詞直接介紹經典日式丼飯。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:47",
+    "japanese": "5.カツ丼はおいしいです。",
+    "furigana": "5.カツ<ruby>丼<rt>どん</rt></ruby>はおいしいです。",
+    "segmentation": "5.カツ丼は | おいしいです。",
+    "translation": {
+      "natural": "炸豬排蓋飯非常好吃。",
+      "literal": "炸豬排蓋飯很好吃。"
+    },
+    "words": [
+      {
+        "word": "カツ丼",
+        "reading": "かつどん",
+        "note": "名詞，炸豬排蓋飯"
+      }
+    ],
+    "context_grammar": [
+      "カツ丼は：大眾食堂或餐飲宣傳影片必備單詞。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:51",
+    "japanese": "6.鉄火丼はおいしいです。",
+    "furigana": "6.<ruby>鉄<rt>てっ</rt></ruby><ruby>火<rt>か</rt></ruby><ruby>丼<rt>どん</rt></ruby>はおいしいです。",
+    "segmentation": "6.鉄火丼は | おいしいです。",
+    "translation": {
+      "natural": "鮪魚蓋飯非常好吃。",
+      "literal": "鐵火蓋飯（鮪魚蓋飯）很好吃。"
+    },
+    "words": [
+      {
+        "word": "鉄火丼",
+        "reading": "てっかどん",
+        "note": "名詞，鐵火丼（鮪魚刺身蓋飯）"
+      }
+    ],
+    "context_grammar": [
+      "鉄火丼は：強調生魚片料理的美味敘述。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:55",
+    "japanese": "7.海鮮丼はおいしいです。",
+    "furigana": "7.<ruby>海<rt>かい</rt></ruby><ruby>鮮<rt>せん</rt></ruby><ruby>丼<rt>どん</rt></ruby>はおいしいです。",
+    "segmentation": "7.海鮮丼は | おいしいです。",
+    "translation": {
+      "natural": "海鮮蓋飯非常好吃。",
+      "literal": "海鮮蓋飯很好吃。"
+    },
+    "words": [
+      {
+        "word": "海鮮丼",
+        "reading": "かいせんどん",
+        "note": "名詞，海鮮蓋飯"
+      }
+    ],
+    "context_grammar": [
+      "海鮮丼は：漁港旅遊或海鮮市場主題極常見的推廣句型。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "05:00",
+    "japanese": "8.親子丼はおいしいです。",
+    "furigana": "8.<ruby>親<rt>おや</rt></ruby><ruby>子<rt>こ</rt></ruby><ruby>丼<rt>どん</rt></ruby>はおいしいです。",
+    "segmentation": "8.親子丼は | おいしいです。",
+    "translation": {
+      "natural": "親子丼非常好吃。",
+      "literal": "親子蓋飯很好吃。"
+    },
+    "words": [
+      {
+        "word": "親子丼",
+        "reading": "おやこどん",
+        "note": "名詞，親子丼（雞肉蛋花蓋飯）"
+      }
+    ],
+    "context_grammar": [
+      "親子丼は：傳統家庭料理與和食短片常見表現法。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "05:04",
+    "japanese": "9.パールミルクティーはおいしいです。",
+    "furigana": "9.パールミルクティーはおいしいです。",
+    "segmentation": "9.パールミルクティーは | おいしいです。",
+    "translation": {
+      "natural": "珍珠奶茶非常好喝。",
+      "literal": "珍珠奶茶很好吃（喝）。"
+    },
+    "words": [
+      {
+        "word": "パールミルクティー",
+        "reading": "パールミルクティー",
+        "note": "名詞，珍珠奶茶 (Bubble tea / Pearl milk tea)"
+      }
+    ],
+    "context_grammar": [
+      "パールミルクティーは：日文中對飲品有時亦以「おいしい」表達美味可口。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "05:09",
+    "japanese": "10.ライチはおいしいです。",
+    "furigana": "10.ライチはおいしいです。",
+    "segmentation": "10.ライチは | おいしいです。",
+    "translation": {
+      "natural": "荔枝非常好吃。",
+      "literal": "荔枝很好吃。"
+    },
+    "words": [
+      {
+        "word": "ライチ",
+        "reading": "ライチ",
+        "note": "名詞，荔枝 (Lychee)"
+      }
+    ],
+    "context_grammar": [
+      "ライチはおいしいです：水果行銷或外銷農產品宣傳用語。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "05:13",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟三"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "ステップ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "簡單標題，直譯呈現。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "05:15",
+    "japanese": "台湾のマンゴーはおいしいですね。",
+    "furigana": "<ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>のマンゴーはおいしいですね。",
+    "segmentation": "台湾のマンゴーは | おいしいですね。",
+    "translation": {
+      "natural": "台灣的芒果真的很好吃呢。",
+      "literal": "台灣的芒果很好吃呢。"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "專有名詞，台灣"
+      },
+      {
+        "word": "マンゴー",
+        "reading": "マンゴー",
+        "note": "名詞，芒果 (Mango)"
+      },
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "note": "形容詞，美味的"
+      }
+    ],
+    "context_grammar": [
+      "おいしいですね：結尾附加終助詞「ね」，在品嚐美食時拉近對話雙方距離並表達稱讚。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "05:19",
+    "japanese": "もちろんですよ。",
+    "furigana": "もちろんですよ。",
+    "segmentation": "もちろんですよ。",
+    "translation": {
+      "natural": "那當然囉！",
+      "literal": "當然是這樣喔。"
+    },
+    "words": [
+      {
+        "word": "もちろん",
+        "reading": "もちろん",
+        "note": "副詞，當然"
+      }
+    ],
+    "context_grammar": [
+      "もちろんですよ：副詞「もちろん」接「です」與強調語氣助詞「よ」，堅定且自信地表示肯定的回答。"
+    ]
+  }
+]

@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "191.はぴったりです。",
+    "furigana": "191.はぴったりです。",
+    "segmentation": "191.は | ぴったりです。",
+    "translation": {
+      "natural": "191.～非常合身／剛好。",
+      "literal": "191.是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "ぴったり",
+        "reading": "ぴったり",
+        "note": "副詞/擬態語，表示大小、形狀非常合適、剛好"
+      }
+    ],
+    "context_grammar": [
+      "ぴったり：擬態語副詞，接續「です」作為 predicate，常用於描述衣服、鞋子等尺寸恰到好處。",
+      "191.：句首數字依要求加上句號「.」。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "1.この靴はぴったりです。",
+    "furigana": "1.この<ruby>靴<rt>くつ</rt></ruby>はぴったりです。",
+    "segmentation": "1.この靴は | ぴったりです。",
+    "translation": {
+      "natural": "1.這雙鞋子非常合腳。",
+      "literal": "1.這雙鞋是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "靴",
+        "reading": "くつ",
+        "note": "名詞，鞋子"
+      }
+    ],
+    "context_grammar": [
+      "この＋名詞：指示連体詞「この」修飾後面的名詞「靴」，限定特定物體。",
+      "主題標記「は」引出討論對象「この靴」，後接評語「ぴったりです」。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:09",
+    "japanese": "2.このズボンはぴったりです。",
+    "furigana": "2.このズボンはぴったりです。",
+    "segmentation": "2.このズボンは | ぴったりです。",
+    "translation": {
+      "natural": "2.這條褲子非常合身。",
+      "literal": "2.這條褲子是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "ズボン",
+        "reading": "ズボン",
+        "note": "名詞，褲子（源自法文 jupon）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞「ズボン」作為句子的主題，透過「は」呈現標準日文句型「[主題] は [狀態] です」。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:13",
+    "japanese": "3.このスカートはぴったりです。",
+    "furigana": "3.このスカートはぴったりです。",
+    "segmentation": "3.このスカートは | ぴったりです。",
+    "translation": {
+      "natural": "3.這件裙子非常合身。",
+      "literal": "3.這件裙子是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "スカート",
+        "reading": "スカート",
+        "note": "名詞，裙子"
+      }
+    ],
+    "context_grammar": [
+      "指示詞「この」直接修飾外來語「スカート」，強調說話者或聽話者眼前看的這件裙子。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:17",
+    "japanese": "4.このワンピースはぴったりです。",
+    "furigana": "4.このワンピースはぴったりです。",
+    "segmentation": "4.このワンピースは | ぴったりです。",
+    "translation": {
+      "natural": "4.這件洋裝非常合身。",
+      "literal": "4.這件連身裙是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "ワンピース",
+        "reading": "ワンピース",
+        "note": "名詞，連身裙、洋裝"
+      }
+    ],
+    "context_grammar": [
+      "「ワンピース」為單件式洋裝，句型重複「指示詞＋名詞＋は＋ぴったりです」，加強口語句型的替換練習。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:22",
+    "japanese": "5.このジーンズはぴったりです。",
+    "furigana": "5.このジーンズはぴったりです。",
+    "segmentation": "5.このジーンズは | ぴったりです。",
+    "translation": {
+      "natural": "5.這條牛仔褲非常合身。",
+      "literal": "5.這條牛仔褲是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "ジーンズ",
+        "reading": "ジーンズ",
+        "note": "名詞，牛仔褲"
+      }
+    ],
+    "context_grammar": [
+      "名詞「ジーンズ」作為主語，用「ぴったりです」表達尺寸極度符合體型。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:26",
+    "japanese": "6.このカバーはぴったりです。",
+    "furigana": "6.このカバーはぴったりです。",
+    "segmentation": "6.このカバーは | ぴったりです。",
+    "translation": {
+      "natural": "6.這個保護套非常合適。",
+      "literal": "6.這個套子是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "カバー",
+        "reading": "カバー",
+        "note": "名詞，套子、保護套"
+      }
+    ],
+    "context_grammar": [
+      "「ぴったり」不僅可用於穿戴衣物，也常用於描述手機套、椅套等物品與目標物「尺寸完美合契」。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:30",
+    "japanese": "7.この帽子はぴったりです。",
+    "furigana": "7.この<ruby>帽<rt>ぼう</rt></ruby><ruby>子<rt>し</rt></ruby>はぴったりです。",
+    "segmentation": "7.この帽子は | ぴったりです。",
+    "translation": {
+      "natural": "7.這頂帽子非常合頭型。",
+      "literal": "7.這頂帽子是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "帽子",
+        "reading": "ぼうし",
+        "note": "名詞，帽子"
+      }
+    ],
+    "context_grammar": [
+      "漢字名詞「帽子」為句型主題，後接肯定判斷「ぴったりです」。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:35",
+    "japanese": "8.このジャケットはぴったりです。",
+    "furigana": "8.このジャケットはぴったりです。",
+    "segmentation": "8.このジャケットは | ぴったりです。",
+    "translation": {
+      "natural": "8.這件夾克非常合身。",
+      "literal": "8.這件外套是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "ジャケット",
+        "reading": "ジャケット",
+        "note": "名詞，夾克、西裝外套"
+      }
+    ],
+    "context_grammar": [
+      "「ジャケット」服飾用語替換練習，語序邏輯為「主詞指示＋主題標記＋修飾形容 predicate」。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:39",
+    "japanese": "9.この指輪はぴったりです。",
+    "furigana": "9.この<ruby>指<rt>ゆび</rt></ruby><ruby>輪<rt>わ</rt></ruby>はぴったりです。",
+    "segmentation": "9.この指輪は | ぴったりです。",
+    "translation": {
+      "natural": "9.這個戒指非常合圍。",
+      "literal": "9.這個戒指是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "指輪",
+        "reading": "ゆびわ",
+        "note": "名詞，戒指"
+      }
+    ],
+    "context_grammar": [
+      "「指（ゆび）＋輪（わ）」組合而成的複合名詞，指圍大小剛好亦使用「ぴったり」。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:43",
+    "japanese": "10.このブレスレットはぴったりです。",
+    "furigana": "10.このブレスレットはぴったりです。",
+    "segmentation": "10.このブレスレットは | ぴったりです。",
+    "translation": {
+      "natural": "10.這個手鍊非常合適。",
+      "literal": "10.這個手鍊是剛剛好。"
+    },
+    "words": [
+      {
+        "word": "ブレスレット",
+        "reading": "ブレスレット",
+        "note": "名詞，手鍊、手環"
+      }
+    ],
+    "context_grammar": [
+      "外來語「ブレスレット」作為主題，完成日常購物與穿搭情境的替換練習。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:48",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "014",
+    "time": "00:50",
+    "japanese": "この指輪はぴったりです。サイズがあってよかったです。",
+    "furigana": "この<ruby>指<rt>ゆび</rt></ruby><ruby>輪<rt>わ</rt></ruby>はぴったりです。サイズがあって<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "この指輪は | ぴったりです。| サイズがあって | よかったです。",
+    "translation": {
+      "natural": "這個戒指戴起來剛剛好。尺寸有合真是太好了。",
+      "literal": "這個戒指是剛剛好。尺寸合適太好了。"
+    },
+    "words": [
+      {
+        "word": "サイズ",
+        "reading": "サイズ",
+        "note": "名詞，尺寸"
+      },
+      {
+        "word": "合う",
+        "reading": "あう",
+        "note": "動詞，合適、符合"
+      },
+      {
+        "word": "よかった",
+        "reading": "よかった",
+        "note": "形容詞「いい」的過去式，表示太好了、慶幸"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形「あして (があって)」：動詞「合う」的テ形，表示原因理由（因為尺寸有合適）。",
+      "～てよかったです：接續在動詞/形容詞テ形後，表達「幸好有…、太好了」的慶幸語氣，常見於購物或生活會話中。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:58",
+    "japanese": "192.は美味です。",
+    "furigana": "192.は<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "192.は | 美味です。",
+    "translation": {
+      "natural": "192.非常美味／是佳餚。",
+      "literal": "192.是美味。"
+    },
+    "words": [
+      {
+        "word": "美味",
+        "reading": "びみ",
+        "note": "名詞/な形容詞，美味、好吃（較正式高級的書面語氣）"
+      }
+    ],
+    "context_grammar": [
+      "美味（びみ）：相較於口語的「おいしい」，「美味です」更具優雅感或高級感，常用於美食介紹、廣告讚美用語。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:02",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "017",
+    "time": "01:03",
+    "japanese": "1.ウニは美味です。",
+    "furigana": "1.ウニは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "1.ウニは | 美味です。",
+    "translation": {
+      "natural": "1.海膽非常美味。",
+      "literal": "1.海膽是美味。"
+    },
+    "words": [
+      {
+        "word": "ウニ",
+        "reading": "ウニ",
+        "note": "名詞，海膽"
+      }
+    ],
+    "context_grammar": [
+      "「ウニ」作為主題，透過「は」連接後方的狀態評語「美味です」。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:07",
+    "japanese": "2.カラスミは美味です。",
+    "furigana": "2.カラスミは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "2.カラスミは | 美味です。",
+    "translation": {
+      "natural": "2.烏魚子非常美味。",
+      "literal": "2.烏魚子是美味。"
+    },
+    "words": [
+      {
+        "word": "カラスミ",
+        "reading": "カラスミ",
+        "note": "名詞，烏魚子"
+      }
+    ],
+    "context_grammar": [
+      "高級食材「カラスミ」配上讚詞「美味です」，凸顯珍饈感。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:11",
+    "japanese": "3.ドリアンは美味です。",
+    "furigana": "3.ドリアンは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "3.ドリアンは | 美味です。",
+    "translation": {
+      "natural": "3.榴槤非常美味。",
+      "literal": "3.榴槤是美味。"
+    },
+    "words": [
+      {
+        "word": "ドリアン",
+        "reading": "ドリアン",
+        "note": "名詞，榴槤"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞「ドリアン」作為句型主題。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:15",
+    "japanese": "4.フォアグラは美味です。",
+    "furigana": "4.フォアグラは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "4.フォアグラは | 美味です。",
+    "translation": {
+      "natural": "4.鵝肝非常美味。",
+      "literal": "4.鵝肝是美味。"
+    },
+    "words": [
+      {
+        "word": "フォアグラ",
+        "reading": "フォアグラ",
+        "note": "名詞，鵝肝（源自法文 foie gras）"
+      }
+    ],
+    "context_grammar": [
+      "高級西餐食材「フォアグラ」作為主題。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:19",
+    "japanese": "5.イクラは美味です。",
+    "furigana": "5.イクラは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "5.イクラは | 美味です。",
+    "translation": {
+      "natural": "5.鮭魚卵非常美味。",
+      "literal": "5.鮭魚卵是美味。"
+    },
+    "words": [
+      {
+        "word": "イクラ",
+        "reading": "イクラ",
+        "note": "名詞，鮭魚卵（源自俄文 ikra）"
+      }
+    ],
+    "context_grammar": [
+      "片假名名詞「イクラ」作為主題修飾後方判定。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:23",
+    "japanese": "6.フグの刺身は美味です。",
+    "furigana": "6.フグの<ruby>刺<rt>さ</rt></ruby><ruby>身<rt>しみ</rt></ruby>は<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "6.フグの刺身は | 美味です。",
+    "translation": {
+      "natural": "6.河豚刺身非常美味。",
+      "literal": "6.河豚的生魚片是美味。"
+    },
+    "words": [
+      {
+        "word": "フグ",
+        "reading": "フグ",
+        "note": "名詞，河豚"
+      },
+      {
+        "word": "刺身",
+        "reading": "さしみ",
+        "note": "名詞，生魚片"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋の＋名詞：「フグの刺身」為連體修飾結構，由格助詞「の」將「河豚」修飾核心名詞「刺身」。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:28",
+    "japanese": "7.キャビアは美味です。",
+    "furigana": "7.キャビアは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "7.キャビアは | 美味です。",
+    "translation": {
+      "natural": "7.魚子醬非常美味。",
+      "literal": "7.魚子醬是美味。"
+    },
+    "words": [
+      {
+        "word": "キャビア",
+        "reading": "キャビア",
+        "note": "名詞，魚子醬"
+      }
+    ],
+    "context_grammar": [
+      "「キャビア」作為主題，搭配誇讚詞「美味です」。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:32",
+    "japanese": "8.黒マグロは美味です。",
+    "furigana": "8.<ruby>黑<rt>くろ</rt></ruby>マグロは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "8.黒マグロは | 美味です。",
+    "translation": {
+      "natural": "8.黑鮪魚非常美味。",
+      "literal": "8.黑鮪魚是美味。"
+    },
+    "words": [
+      {
+        "word": "黒マグロ",
+        "reading": "くろマグロ",
+        "note": "名詞，黑鮪魚"
+      }
+    ],
+    "context_grammar": [
+      "漢字「黒」與片假名「マグロ」組合的複合名詞作為主題。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:36",
+    "japanese": "9.毛ガニは美味です。",
+    "furigana": "9.<ruby>毛<rt>け</rt></ruby>ガニは<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "9.毛ガニは | 美味です。",
+    "translation": {
+      "natural": "9.毛蟹非常美味。",
+      "literal": "9.毛蟹是美味。"
+    },
+    "words": [
+      {
+        "word": "毛ガニ",
+        "reading": "けガニ",
+        "note": "名詞，毛蟹"
+      }
+    ],
+    "context_grammar": [
+      "名詞「毛ガニ」作為主題表達其高級口感。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:40",
+    "japanese": "10.伊勢海老は美味です。",
+    "furigana": "10.<ruby>伊<rt>い</rt></ruby><ruby>勢<rt>せ</rt></ruby><ruby>海<rt>え</rt></ruby><ruby>老<rt>び</rt></ruby>は<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>です。",
+    "segmentation": "10.伊勢海老は | 美味です。",
+    "translation": {
+      "natural": "10.伊勢龍蝦非常美味。",
+      "literal": "10.伊勢龍蝦是美味。"
+    },
+    "words": [
+      {
+        "word": "伊勢海老",
+        "reading": "いせえび",
+        "note": "名詞，伊勢龍蝦"
+      }
+    ],
+    "context_grammar": [
+      "地名「伊勢」加上生物「海老」組合而成的名詞作為主題。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:45",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "028",
+    "time": "01:47",
+    "japanese": "伊勢海老は美味ですね。ええ、たくさん食べてくださいね。",
+    "furigana": "<ruby>伊<rt>い</rt></ruby><ruby>勢<rt>せ</rt></ruby><ruby>海<rt>え</rt></ruby><ruby>老<rt>び</rt></ruby>は<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>ですね。ええ、たくさん<ruby>食<rt>た</rt></ruby>べてくださいね。",
+    "segmentation": "伊勢海老は | 美味ですね。| ええ、| たくさん | 食べてくださいね。",
+    "translation": {
+      "natural": "伊勢龍蝦真的很美味呢。對啊，請多吃一點喔。",
+      "literal": "伊勢龍蝦是美味呢。是的，請吃很多呢。"
+    },
+    "words": [
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "終助詞組合，用於徵求同意或表示感嘆（～呢）"
+      },
+      {
+        "word": "たくさん",
+        "reading": "たくさん",
+        "note": "副詞，許多、大量地"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（テ形為食べて）"
+      }
+    ],
+    "context_grammar": [
+      "終助詞「ね」：用於輕微表態或尋求對方共鳴（美味呢/請多吃一點喔）。",
+      "動詞連用形＋てください：動詞下一段「食べる」去「る」變「食べて」接「ください」，表親切的請求或招待。",
+      "副詞修飾動詞：「たくさん」直接修飾後方的動詞「食べて」。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:55",
+    "japanese": "193.は奥深いですね。",
+    "furigana": "193.は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "193.は | 奥深いですね。",
+    "translation": {
+      "natural": "193.～非常有深意／博大精深呢。",
+      "literal": "193.是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "奥深い",
+        "reading": "おくぶかい",
+        "note": "い形容詞，高深的、深奧的、蘊含深意的"
+      }
+    ],
+    "context_grammar": [
+      "「奥（おく）＋深い（ぶかい）」複合い形容詞，常於藝術、文化或思想導覽節目中讚嘆某事物的內涵。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:59",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "031",
+    "time": "02:00",
+    "japanese": "1.この映画は奥深いですね。",
+    "furigana": "1.この<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "1.この映画は | 奥深いですね。",
+    "translation": {
+      "natural": "1.這部電影非常有深意呢。",
+      "literal": "1.這部電影是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      }
+    ],
+    "context_grammar": [
+      "「この映画」作為主題，後接形容詞「奥深い」加上感嘆終助詞「ですね」。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:05",
+    "japanese": "2.この小説は奥深いですね。",
+    "furigana": "2.この<ruby>小<rt>しょう</rt></ruby><ruby>説<rt>せつ</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "2.この小説は | 奥深いですね。",
+    "translation": {
+      "natural": "2.這本小說非常深奧呢。",
+      "literal": "2.這本小說是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "小説",
+        "reading": "しょうせつ",
+        "note": "名詞，小說"
+      }
+    ],
+    "context_grammar": [
+      "名詞「小説」作為語境主角，評價其劇情或思想深度。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:09",
+    "japanese": "3.この絵画は奥深いですね。",
+    "furigana": "3.この<ruby>絵<rt>かい</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "3.この絵画は | 奥深いですね。",
+    "translation": {
+      "natural": "3.這幅畫作非常深奧呢。",
+      "literal": "3.這幅畫作是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "絵画",
+        "reading": "かいが",
+        "note": "名詞，畫作、繪畫"
+      }
+    ],
+    "context_grammar": [
+      "「絵画」呈現藝術品鑑賞場合常使用的讚美語氣。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:14",
+    "japanese": "4.この漫画は奥深いですね。",
+    "furigana": "4.この<ruby>漫<rt>まん</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "4.この漫画は | 奥深いですね。",
+    "translation": {
+      "natural": "4.這部漫畫非常有寓意呢。",
+      "literal": "4.這部漫畫是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "漫画",
+        "reading": "まんが",
+        "note": "名詞，漫畫"
+      }
+    ],
+    "context_grammar": [
+      "名詞「漫画」作主題，說明作品不單純是娛樂，更具深刻含義。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:18",
+    "japanese": "5.この料理は奥深いですね。",
+    "furigana": "5.この<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "5.この料理は | 奥深いですね。",
+    "translation": {
+      "natural": "5.這道料理層次非常豐富呢。",
+      "literal": "5.這道料理是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、菜餚"
+      }
+    ],
+    "context_grammar": [
+      "「奥深い」用於料理時，常用於形容滋味多層次、工序講究。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:22",
+    "japanese": "6.日本のお城は奥深いですね。",
+    "furigana": "6.<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>のお<ruby>城<rt>しろ</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "6.日本のお城は | 奥深いですね。",
+    "translation": {
+      "natural": "6.日本的城堡真是博大精深呢。",
+      "literal": "6.日本的城堡是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "お城",
+        "reading": "おしろ",
+        "note": "名詞，城堡（加美化語 prefix「お」）"
+      }
+    ],
+    "context_grammar": [
+      "美化接頭辭「お＋城」：增加言語的禮貌與優雅度。「日本のお城」透過「の」連接修飾。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:27",
+    "japanese": "7.儒教の思想は奥深いですね。",
+    "furigana": "7.<ruby>儒<rt>じゅ</rt></ruby><ruby>教<rt>きょう</rt></ruby>の<ruby>思<rt>し</rt></ruby><ruby>想<rt>そう</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "7.儒教の思想は | 奥深いですね。",
+    "translation": {
+      "natural": "7.儒家的思想真是博大精深呢。",
+      "literal": "7.儒教的思想是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "儒教",
+        "reading": "じゅきょう",
+        "note": "名詞，儒家、儒教"
+      },
+      {
+        "word": "思想",
+        "reading": "しそう",
+        "note": "名詞，思想"
+      }
+    ],
+    "context_grammar": [
+      "連體修飾「儒教の思想」：用「の」將學派與「思想」結合，作為主題發揮評語。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:32",
+    "japanese": "8.武士道精神は奥深いですね。",
+    "furigana": "8.<ruby>武<rt>ぶ</rt></ruby><ruby>士<rt>し</rt></ruby><ruby>道<rt>どう</rt></ruby><ruby>精<rt>せい</rt></ruby><ruby>神<rt>しん</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "8.武士道精神は | 奥深いですね。",
+    "translation": {
+      "natural": "8.武士道精神真是博大精深呢。",
+      "literal": "8.武士道精神是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "武士道",
+        "reading": "ぶしどう",
+        "note": "名詞，武士道"
+      },
+      {
+        "word": "精神",
+        "reading": "せいしん",
+        "note": "名詞，精神"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「武士道精神」直接作為主題，形容傳統哲學理念的深奧。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:37",
+    "japanese": "9.日本の着物は奥深いですね。",
+    "furigana": "9.<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>の<ruby>着<rt>き</rt></ruby><ruby>物<rt>もの</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "9.日本の着物は | 奥深いですね。",
+    "translation": {
+      "natural": "9.日本的和服文化真是博大精深呢。",
+      "literal": "9.日本的和服是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "着物",
+        "reading": "きもの",
+        "note": "名詞，和服、衣服"
+      }
+    ],
+    "context_grammar": [
+      "「日本の着物」連體修飾，常用於文化觀光導覽片介紹傳統工藝之美。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:41",
+    "japanese": "10.日本の茶道は奥深いですね。",
+    "furigana": "10.<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>の<ruby>茶<rt>さ</rt></ruby><ruby>道<rt>どう</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。",
+    "segmentation": "10.日本の茶道は | 奥深いですね。",
+    "translation": {
+      "natural": "10.日本茶道真是博大精深呢。",
+      "literal": "10.日本的茶道是深奧呢。"
+    },
+    "words": [
+      {
+        "word": "茶道",
+        "reading": "さどう",
+        "note": "名詞，茶道（亦可讀作 ちゃどう）"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞「茶道」作為主題，讚美文化藝術體驗的深層含義。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:46",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "042",
+    "time": "02:48",
+    "japanese": "この映画は奥深いですね。ええ、でも少し難しい内容ですね。",
+    "furigana": "この<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>奥<rt>おく</rt></ruby><ruby>深<rt>ぶか</rt></ruby>いですね。ええ、でも<ruby>少<rt>すこ</rt></ruby>し<ruby>難<rt>むずか</rt></ruby>しい<ruby>内<rt>ない</rt></ruby><ruby>容<rt>よう</rt></ruby>ですね。",
+    "segmentation": "この映画は | 奥深いですね。| ええ、| でも | 少し | 難しい内容ですね。",
+    "translation": {
+      "natural": "這部電影很有深意呢。對啊，不過內容有點難懂呢。",
+      "literal": "這部電影是深奧呢。是的，但是有一點難的內容呢。"
+    },
+    "words": [
+      {
+        "word": "でも",
+        "reading": "でも",
+        "note": "接續詞，但是、不過"
+      },
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "note": "副詞，有一點、稍微"
+      },
+      {
+        "word": "難しい",
+        "reading": "むずかしい",
+        "note": "い形容詞，困難的、難懂的"
+      },
+      {
+        "word": "内容",
+        "reading": "ないよう",
+        "note": "名詞，內容"
+      }
+    ],
+    "context_grammar": [
+      "轉折接續詞「でも」：用於引出與前句認同但補充不同面向觀點的轉折。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:57",
+    "japanese": "194.は完璧です。",
+    "furigana": "194.は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "194.は | 完璧です。",
+    "translation": {
+      "natural": "194.～非常完美／萬無一失。",
+      "literal": "194.是完美。"
+    },
+    "words": [
+      {
+        "word": "完璧",
+        "reading": "かんぺき",
+        "note": "な形容詞/名詞，完美、十全十美"
+      }
+    ],
+    "context_grammar": [
+      "「完璧（かんぺき）＋です」：表達工作、準備或表現已經到達毫無瑕疵的程度。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:00",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "045",
+    "time": "03:02",
+    "japanese": "1.準備は完璧です。",
+    "furigana": "1.<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "1.準備は | 完璧です。",
+    "translation": {
+      "natural": "1.準備非常完善／萬無一失。",
+      "literal": "1.準備是完美。"
+    },
+    "words": [
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "note": "名詞，準備"
+      }
+    ],
+    "context_grammar": [
+      "「準備」作為主題，商業或日常生活會話中常用於確認前置作業已到位。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:05",
+    "japanese": "2.掃除は完璧です。",
+    "furigana": "2.<ruby>掃<rt>そう</rt></ruby><ruby>除<rt>じ</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "2.掃除は | 完璧です。",
+    "translation": {
+      "natural": "2.打掃得一塵不染／打掃非常完美。",
+      "literal": "2.打掃是完美。"
+    },
+    "words": [
+      {
+        "word": "掃除",
+        "reading": "そうじ",
+        "note": "名詞，打掃、打理"
+      }
+    ],
+    "context_grammar": [
+      "名詞「掃除」作為主題，讚美打掃工作徹底。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:09",
+    "japanese": "3.レポートは完璧です。",
+    "furigana": "3.レポートは<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "3.レポートは | 完璧です。",
+    "translation": {
+      "natural": "3.報告寫得非常完美。",
+      "literal": "3.報告是完美。"
+    },
+    "words": [
+      {
+        "word": "レポート",
+        "reading": "レポート",
+        "note": "名詞，報告（源自英文 report）"
+      }
+    ],
+    "context_grammar": [
+      "外來語「レポート」作為主題，常用於職場或學校功課表現評語。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:12",
+    "japanese": "4.家事は完璧です。",
+    "furigana": "4.<ruby>家<rt>か</rt></ruby><ruby>事<rt>じ</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "4.家事は | 完璧です。",
+    "translation": {
+      "natural": "4.家事打理得無可挑剔。",
+      "literal": "4.家事是完美。"
+    },
+    "words": [
+      {
+        "word": "家事",
+        "reading": "かじ",
+        "note": "名詞，家務、家事"
+      }
+    ],
+    "context_grammar": [
+      "名詞「家事」搭配「完璧です」，形容家務處理得非常圓滿。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:16",
+    "japanese": "5.試験は完璧です。",
+    "furigana": "5.<ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "5.試験は | 完璧です。",
+    "translation": {
+      "natural": "5.考試應答非常完美／準備充足。",
+      "literal": "5.考試是完美。"
+    },
+    "words": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試"
+      }
+    ],
+    "context_grammar": [
+      "主題「試験」，表達對考試表現或備考極具信心。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:20",
+    "japanese": "6.連絡は完璧です。",
+    "furigana": "6.<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "6.連絡は | 完璧です。",
+    "translation": {
+      "natural": "6.聯絡溝通非常到位／滴水不漏。",
+      "literal": "6.聯絡是完美。"
+    },
+    "words": [
+      {
+        "word": "連絡",
+        "reading": "れんらく",
+        "note": "名詞，聯絡、聯繫"
+      }
+    ],
+    "context_grammar": [
+      "商業場合常見語彙「連絡」，表達資訊傳達完整無疏漏。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:23",
+    "japanese": "7.設計は完璧です。",
+    "furigana": "7.<ruby>設<rt>せっ</rt></ruby><ruby>計<rt>けい</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "7.設計は | 完璧です。",
+    "translation": {
+      "natural": "7.設計非常完美。",
+      "literal": "7.設計是完美。"
+    },
+    "words": [
+      {
+        "word": "設計",
+        "reading": "せっけい",
+        "note": "名詞，設計、規劃"
+      }
+    ],
+    "context_grammar": [
+      "名詞「設計」作為主題，常見於工程、軟體或產品簡報影片。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:27",
+    "japanese": "8.節税対策は完璧です。",
+    "furigana": "8.<ruby>節<rt>せつ</rt></ruby><ruby>税<rt>ぜい</rt></ruby><ruby>対<rt>たい</rt></ruby><ruby>策<rt>さく</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "8.節税対策は | 完璧です。",
+    "translation": {
+      "natural": "8.節稅對策做得很周全／萬無一失。",
+      "literal": "8.節稅對策是完美。"
+    },
+    "words": [
+      {
+        "word": "節税",
+        "reading": "せつぜい",
+        "note": "名詞，合法節稅"
+      },
+      {
+        "word": "対策",
+        "reading": "たいさく",
+        "note": "名詞，對策、措施"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「節税対策」作為主題，在商業財務影片中常用。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:31",
+    "japanese": "9.根回しは完璧です。",
+    "furigana": "9.<ruby>根<rt>ね</rt></ruby><ruby>回<rt>まわ</rt></ruby>しは<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "9.根回しは | 完璧です。",
+    "translation": {
+      "natural": "9.事前溝通（打照面）做得非常完善。",
+      "literal": "9.事前協調是完美。"
+    },
+    "words": [
+      {
+        "word": "根回し",
+        "reading": "ねまわし",
+        "note": "名詞，（商業日文）事前打照面、溝通協調以達成共識"
+      }
+    ],
+    "context_grammar": [
+      "日本職場文化核心詞彙「根回し」，表示在正式會議前私下與相關人員協調完畢。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:35",
+    "japanese": "10.下ごしらえは完璧です。",
+    "furigana": "10.<ruby>下<rt>した</rt></ruby>ごしらえは<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。",
+    "segmentation": "10.下ごしらえは | 完璧です。",
+    "translation": {
+      "natural": "10.備料／食材預先處理做得很到位。",
+      "literal": "10.備料是完美。"
+    },
+    "words": [
+      {
+        "word": "下ごしらえ",
+        "reading": "したごしらえ",
+        "note": "名詞，（烹飪）預先準備、備料"
+      }
+    ],
+    "context_grammar": [
+      "烹飪用語「下ごしらえ」，指烹調前的洗切醃等預備步驟。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:40",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "056",
+    "time": "03:41",
+    "japanese": "旅行の準備は完璧です。じゃあ、問題ないでしょう。",
+    "furigana": "<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>の<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>は<ruby>完<rt>かん</rt></ruby><ruby>璧<rt>ぺき</rt></ruby>です。じゃあ、<ruby>問<rt>もん</rt></ruby><ruby>題<rt>だい</rt></ruby>ないでしょう。",
+    "segmentation": "旅行の準備は | 完璧です。| じゃあ、| 問題ないでしょう。",
+    "translation": {
+      "natural": "旅行的準備非常完善。那麼，應該就沒問題了吧。",
+      "literal": "旅行的準備是完美。那麼，沒有問題吧。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      },
+      {
+        "word": "じゃあ",
+        "reading": "じゃあ",
+        "note": "接續詞，那麼（「それでは」的口語）"
+      },
+      {
+        "word": "問題ない",
+        "reading": "もんだいない",
+        "note": "詞組，沒問題"
+      },
+      {
+        "word": "でしょう",
+        "reading": "でしょう",
+        "note": "推測助動詞，應該…吧"
+      }
+    ],
+    "context_grammar": [
+      "連體修飾「旅行の準備」：用格助詞「の」限定準備的內容。",
+      "推測表達「ない＋でしょう」：形容詞否定形「ない」直接接續「でしょう」，表有把握的推測。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:49",
+    "japanese": "195.の達人です。",
+    "furigana": "195.の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "195.の | 達人です。",
+    "translation": {
+      "natural": "195.是～的大師／達人。",
+      "literal": "195.的達人。"
+    },
+    "words": [
+      {
+        "word": "達人",
+        "reading": "たつじん",
+        "note": "名詞，達人、專家、高手"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋の＋達人：用格助詞「の」連接某個領域，表示該領域的專精人士。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:52",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "059",
+    "time": "03:54",
+    "japanese": "1.ゲームの達人です。",
+    "furigana": "1.ゲームの<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "1.ゲームの | 達人です。",
+    "translation": {
+      "natural": "1.是電玩高手。",
+      "literal": "1.是遊戲的達人。"
+    },
+    "words": [
+      {
+        "word": "ゲーム",
+        "reading": "ゲーム",
+        "note": "名詞，遊戲、電玩"
+      }
+    ],
+    "context_grammar": [
+      "「ゲームの達人」：格助詞「の」做連體修飾，指在遊戲領域極具天賦與技巧的人。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:58",
+    "japanese": "2.料理の達人です。",
+    "furigana": "2.<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "2.料理の | 達人です。",
+    "translation": {
+      "natural": "2.是烹飪大師／料理達人。",
+      "literal": "2.是料理的達人。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，烹飪、料理"
+      }
+    ],
+    "context_grammar": [
+      "「料理の達人」常用於電視節目，指廚藝精湛的專家。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:02",
+    "japanese": "3.太鼓の達人です。",
+    "furigana": "3.<ruby>太<rt>たい</rt></ruby><ruby>鼓<rt>こ</rt></ruby>の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "3.太鼓の | 達人です。",
+    "translation": {
+      "natural": "3.是太鼓高手／太鼓達人。",
+      "literal": "3.是太鼓的達人。"
+    },
+    "words": [
+      {
+        "word": "太鼓",
+        "reading": "たいこ",
+        "note": "名詞，太鼓、鼓"
+      }
+    ],
+    "context_grammar": [
+      "「太鼓」為樂器，結合「の達人」可指傳統太鼓演奏大師或知名遊戲玩家。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:06",
+    "japanese": "4.将棋の達人です。",
+    "furigana": "4.<ruby>将<rt>しょう</rt></ruby><ruby>棋<rt>ぎ</rt></ruby>の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "4.将棋の | 達人です。",
+    "translation": {
+      "natural": "4.是將棋大師。",
+      "literal": "4.是將棋的達人。"
+    },
+    "words": [
+      {
+        "word": "将棋",
+        "reading": "しょうぎ",
+        "note": "名詞，日本將棋"
+      }
+    ],
+    "context_grammar": [
+      "「将棋の達人」形容棋藝高超的大師。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:10",
+    "japanese": "5.旅行の達人です。",
+    "furigana": "5.<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "5.旅行の | 達人です。",
+    "translation": {
+      "natural": "5.是旅遊達人。",
+      "literal": "5.是旅行的達人。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行、旅遊"
+      }
+    ],
+    "context_grammar": [
+      "「旅行の達人」常用於旅遊節目或節目專訪，指精通旅遊行程規劃的人。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:14",
+    "japanese": "6.コスメの達人です。",
+    "furigana": "6.コスメの<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "6.コスメの | 達人です。",
+    "translation": {
+      "natural": "6.是美妝達人。",
+      "literal": "6.是化妝品的達人。"
+    },
+    "words": [
+      {
+        "word": "コスメ",
+        "reading": "コスメ",
+        "note": "名詞，化妝品（cosmetics 的縮寫）"
+      }
+    ],
+    "context_grammar": [
+      "縮寫外來語「コスメ」與「達人」組合，常見於時尚雜誌或社群媒體介紹。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:18",
+    "japanese": "7.アニメソングの達人です。",
+    "furigana": "7.アニメソングの<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "7.アニメソングの | 達人です。",
+    "translation": {
+      "natural": "7.是動漫歌曲通／動漫歌達人。",
+      "literal": "7.是動漫歌曲的達人。"
+    },
+    "words": [
+      {
+        "word": "アニメソング",
+        "reading": "アニメソング",
+        "note": "名詞，動漫歌曲（簡稱 アニソン）"
+      }
+    ],
+    "context_grammar": [
+      "外來語組合詞「アニメソング」修飾達人，指對動漫歌曲非常精通的人。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:22",
+    "japanese": "8.スイーツの達人です。",
+    "furigana": "8.スイーツの<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "8.スイーツの | 達人です。",
+    "translation": {
+      "natural": "8.是甜點達人。",
+      "literal": "8.是甜點的達人。"
+    },
+    "words": [
+      {
+        "word": "スイーツ",
+        "reading": "スイーツ",
+        "note": "名詞，甜點、點心（源自英文 sweets）"
+      }
+    ],
+    "context_grammar": [
+      "流行外來語「スイーツ」作為領域名稱，透過「の」連接專業身分。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:26",
+    "japanese": "9.温泉の達人です。",
+    "furigana": "9.<ruby>温<rt>おん</rt></ruby><ruby>泉<rt>せん</rt></ruby>の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "9.温泉の | 達人です。",
+    "translation": {
+      "natural": "9.是溫泉專家／溫泉達人。",
+      "literal": "9.是溫泉的達人。"
+    },
+    "words": [
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "note": "名詞，溫泉"
+      }
+    ],
+    "context_grammar": [
+      "「温泉の達人」常用於旅遊節目，指對日本各地溫泉泉質、旅館聊若指掌的人。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:30",
+    "japanese": "10.ラーメンの達人です。",
+    "furigana": "10.ラーメンの<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>です。",
+    "segmentation": "10.ラーメンの | 達人です。",
+    "translation": {
+      "natural": "10.是拉麵達人。",
+      "literal": "10.是拉麵的達人。"
+    },
+    "words": [
+      {
+        "word": "ラーメン",
+        "reading": "ラーメン",
+        "note": "名詞，拉麵"
+      }
+    ],
+    "context_grammar": [
+      "飲食文化代表「ラーメン」作為領域名詞，修飾「達人」。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:35",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "070",
+    "time": "04:36",
+    "japanese": "彼女は旅行のことなら何でも知っているんですね。ええ、彼女は旅行の達人ですからね。",
+    "furigana": "<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>は<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>のことなら<ruby>何<rt>なん</rt></ruby>でも<ruby>知<rt>し</rt></ruby>っているんですね。ええ、<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>は<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>の<ruby>達<rt>たつ</rt></ruby><ruby>人<rt>じん</rt></ruby>ですからね。",
+    "segmentation": "彼女は | 旅行のことなら | 何でも | 知っているんですね。| ええ、| 彼女は | 旅行の達人ですからね。",
+    "translation": {
+      "natural": "只要是關於旅行的事，她什麼都知道呢。對啊，因為她是旅遊達人嘛。",
+      "literal": "她是如果是旅行的事什麼都知道呢。是的，她是旅行的達人因為呢。"
+    },
+    "words": [
+      {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "note": "代名詞，她"
+      },
+      {
+        "word": "ことなら",
+        "reading": "ことなら",
+        "note": "複合助詞，如果是關於…的話"
+      },
+      {
+        "word": "何でも",
+        "reading": "なんでも",
+        "note": "副詞/代名詞，無論什麼、什麼都"
+      },
+      {
+        "word": "知る",
+        "reading": "しる",
+        "note": "動詞，知道、了解（狀態為知っている）"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接続助詞，因為、由於"
+      }
+    ],
+    "context_grammar": [
+      "～ことなら：名詞＋の＋ことなら，表示「如果是關於～領域的話」，常用於引出某人特別擅長的事物。",
+      "知っている：動詞「知る」的持續態（ている形），表示「處於知道的狀態」。",
+      "名詞＋だから/ですから：格助詞/助動詞「です」＋原因助詞「から」，表示理由（因為她是達人）。"
+    ]
+  }
+]

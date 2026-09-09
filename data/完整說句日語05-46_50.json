@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "196.まるでのような",
+    "furigana": "196.まるでのような",
+    "segmentation": "196.まるでのような",
+    "translation": {
+      "natural": "196.簡直就像……一樣",
+      "literal": "196.簡直像…般的"
+    },
+    "words": [
+      {
+        "word": "まるで",
+        "reading": "まるで",
+        "note": "副詞，簡直、好比"
+      },
+      {
+        "word": "ような",
+        "reading": "ような",
+        "note": "助動詞（比喻），像…一樣的"
+      }
+    ],
+    "context_grammar": [
+      "まるで～のような：副詞「まるで」與比喻助動詞「よう」的連體形組合，用來將事物比喻成另一種具體形象，後接名詞進行修飾。",
+      "196.：句首數字依要求加上句號「.」。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "1.まるでリンゴのような赤い顔です。",
+    "furigana": "1.まるでリンゴのような<ruby>赤<rt>あか</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>です。",
+    "segmentation": "1.まるでリンゴのような | 赤い顔です。",
+    "translation": {
+      "natural": "1.臉紅得簡直就像顆蘋果。",
+      "literal": "1.簡直像蘋果一樣的紅臉。"
+    },
+    "words": [
+      {
+        "word": "リンゴ",
+        "reading": "リンゴ",
+        "note": "名詞，蘋果"
+      },
+      {
+        "word": "赤い",
+        "reading": "あかい",
+        "note": "い形容詞，紅色的"
+      },
+      {
+        "word": "顔",
+        "reading": "かお",
+        "note": "名詞，臉"
+      }
+    ],
+    "context_grammar": [
+      "まるで～のような＋名詞＋形容詞＋名詞：結構為「まるで リンゴ の ような（比喻連體修飾）」修飾形容詞名詞組「赤い顔」。",
+      "常用於生動描摹人物外貌或表情變化的廣告及視覺描寫中。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:09",
+    "japanese": "2.まるでモミジのような手です。",
+    "furigana": "2.まるでモミジのような<ruby>手<rt>て</rt></ruby>です。",
+    "segmentation": "2.まるでモミジのような | 手です。",
+    "translation": {
+      "natural": "2.小手可愛得簡直就像楓葉一樣。",
+      "literal": "2.簡直像楓葉一樣的手。"
+    },
+    "words": [
+      {
+        "word": "モミジ",
+        "reading": "モミジ",
+        "note": "名詞，楓葉"
+      },
+      {
+        "word": "手",
+        "reading": "て",
+        "note": "名詞，手"
+      }
+    ],
+    "context_grammar": [
+      "モミジのような手：日文傳統慣用語，專指嬰兒或幼童又小又可愛的手掌。",
+      "比喻句型修飾核心名詞「手」。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:13",
+    "japanese": "3.まるで赤鬼のような酔っ払った顔です。",
+    "furigana": "3.まるで<ruby>赤<rt>あか</rt></ruby><ruby>鬼<rt>おに</rt></ruby>のような<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>ばら</rt></ruby>った<ruby>顔<rt>かお</rt></ruby>です。",
+    "segmentation": "3.まるで赤鬼のような | 酔っ払った顔です。",
+    "translation": {
+      "natural": "3.喝醉後的臉紅得簡直就像赤鬼一樣。",
+      "literal": "3.簡直像赤鬼一樣的喝醉的臉。"
+    },
+    "words": [
+      {
+        "word": "赤鬼",
+        "reading": "あかおに",
+        "note": "名詞，赤鬼、紅鬼"
+      },
+      {
+        "word": "酔っ払う",
+        "reading": "よっぱらう",
+        "note": "動詞，喝醉（過去式/連體形為酔っ払った）"
+      }
+    ],
+    "context_grammar": [
+      "酔っ払った：動詞「酔っ払う」的た形（過去形），在此作為連體修飾，修飾「顔」。",
+      "「まるで赤鬼のような」與「酔っ払った」雙重修飾後方的名詞「顔」。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:18",
+    "japanese": "4.まるで氷のような冷たい手です。",
+    "furigana": "4.まるで<ruby>氷<rt>こおり</rt></ruby>のような<ruby>冷<rt>つめ</rt></ruby>たい<ruby>手<rt>て</rt></ruby>です。",
+    "segmentation": "4.まるで氷のような | 冷たい手です。",
+    "translation": {
+      "natural": "4.手冰得簡直就像冰塊一樣。",
+      "literal": "4.簡直像冰塊一樣的冰冷的手。"
+    },
+    "words": [
+      {
+        "word": "氷",
+        "reading": "こおり",
+        "note": "名詞，冰塊"
+      },
+      {
+        "word": "冷たい",
+        "reading": "つめたい",
+        "note": "い形容詞，冰冷的"
+      }
+    ],
+    "context_grammar": [
+      "まるで氷のような：比喻短語修飾「冷たい手」，強調溫度的冰冷感，常見於文藝文案或感性告白中。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:23",
+    "japanese": "5.まるでゆで卵のような綺麗な肌です。",
+    "furigana": "5.まるでゆで<ruby>卵<rt>たまご</rt></ruby>のような<ruby>奇<rt>き</rt></ruby><ruby>麗<rt>れい</rt></ruby>な<ruby>肌<rt>はだ</rt></ruby>です。",
+    "segmentation": "5.まるでゆで卵のような | 綺麗な肌です。",
+    "translation": {
+      "natural": "5.肌膚光滑得簡直就像剝殼的水煮蛋一樣。",
+      "literal": "5.簡直像水煮蛋一樣的漂亮的肌膚。"
+    },
+    "words": [
+      {
+        "word": "ゆで卵",
+        "reading": "ゆでたまご",
+        "note": "名詞，水煮蛋"
+      },
+      {
+        "word": "綺麗",
+        "reading": "きれい",
+        "note": "な形容詞，漂亮的、光滑潔白的"
+      },
+      {
+        "word": "肌",
+        "reading": "はだ",
+        "note": "名詞，肌膚"
+      }
+    ],
+    "context_grammar": [
+      "綺麗な：な形容詞「綺麗」的連體形，接續名詞「肌」。",
+      "「まるでゆで卵のような」是美妝產品或保養品廣告中極常見的比喻修飾。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:28",
+    "japanese": "6.まるで馬のような長い顔です。",
+    "furigana": "6.まるで<ruby>馬<rt>うま</rt></ruby>のような<ruby>長<rt>なが</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>です。",
+    "segmentation": "6.まるで馬のような | 長い顔です。",
+    "translation": {
+      "natural": "6.臉長得簡直就像馬面一樣。",
+      "literal": "6.簡直像馬一樣的長臉。"
+    },
+    "words": [
+      {
+        "word": "馬",
+        "reading": "うま",
+        "note": "名詞，馬"
+      },
+      {
+        "word": "長い",
+        "reading": "ながい",
+        "note": "い形容詞，長的"
+      }
+    ],
+    "context_grammar": [
+      "まるで馬のような：比喻結構後接「長い顔」，用於生動形容臉型的特徵。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:32",
+    "japanese": "7.まるでキツネのようなつり目です。",
+    "furigana": "7.まるでキツネのようなつり<ruby>目<rt>め</rt></ruby>です。",
+    "segmentation": "7.まるでキツネのような | つり目です。",
+    "translation": {
+      "natural": "7.鳳眼銳利得簡直就像狐狸一樣。",
+      "literal": "7.簡直像狐狸一樣的吊眼。"
+    },
+    "words": [
+      {
+        "word": "キツネ",
+        "reading": "キツネ",
+        "note": "名詞，狐狸"
+      },
+      {
+        "word": "つり目",
+        "reading": "つりめ",
+        "note": "名詞，鳳眼、眼角上揚的眼睛"
+      }
+    ],
+    "context_grammar": [
+      "つり目：由動詞「釣る」複合名詞「目」而來的名詞，指眼角上揚的眼神特徵。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:36",
+    "japanese": "8.まるでタヌキのような目です。",
+    "furigana": "8.まるでタヌキのような<ruby>目<rt>め</rt></ruby>です。",
+    "segmentation": "8.まるでタヌキのような | 目です。",
+    "translation": {
+      "natural": "8.眼睛圓滾滾的簡直就像狸貓一樣。",
+      "literal": "8.簡直像狸貓一樣的眼睛。"
+    },
+    "words": [
+      {
+        "word": "タヌキ",
+        "reading": "タヌキ",
+        "note": "名詞，狸貓"
+      },
+      {
+        "word": "目",
+        "reading": "め",
+        "note": "名詞，眼睛"
+      }
+    ],
+    "context_grammar": [
+      "「まるでタヌキのような」修飾名詞「目」，常用於形容圓潤、無辜的眼型。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:40",
+    "japanese": "9.まるでキリンのような背が高い人です。",
+    "furigana": "9.まるでキリンのような<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>です。",
+    "segmentation": "9.まるでキリンのような | 背が高い人です。",
+    "translation": {
+      "natural": "9.身材高大得簡直就像長頸鹿一樣。",
+      "literal": "9.簡直像長頸鹿一樣的身高高的人。"
+    },
+    "words": [
+      {
+        "word": "キリン",
+        "reading": "キリン",
+        "note": "名詞，長頸鹿"
+      },
+      {
+        "word": "背が高い",
+        "reading": "せがたかい",
+        "note": "片語，身材高大的"
+      },
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人"
+      }
+    ],
+    "context_grammar": [
+      "背が高い：主謂片語「背（主語）＋が（主格助詞）＋高い（形容詞）」，在句中作為連體修飾限定「人」。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:46",
+    "japanese": "10.まるでゾウのような太い足です。",
+    "furigana": "10.まるでゾウのような<ruby>太<rt>ふと</rt></ruby>い<ruby>足<rt>あし</rt></ruby>です。",
+    "segmentation": "10.まるでゾウのような | 太い足です。",
+    "translation": {
+      "natural": "10.腿粗得簡直就像大象的腳一樣。",
+      "literal": "10.簡直像大象一樣的粗腿。"
+    },
+    "words": [
+      {
+        "word": "ゾウ",
+        "reading": "ゾウ",
+        "note": "名詞，大象"
+      },
+      {
+        "word": "太い",
+        "reading": "ふとい",
+        "note": "い形容詞，粗的"
+      },
+      {
+        "word": "足",
+        "reading": "あし",
+        "note": "名詞，腿、腳"
+      }
+    ],
+    "context_grammar": [
+      "まるで～のような修飾「太い足」，屬於形象化且誇張的比喻用法。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:50",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "014",
+    "time": "00:51",
+    "japanese": "赤ちゃんの手はまるでモミジのような手ですね。ええ、小さくて可愛いでしょう。",
+    "furigana": "<ruby>赤<rt>あか</rt></ruby>ちゃんの手はまるでモミジのような手ですね。ええ、<ruby>小<rt>ちい</rt></ruby>さくて<ruby>可<rt>か</rt></ruby><ruby>愛<rt>あい</rt></ruby>いでしょう。",
+    "segmentation": "赤ちゃんの手は | まるでモミジのような | 手ですね。| ええ、| 小さくて | 可愛いでしょう。",
+    "translation": {
+      "natural": "小寶寶的手簡直就像小楓葉一樣呢。對啊，又小又可愛對吧。",
+      "literal": "嬰兒的手是簡直像楓葉一樣的手呢。是的，小且可愛吧。"
+    },
+    "words": [
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "note": "名詞，嬰兒、小寶寶"
+      },
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "note": "い形容詞，小的（て形為小さくて）"
+      },
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "い形容詞，可愛的"
+      },
+      {
+        "word": "でしょう",
+        "reading": "でしょう",
+        "note": "助動詞，對吧、對不對（徵求同意）"
+      }
+    ],
+    "context_grammar": [
+      "小さくて：い形容詞「小さい」去「い」加「くて」轉為中連形（て形），用於連接下一個形容詞「可愛い」，表示「既…又…」。",
+      "でしょう：尾音上揚表示向對方徵求共鳴或確認（對吧？）。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:59",
+    "japanese": "197.見えます",
+    "furigana": "197.<ruby>見<rt>み</rt></ruby>えます",
+    "segmentation": "197.見えます",
+    "translation": {
+      "natural": "197.看起來……／看得見",
+      "literal": "197.看起來／能看見。"
+    },
+    "words": [
+      {
+        "word": "見えます",
+        "reading": "みえます",
+        "note": "動詞，看得見、顯得、看起來（見える的丁寧語）"
+      }
+    ],
+    "context_grammar": [
+      "見えます：自發動詞「見える」的丁寧體，此處作「給人某種視覺印象、顯得…」之意。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:03",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "017",
+    "time": "01:04",
+    "japanese": "1.綺麗に見えます。",
+    "furigana": "1.<ruby>奇<rt>き</rt></ruby><ruby>麗<rt>れい</rt></ruby>に<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "1.綺麗に | 見えます。",
+    "translation": {
+      "natural": "1.看起來很漂亮／顯得漂亮。",
+      "literal": "1.漂亮地看起來。"
+    },
+    "words": [
+      {
+        "word": "綺麗",
+        "reading": "きれい",
+        "note": "な形容詞，漂亮的、乾淨的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞詞尾「だ」變「に」＋動詞「見えます」：將な形容詞副詞化，修飾動詞「見えます」，表示「給人美麗的視覺印象」。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:07",
+    "japanese": "2.ハンサムに見えます。",
+    "furigana": "2.ハンサムに<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "2.ハンサムに | 見えます。",
+    "translation": {
+      "natural": "2.看起來很帥氣／顯得英俊。",
+      "literal": "2.英俊地看起來。"
+    },
+    "words": [
+      {
+        "word": "ハンサム",
+        "reading": "ハンサム",
+        "note": "な形容詞，英俊的、帥氣的（源自 handsome）"
+      }
+    ],
+    "context_grammar": [
+      "外來語な形容詞「ハンサム」加「に」副詞化後，修飾後方動詞「見えます」。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:10",
+    "japanese": "3.若く見えます。",
+    "furigana": "3.<ruby>若<rt>わか</rt></ruby>く<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "3.若く | 見えます。",
+    "translation": {
+      "natural": "3.看起來很年輕／顯年輕。",
+      "literal": "3.年輕地看起來。"
+    },
+    "words": [
+      {
+        "word": "若い",
+        "reading": "わかい",
+        "note": "い形容詞，年輕的"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞詞尾「い」變「く」＋動詞「見えます」：い形容詞副詞化修飾動詞，為日文中讚美他人外表的超高頻句型。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:13",
+    "japanese": "4.ふけて見えます。",
+    "furigana": "4.ふけて<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "4.ふけて | 見えます。",
+    "translation": {
+      "natural": "4.顯老／看起來顯得老氣。",
+      "literal": "4.衰老地看起來。"
+    },
+    "words": [
+      {
+        "word": "ふける",
+        "reading": "ふける",
+        "note": "動詞（下一段），變老、衰老（て形為ふけて）"
+      }
+    ],
+    "context_grammar": [
+      "動詞て形＋見えます：動詞「ふける」轉連用形（て形）「ふけて」，與「見えます」結合表示狀態顯現。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:16",
+    "japanese": "5.可愛く見えます。",
+    "furigana": "5.<ruby>可<rt>か</rt></ruby><ruby>愛<rt>あい</rt></ruby>く<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "5.可愛く | 見えます。",
+    "translation": {
+      "natural": "5.看起來很可愛／顯得可愛。",
+      "literal": "5.可愛地看起來。"
+    },
+    "words": [
+      {
+        "word": "可愛い",
+        "reading": "かわいい",
+        "note": "い形容詞，可愛的"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「可愛い」副詞化（去「い」加「く」）修飾動詞「見えます」。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:19",
+    "japanese": "6.明るく見えます。",
+    "furigana": "6.<ruby>明<rt>あか</rt></ruby>るく<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "6.明るく | 見えます。",
+    "translation": {
+      "natural": "6.看起來很開朗／氣色顯得明亮。",
+      "literal": "6.明亮地看起來。"
+    },
+    "words": [
+      {
+        "word": "明るい",
+        "reading": "あかるい",
+        "note": "い形容詞，明亮的、性格開朗的"
+      }
+    ],
+    "context_grammar": [
+      "「明るい」變「明るく」修飾「見えます」，常用於形容穿搭讓人氣色變好、視覺效果變亮。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:23",
+    "japanese": "7.暗く見えます。",
+    "furigana": "7.<ruby>暗<rt>くら</rt></ruby>く<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "7.暗く | 見えます。",
+    "translation": {
+      "natural": "7.看起來很昏暗／氣色顯得陰沉。",
+      "literal": "7.陰暗地看起來。"
+    },
+    "words": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "note": "い形容詞，陰暗的、沉重的"
+      }
+    ],
+    "context_grammar": [
+      "い形容詞「暗い」副詞化變「暗く」，修飾後方「見えます」。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:26",
+    "japanese": "8.嬉しそうに見えます。",
+    "furigana": "8.<ruby>嬉<rt>うれ</rt></ruby>しそうに<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "8.嬉しそうに | 見えます。",
+    "translation": {
+      "natural": "8.看起來好像很高興的樣子。",
+      "literal": "8.高興貌地看起來。"
+    },
+    "words": [
+      {
+        "word": "嬉しい",
+        "reading": "うれしい",
+        "note": "い形容詞，高興的（樣態形為嬉しそう）"
+      }
+    ],
+    "context_grammar": [
+      "形容詞樣態語尾「そう」＋に＋見えます：い形容詞「嬉しい」去「い」接樣態助動詞「そう」，再加「に」副詞化，形容觀察對方外表所推測出的心情印象。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:29",
+    "japanese": "9.楽しそうに見えます。",
+    "furigana": "9.<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "9.楽しそうに | 見えます。",
+    "translation": {
+      "natural": "9.看起來好像很開心的樣子。",
+      "literal": "9.快樂貌地看起來。"
+    },
+    "words": [
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "note": "い形容詞，快樂的、愉快的"
+      }
+    ],
+    "context_grammar": [
+      "「楽しい」去「い」＋「そうに」修飾「見えます」，表示視覺上感受到的快樂氛圍。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:33",
+    "japanese": "10.美味しそうに見えます。",
+    "furigana": "10.<ruby>美<rt>おい</rt></ruby><ruby>味<rt>し</rt></ruby>そうに<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "10.美味しそうに | 見えます。",
+    "translation": {
+      "natural": "10.美味可口的樣子／看起來很好吃。",
+      "literal": "10.好吃貌地看起來。"
+    },
+    "words": [
+      {
+        "word": "美味しい",
+        "reading": "おいしい",
+        "note": "い形容詞，好吃的"
+      }
+    ],
+    "context_grammar": [
+      "「美味しい」去「い」＋「そうに」副詞化後修飾動詞「見えます」，美食影片或餐飲廣告中極高頻出現。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:37",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "028",
+    "time": "01:38",
+    "japanese": "この服はどうですか？顔が明るく見えますよ。",
+    "furigana": "この<ruby>服<rt>ふく</rt></ruby>はどうですか？<ruby>顔<rt>かお</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るく<ruby>見<rt>み</rt></ruby>えますよ。",
+    "segmentation": "この服は | どうですか？| 顔が | 明るく見えますよ。",
+    "translation": {
+      "natural": "這件衣服怎麼樣呢？這會讓你的氣色看起來很亮麗喔。",
+      "literal": "這件衣服是怎麼樣？臉明亮地看得見唷。"
+    },
+    "words": [
+      {
+        "word": "服",
+        "reading": "ふく",
+        "note": "名詞，衣服"
+      },
+      {
+        "word": "どう",
+        "reading": "どう",
+        "note": "副詞/疑問詞，如何、怎樣"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "note": "終助詞，用於告知或強調意見（唷/喔）"
+      }
+    ],
+    "context_grammar": [
+      "どうですか：詢問對方意見的標準禮貌句型。",
+      "主格助詞「が」：強調「顔（臉色、氣色）」這個部位顯得明亮。",
+      "終助詞「よ」：給予對方親切的服裝建議。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:45",
+    "japanese": "198.を見る目があります",
+    "furigana": "198.を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります",
+    "segmentation": "198.を見る目があります",
+    "translation": {
+      "natural": "198.有鑑賞……眼光／很會挑選……",
+      "literal": "198.有看…的眼睛。"
+    },
+    "words": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看、鑑賞（連體形為見る）"
+      },
+      {
+        "word": "目",
+        "reading": "め",
+        "note": "名詞，眼睛、眼光"
+      },
+      {
+        "word": "ある",
+        "reading": "ある",
+        "note": "動詞，有（丁寧語為あります）"
+      }
+    ],
+    "context_grammar": [
+      "～を見る目：動詞辭書形「見る」連體修飾名詞「目」，慣用語表示對某領域具有專業眼光或鑑賞力。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:49",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "031",
+    "time": "01:50",
+    "japanese": "1.人を見る目があります。",
+    "furigana": "1.<ruby>人<rt>ひと</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "1.人を見る目が | あります。",
+    "translation": {
+      "natural": "1.有識人的眼光／很會看人。",
+      "literal": "1.有看人的眼睛。"
+    },
+    "words": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人、識人"
+      }
+    ],
+    "context_grammar": [
+      "人を見る目：賓語「人」＋目的格助詞「を」＋動詞修飾語「見る目」，指看穿人的性格或能力的識人眼光。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "01:54",
+    "japanese": "2.物を見る目があります。",
+    "furigana": "2.<ruby>物<rt>もの</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "2.物を見る目が | あります。",
+    "translation": {
+      "natural": "2.挑東西很有一套／有鑑賞物品的眼光。",
+      "literal": "2.有看物的眼睛。"
+    },
+    "words": [
+      {
+        "word": "物",
+        "reading": "もの",
+        "note": "名詞，物品、東西"
+      }
+    ],
+    "context_grammar": [
+      "「物を見る目」為購物或藝術品鑑賞領域讚美他人品味的慣用法。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "01:57",
+    "japanese": "3.家を見る目があります。",
+    "furigana": "3.<ruby>家<rt>うち</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "3.家を見る目が | あります。",
+    "translation": {
+      "natural": "3.很有挑房子的眼光。",
+      "literal": "3.有看房子的眼睛。"
+    },
+    "words": [
+      {
+        "word": "家",
+        "reading": "うち",
+        "note": "名詞，房屋、住宅"
+      }
+    ],
+    "context_grammar": [
+      "賓語「家（うち）」由「を」連接「見る目」，指能評估房屋品質與價值的眼光。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:01",
+    "japanese": "4.宝石を見る目があります。",
+    "furigana": "4.<ruby>宝<rt>ほう</rt></ruby><ruby>石<rt>せき</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "4.宝石を見る目が | あります。",
+    "translation": {
+      "natural": "4.有鑑賞寶石的眼光。",
+      "literal": "4.有看寶石的眼睛。"
+    },
+    "words": [
+      {
+        "word": "宝石",
+        "reading": "ほうせき",
+        "note": "名詞，寶石"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞「宝石」做賓語，讚嘆對方精通奢侈品鑑定。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:05",
+    "japanese": "5.犬を見る目があります。",
+    "furigana": "5.<ruby>犬<rt>いぬ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "5.犬を見る目が | あります。",
+    "translation": {
+      "natural": "5.很會挑選好狗／懂狗。",
+      "literal": "5.有看狗的眼睛。"
+    },
+    "words": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "note": "名詞，狗"
+      }
+    ],
+    "context_grammar": [
+      "「犬を見る目」指懂得揀選優良品種或觀察狗狗潛質。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:08",
+    "japanese": "6.猫を見る目があります。",
+    "furigana": "6.<ruby>猫<rt>ねこ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "6.猫を見る目が | あります。",
+    "translation": {
+      "natural": "6.很會挑選貓咪／懂貓。",
+      "literal": "6.有看貓的眼睛。"
+    },
+    "words": [
+      {
+        "word": "猫",
+        "reading": "ねこ",
+        "note": "名詞，貓"
+      }
+    ],
+    "context_grammar": [
+      "名詞「猫」加上目的格「を」與「見る目があります」結合。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:12",
+    "japanese": "7.車を見る目があります。",
+    "furigana": "7.<ruby>車<rt>くるま</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "7.車を見る目が | あります。",
+    "translation": {
+      "natural": "7.很有挑車子的眼光／懂車。",
+      "literal": "7.有看車的眼睛。"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，汽車、車子"
+      }
+    ],
+    "context_grammar": [
+      "「車を見る目」常用於汽車廣告或男性話題間讚美對方識貨。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:16",
+    "japanese": "8.絵を見る目があります。",
+    "furigana": "8.<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "8.絵を見る目が | あります。",
+    "translation": {
+      "natural": "8.有鑑賞畫作的品味／眼光。",
+      "literal": "8.有看畫的眼睛。"
+    },
+    "words": [
+      {
+        "word": "絵",
+        "reading": "え",
+        "note": "名詞，畫作、圖畫"
+      }
+    ],
+    "context_grammar": [
+      "「絵を見る目」指藝術鑑賞能力與美學品味。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:20",
+    "japanese": "9.骨董品を見る目があります。",
+    "furigana": "9.<ruby>骨<rt>こっ</rt></ruby><ruby>董<rt>とう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "9.骨董品を見る目が | あります。",
+    "translation": {
+      "natural": "9.很有鑑賞古董的眼光。",
+      "literal": "9.有看古董的眼睛。"
+    },
+    "words": [
+      {
+        "word": "骨董品",
+        "reading": "こっとうひん",
+        "note": "名詞，古董、古玩"
+      }
+    ],
+    "context_grammar": [
+      "「骨董品」為鑑識門檻極高的領域，與「見る目があります」搭配最具代表性。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:24",
+    "japanese": "10.書を見る目があります。",
+    "furigana": "10.<ruby>書<rt>しょ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>があります。",
+    "segmentation": "10.書を見る目が | あります。",
+    "translation": {
+      "natural": "10.有鑑賞書法作品的眼光。",
+      "literal": "10.有看書法的眼睛。"
+    },
+    "words": [
+      {
+        "word": "書",
+        "reading": "しょ",
+        "note": "名詞，書法、墨寶"
+      }
+    ],
+    "context_grammar": [
+      "單字「書」指書法墨寶，句型為傳統藝術鑑賞的極佳表述。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:28",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "042",
+    "time": "02:29",
+    "japanese": "これは素晴らしい骨董品ですね。あなたは骨董品を見る目がありますね。",
+    "furigana": "これは<ruby>すばらし<rt></rt></ruby>い<ruby>骨<rt>こっ</rt></ruby><ruby>董<rt>とう</rt></ruby><ruby>品<rt>ひん</rt></ruby>ですね。あなたは<ruby>骨<rt>こっ</rt></ruby><ruby>董<rt>とう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目<rt>め</rt></ruby>がありますね。",
+    "segmentation": "これは | 素晴らしい骨董品ですね。| あなたは | 骨董品を見る目が | ありますね。",
+    "translation": {
+      "natural": "這真是一件出色的古董呢。您真的很具有鑑賞古董的眼光呢。",
+      "literal": "這是出色的古董呢。你有看古董的眼睛呢。"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "い形容詞，極好的、絕妙的"
+      },
+      {
+        "word": "あなた",
+        "reading": "あなた",
+        "note": "代名詞，您、你"
+      }
+    ],
+    "context_grammar": [
+      "素晴らしい骨董品：い形容詞直接連體修飾名詞「骨董品」。",
+      "終助詞「ね」：用於認同與感嘆，讚美對方的品味與內涵。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:38",
+    "japanese": "199.便利です",
+    "furigana": "199.<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です",
+    "segmentation": "199.便利です",
+    "translation": {
+      "natural": "199.方便／非常便利",
+      "literal": "199.是便利。"
+    },
+    "words": [
+      {
+        "word": "便利",
+        "reading": "べんり",
+        "note": "な形容詞，便利的、方便的"
+      }
+    ],
+    "context_grammar": [
+      "便利です：な形容詞「便利」後接「です」組成謂語，用於描述設施、道具或行動的便利性。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:41",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "045",
+    "time": "02:42",
+    "japanese": "1.交通が便利です。",
+    "furigana": "1.<ruby>交<rt>こう</rt></ruby><ruby>通<rt>つう</rt></ruby>が<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "1.交通が | 便利です。",
+    "translation": {
+      "natural": "1.交通很便利。",
+      "literal": "1.交通是便利。"
+    },
+    "words": [
+      {
+        "word": "交通",
+        "reading": "こうつう",
+        "note": "名詞，交通"
+      }
+    ],
+    "context_grammar": [
+      "主格助詞「が」：標示「交通」為便利的主語，常用於飯店介紹、地產建案旁白。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:46",
+    "japanese": "2.買い物に便利です。",
+    "furigana": "2.<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "2.買い物に | 便利です。",
+    "translation": {
+      "natural": "2.對於採買購物非常方便。",
+      "literal": "2.在購物上是便利。"
+    },
+    "words": [
+      {
+        "word": "買い物",
+        "reading": "かいもの",
+        "note": "名詞，購物、買東西"
+      }
+    ],
+    "context_grammar": [
+      "名詞＋に＋便利です：格助詞「に」標示「對象、目的/範疇」，表示在「購物」這件事情上很方便。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:49",
+    "japanese": "3.登山に便利です。",
+    "furigana": "3.<ruby>登<rt>と</rt></ruby><ruby>山<rt>ざん</rt></ruby>に<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "3.登山に | 便利です。",
+    "translation": {
+      "natural": "3.適合登山／對登山來說很方便。",
+      "literal": "3.在登山上是便利。"
+    },
+    "words": [
+      {
+        "word": "登山",
+        "reading": "とざん",
+        "note": "名詞，登山、爬山"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋に」指定適用用途（登山），常用於戶外裝備宣傳文案。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:53",
+    "japanese": "4.運動するのに便利です。",
+    "furigana": "4.<ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>するのに<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "4.運動するのに | 便利です。",
+    "translation": {
+      "natural": "4.很適合做運動／做運動時非常方便。",
+      "literal": "4.在做運動這件事上是便利。"
+    },
+    "words": [
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動"
+      }
+    ],
+    "context_grammar": [
+      "動詞辭書形＋の＋に＋便利：形式名詞「の」將動詞「運動する」名詞化，後接助詞「に」標示目的用途。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "02:57",
+    "japanese": "5.見るのに便利です。",
+    "furigana": "5.<ruby>見<rt>み</rt></ruby>るのに<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "5.見るのに | 便利です。",
+    "translation": {
+      "natural": "5.很方便觀賞／查閱。",
+      "literal": "5.在看這件事上是便利。"
+    },
+    "words": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看、觀賞"
+      }
+    ],
+    "context_grammar": [
+      "「動詞連體形（見る）＋の＋に」：將「看」的動作名詞化後，說明對該用途來說很方便。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:00",
+    "japanese": "6.調べるのに便利です。",
+    "furigana": "6.<ruby>調<rt>しら</rt></ruby>べるのに<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "6.調べるのに | 便利です。",
+    "translation": {
+      "natural": "6.很方便查資料／檢索。",
+      "literal": "6.在調查這件事上是便利。"
+    },
+    "words": [
+      {
+        "word": "調べる",
+        "reading": "しらべる",
+        "note": "動詞，調查、查閱"
+      }
+    ],
+    "context_grammar": [
+      "動詞名詞化句型「調べる＋のに＋便利です」，多用於字典、APP或搜尋引擎的特色宣傳。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:04",
+    "japanese": "7.旅行に便利です。",
+    "furigana": "7.<ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "7.旅行に | 便利です。",
+    "translation": {
+      "natural": "7.很適合旅行時使用／對旅遊很有幫助。",
+      "literal": "7.在旅行上是便利。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "「旅行（名詞）＋に＋便利です」：旅行好物必備的行銷推薦用語。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:07",
+    "japanese": "8.携帯に便利です。",
+    "furigana": "8.<ruby>携<rt>けい</rt></ruby><ruby>帯<rt>たい</rt></ruby>に<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "8.携帯に | 便利です。",
+    "translation": {
+      "natural": "8.方便隨身攜帶。",
+      "literal": "8.在攜帶上是便利。"
+    },
+    "words": [
+      {
+        "word": "携帯",
+        "reading": "けいたい",
+        "note": "名詞，攜帶、隨身帶"
+      }
+    ],
+    "context_grammar": [
+      "「携帯に便利」為日文商品包裝標語極其常見的固定搭配（輕巧好帶）。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:11",
+    "japanese": "9.世話をするのに便利です。",
+    "furigana": "9.<ruby>世<rt>せ</rt></ruby><ruby>話<rt>わ</rt></ruby>をするのに<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "9.世話をするのに | 便利です。",
+    "translation": {
+      "natural": "9.很方便照顧（寵物/家人）。",
+      "literal": "9.在照顧這件事上是便利。"
+    },
+    "words": [
+      {
+        "word": "世話をする",
+        "reading": "せわをする",
+        "note": "片語，照料、照顧"
+      }
+    ],
+    "context_grammar": [
+      "世話をする（動詞辭書形）＋の（名詞化）＋に（目的）＋便利です。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:15",
+    "japanese": "10.飲むのに便利です。",
+    "furigana": "10.<ruby>飲<rt>の</rt></ruby>むのに<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>です。",
+    "segmentation": "10.飲むのに | 便利です。",
+    "translation": {
+      "natural": "10.很方便飲用。",
+      "literal": "10.在喝這件事上是便利。"
+    },
+    "words": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝、飲用"
+      }
+    ],
+    "context_grammar": [
+      "「飲む＋のに＋便利です」：常用於包裝設計（如保溫瓶、小包裝飲料）的特點介紹。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:19",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "056",
+    "time": "03:20",
+    "japanese": " meこちらはいかがですか？これは軽くて携帯に便利ですね。",
+    "furigana": "こちらはいかがですか？これは<ruby>軽<rt>かる</rt></ruby>くて<ruby>携<rt>けい</rt></ruby><ruby>帯<rt>たい</rt></ruby>に<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>ですね。",
+    "segmentation": "こちらはいかがですか？| これは | 軽くて | 携帯に便利ですね。",
+    "translation": {
+      "natural": "請問這個您覺得如何呢？這個既輕巧又很方便隨身攜帶呢。",
+      "literal": "這位（這個）是怎樣？這個輕且在攜帶上是便利呢。"
+    },
+    "words": [
+      {
+        "word": "こちら",
+        "reading": "こちら",
+        "note": "代名詞，這個、這一位（敬稱/禮貌語）"
+      },
+      {
+        "word": "いかが",
+        "reading": "いかが",
+        "note": "副詞，如何（「どう」的禮貌說法）"
+      },
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "note": "い形容詞，輕的（て形為軽くて）"
+      }
+    ],
+    "context_grammar": [
+      "いかがですか：商務或門市銷售中，推銷商品給客人時最標準的禮貌詢問語。",
+      "軽くて：い形容詞「軽い」去「い」加「くて」表並列接續，說明「既輕巧又方便」。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:28",
+    "japanese": "200.ユニークな",
+    "furigana": "200.ユニークな",
+    "segmentation": "200.ユニークな",
+    "translation": {
+      "natural": "200.獨特的／別具一格的",
+      "literal": "200.獨特的。"
+    },
+    "words": [
+      {
+        "word": "ユニーク",
+        "reading": "ユニーク",
+        "note": "な形容詞，獨特的、新穎獨創的（源自 unique）"
+      }
+    ],
+    "context_grammar": [
+      "ユニークな：外來語な形容詞的連體形（加「な」），後接名詞進行修飾，強調獨特性與原創感。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:31",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "059",
+    "time": "03:32",
+    "japanese": "1.ユニークな人",
+    "furigana": "1.ユニークな<ruby>人<rt>ひと</rt></ruby>",
+    "segmentation": "1.ユニークな人",
+    "translation": {
+      "natural": "1.風趣獨特的人／特別的人。",
+      "literal": "1.獨特的人。"
+    },
+    "words": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人"
+      }
+    ],
+    "context_grammar": [
+      "ユニークな人：な形容詞修飾名詞，在日文中常帶有褒義，形容個性有趣、有個人風格的人。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:35",
+    "japanese": "2.ユニークな作品",
+    "furigana": "2.ユニークな<ruby>作<rt>さく</rt></ruby><ruby>品<rt>ひん</rt></ruby>",
+    "segmentation": "2.ユニークな作品",
+    "translation": {
+      "natural": "2.別出心裁的作品／獨創的作品。",
+      "literal": "2.獨特的作品。"
+    },
+    "words": [
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "note": "名詞，作品"
+      }
+    ],
+    "context_grammar": [
+      "「ユニークな作品」常用於展覽導覽或藝術品評論旁白。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:38",
+    "japanese": "3.ユニークな商品",
+    "furigana": "3.ユニークな<ruby>商<rt>しょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>",
+    "segmentation": "3.ユニークな商品",
+    "translation": {
+      "natural": "3.別具一格的新奇商品。",
+      "literal": "3.獨特商品。"
+    },
+    "words": [
+      {
+        "word": "商品",
+        "reading": "しょうひん",
+        "note": "名詞，商品"
+      }
+    ],
+    "context_grammar": [
+      "「ユニークな商品」為電商與文創產業行銷文案超高頻出現的詞組。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "03:42",
+    "japanese": "4.ユニークなカバン",
+    "furigana": "4.ユニークなカバン",
+    "segmentation": "4.ユニークなカバン",
+    "translation": {
+      "natural": "4.造型獨特的包包。",
+      "literal": "4.獨特的包包。"
+    },
+    "words": [
+      {
+        "word": "カバン",
+        "reading": "カバン",
+        "note": "名詞，公事包、包包"
+      }
+    ],
+    "context_grammar": [
+      "「ユニークな」修飾外來語名詞「カバン」，強調設計感強烈。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:45",
+    "japanese": "5.ユニークな家具",
+    "furigana": "5.ユニークな<ruby>家<rt>か</rt></ruby><ruby>具<rt>ぐ</rt></ruby>",
+    "segmentation": "5.ユニークな家具",
+    "translation": {
+      "natural": "5.造型別緻的家具。",
+      "literal": "5.獨特的家具。"
+    },
+    "words": [
+      {
+        "word": "家具",
+        "reading": "かぐ",
+        "note": "名詞，家具"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞連體形「ユニークな」修飾漢語名詞「家具」。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "03:48",
+    "japanese": "6.ユニークな乗り物",
+    "furigana": "6.ユニークな<ruby>乗<rt>の</rt></ruby>り<ruby>物<rt>もの</rt></ruby>",
+    "segmentation": "6.ユニークな乗り物",
+    "translation": {
+      "natural": "6.奇特獨特的交通工具。",
+      "literal": "6.獨特的乘坐物。"
+    },
+    "words": [
+      {
+        "word": "乗り物",
+        "reading": "のりもの",
+        "note": "名詞，交通工具、遊樂設施"
+      }
+    ],
+    "context_grammar": [
+      "乗り物：由動詞「乗る」連用形複合名詞「物」形成的詞組，前接連體修飾「ユニークな」。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "03:52",
+    "japanese": "7.ユニークなゲーム",
+    "furigana": "7.ユニークなゲーム",
+    "segmentation": "7.ユニークなゲーム",
+    "translation": {
+      "natural": "7.玩法新穎獨特的遊戲。",
+      "literal": "7.獨特的遊戲。"
+    },
+    "words": [
+      {
+        "word": "ゲーム",
+        "reading": "ゲーム",
+        "note": "名詞，遊戲、電玩"
+      }
+    ],
+    "context_grammar": [
+      "「ユニークなゲーム」常用於遊戲評測或發佈會介紹。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "03:55",
+    "japanese": "8.ユニークな本",
+    "furigana": "8.ユニークな<ruby>本<rt>ほん</rt></ruby>",
+    "segmentation": "8.ユニークな本",
+    "translation": {
+      "natural": "8.內容特別的书。",
+      "literal": "8.獨特的書。"
+    },
+    "words": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "note": "名詞，書本、書籍"
+      }
+    ],
+    "context_grammar": [
+      "「ユニークな」修飾「本」，指題材特殊或裝幀別致的書籍。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "03:59",
+    "japanese": "9.ユニークな飲み物",
+    "furigana": "9.ユニークな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>",
+    "segmentation": "9.ユニークな飲み物",
+    "translation": {
+      "natural": "9.風味獨特的飲料。",
+      "literal": "9.獨特的飲料。"
+    },
+    "words": [
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "note": "名詞，飲料、飲品"
+      }
+    ],
+    "context_grammar": [
+      "飲み物：動詞「飲む」連用形＋物，前接連體修飾「ユニークな」。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:02",
+    "japanese": "10.ユニークな店",
+    "furigana": "10.ユニークな<ruby>店<rt>みせ</rt></ruby>",
+    "segmentation": "10.ユニークな店",
+    "translation": {
+      "natural": "10.特色獨具的店家。",
+      "literal": "10.獨特的店家。"
+    },
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "note": "名詞，店家、商店"
+      }
+    ],
+    "context_grammar": [
+      "「ユニークな店」常用於美食雜誌或旅遊節目探店專題。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:06",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "070",
+    "time": "04:07",
+    "japanese": "これはパールミルクティーです。ユニークな飲み物ですね。",
+    "furigana": "これはパールミルクティーです。ユニークな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>ですね。",
+    "segmentation": "これは | パールミルクティーです。| ユニークな飲み物ですね。",
+    "translation": {
+      "natural": "這是珍珠奶茶。真是別具特色的一款飲料呢。",
+      "literal": "這是珍珠奶茶。是獨特的飲料呢。"
+    },
+    "words": [
+      {
+        "word": "パールミルクティー",
+        "reading": "パールミルクティー",
+        "note": "名詞，珍珠奶茶（源自 pearl milk tea）"
+      }
+    ],
+    "context_grammar": [
+      "指示代名詞「これ」作主題標示眼前事物。",
+      "感嘆終助詞「ね」：用於認同對象新穎感，讚嘆產品特色。"
+    ]
+  }
+]

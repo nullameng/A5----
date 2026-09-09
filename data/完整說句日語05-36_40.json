@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "186. はお似合いです。",
+    "furigana": "186. はお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "186. は | お似合いです。",
+    "translation": {
+      "natural": "186. 非常適合您。",
+      "literal": "186. 很合適。"
+    },
+    "words": [
+      {
+        "word": "似合う",
+        "reading": "ニアウ",
+        "note": "動詞，適合、相配（名詞化加「お」成為敬語「お似合い」）"
+      }
+    ],
+    "context_grammar": [
+      "お＋動詞連用形＋です：接頭辭「お」加上動詞「似合う」連用形，組合成名詞化的美化語／敬語表現，用來讚美對方穿搭或物品極為適合。",
+      "句型「〜はお似合いです」常用於服飾店、專櫃銷售員讚賞顧客試穿效果的經典客套用語。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:06",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:08",
+    "japanese": "1. そのネクタイはお似合いです。",
+    "furigana": "1. そのネクタイはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "1. そのネクタイは | お似合いです。",
+    "translation": {
+      "natural": "1. 那條領帶很適合您。",
+      "literal": "1. 那條領帶很合適。"
+    },
+    "words": [
+      {
+        "word": "ネクタイ",
+        "reading": "ねくたい",
+        "note": "名詞，領帶"
+      },
+      {
+        "word": "お似合い",
+        "reading": "おにあい",
+        "note": "名詞/形容動詞，適合、相配"
+      }
+    ],
+    "context_grammar": [
+      "指示代名詞「その」修飾後方名詞「ネクタイ」，「は」為主題格助詞，引出後方「お似合いです」作為對該項單品的讚美評語。",
+      "接待顧客時常見的讚美句構，展現尊崇對方的敬語語境。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:13",
+    "japanese": "2. そのシャツはお似合いです。",
+    "furigana": "2. そのシャツはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "2. そのシャツは | お似合いです。",
+    "translation": {
+      "natural": "2. 那件襯衫很適合您。",
+      "literal": "2. 那件襯衫很合適。"
+    },
+    "words": [
+      {
+        "word": "シャツ",
+        "reading": "しゃつ",
+        "note": "名詞，襯衫"
+      }
+    ],
+    "context_grammar": [
+      "「その」直接修飾外來詞名詞「シャツ」，後接句型「〜はお似合いです」。",
+      "服飾銷售廣告與日常接待中推介上半身穿搭的標準肯定句型。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:17",
+    "japanese": "3. その色はお似合いです。",
+    "furigana": "3. その<ruby>色<rt>いろ</rt></ruby>はお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "3. その色は | お似合いです。",
+    "translation": {
+      "natural": "3. 那個顏色很適合您。",
+      "literal": "3. 那個顏色很合適。"
+    },
+    "words": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      }
+    ],
+    "context_grammar": [
+      "連體詞「その」修飾單音節名詞「色（いろ）」，主題提示助詞「は」連接 predicates。「お似合いです」在此用於誇獎氣色或膚色搭襯此色調。",
+      "時尚與美妝推廣場合中，稱讚個人色彩（Personal Color）配對時的常用句法。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:21",
+    "japanese": "4. そのデザインはお似合いです。",
+    "furigana": "4. そのデザインはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "4. そのデザインは | お似合いです。",
+    "translation": {
+      "natural": "4. 那個款式設計很適合您。",
+      "literal": "4. 那個設計很合適。"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計、款式"
+      }
+    ],
+    "context_grammar": [
+      "「そのデザイン」修飾特定款式，將語意焦點從單品本身轉移至其版型與設計感上。",
+      "商業文宣與精品銷售中，肯定顧客個人品味與選品眼光的標準表達。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:26",
+    "japanese": "5. そのコートはお似合いです。",
+    "furigana": "5. そのコートはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "5. そのコートは | お似合いです。",
+    "translation": {
+      "natural": "5. 那件外套很適合您。",
+      "literal": "5. 那件大衣外套很合適。"
+    },
+    "words": [
+      {
+        "word": "コート",
+        "reading": "こーと",
+        "note": "名詞，大衣、外套"
+      }
+    ],
+    "context_grammar": [
+      "「そのコート」為主語語塊，配合丁寧語句尾「お似合いです」構成簡潔明確的肯定表達。",
+      "秋冬服飾推介影片中經常出現的稱讚示範。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:30",
+    "japanese": "6. そのスタイルはお似合いです。",
+    "furigana": "6. そのスタイルはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "6. そのスタイルは | お似合いです。",
+    "translation": {
+      "natural": "6. 那種風格造型很適合您。",
+      "literal": "6. 那種風格很合適。"
+    },
+    "words": [
+      {
+        "word": "スタイル",
+        "reading": "すたいる",
+        "note": "名詞，風格、風格造型、身形"
+      }
+    ],
+    "context_grammar": [
+      "外來語「スタイル」可指整體穿搭風格，由「その」限定說明，並以「お似合いです」結尾。",
+      "造型師或造型展示影片中，讚美整體風格（Total Look）的和諧度與契合度。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:35",
+    "japanese": "7. その帽子はお似合いです。",
+    "furigana": "7. その<ruby>帽<rt>ぼう</rt></ruby><ruby>子<rt>し</rt></ruby>はお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "7. その帽子は | お似合いです。",
+    "translation": {
+      "natural": "7. 那頂帽子很適合您。",
+      "literal": "7. 那頂帽子很合適。"
+    },
+    "words": [
+      {
+        "word": "帽子",
+        "reading": "ぼうし",
+        "note": "名詞，帽子"
+      }
+    ],
+    "context_grammar": [
+      "「その帽子」作為話題焦點，直接接續敬語句型「お似合いです」。",
+      "配件專櫃或穿搭節目中針對頭飾配件的常見讚賞語。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:39",
+    "japanese": "8. そのネイルアートはお似合いです。",
+    "furigana": "8. そのネイルアートはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "8. そのネイルアートは | お似合いです。",
+    "translation": {
+      "natural": "8. 那種指甲彩繪很適合您。",
+      "literal": "8. 那個美甲彩繪很合適。"
+    },
+    "words": [
+      {
+        "word": "ネイルアート",
+        "reading": "ねいるあーと",
+        "note": "名詞，指甲彩繪、美甲"
+      }
+    ],
+    "context_grammar": [
+      "複合外來詞「ネイルアート」被連體詞「その」修飾，後接主題助詞「は」。",
+      "美容沙龍或美甲推廣廣告中，肯定顧客選擇的藝術美甲款式。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:44",
+    "japanese": "9. そのサンダルはお似合いです。",
+    "furigana": "9. そのサンダルはお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "9. そのサンダルは | お似合いです。",
+    "translation": {
+      "natural": "9. 那雙涼鞋很適合您。",
+      "literal": "9. 那雙涼鞋很合適。"
+    },
+    "words": [
+      {
+        "word": "サンダル",
+        "reading": "さんだる",
+        "note": "名詞，涼鞋"
+      }
+    ],
+    "context_grammar": [
+      "「そのサンダル」作為句子的主語語塊，後接「お似合いです」表達對鞋履穿搭的肯定。",
+      "夏季鞋款廣告與門市銷售中的經典對話範例。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:49",
+    "japanese": "10. その水着はお似合いです。",
+    "furigana": "10. その<ruby>水<rt>みず</rt></ruby><ruby>着<rt>ぎ</rt></ruby>はお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いです。",
+    "segmentation": "10. その水着は | お似合いです。",
+    "translation": {
+      "natural": "10. 那件泳衣很適合您。",
+      "literal": "10. 那件泳衣很合適。"
+    },
+    "words": [
+      {
+        "word": "水着",
+        "reading": "みずぎ",
+        "note": "名詞，泳衣、泳裝"
+      }
+    ],
+    "context_grammar": [
+      "「水着（みずぎ）」前加連體詞「その」，後接肯定讚美敬語表現「お似合いです」。",
+      "泳裝穿搭建議與度假商品銷售語境中的基礎實用句型。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:54",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:56",
+    "japanese": "その水着はお似合いですよ。",
+    "furigana": "その<ruby>水<rt>みず</rt></ruby><ruby>着<rt>ぎ</rt></ruby>はお<ruby>似<rt>に</rt></ruby><ruby>合<rt>あ</rt></ruby>いですよ。",
+    "segmentation": "その水着は | お似合いですよ。",
+    "translation": {
+      "natural": "那件泳衣真的很適合您喔！",
+      "literal": "那件泳衣很合適喔。"
+    },
+    "words": [
+      {
+        "word": "よ",
+        "reading": "よ",
+        "note": "終助詞，用於告知、提醒或加強肯定語氣"
+      }
+    ],
+    "context_grammar": [
+      "句尾加上終助詞「よ」，強調傳達資訊與主觀熱情的肯定感，將原本客觀的陳述轉為積極推介的親切對話語氣。",
+      "商業銷售對話中，專櫃人員用以臨門一腳、增強顧客購買信心與好感的口語表達。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:59",
+    "japanese": "じゃ、これをください。",
+    "furigana": "じゃ、これをください。",
+    "segmentation": "じゃ、| これを | ください。",
+    "translation": {
+      "natural": "那麼，請給我這個（我要買這個）。",
+      "literal": "那麼，請給這個。"
+    },
+    "words": [
+      {
+        "word": "じゃ",
+        "reading": "じゃ",
+        "note": "接續詞，「では」的口語形式，那麼"
+      },
+      {
+        "word": "これ",
+        "reading": "これ",
+        "note": "代名詞，這個"
+      },
+      {
+        "word": "ください",
+        "reading": "ください",
+        "note": "動詞（くださる的命令形），請給"
+      }
+    ],
+    "context_grammar": [
+      "接續詞「じゃ」接續上文決策；「これ」做賓語，受格助詞「を」修飾，最終由表示請求的「ください」做動詞結尾。",
+      "顧客在接受推介後決定購買時，最道地且標準的買單交易用語。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:03",
+    "japanese": "187. は実用的です。",
+    "furigana": "187. は<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "187. は | 実用的です。",
+    "translation": {
+      "natural": "187. 很實用。",
+      "literal": "187. 是具實用性的。"
+    },
+    "words": [
+      {
+        "word": "実用的",
+        "reading": "じつようてき",
+        "note": "形容動詞，實用的、具實用性的"
+      }
+    ],
+    "context_grammar": [
+      "「実用的」為ナ形容詞（形容動詞），後接丁寧語助動詞「です」，構成對事物功能價值的肯定判斷。",
+      "產品測評廣告、開箱影片及功能性商品介紹中高頻率出現的評語。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:09",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:11",
+    "japanese": "1. スマートフォンは実用的です。",
+    "furigana": "1. スマートフォンは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "1. スマートフォンは | 実用的です。",
+    "translation": {
+      "natural": "1. 智慧型手機很實用。",
+      "literal": "1. 智慧型手機是實用的。"
+    },
+    "words": [
+      {
+        "word": "スマートフォン",
+        "reading": "すまーとふぉん",
+        "note": "名詞，智慧型手機（簡稱スマホ）"
+      }
+    ],
+    "context_grammar": [
+      "名詞「スマートフォン」經主題助詞「は」提示為討論主題，後續語塊「実用的です」進行屬性說明。",
+      "3C 產品開箱與科技產品廣告中的基礎敘述語句。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:15",
+    "japanese": "2. 自転車は実用的です。",
+    "furigana": "2. <ruby>自<rt>じ</rt></ruby><ruby>転<rt>てん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>は<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "2. 自転車は | 実用的です。",
+    "translation": {
+      "natural": "2. 自行車很實用。",
+      "literal": "2. 自行車是實用的。"
+    },
+    "words": [
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "note": "名詞，自行車、腳踏車"
+      }
+    ],
+    "context_grammar": [
+      "名詞「自転車」做主題，搭配「実用的です」表述交通工具的功能性特質。",
+      "都市代步工具簡介或生活用品介紹影片中的簡潔說明。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:20",
+    "japanese": "3. タブレットPCは実用的です。",
+    "furigana": "3. タブレットPCは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "3. タブレットPCは | 実用的です。",
+    "translation": {
+      "natural": "3. 平板電腦很實用。",
+      "literal": "3. 平板電腦是實用的。"
+    },
+    "words": [
+      {
+        "word": "タブレットPC",
+        "reading": "たぶれっとぴーしー",
+        "note": "名詞，平板電腦"
+      }
+    ],
+    "context_grammar": [
+      "外來語組合詞「タブレットPC」作為句中的主題，接「は」後導出「実用的です」。",
+      "商務文具與數位學習設備的產品評測用語。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:25",
+    "japanese": "4. 携帯スキャナーは実用的です。",
+    "furigana": "4. <ruby>携<rt>けい</rt></ruby><ruby>帯<rt>たい</rt></ruby>スキャナーは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "4. 携帯スキャナーは | 実用的です。",
+    "translation": {
+      "natural": "4. 便攜式掃描器很實用。",
+      "literal": "4. 攜帶型掃描器是實用的。"
+    },
+    "words": [
+      {
+        "word": "携帯",
+        "reading": "けいたい",
+        "note": "名詞/動詞連用形，便攜、攜帶"
+      },
+      {
+        "word": "スキャナー",
+        "reading": "すきゃなー",
+        "note": "名詞，掃描器"
+      }
+    ],
+    "context_grammar": [
+      "「携帯（けいたい）」作為連體修飾用法修飾外來詞「スキャナー」，代表「可攜帶式的掃描器」。",
+      "辦公自動化（OA）周邊商品宣傳片中的典型優點陳述。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:30",
+    "japanese": "5. このカバンは実用的です。",
+    "furigana": "5. このカバンは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "5. このカバンは | 実用的です。",
+    "translation": {
+      "natural": "5. 這個包包很實用。",
+      "literal": "5. 這個公事包/包包是實用的。"
+    },
+    "words": [
+      {
+        "word": "カバン",
+        "reading": "かばん",
+        "note": "名詞，包包、公事包"
+      }
+    ],
+    "context_grammar": [
+      "連體詞「この」修飾主語「カバン」，「は」明確限定特定目標商品，後接評語「実用的です」。",
+      "時尚配件開箱、收納機能包款推介常見語句。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:35",
+    "japanese": "6. このスーツケースは実用的です。",
+    "furigana": "6. このスーツケースは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "6. このスーツケースは | 実用的です。",
+    "translation": {
+      "natural": "6. 這個行李箱很實用。",
+      "literal": "6. 這個行李箱是實用的。"
+    },
+    "words": [
+      {
+        "word": "スーツケース",
+        "reading": "すーつけーす",
+        "note": "名詞，行李箱"
+      }
+    ],
+    "context_grammar": [
+      "「このスーツケース」做主題，描述該項旅遊或出差裝備具備極高便利與實用特點。",
+      "旅遊用品或行李箱宣傳片中的重點訴求說明。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:40",
+    "japanese": "7. USBメモリーは実用的です。",
+    "furigana": "7. USBメモリーは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "7. USBメモリーは | 実用的です。",
+    "translation": {
+      "natural": "7.隨身碟很實用。",
+      "literal": "7. USB隨身碟是實用的。"
+    },
+    "words": [
+      {
+        "word": "USBメモリー",
+        "reading": "ゆーえすびーめもりー",
+        "note": "名詞，USB隨身碟"
+      }
+    ],
+    "context_grammar": [
+      "外來專有名詞「USBメモリー」接主題格助詞「は」，後接「実用的です」表達其日常辦公價值。",
+      "實用禮品、企業宣導贈品或辦公文具導購常見評語。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:45",
+    "japanese": "8. ポストイットは実用的です。",
+    "furigana": "8. ポストイットは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "8. ポストイットは | 実用的です。",
+    "translation": {
+      "natural": "8. 便利貼很實用。",
+      "literal": "8. 便利貼是實用的。"
+    },
+    "words": [
+      {
+        "word": "ポストイット",
+        "reading": "ぽすといっと",
+        "note": "名詞，便利貼（Post-it）"
+      }
+    ],
+    "context_grammar": [
+      "商標特有名詞「ポストイット」泛指便利貼，做為句中主題後接「実用的です」。",
+      "文具介紹影片或辦公效率提升技巧中的評語。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:50",
+    "japanese": "9. 消せるボールペンは実用的です。",
+    "furigana": "9. <ruby>消<rt>け</rt></ruby>せるボールペンは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "9. 消せるボールペンは | 実用的です。",
+    "translation": {
+      "natural": "9. 可擦拭原子筆很實用。",
+      "literal": "9. 能擦掉的原子筆是實用的。"
+    },
+    "words": [
+      {
+        "word": "消す",
+        "reading": "けす",
+        "note": "動詞，擦掉、擦去"
+      },
+      {
+        "word": "消せる",
+        "reading": "けせる",
+        "note": "動詞，可能形，能夠擦掉的（連體修飾）"
+      },
+      {
+        "word": "ボールペン",
+        "reading": "ぼーるぺん",
+        "note": "名詞，原子筆"
+      }
+    ],
+    "context_grammar": [
+      "「消せる」為動詞「消す」的可能形（第一類動詞語尾變為エ段＋る），此處充當連體修飾語修飾「ボールペン」，組合成「可擦拭原子筆」。",
+      "功能性文具廣告中突出產品獨特賣點（USP）的經典句構。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:55",
+    "japanese": "10. 電子辞書は実用的です。",
+    "furigana": "10. <ruby>電<rt>でん</rt></ruby><ruby>子<rt>し</rt></ruby><ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>は<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>です。",
+    "segmentation": "10. 電子辞書は | 実用的です。",
+    "translation": {
+      "natural": "10. 電子辭典很實用。",
+      "literal": "10. 電子辭典是實用的。"
+    },
+    "words": [
+      {
+        "word": "電子辞書",
+        "reading": "でんしじしょ",
+        "note": "名詞，電子辭典"
+      }
+    ],
+    "context_grammar": [
+      "漢語複合詞「電子辞書」做句中主題，搭配標準謂語「実用的です」。",
+      "學習工具推廣、入學季禮品介紹常用句。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:00",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:02",
+    "japanese": "スマートフォンは実用的ですね。",
+    "furigana": "スマートフォンは<ruby>実<rt>じつ</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>的<rt>てき</rt></ruby>ですね。",
+    "segmentation": "スマートフォンは | 実用的ですね。",
+    "translation": {
+      "natural": "智慧型手機真的很實用呢。",
+      "literal": "智慧型手機是實用的呢。"
+    },
+    "words": [
+      {
+        "word": "ね",
+        "reading": "ね",
+        "note": "終助詞，表示徵求認同、感嘆或共鳴"
+      }
+    ],
+    "context_grammar": [
+      "句尾終助詞「ね」帶來軟化語氣與尋求共鳴的效果，使客觀描述轉變為對話中的心得分享。",
+      "訪談節目或宣傳片中，雙人對談表達對某一產品讚賞時的語境表現。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:06",
+    "japanese": "今の若者はこれが必需品ですね。",
+    "furigana": "<ruby>今<rt>いま</rt></ruby>の<ruby>若<rt>わか</rt></ruby><ruby>者<rt>もの</rt></ruby>はこれが<ruby>必<rt>ひつ</rt></ruby><ruby>需<rt>じゅ</rt></ruby><ruby>品<rt>ひん</rt></ruby>ですね。",
+    "segmentation": "今の若者は | これが | 必需品ですね。",
+    "translation": {
+      "natural": "對現在年輕人來說，這已經是必需品了呢。",
+      "literal": "現在的年輕人這是必需品呢。"
+    },
+    "words": [
+      {
+        "word": "若者",
+        "reading": "わかもの",
+        "note": "名詞，年輕人"
+      },
+      {
+        "word": "必需品",
+        "reading": "ひつじゅひん",
+        "note": "名詞，必需品"
+      }
+    ],
+    "context_grammar": [
+      "「今の若者」由連體助詞「の」連接時間名詞「今」與主體「若者」；「これが」中主格助詞「が」用於強調「這個（手機）」就是補語「必需品」。",
+      "市場分析、消費趨勢報導或街頭採訪影片中高頻率出現的現象結論句。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:11",
+    "japanese": "188. 初めて",
+    "furigana": "188. <ruby>初<rt>はじ</rt></ruby>めて",
+    "segmentation": "188. 初めて",
+    "translation": {
+      "natural": "188. 第一次……",
+      "literal": "188. 初次。"
+    },
+    "words": [
+      {
+        "word": "初めて",
+        "reading": "はじめて",
+        "note": "副詞，第一次、初次"
+      }
+    ],
+    "context_grammar": [
+      "由動詞「始める」的テ形演變而來的副詞用法，直接置於句首修飾後方的動詞過去式，表示個人生平的首次經驗。",
+      "個人 Vlog、Vlog 開頭宣傳標語及體驗型廣告的關鍵核心副詞。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:16",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:17",
+    "japanese": "1. 初めて雪を見ました。",
+    "furigana": "1. <ruby>初<rt>はじ</rt></ruby>めて<ruby>雪<rt>ゆき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+    "segmentation": "1. 初めて | 雪を | 見ました。",
+    "translation": {
+      "natural": "1. 我第一次看到了雪。",
+      "literal": "1. 初次看了雪。"
+    },
+    "words": [
+      {
+        "word": "雪",
+        "reading": "ゆき",
+        "note": "名詞，雪"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看（過去式丁寧形為見ました）"
+      }
+    ],
+    "context_grammar": [
+      "副詞「初めて」修飾全句動詞；「雪を」作為受詞，後接動詞「見る」的禮貌過去式「見ました」，強調過去的全新經驗。",
+      "旅遊宣傳片、外國人體驗日本冬景 Vlog 中的經典口白。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:22",
+    "japanese": "2. 初めて海外旅行をしました。",
+    "furigana": "2. <ruby>初<rt>はじ</rt></ruby>めて<ruby>海<rt>かい</rt></ruby><ruby>外<rt>がい</rt></ruby><ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>をしました。",
+    "segmentation": "2. 初めて | 海外旅行を | しました。",
+    "translation": {
+      "natural": "2. 我第一次去海外旅行。",
+      "literal": "2. 初次做了海外旅行。"
+    },
+    "words": [
+      {
+        "word": "海外旅行",
+        "reading": "かいがいりょこう",
+        "note": "名詞，海外旅行、出國旅遊"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做、進行（過去式丁寧形為しました）"
+      }
+    ],
+    "context_grammar": [
+      "「海外旅行（かいがいりょこう）」作為動詞「する」的賓語，結合「初めて」構成體驗描述，句尾以過去式「しました」落款。",
+      "旅行社廣告、航空推廣實錄中常見的人生里程碑句型。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:27",
+    "japanese": "3. 初めて1人旅をしました。",
+    "furigana": "3. <ruby>初<rt>はじ</rt></ruby>めて<ruby>1<rt>ひとり</rt></ruby><ruby>人<rt></rt></ruby><ruby>旅<rt>たび</rt></ruby>をしました。",
+    "segmentation": "3. 初めて | 1人旅を | しました。",
+    "translation": {
+      "natural": "3. 我第一次獨自去旅行。",
+      "literal": "3. 初次做了單人旅行。"
+    },
+    "words": [
+      {
+        "word": "1人旅",
+        "reading": "ひとりたび",
+        "note": "名詞，獨自旅行、一人旅"
+      }
+    ],
+    "context_grammar": [
+      "「1人旅（ひとりたび）」為「1人」加「旅」的複合名詞，受格助詞「を」與動詞「しました」搭配，強調獨立完成旅行的體驗。",
+      "背包客、個人Vlog、自由行平台影片常見的核心企劃主題句。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:32",
+    "japanese": "4. 初めて納豆を食べました。",
+    "furigana": "4. <ruby>初<rt>はじ</rt></ruby>めて<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
+    "segmentation": "4. 初めて | 納豆を | 食べました。",
+    "translation": {
+      "natural": "4. 我第一次吃了納豆。",
+      "literal": "4. 初次吃了納豆。"
+    },
+    "words": [
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（過去式丁寧形為食べました）"
+      }
+    ],
+    "context_grammar": [
+      "「納豆」作為受詞，動詞「食べる」轉為過去式禮貌形「食べました」，前置「初めて」以強調試吃特別食物的時刻。",
+      "外籍網紅開箱日本文化或美食試吃企劃影片中極高頻出現的句構。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:36",
+    "japanese": "5. 初めてディズニーランドへ行きました。",
+    "furigana": "5. <ruby>初<rt>はじ</rt></ruby>めてディズニーランドへ<ruby>行<rt>い</rt></ruby>きました。",
+    "segmentation": "5. 初めて | ディズニーランドへ | 行きました。",
+    "translation": {
+      "natural": "5. 我第一次去了迪士尼樂園。",
+      "literal": "5. 初次前往了迪士尼樂園。"
+    },
+    "words": [
+      {
+        "word": "ディズニーランド",
+        "reading": "でぃずにーらんど",
+        "note": "名詞，迪士尼樂園"
+      },
+      {
+        "word": "へ",
+        "reading": "え",
+        "note": "格助詞，表示移動方向、目的地"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去（過去式丁寧形為行きました）"
+      }
+    ],
+    "context_grammar": [
+      "方向格助詞「へ」修飾目的地「ディズニーランド」，「行きました」表達移動行為的完成，配合「初めて」帶出憧憬實現的感嘆。",
+      "遊樂園主題Vlog、家庭旅遊紀錄常用語。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:42",
+    "japanese": "6. 初めて日本語を習いました。",
+    "furigana": "6. <ruby>初<rt>はじ</rt></ruby>めて<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>習<rt>なら</rt></ruby>いました。",
+    "segmentation": "6. 初めて | 日本語を | 習いました。",
+    "translation": {
+      "natural": "6. 我第一次學習了日文。",
+      "literal": "6. 初次學習了日語。"
+    },
+    "words": [
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "note": "名詞，日文、日語"
+      },
+      {
+        "word": "習う",
+        "reading": "ならう",
+        "note": "動詞，學習（向他人學習，過去式丁寧形為習いました）"
+      }
+    ],
+    "context_grammar": [
+      "動詞「習う」表示向他人學習技藝或語言，此處以過去禮貌形「習いました」結合「初めて」，點出學習歷程的開端。",
+      "語言學習頻道、留學生自我介紹或教育機構廣告中的常見句型。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:47",
+    "japanese": "7. 初めて夜行バスに乗りました。",
+    "furigana": "7. <ruby>初<rt>はじ</rt></ruby>めて<ruby>夜<rt>や</rt></ruby><ruby>行<rt>こう</rt></ruby>バスに<ruby>乗<rt>の</rt></ruby>りました。",
+    "segmentation": "7. 初めて | 夜行バスに | 乗りました。",
+    "translation": {
+      "natural": "7. 我第一次搭乘了夜行巴士。",
+      "literal": "7. 初次搭乘了夜間巴士。"
+    },
+    "words": [
+      {
+        "word": "夜行バス",
+        "reading": "やこうばす",
+        "note": "名詞，夜間長途巴士"
+      },
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "note": "動詞，搭乘（過去式丁寧形為乗りました，對象用格助詞「に」表示）"
+      }
+    ],
+    "context_grammar": [
+      "動作對象補格助詞「に」指示搭乘的工具「夜行バス」，動詞「乗る」變為過去式「乗りました」。",
+      "省錢旅遊攻略、日本長途交通體驗開箱影片經典用語。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:51",
+    "japanese": "8. 初めて新幹線に乗りました。",
+    "furigana": "8. <ruby>初<rt>はじ</rt></ruby>めて<ruby>新<rt>しん</rt></ruby><ruby>幹<rt>かん</rt></ruby><ruby>線<rt>せん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>りました。",
+    "segmentation": "8. 初めて | 新幹線に | 乗りました。",
+    "translation": {
+      "natural": "8. 我第一次搭乘了新幹線。",
+      "literal": "8. 初次搭乘了新幹線。"
+    },
+    "words": [
+      {
+        "word": "新幹線",
+        "reading": "しんかんせん",
+        "note": "名詞，新幹線（日本高鐵）"
+      }
+    ],
+    "context_grammar": [
+      "「新幹線に」為補語語塊，後接自動詞過去形「乗りました」，全句由「初めて」作修飾，傳遞首次體驗極速列車的新鮮感。",
+      "鐵道迷、訪日觀光客宣傳體驗影片的熱門句構。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:56",
+    "japanese": "9. 初めて富士山に登りました。",
+    "furigana": "9. <ruby>初<rt>はじ</rt></ruby>めて<ruby>富<rt>ふ</rt></ruby><ruby>士<rt>じ</rt></ruby><ruby>山<rt>さん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>りました。",
+    "segmentation": "9. 初めて | 富士山に | 登りました。",
+    "translation": {
+      "natural": "9. 我第一次攀登了富士山。",
+      "literal": "9. 初次攀登了富士山。"
+    },
+    "words": [
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "note": "名詞，富士山"
+      },
+      {
+        "word": "登る",
+        "reading": "のぼる",
+        "note": "動詞，攀登、登上（過去式丁寧形為登りました）"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「に」在此標示登攀的目標與終點「富士山」，動詞「登る」轉過去形「登りました」，搭配「初めて」表達完成自我挑戰。",
+      "戶外運動品牌廣告、登山 Vlog 常用核心口白。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:01",
+    "japanese": "10. 初めて日本酒を飲みました。",
+    "furigana": "10. <ruby>初<rt>はじ</rt></ruby>めて<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>酒<rt>しゅ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みました。",
+    "segmentation": "10. 初めて | 日本酒を | 飲みました。",
+    "translation": {
+      "natural": "10. 我第一次喝了日本清酒。",
+      "literal": "10. 初次喝了日本酒。"
+    },
+    "words": [
+      {
+        "word": "日本酒",
+        "reading": "にほんしゅ",
+        "note": "名詞，日本清酒"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝（過去式丁寧形為飲みました）"
+      }
+    ],
+    "context_grammar": [
+      "受詞「日本酒」加上受格「を」，動詞「飲む」為過去禮貌形「飲みました」，前置「初めて」凸顯文化品嚐的初體驗。",
+      "居酒屋體驗、品酒廣告或傳統文化宣導影片之定番用語。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:06",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:08",
+    "japanese": "初めて富士山に登りました。",
+    "furigana": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>富<rt>ふ</rt></ruby><ruby>士<rt>じ</rt></ruby><ruby>山<rt>さん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>りました。",
+    "segmentation": "初めて | 富士山に | 登りました。",
+    "translation": {
+      "natural": "我第一次攀登了富士山。",
+      "literal": "初次攀登了富士山。"
+    },
+    "words": [
+      {
+        "word": "初めて",
+        "reading": "はじめて",
+        "note": "副詞，第一次"
+      }
+    ],
+    "context_grammar": [
+      "「初めて」修飾全句動詞「登りました」，作為對話開頭主導話題。",
+      "對話影片中作為分享個人重要成就的開場白。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:12",
+    "japanese": "気持ちよかったでしょう。",
+    "furigana": "<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>よかったでしょう。",
+    "segmentation": "気持ちよかったでしょう。",
+    "translation": {
+      "natural": "感覺一定非常暢快（舒服）對吧！",
+      "literal": "心情應該很好吧。"
+    },
+    "words": [
+      {
+        "word": "気持ちいい",
+        "reading": "きもちいい",
+        "note": "形容詞，舒暢的、感覺良好的（過去形為気持ちよかった）"
+      },
+      {
+        "word": "でしょう",
+        "reading": "でしょう",
+        "note": "推測助動詞，應該……吧、對吧（用於推測或徵求同意）"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「気持ちいい」轉過去形「気持ちよかった」，後接確認/推測助動詞「でしょう」，表達聽者對說話者當時心境的同理與推測。",
+      "訪談與互動節目中，對談者給予積極回饋、共鳴與引導對方繼續分享的交談用語。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:15",
+    "japanese": "189. はプロ並みです。",
+    "furigana": "189. はプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "189. は | プロ並みです。",
+    "translation": {
+      "natural": "189. 堪稱專業水準。",
+      "literal": "189. 與專業同等級。"
+    },
+    "words": [
+      {
+        "word": "プロ",
+        "reading": "ぷろ",
+        "note": "名詞，專業、專家（Professional 的簡稱）"
+      },
+      {
+        "word": "〜並み",
+        "reading": "なみ",
+        "note": "接尾辭，與……同等、達到……程度"
+      }
+    ],
+    "context_grammar": [
+      "接尾辭「〜並み」接於名詞「プロ」後，構成形容動詞或名詞用法，表示「達到專業水準」，後接「です」讚美度極高。",
+      "電視節目、才藝達人展示或品牌高檔品質廣告中常見的讚賞誇詞。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:21",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:22",
+    "japanese": "1. 彼の料理はプロ並みです。",
+    "furigana": "1. <ruby>彼<rt>かれ</rt></ruby>の<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>はプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "1. 彼の料理は | プロ並みです。",
+    "translation": {
+      "natural": "1. 他做菜的技巧堪稱專業水準。",
+      "literal": "1. 他的料理是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "彼",
+        "reading": "かれ",
+        "note": "代名詞，他"
+      },
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、做菜"
+      }
+    ],
+    "context_grammar": [
+      "「彼の料理」為連體助詞「の」連接主體，提示助詞「は」後接「プロ並みです」，對非專業人士的技術給予最高等級肯定。",
+      "美食綜藝節目或廚具廣告讚賞素人廚藝的句型。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:27",
+    "japanese": "2. 彼女のマッサージはプロ並みです。",
+    "furigana": "2. <ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>のマッサージはプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "2. 彼女のマッサージは | プロ並みです。",
+    "translation": {
+      "natural": "2. 她按摩的手藝堪稱專業水準。",
+      "literal": "2. 她的按摩是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "note": "代名詞，她"
+      },
+      {
+        "word": "マッサージ",
+        "reading": "まっさーじ",
+        "note": "名詞，按摩"
+      }
+    ],
+    "context_grammar": [
+      "「彼女の」修飾外來詞名詞「マッサージ」，「プロ並みです」作為謂語評語。",
+      "按摩椅產品宣傳或養生家電廣告中的體驗評價表現。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:32",
+    "japanese": "3. 妹のピアノはプロ並みです。",
+    "furigana": "3. <ruby>妹<rt>いもうと</rt></ruby>のピアノはプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "3. 妹のピアノは | プロ並みです。",
+    "translation": {
+      "natural": "3. 妹妹彈鋼琴的水平堪稱專業等級。",
+      "literal": "3. 妹妹的鋼琴是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "note": "名詞，妹妹"
+      },
+      {
+        "word": "ピアノ",
+        "reading": "ぴあの",
+        "note": "名詞，鋼琴"
+      }
+    ],
+    "context_grammar": [
+      "「妹のピアノ」代表「妹妹所演奏的鋼琴技術」，「プロ並みです」讚賞其琴藝卓越。",
+      "音樂教室宣傳或才藝展示相關節目常使用的對外稱贊用語。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:37",
+    "japanese": "4. 弟のマンガはプロ並みです。",
+    "furigana": "4. <ruby>弟<rt>おとうと</rt></ruby>のマンガはプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "4. 弟のマンガは | プロ並みです。",
+    "translation": {
+      "natural": "4. 弟弟畫漫畫的技巧堪稱專業水準。",
+      "literal": "4. 弟弟的漫畫是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "note": "名詞，弟弟"
+      },
+      {
+        "word": "マンガ",
+        "reading": "まんが",
+        "note": "名詞，漫畫"
+      }
+    ],
+    "context_grammar": [
+      "名詞「マンガ」在此代指畫漫畫的畫功與創作實力，配上「プロ並みです」表達高度認可。",
+      "繪圖軟體廣告、電繪板介紹或創作者專訪影片中常見的句型。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:41",
+    "japanese": "5. 兄の野球はプロ並みです。",
+    "furigana": "5. <ruby>兄<rt>あに</rt></ruby>の<ruby>野<rt>や</rt></ruby><ruby>球<rt>きゅう</rt></ruby>はプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "5. 兄の野球は | プロ並みです。",
+    "translation": {
+      "natural": "5. 哥哥打棒球的球技堪稱職業水準。",
+      "literal": "5. 哥哥的棒球是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "note": "名詞，哥哥"
+      },
+      {
+        "word": "野球",
+        "reading": "やきゅう",
+        "note": "名詞，棒球"
+      }
+    ],
+    "context_grammar": [
+      "「兄の野球」省略了「球技/プレー（球技/表現）」，直接以運動項目代表實力，搭配「プロ並みです」。",
+      "運動用品廣告、體育紀錄片讚美業餘選手時的語境表現。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:46",
+    "japanese": "6. 彼のサッカーはプロ並みです。",
+    "furigana": "6. <ruby>彼<rt>かれ</rt></ruby>のサッカーはプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "6. 彼のサッカーは | プロ並みです。",
+    "translation": {
+      "natural": "6. 他踢足球的球技堪稱職業水準。",
+      "literal": "6. 他的足球是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "サッカー",
+        "reading": "さっかー",
+        "note": "名詞，足球"
+      }
+    ],
+    "context_grammar": [
+      "「彼のサッカー」做主題，連體助詞「の」連結主體與運動類別，後接誇讚形容語「プロ並みです」。",
+      "體育用品行銷、足球俱樂部招募宣傳常見表達。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:51",
+    "japanese": "7. 彼のバスケットボールはプロ並みです。",
+    "furigana": "7. <ruby>彼<rt>かれ</rt></ruby>のバスケットボールはプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "7. 彼のバスケットボールは | プロ並みです。",
+    "translation": {
+      "natural": "7. 他打籃球的球技堪稱職業水準。",
+      "literal": "7. 他的籃球是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "バスケットボール",
+        "reading": "ばすけっとぼーる",
+        "note": "名詞，籃球"
+      }
+    ],
+    "context_grammar": [
+      "外來語「バスケットボール」前面由「彼の」修飾，後面以「プロ並みです」作為對個人運動技能的終極讚美。",
+      "籃球訓練營、運動裝備影片高頻評語。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:56",
+    "japanese": "8. 姉の演技はプロ並みです。",
+    "furigana": "8. <ruby>姉<rt>あね</rt></ruby>の<ruby>演<rt>えん</rt></ruby><ruby>技<rt>ぎ</rt></ruby>はプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "8. 姉の演技は | プロ並みです。",
+    "translation": {
+      "natural": "8. 姐姐的演技堪稱專業水準。",
+      "literal": "8. 姐姐的演技是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "姉",
+        "reading": "あね",
+        "note": "名詞，姐姐"
+      },
+      {
+        "word": "演技",
+        "reading": "えんぎ",
+        "note": "名詞，演技、表演"
+      }
+    ],
+    "context_grammar": [
+      "名詞「演技（えんぎ）」直接做為主語，後接「プロ並みです」，對表演水準極盡肯定。",
+      "戲劇學校宣傳、劇團試鏡評語或藝術講評常用。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:01",
+    "japanese": "9. 父の卓球はプロ並みです。",
+    "furigana": "9. <ruby>父<rt>ちち</rt></ruby>の<ruby>卓<rt>たっ</rt></ruby><ruby>球<rt>きゅう</rt></ruby>はプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "9. 父の卓球は | プロ並みです。",
+    "translation": {
+      "natural": "9. 父親打桌球的球技堪稱專業水準。",
+      "literal": "9. 父親的桌球是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "父",
+        "reading": "ちち",
+        "note": "名詞，父親、家父"
+      },
+      {
+        "word": "卓球",
+        "reading": "たっきゅう",
+        "note": "名詞，桌球、乒乓球"
+      }
+    ],
+    "context_grammar": [
+      "「父の卓球」作為討論的主體，搭「プロ並みです」誇耀家族成員驚人的專長活動。",
+      "家庭綜藝節目、休閒運動休閒館推介常見的口語發言。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:06",
+    "japanese": "10. 彼女のバドミントンはプロ並みです。",
+    "furigana": "10. <ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>のバドミントンはプロ<ruby>並<rt>な</rt></ruby>みです。",
+    "segmentation": "10. 彼女のバドミントンは | プロ並みです。",
+    "translation": {
+      "natural": "10. 她打羽球的球技堪稱職業水準。",
+      "literal": "10. 她的羽毛球是專業等級的。"
+    },
+    "words": [
+      {
+        "word": "バドミントン",
+        "reading": "ばどみんとん",
+        "note": "名詞，羽球、羽毛球"
+      }
+    ],
+    "context_grammar": [
+      "「彼女のバドミントン」做主題，後接「プロ並みです」作為定性誇獎評語。",
+      "羽球館廣告或運動休閒節目中的誇獎句構。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:11",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:13",
+    "japanese": "素晴らしい味ですね。",
+    "furigana": "<ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしい<ruby>味<rt>あじ</rt></ruby>ですね。",
+    "segmentation": "素晴らしい味ですね。",
+    "translation": {
+      "natural": "真是絕妙好滋味呢！",
+      "literal": "是絕妙的美味呢。"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "形容詞，絕妙的、極好的（連體修飾）"
+      },
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道、滋味"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「素晴らしい」連體形修飾名詞「味」，終助詞「ね」發出感嘆並引導對方附和。",
+      "美食節目、餐飲品牌廣告中品嚐料理後的第一句高評價感嘆語。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:16",
+    "japanese": "彼の料理はプロ並みですね。",
+    "furigana": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>はプロ<ruby>並<rt>な</rt></ruby>みですね。",
+    "segmentation": "彼の料理は | プロ並みですね。",
+    "translation": {
+      "natural": "他做菜的水平真的達到專業等級了呢。",
+      "literal": "他的料理是專業等級的呢。"
+    },
+    "words": [
+      {
+        "word": "ね",
+        "reading": "ね",
+        "note": "終助詞，表示共鳴或確認"
+      }
+    ],
+    "context_grammar": [
+      "句尾加上終助詞「ね」，將客觀評斷轉化為與對話者共享認同的親切評價。",
+      "試吃影片或美食對談中回應前句感嘆的完美接話句。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:20",
+    "japanese": "190. は筆舌に尽くしがたい。",
+    "furigana": "190. は<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "190. は | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "190. 難以用言語或筆墨來形容。",
+      "literal": "190. 難以用筆墨言語竭盡。"
+    },
+    "words": [
+      {
+        "word": "筆舌",
+        "reading": "ひつぜつ",
+        "note": "名詞，筆墨與言語"
+      },
+      {
+        "word": "尽くす",
+        "reading": "つくす",
+        "note": "動詞，竭盡、用盡"
+      },
+      {
+        "word": "〜がたい",
+        "reading": "がたい",
+        "note": "接尾辭/形容詞化，難以……（接動詞連用形）"
+      }
+    ],
+    "context_grammar": [
+      "「尽くす」連用形「尽くし」接接尾辭「〜がたい」，構成複合形容詞「尽くしがたい（難以盡述）」，加上「筆舌に」形成四字熟語語境高雅表現。",
+      "高檔品牌、藝術文宣、高規格紀錄片旁白中極致極賞的高級書面用語。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:27",
+    "japanese": "ステップ1",
+    "furigana": "ステップ1",
+    "segmentation": "ステップ1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:28",
+    "japanese": "1. この素晴らしさは筆舌に尽くしがたい。",
+    "furigana": "1. この<ruby>素<rt>す</rt></ruby><ruby>晴<rt>ば</rt></ruby>らしさは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "1. この素晴らしさは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "1. 這般絕妙絕非筆墨言語所能形容。",
+      "literal": "1. 這個絕妙難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "素晴らしい",
+        "reading": "すばらしい",
+        "note": "形容詞，極好的"
+      },
+      {
+        "word": "素晴らしさ",
+        "reading": "すばらしさ",
+        "note": "名詞（形容詞語尾い變さ名詞化），絕妙之處、美好"
+      }
+    ],
+    "context_grammar": [
+      "形容詞「素晴らしい」去掉語尾「い」加上「さ」轉化為抽象名詞「素晴らしさ」，作為句中主題，後接文雅表達「筆舌に尽くしがたい」。",
+      "奢華旅遊景點廣告、藝術品宣傳片旁白常採用的高雅修辭。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:34",
+    "japanese": "2. この美味しさは筆舌に尽くしがたい。",
+    "furigana": "2. この<ruby>美<rt>おい</rt></ruby>味しさは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "2. この美味しさは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "2. 這般美味絕非筆墨言語所能形容。",
+      "literal": "2. 這個美味難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "美味しさ",
+        "reading": "おいしさ",
+        "note": "名詞，美味、好吃度"
+      }
+    ],
+    "context_grammar": [
+      "「美味しい」名詞化為「美味しさ」，搭配連體詞「この」，再以高級成語「筆舌に尽くしがたい」為謂語讚嘆其滋味。",
+      "米其林頂級餐廳推廣、頂級食材文宣片讚譽讚語。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:39",
+    "japanese": "3. この美しさは筆舌に尽くしがたい。",
+    "furigana": "3. この<ruby>美<rt>うつく</rt></ruby>しさは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "3. この美しさは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "3. 這般美麗絕非筆墨言語所能形容。",
+      "literal": "3. 這個美麗難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "美しさ",
+        "reading": "うつくしさ",
+        "note": "名詞，美麗、美感"
+      }
+    ],
+    "context_grammar": [
+      "「美しい」去「い」加「さ」變成抽象名詞「美しさ」，與「筆舌に尽くしがたい」結合，呈現文學性極高的高雅語境。",
+      "珠寶品牌廣告、絕景風光紀錄片旁白句型。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:45",
+    "japanese": "4. この立派さは筆舌に尽くしがたい。",
+    "furigana": "4. この<ruby>立<rt>りっ</rt></ruby><ruby>派<rt>ぱ</rt></ruby>さは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "4. この立派さは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "4. 這般宏偉壯麗絕非筆墨言語所能形容。",
+      "literal": "4. 這個氣派難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "立派",
+        "reading": "りっぱ",
+        "note": "形容動詞，氣派的、氣勢雄偉的"
+      },
+      {
+        "word": "立派さ",
+        "reading": "りっぱさ",
+        "note": "名詞（形容動詞詞幹加さ名詞化），氣派程度、宏偉"
+      }
+    ],
+    "context_grammar": [
+      "形容動詞詞幹「立派」加「さ」轉化為名詞「立派さ」，受「この」修飾，後接修飾句表達對規模或成就的極高崇敬。",
+      "歷史建築、高級豪宅建案廣告常出現的高級形容詞。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:50",
+    "japanese": "5. この感動は筆舌に尽くしがたい。",
+    "furigana": "5. この<ruby>感<rt>かん</rt></ruby><ruby>動<rt>どう</rt></ruby>は<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "5. この感動は | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "5. 這份感動絕非筆墨言語所能形容。",
+      "literal": "5. 這個感動難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "感動",
+        "reading": "かんどう",
+        "note": "名詞，感動"
+      }
+    ],
+    "context_grammar": [
+      "情感名詞「感動」做主題，後接「筆舌に尽くしがたい」，強調內心震撼深遠、超越文字表達範疇。",
+      "電影預告片、紀錄片文宣、大型公演宣傳語標語。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:56",
+    "japanese": "6. この喜びは筆舌に尽くしがたい。",
+    "furigana": "6. この<ruby>喜<rt>よろこ</rt></ruby>びは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "6. この喜びは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "6. 這份喜悅絕非筆墨言語所能形容。",
+      "literal": "6. 這個喜悅難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "喜ぶ",
+        "reading": "よろこぶ",
+        "note": "動詞，喜悅、高興"
+      },
+      {
+        "word": "喜び",
+        "reading": "よろこび",
+        "note": "名詞（動詞連用形名詞化），喜悅、快樂"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形轉名詞「喜び」作為句子主語，以四字成語評語「筆舌に尽くしがたい」來烘托喜悅的厚重感與無可比擬。",
+      "典禮致詞、品牌週年紀念宣傳片中表達誠摯感謝與喜悅的用語。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "05:01",
+    "japanese": "7. この暑さは筆舌に尽くしがたい。",
+    "furigana": "7. この<ruby>暑<rt>あつ</rt></ruby>さは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "7. この暑さは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "7. 這般酷熱絕非筆墨言語所能形容。",
+      "literal": "7. 這個炎熱難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "note": "形容詞，炎熱的"
+      },
+      {
+        "word": "暑さ",
+        "reading": "あつさ",
+        "note": "名詞，炎熱程度、酷暑"
+      }
+    ],
+    "context_grammar": [
+      "形容詞「暑い」名詞化為「暑さ」，搭配「筆舌に尽くしがたい」強調氣候極端程度。",
+      "新聞紀錄片、極地體驗節目或冷氣家電宣傳片強調嚴酷環境的修辭手法。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "05:07",
+    "japanese": "8. この寒さは筆舌に尽くしがたい。",
+    "furigana": "8. この<ruby>寒<rt>さむ</rt></ruby>さは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "8. この寒さは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "8. 這般嚴寒絕非筆墨言語所能形容。",
+      "literal": "8. 這個寒冷難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "形容詞，寒利的"
+      },
+      {
+        "word": "寒さ",
+        "reading": "さむさ",
+        "note": "名詞，寒冷程度、嚴寒"
+      }
+    ],
+    "context_grammar": [
+      "「寒い」名詞化為「寒さ」，與「筆舌に尽くしがたい」組合，呈現極限狀態的客觀與主觀深刻印象。",
+      "暖氣設備廣告、極地冒險紀錄片經典旁白用語。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "05:12",
+    "japanese": "9. この面白さは筆舌に尽くしがたい。",
+    "furigana": "9. この<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>さは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "9. この面白さは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "9. 這般趣味絕非筆墨言語所能形容。",
+      "literal": "9. 這個趣味難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "note": "形容詞，有趣的"
+      },
+      {
+        "word": "面白さ",
+        "reading": "おもしろさ",
+        "note": "名詞，趣味性、樂趣"
+      }
+    ],
+    "context_grammar": [
+      "「面白い」轉名詞「面白さ」，主題助詞「は」後接「筆舌に尽くしがたい」，將娛樂價值提升至最高讚譽。",
+      "遊戲開箱宣傳、小說與娛樂大作推薦用語。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "05:18",
+    "japanese": "10. この楽しさは筆舌に尽くしがたい。",
+    "furigana": "10. この<ruby>楽<rt>たの</rt></ruby>しさは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたい。",
+    "segmentation": "10. この楽しさは | 筆舌に | 尽くしがたい。",
+    "translation": {
+      "natural": "10. 這份快樂絕非筆墨言語所能形容。",
+      "literal": "10. 這個快樂難以用筆舌竭盡。"
+    },
+    "words": [
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "note": "形容詞，快樂的"
+      },
+      {
+        "word": "楽しさ",
+        "reading": "たのしさ",
+        "note": "名詞，快樂、樂趣"
+      }
+    ],
+    "context_grammar": [
+      "形容詞名詞化型態「楽しさ」作為主語，接「筆舌に尽くしがたい」，表達歡樂感受無法僅憑言語傳達的極致。",
+      "主題樂園、渡假村宣傳影片極具感染力的旁白經典句。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "05:23",
+    "japanese": "ステップ3",
+    "furigana": "ステップ3",
+    "segmentation": "ステップ3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟、階段（Step）"
+      }
+    ],
+    "context_grammar": [
+      "標題段落直譯。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "05:25",
+    "japanese": "この美味しさは筆舌に尽くしがたいですね。",
+    "furigana": "この<ruby>美<rt>おい</rt></ruby>味しさは<ruby>筆<rt>ひつ</rt></ruby><ruby>舌<rt>ぜつ</rt></ruby>に<ruby>尽<rt>つく</rt></ruby>くしがたいですね。",
+    "segmentation": "この美味しさは | 筆舌に | 尽くしがたいですね。",
+    "translation": {
+      "natural": "這般美味真的難以用言語來形容呢。",
+      "literal": "這個美味難以用筆舌竭盡呢。"
+    },
+    "words": [
+      {
+        "word": "ね",
+        "reading": "ね",
+        "note": "終助詞，表示徵求共鳴、感嘆"
+      }
+    ],
+    "context_grammar": [
+      "正式的修辭「筆舌に尽くしがたい」加上丁寧語「です」與終助詞「ね」，在保持高雅禮貌的同時向對方尋求美味的共鳴。",
+      "高檔美饌節目或名廚對談中讚美餐點時的對話表達。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "05:30",
+    "japanese": "これこそ美味というべきでしょう。",
+    "furigana": "これこそ<ruby>美<rt>び</rt></ruby><ruby>味<rt>み</rt></ruby>というべきでしょう。",
+    "segmentation": "これこそ | 美味というべきでしょう。",
+    "translation": {
+      "natural": "這才稱得上是真正的無上美味吧！",
+      "literal": "這才是應該稱為美味吧。"
+    },
+    "words": [
+      {
+        "word": "こそ",
+        "reading": "こそ",
+        "note": "提示助詞，表示強調（「正是……」、「這才……」）"
+      },
+      {
+        "word": "美味",
+        "reading": "びみ",
+        "note": "名詞，美味、佳餚（文雅語）"
+      },
+      {
+        "word": "〜という",
+        "reading": "という",
+        "note": "格助詞組合，稱為……、叫做……"
+      },
+      {
+        "word": "べき",
+        "reading": "べき",
+        "note": "助動詞（動詞「する」的連體形），應該、應當"
+      }
+    ],
+    "context_grammar": [
+      "強調助詞「こそ」緊接代名詞「これ」；動詞「いう」後接表示理應如此的「べき」，再接推測助動詞「でしょう」，形成極強的肯定語氣。",
+      "美食評論家評語、高檔餐飲廣告口白中的靈魂終極讚美詞。"
+    ]
+  }
+]
