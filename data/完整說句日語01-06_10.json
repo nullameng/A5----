@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "6. 〜て気分が悪いです",
+    "furigana": "6. 〜て<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです",
+    "segmentation": "6. | 〜て | 気分が | 悪いです",
+    "translation": {
+      "natural": "6. 因〜而感到不舒服／心情不好",
+      "literal": "6. 做〜之後，心情/身體狀況不好。"
+    },
+    "words": [
+      "6",
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情、生理舒適度"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的、差的"
+      }
+    ],
+    "context_grammar": [
+      "〜て：動詞/形容詞的 te 形，在此表示「原因、理由」（因為發生前面的狀況，導致後果）。",
+      "気分が悪い：可用於表達心理上的「心情不爽、噁心感」或生理上的「身體不適、反胃」。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "STEP 1",
+    "furigana": "STEP 1",
+    "segmentation": "STEP 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      "STEP 1"
+    ],
+    "context_grammar": [
+      "STEP 1：外來語標題，用於指示練習階段。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "1. 部屋が汚くて気分が悪いです。",
+    "furigana": "1. <ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>くて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "1. 部屋が | 汚くて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "1. 房間很髒，讓人心情很不好。",
+      "literal": "1. 房間髒，心情不好。"
+    },
+    "words": [
+      "1",
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "汚い",
+        "reading": "きたない",
+        "note": "い形容詞，髒亂的（去い加くて改為接續形）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "汚くて：い形容詞去「い」加「くて」構成中斷/因果接續，修飾後方的「気分が悪いです」。",
+      "部屋が：主格助詞「が」標示環境狀態的主語。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:10",
+    "japanese": "2. 外がうるさくて気分が悪いです。",
+    "furigana": "2. <ruby>外<rt>そと</rt></ruby>がうるさくて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "2. 外が | うるさくて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "2. 外面太吵了，令人心情煩躁。",
+      "literal": "2. 外面吵鬧，心情不好。"
+    },
+    "words": [
+      "2",
+      {
+        "word": "外",
+        "reading": "そと",
+        "note": "名詞，外面"
+      },
+      {
+        "word": "うるさい",
+        "reading": "うるさい",
+        "note": "い形容詞，吵鬧的（去い加くて改為接續形）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "うるさくて：い形容詞去「い」加「くて」表示原因，後接主觀感受「気分が悪いです」。",
+      "外が：主格助詞「が」強調外在環境的噪音源。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:15",
+    "japanese": "3. 怒られて気分が悪いです。",
+    "furigana": "3. <ruby>怒<rt>おこ</rt></ruby>られて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "3. 怒られて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "3. 被罵了，心情很不好。",
+      "literal": "3. 被挨罵，心情不好。"
+    },
+    "words": [
+      "3",
+      {
+        "word": "怒る",
+        "reading": "おこる",
+        "note": "動詞，發脾氣、生氣（被動語態為怒られる）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "怒られて：第一類動詞「怒る」改為被動形（受身形）「怒られる」，再轉為 te 形「怒られて」，表達「受害者被他人斥責」的原由。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:20",
+    "japanese": "4. 命令されて気分が悪いです。",
+    "furigana": "4. <ruby>命<rt>めい</rt></ruby><ruby>令<rt>れい</rt></ruby>されて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "4. 命令されて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "4. 被命令，讓人覺得很不爽。",
+      "literal": "4. 被命令，心情不好。"
+    },
+    "words": [
+      "4",
+      {
+        "word": "命令する",
+        "reading": "めいれいする",
+        "note": "動詞，下達命令（被動語態為命令される）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "命令されて：サ變動詞「命令する」的被動形「命令される」之 te 形，指出被迫接受指令所帶來的不快感。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:25",
+    "japanese": "5. 騙されて気分が悪いです。",
+    "furigana": "5. <ruby>騙<rt>だま</rt></ruby>されて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "5. 騙されて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "5. 被騙了，心裡很不舒服。",
+      "literal": "5. 被欺騙，心情不好。"
+    },
+    "words": [
+      "5",
+      {
+        "word": "騙す",
+        "reading": "だます",
+        "note": "動詞，欺騙（被動語態為騙される）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "騙されて：第一類動詞「騙す」受身形「騙される」的 te 形，表現遭受欺瞞後的負面情緒。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:30",
+    "japanese": "6. 人に利用されて気分が悪いです。",
+    "furigana": "6. <ruby>人<rt>ひと</rt></ruby>に<ruby>利<rt>り</rt></ruby><ruby>用<rt>よう</rt></ruby>されて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "6. 人に | 利用されて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "6. 被別人利用，讓人非常不爽。",
+      "literal": "6. 被他人利用，心情不好。"
+    },
+    "words": [
+      "6",
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，他人、別人"
+      },
+      {
+        "word": "利用する",
+        "reading": "りようする",
+        "note": "動詞，利用（被動語態為利用される）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "人に：格助詞「に」在此指示被動句中的「動作發動對象」（被誰利用）。",
+      "利用されて：サ變動詞「利用する」的被動連接形。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:35",
+    "japanese": "7. 料理に虫が入っていて気分が悪いです。",
+    "furigana": "7. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>に<ruby>虫<rt>むし</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "7. 料理に | 虫が | 入っていて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "7. 菜裡面有蟲，看了令人噁心反胃。",
+      "literal": "7. 料理中蟲掉進去著，心情/感覺不好。"
+    },
+    "words": [
+      "7",
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，餐點、料理"
+      },
+      {
+        "word": "虫",
+        "reading": "むし",
+        "note": "名詞，昆蟲"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入、混入"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情、身體感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "料理に：格助詞「に」表示異物掉入的目標位置。",
+      "入っていて：「入る」的動詞連用形「入って」+「いる」（持續狀態），再接 te 形「いて」，表示「蟲存在於料理中」的客觀狀態誘發了身體不適感。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:41",
+    "japanese": "8. 店員の態度が悪くて気分が悪いです。",
+    "furigana": "8. <ruby>店<rt>てん</rt></ruby><ruby>員<rt>いん</rt></ruby>の<ruby>態<rt>たい</rt></ruby><ruby>度<rt>ど</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "8. 店員の | 態度が | 悪くて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "8. 店員態度很差，讓人心情很不高興。",
+      "literal": "8. 店員的態度差，心情不好。"
+    },
+    "words": [
+      "8",
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "note": "名詞，店員"
+      },
+      {
+        "word": "態度",
+        "reading": "たいど",
+        "note": "名詞，態度"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，差勁的、不好的（去い加くて改為接續形）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      }
+    ],
+    "context_grammar": [
+      "悪くて：第一個「悪い」轉換為「悪くて」做原因接續，前後形成「原因（態度的惡劣）→ 結果（心情的惡劣）」的邏輯。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:46",
+    "japanese": "9. 店員が注文を忘れて気分が悪いです。",
+    "furigana": "9. <ruby>店<rt>てん</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>注<rt>ちゅう</rt></ruby><ruby>文<rt>もん</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "9. 店員が | 注文を | 忘れて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "9. 店員漏了點餐，讓人心情很不爽。",
+      "literal": "9. 店員忘記點單，心情不好。"
+    },
+    "words": [
+      "9",
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "note": "名詞，店員"
+      },
+      {
+        "word": "注文",
+        "reading": "ちゅうもん",
+        "note": "名詞，點餐、訂單"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "note": "動詞，忘記（te 形為忘れて）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "注文を：賓格助詞「を」指示動詞「忘れる」的受詞。",
+      "忘れて：第二類動詞「忘れる」去「る」加「て」，作順接原因標記。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:52",
+    "japanese": "10. 体重が増えて気分が悪いです。",
+    "furigana": "10. <ruby>体<rt>たい</rt></ruby><ruby>重<rt>じゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "10. 体重が | 増えて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "10. 體重變重了，讓人心情很沮喪。",
+      "literal": "10. 體重增加，心情不好。"
+    },
+    "words": [
+      "10",
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "note": "名詞，體重"
+      },
+      {
+        "word": "増える",
+        "reading": "ふえる",
+        "note": "動詞，增加（te 形為増えて）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "増えて：第二類自動詞「増える」的 te 形，表現自動發生的客觀變化作為負面情緒的誘因。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:57",
+    "japanese": "STEP 3",
+    "furigana": "STEP 3",
+    "segmentation": "STEP 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      "STEP 3"
+    ],
+    "context_grammar": [
+      "STEP 3：情境對話應用階段標題。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:59",
+    "japanese": "どうして食べないんですか。",
+    "furigana": "どうして<ruby>食<rt>た</rt></ruby>べないんですか。",
+    "segmentation": "どうして | 食べないんですか。",
+    "translation": {
+      "natural": "你怎麼不吃呢？",
+      "literal": "為什麼不吃呢？"
+    },
+    "words": [
+      {
+        "word": "どうして",
+        "reading": "どうして",
+        "note": "副詞，為什麼"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（否定形為食べない）"
+      }
+    ],
+    "context_grammar": [
+      "食べない：第二類動詞「食べる」的未然形（否定形）。",
+      "〜んですか：由「の＋です＋か」音變而來，用於向對方詢問原因、尋求理由或強調關切的口語用語。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:02",
+    "japanese": "料理に虫が入っていて気分が悪いです。",
+    "furigana": "<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>に<ruby>虫<rt>むし</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "料理に | 虫が | 入っていて | 気分が | 悪いです。",
+    "translation": {
+      "natural": "菜裡面有蟲，看了很沒胃口／很不舒服。",
+      "literal": "料理中蟲掉進去著，感覺不好。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，餐點"
+      },
+      {
+        "word": "虫",
+        "reading": "むし",
+        "note": "名詞，蟲"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入（進而成為入っている）"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，身體/心理感受"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不舒服、不好的"
+      }
+    ],
+    "context_grammar": [
+      "對上一句「どうして...んですか」的理由答覆，省略了說明成分「から」，直接回答因果狀態。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:07",
+    "japanese": "7. 〜て気持ちがいいです",
+    "furigana": "7. 〜て<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです",
+    "segmentation": "7. | 〜て | 気持ちが | いいです",
+    "translation": {
+      "natural": "7. 因〜而感到很舒服／心情很好",
+      "literal": "7. 做〜之後，感覺很好。"
+    },
+    "words": [
+      "7",
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身心感受、心情"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的、舒服的"
+      }
+    ],
+    "context_grammar": [
+      "気持ちがいい：多用於生理上的爽快感、觸覺/身心舒暢的正面感受。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:11",
+    "japanese": "STEP 1",
+    "furigana": "STEP 1",
+    "segmentation": "STEP 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      "STEP 1"
+    ],
+    "context_grammar": [
+      "STEP 1：練習階段標題。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:12",
+    "japanese": "1. 春風が吹いて気持ちがいいです。",
+    "furigana": "1. <ruby>春<rt>はる</rt></ruby><ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いて<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "1. 春風が | 吹いて | 気持ちが | いいです。",
+    "translation": {
+      "natural": "1. 春風吹拂過來，感覺真舒服。",
+      "literal": "1. 春風吹，感覺很好。"
+    },
+    "words": [
+      "1",
+      {
+        "word": "春風",
+        "reading": "はるかぜ",
+        "note": "名詞，春風"
+      },
+      {
+        "word": "吹く",
+        "reading": "ふく",
+        "note": "動詞，吹（te 形為吹いて）"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺、心情"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "吹いて：第一類動詞「吹く」發生音便（イ音便）轉為「吹いて」，表達觸覚觸發的舒暢原因。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:17",
+    "japanese": "2. マッサージしてもらって気持ちがいいです。",
+    "furigana": "2. マッサージしてもらって<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "2. マッサージしてもらって | 気持ちが | いいです。",
+    "translation": {
+      "natural": "2. 接受按摩之後，感覺好舒服。",
+      "literal": "2. 請對方給我按摩，感覺很好。"
+    },
+    "words": [
+      "2",
+      {
+        "word": "マッサージ",
+        "reading": "マッサージ",
+        "note": "名詞，按摩"
+      },
+      {
+        "word": "してもらう",
+        "reading": "してもらう",
+        "note": "動詞片語，接受他人為自己做某事"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身體感覺"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，舒服的"
+      }
+    ],
+    "context_grammar": [
+      "〜てもらう：動詞 te 形 + もらう，表示獲益補助動詞「請/讓他人為自己做～」。",
+      "してもらって：第一類動詞「もらう促音便化為「てもらって」，作為獲得按摩服務後的良好身體反饋。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:23",
+    "japanese": "3. シャンプーしてもらって気持ちがいいです。",
+    "furigana": "3. シャンプーしてもらって<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "3. シャンプーしてもらって | 気持ちが | いいです。",
+    "translation": {
+      "natural": "3. 讓別人幫忙洗頭，感覺真舒服。",
+      "literal": "3. 請對方給我洗頭，感覺很好。"
+    },
+    "words": [
+      "3",
+      {
+        "word": "シャンプー",
+        "reading": "シャンプー",
+        "note": "名詞，洗髮、洗頭"
+      },
+      {
+        "word": "してもらう",
+        "reading": "してもらう",
+        "note": "動詞片語，接受他人為自己服務"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，舒服的"
+      }
+    ],
+    "context_grammar": [
+      "シャンプーしてもらう：將外來語名詞結合「してもらう」，表示在理髮店等場合享受他人洗頭服務的受惠句型。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:28",
+    "japanese": "4. 山の頂上から景色を見渡すと気持ちがいいです。",
+    "furigana": "4. <ruby>山<rt>やま</rt></ruby>の<ruby>頂<rt>ちょう</rt></ruby><ruby>上<rt>じょう</rt></ruby>から<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>を<ruby>見<rt>み</rt></ruby><ruby>渡<rt>わた</rt></ruby>すと<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "4. 山の頂上から | 景色を | 見渡すと | 気持ちが | いいです。",
+    "translation": {
+      "natural": "4. 從山頂俯瞰遠眺風景，讓人心曠神怡。",
+      "literal": "4. 從山頂眺望景色時，感覺很好。"
+    },
+    "words": [
+      "4",
+      {
+        "word": "山",
+        "reading": "やま",
+        "note": "名詞，山"
+      },
+      {
+        "word": "頂上",
+        "reading": "ちょうじょう",
+        "note": "名詞，山頂"
+      },
+      {
+        "word": "景色",
+        "reading": "けいしき",
+        "note": "名詞，景色"
+      },
+      {
+        "word": "見渡す",
+        "reading": "みわたす",
+        "note": "動詞，遠眺、俯瞰"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，心情"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "見渡すと：動詞辭書形 + 順接條件助詞「と」，表示「一做該動作，必然會產生後者的感受/結果」。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:35",
+    "japanese": "5. スキーで滑ると気持ちがいいです。",
+    "furigana": "5. スキーで<ruby>滑<rt>すべ</rt></ruby>ると<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "5. スキーで | 滑ると | 気持ちが | いいです。",
+    "translation": {
+      "natural": "5. 滑雪的時候，感覺特別暢快。",
+      "literal": "5. 用滑雪板滑行時，感覺很好。"
+    },
+    "words": [
+      "5",
+      {
+        "word": "スキー",
+        "reading": "スキー",
+        "note": "名詞，滑雪、滑雪板"
+      },
+      {
+        "word": "滑る",
+        "reading": "すべる",
+        "note": "動詞，滑行"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身心感受"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "スキーで：格助詞「で」標示手段工具（透過滑雪這項運動）。",
+      "滑ると：條件助詞「と」表自然產生的快感反應。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:40",
+    "japanese": "6. 運動した後にシャワーを浴びると気持ちがいいです。",
+    "furigana": "6. <ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>した<ruby>後<rt>あと</rt></ruby>にシャワーを<ruby>浴<rt>あ</rt></ruby>びると<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "6. 運動した後に | シャワーを | 浴びると | 気持ちが | いいです。",
+    "translation": {
+      "natural": "6. 運動完後洗個澡，感覺真舒服。",
+      "literal": "6. 運動後的時機沖澡時，感覺很好。"
+    },
+    "words": [
+      "6",
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動（過去形為運動した）"
+      },
+      {
+        "word": "後",
+        "reading": "あと",
+        "note": "名詞，之後"
+      },
+      {
+        "word": "シャワー",
+        "reading": "シャワー",
+        "note": "名詞，淋浴"
+      },
+      {
+        "word": "浴びる",
+        "reading": "あびる",
+        "note": "動詞，沖、淋（淋浴）"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感受"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，舒服的"
+      }
+    ],
+    "context_grammar": [
+      "〜た後に：動詞簡體過去形＋「後に」，明確標示動作發生的先後順序（先運動，後洗澡）。",
+      "浴びると：第二類動詞連體形加條件助詞「と」。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:46",
+    "japanese": "7. 朝の散歩は気持ちがいいです。",
+    "furigana": "7. <ruby>朝<rt>あさ</rt></ruby>の<ruby>散<rt>さん</rt></ruby><ruby>歩<rt>ぽ</rt></ruby>は<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "7. 朝の散歩は | 気持ちが | いいです。",
+    "translation": {
+      "natural": "7. 早上散散步，令人神清氣爽。",
+      "literal": "7. 早晨的散步是感覺很好的。"
+    },
+    "words": [
+      "7",
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "note": "名詞，早晨"
+      },
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "note": "名詞，散步"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，心情/感覺"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "朝の散歩は：提示助詞「は」將「朝の散歩」提出為主題進行評述。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:51",
+    "japanese": "8. ヨガをすると気持ちがいいです。",
+    "furigana": "8. ヨガをすると<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "8. ヨガをすると | 気持ちが | いいです。",
+    "translation": {
+      "natural": "8. 做瑜伽會讓人覺得身心舒暢。",
+      "literal": "8. 做瑜伽的話，感覺很好。"
+    },
+    "words": [
+      "8",
+      {
+        "word": "ヨガ",
+        "reading": "ヨガ",
+        "note": "名詞，瑜伽"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "ヨガをすると：三變動詞「する」接條件助詞「と」，描述做完該動作必然帶來的身心放鬆感。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:56",
+    "japanese": "9. サウナで汗を流すと気持ちがいいです。",
+    "furigana": "9. サウナで<ruby>汗<rt>あせ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>すと<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "9. サウナで | 汗を | 流すと | 気持ちが | いいです。",
+    "translation": {
+      "natural": "9. 在三溫暖蒸桑拿流流汗，真的很暢快。",
+      "literal": "9. 在桑拿流汗的話，感覺很好。"
+    },
+    "words": [
+      "9",
+      {
+        "word": "サウナ",
+        "reading": "サウナ",
+        "note": "名詞，桑拿、三溫暖"
+      },
+      {
+        "word": "汗",
+        "reading": "あせ",
+        "note": "名詞，汗水"
+      },
+      {
+        "word": "流す",
+        "reading": "ながす",
+        "note": "動詞，流出、排出"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身心感受"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "サウナで：格助詞「で」標示動作發生的場所。",
+      "汗を流す：慣用語，表示「揮灑汗水/流汗解壓」。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "02:02",
+    "japanese": "10. ジョギングすると気持ちがいいです。",
+    "furigana": "10. ジョギングすると<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいです。",
+    "segmentation": "10. ジョギングすると | 気持ちが | いいです。",
+    "translation": {
+      "natural": "10. 慢跑會讓人感到神清氣爽。",
+      "literal": "10. 慢跑的話，感覺很好。"
+    },
+    "words": [
+      "10",
+      {
+        "word": "ジョギングする",
+        "reading": "ジョギングする",
+        "note": "動詞，慢跑"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "ジョギングすると：サ變動詞簡體原形加條件助詞「と」。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:07",
+    "japanese": "STEP 3",
+    "furigana": "STEP 3",
+    "segmentation": "STEP 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      "STEP 3"
+    ],
+    "context_grammar": [
+      "STEP 3：對話練習階段標題。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:09",
+    "japanese": "散歩に行きませんかね。",
+    "furigana": "<ruby>散<rt>さん</rt></ruby><ruby>歩<rt>ぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんかね。",
+    "segmentation": "散歩に | 行きませんかね。",
+    "translation": {
+      "natural": "要不要一起去散個步呢？",
+      "literal": "不去散步嗎？"
+    },
+    "words": [
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "note": "名詞，散步"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去（丁寧否定形為行きません）"
+      }
+    ],
+    "context_grammar": [
+      "散歩に：格助詞「に」標示行動的目的（去進行散步）。",
+      "〜行きませんか：動詞連用形＋「ません」＋「か」，日文標準的「禮貌邀約」句型。",
+      "ね：終助詞，徵求對方認同或使語氣溫和。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:11",
+    "japanese": "朝の散歩は気持ちがいいですからね。",
+    "furigana": "<ruby>朝<rt>あさ</rt></ruby>の<ruby>散<rt>さん</rt></ruby><ruby>歩<rt>ぽ</rt></ruby>は<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちがいいですからね。",
+    "segmentation": "朝の散歩は | 気持ちが | いいですからね。",
+    "translation": {
+      "natural": "好啊，因為早晨散步真的很舒服呢。",
+      "literal": "因為早晨的散步是感覺很好的呢。"
+    },
+    "words": [
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "note": "名詞，早晨"
+      },
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "note": "名詞，散步"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "い形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "〜から：原因助詞，在此置於句尾，說明接受邀約的理由。",
+      "ね：句尾終助詞，帶有補充認同、共鳴的親近語氣。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:16",
+    "japanese": "8. 〜て気持ちが悪いです",
+    "furigana": "8. 〜て<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです",
+    "segmentation": "8. | 〜て | 気持ちが | 悪いです",
+    "translation": {
+      "natural": "8. 因〜而感到身體不適／反胃／噁心",
+      "literal": "8. 做〜之後，感覺不好/噁心。"
+    },
+    "words": [
+      "8",
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，生理感受、情緒"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的、噁心的"
+      }
+    ],
+    "context_grammar": [
+      "気持ちが悪いです：多強調生理上的反胃、想吐、頭暈，或是看到令人噁心/不快的東西時的感受。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:20",
+    "japanese": "STEP 1",
+    "furigana": "STEP 1",
+    "segmentation": "STEP 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      "STEP 1"
+    ],
+    "context_grammar": [
+      "STEP 1：練習階段標題。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:21",
+    "japanese": "1. 二日酔いで気持ちが悪いです。",
+    "furigana": "1. <ruby>二<rt>ふた</rt></ruby><ruby>日<rt>か</rt></ruby><ruby>酔<rt>よ</rt></ruby>いで<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "1. 二日酔いで | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "1. 宿醉讓人覺得很不舒服／想吐。",
+      "literal": "1. 因為宿醉，感覺不好。"
+    },
+    "words": [
+      "1",
+      {
+        "word": "二日酔い",
+        "reading": "ふつかよい",
+        "note": "名詞，宿醉"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身體感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，噁心的、不適的"
+      }
+    ],
+    "context_grammar": [
+      "二日酔いで：格助詞「で」接在名詞後，標示輕微病症或生理狀態產生的「原因」。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:26",
+    "japanese": "2. 車酔いで気持ちが悪いです。",
+    "furigana": "2. <ruby>車<rt>くるま</rt></ruby><ruby>酔<rt>よ</rt></ruby>いで<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "2. 車酔いで | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "2. 我暈車了，覺得很反胃想吐。",
+      "literal": "2. 因為暈車，感覺不好。"
+    },
+    "words": [
+      "2",
+      {
+        "word": "車酔い",
+        "reading": "くるまよい",
+        "note": "名詞，暈車"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身體感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "車酔いで：格助詞「で」標示引起噁心感的原因（暈車）。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:30",
+    "japanese": "3. 船酔いで気持ちが悪いです。",
+    "furigana": "3. <ruby>船<rt>ふな</rt></ruby><ruby>酔<rt>よ</rt></ruby>いで<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "3. 船酔いで | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "3. 我暈船了，感到噁心想吐。",
+      "literal": "3. 因為暈船，感覺不好。"
+    },
+    "words": [
+      "3",
+      {
+        "word": "船酔い",
+        "reading": "ふなよい",
+        "note": "名詞，暈船"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身心感受"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不好的"
+      }
+    ],
+    "context_grammar": [
+      "船酔いで：名詞 + 格助詞「で」表示生理原因。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:35",
+    "japanese": "4. 悪いものを食べて気持ちが悪いです。",
+    "furigana": "4. <ruby>悪<rt>わる</rt></ruby>いものを<ruby>食<rt>た</rt></ruby>べて<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "4. 悪いものを | 食べて | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "4. 吃了不乾淨的東西，肚子覺得很不舒服／想吐。",
+      "literal": "4. 吃了不好的東西，感覺不好。"
+    },
+    "words": [
+      "4",
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，壞的、變質的"
+      },
+      {
+        "word": "もの",
+        "reading": "もの",
+        "note": "形式名詞，東西"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（te 形為食べて）"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不舒服的"
+      }
+    ],
+    "context_grammar": [
+      "悪いもの：形容詞修飾形式名詞「もの」，指不新鮮或壞掉的食物。",
+      "食べて：第二類動詞「食べる」的連用形 te 形作因果接續。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:40",
+    "japanese": "5. 1週間シャワーを浴びないと気持ちが悪いです。",
+    "furigana": "5. 1<ruby>週<rt>しゅう</rt></ruby><ruby>間<rt>かん</rt></ruby>シャワーを<ruby>浴<rt>あ</rt></ruby>びないと<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "5. 1週間 | シャワーを | 浴びないと | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "5. 如果一個星期不洗澡，會讓人覺得很不舒服。",
+      "literal": "5. 1週不沖澡的話，感覺不好。"
+    },
+    "words": [
+      "5",
+      {
+        "word": "1週間",
+        "reading": "いっしゅうかん",
+        "note": "名詞，一星期"
+      },
+      {
+        "word": "シャワー",
+        "reading": "シャワー",
+        "note": "名詞，淋浴"
+      },
+      {
+        "word": "浴びる",
+        "reading": "あびる",
+        "note": "動詞，沖（否定形為浴びない）"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "浴びないと：第二類動詞否定形「浴びない」+ 條件助詞「と」，表示「若不……就會感到不爽快」。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:46",
+    "japanese": "6. 歯みがきをしないと気持ちが悪いです。",
+    "furigana": "6. <ruby>歯<rt>は</rt></ruby>みがきをしないと<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "6. 歯みがきを | しないと | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "6. 不刷牙的話，口腔會覺得很不舒服。",
+      "literal": "6. 不刷牙的話，感覺不好。"
+    },
+    "words": [
+      "6",
+      {
+        "word": "歯みがき",
+        "reading": "はみがき",
+        "note": "名詞，刷牙"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做（否定形為しない）"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "しないと：サ變動詞未然形（否定）「しない」加上假定/條件助詞「と」。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:51",
+    "japanese": "7. ゴキブリは気持ちが悪いです。",
+    "furigana": "7. ゴキブリは<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "7. ゴキブリは | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "7. 蟑螂讓人看了覺得很噁心/毛骨悚然。",
+      "literal": "7. 蟑螂是感覺不好的。"
+    },
+    "words": [
+      "7",
+      {
+        "word": "ゴキブリ",
+        "reading": "ゴキブリ",
+        "note": "名詞，蟑螂"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，噁心的"
+      }
+    ],
+    "context_grammar": [
+      "ゴキブリは：提示助詞「は」揭示主題，表達對蟑螂此物的心理厭惡與噁心感受。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:56",
+    "japanese": "8. 食べすぎて気持ちが悪いです。",
+    "furigana": "8. <ruby>食<rt>た</rt></ruby>べすぎて<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "8. 食べすぎて | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "8. 吃太多了，撐到有點反胃想吐。",
+      "literal": "8. 吃過度了，感覺不好。"
+    },
+    "words": [
+      "8",
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      },
+      {
+        "word": "〜すぎる",
+        "reading": "〜すぎる",
+        "note": "複合動詞字尾，過度、太過"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身體感受"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "食べすぎて：動詞連用形去「ます」加複合動詞「すぎる」（過度），改為 te 形「すぎて」，表過量飲食引起的胃部不適。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:00",
+    "japanese": "9. 汚いタオルは気持ちが悪いです。",
+    "furigana": "9. <ruby>汚<rt>きたな</rt></ruby>いタオルは<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "9. 汚いタオルは | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "9. 使用髒毛巾讓人覺得很不舒服/噁心。",
+      "literal": "9. 髒毛巾是感覺不好的。"
+    },
+    "words": [
+      "9",
+      {
+        "word": "汚い",
+        "reading": "きたない",
+        "note": "い形容詞，髒的"
+      },
+      {
+        "word": "タオル",
+        "reading": "タオル",
+        "note": "名詞，毛巾"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感覺"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "汚いタオル：い形容詞原形直接修飾名詞「タオル」。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:05",
+    "japanese": "10. 汚い部屋は気持ちが悪いです。",
+    "furigana": "10. <ruby>汚<rt>きたな</rt></ruby>い<ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>は<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "10. 汚い部屋は | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "10. 待在髒亂的房間裡讓人感到很不舒服。",
+      "literal": "10. 髒房間是感覺不好的。"
+    },
+    "words": [
+      "10",
+      {
+        "word": "汚い",
+        "reading": "きたない",
+        "note": "い形容詞，髒亂的"
+      },
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，感受"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "汚い部屋は：連體修飾結構後加上主題助詞「は」。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:10",
+    "japanese": "STEP 3",
+    "furigana": "STEP 3",
+    "segmentation": "STEP 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      "STEP 3"
+    ],
+    "context_grammar": [
+      "STEP 3：情境實用對話標題。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:12",
+    "japanese": "どうしたんですか。",
+    "furigana": "どうしたんですか。",
+    "segmentation": "どうしたんですか。",
+    "translation": {
+      "natural": "你怎麼了呢？",
+      "literal": "怎麼了嗎？"
+    },
+    "words": [
+      {
+        "word": "どう",
+        "reading": "どう",
+        "note": "副詞，如何、怎樣"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做、發生（過去形為した）"
+      }
+    ],
+    "context_grammar": [
+      "どうした：動詞「する」的過去形，詢問「發生了什麼事」。",
+      "〜んですか：語氣加強句型，帶有對對方異常狀況的關切與詢問。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:14",
+    "japanese": "何か悪いものを食べて気持ちが悪いです。",
+    "furigana": "<ruby>何<rt>なに</rt></ruby>か<ruby>悪<rt>わる</rt></ruby>いものを<ruby>食<rt>た</rt></ruby>べて<ruby>気<rt>き</rt></ruby><ruby>持<rt>もち</rt></ruby>ちが<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "何か | 悪いものを | 食べて | 気持ちが | 悪いです。",
+    "translation": {
+      "natural": "好像吃了什麼不乾淨的東西，覺得好反胃/想吐。",
+      "literal": "吃了某種壞東西，感覺不好。"
+    },
+    "words": [
+      {
+        "word": "何か",
+        "reading": "なにか",
+        "note": "副詞/代名詞，某個東西、不知什麼"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，壞的"
+      },
+      {
+        "word": "もの",
+        "reading": "もの",
+        "note": "名詞，物品、食物"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃（te 形為食べて）"
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "note": "名詞，身體感受"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，不適的"
+      }
+    ],
+    "context_grammar": [
+      "何か：疑問詞「何」+ 確定不特定助詞「か」，表示「不確定是什麼的某物」。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:19",
+    "japanese": "9. 〜て光栄です",
+    "furigana": "9. 〜て<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です",
+    "segmentation": "9. | 〜て | 光栄です",
+    "translation": {
+      "natural": "9. 能〜感到非常榮幸",
+      "literal": "9. 做〜是光榮的。"
+    },
+    "words": [
+      "9",
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞/な形容詞，光榮、榮幸"
+      }
+    ],
+    "context_grammar": [
+      "〜て光栄です：用於商業、頒獎或正式社交場合表達謙遜與謝意的經典客套句型。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:22",
+    "japanese": "STEP 1",
+    "furigana": "STEP 1",
+    "segmentation": "STEP 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      "STEP 1"
+    ],
+    "context_grammar": [
+      "STEP 1：練習階段標題。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:23",
+    "japanese": "1. 1位になれて光栄です。",
+    "furigana": "1. 1<ruby>位<rt>い</rt></ruby>になれて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "1. 1位に | なれて | 光栄です。",
+    "translation": {
+      "natural": "1. 能獲得第一名，我感到非常榮幸。",
+      "literal": "1. 能成為第1名，是光榮的。"
+    },
+    "words": [
+      "1",
+      {
+        "word": "1位",
+        "reading": "いちい",
+        "note": "名詞，第一名"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，成為（可能形為なれる）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，光榮"
+      }
+    ],
+    "context_grammar": [
+      "1位に：格助詞「に」標示變化的結果。",
+      "なれて：第一類動詞「なる」改為可能形「なれる」，再轉 te 形「なれて」，表達「有幸能夠達到某目標」。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:28",
+    "japanese": "2. 指名していただいて光栄です。",
+    "furigana": "2. <ruby>指<rt>し</rt></ruby><ruby>名<rt>めい</rt></ruby>していただいて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "2. 指名していただいて | 光栄です。",
+    "translation": {
+      "natural": "2. 能蒙您指名，我感到十分榮幸。",
+      "literal": "2. 蒙受指名，是光榮的。"
+    },
+    "words": [
+      "2",
+      {
+        "word": "指名する",
+        "reading": "しめいする",
+        "note": "動詞，指名、點名"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "note": "動詞，蒙受、接受（「もらう」的謙讓語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "〜していただく：動詞 te 形 + いただく，謙讓語句型，表達「有幸承蒙尊長/客戶為我做某事」。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:33",
+    "japanese": "3. 賞をいただいて光栄です。",
+    "furigana": "3. <ruby>賞<rt>しょう</rt></ruby>をいただいて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "3. 賞を | いただいて | 光栄です。",
+    "translation": {
+      "natural": "3. 能獲得這個獎項，我感到非常榮幸。",
+      "literal": "3. 領受獎項，是光榮的。"
+    },
+    "words": [
+      "3",
+      {
+        "word": "賞",
+        "reading": "しょう",
+        "note": "名詞，獎項"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "note": "動詞，領取、接受（謙讓語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "賞をいただいて：將「受獎」的動作使用謙讓動詞「いただく」表達對頒獎方的尊崇。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:38",
+    "japanese": "4. お手伝いできて光栄です。",
+    "furigana": "4. お<ruby>手<rt>て</rt></ruby><ruby>手<rt>つだ</rt></ruby>いできて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "4. お手伝いできて | 光栄です。",
+    "translation": {
+      "natural": "4. 能為您盡一份棉薄之力，是我的榮幸。",
+      "literal": "4. 能做到幫忙，是光榮的。"
+    },
+    "words": [
+      "4",
+      {
+        "word": "お手伝い",
+        "reading": "おてつだい",
+        "note": "名詞，幫忙、協助（帶有美化語お）"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，能夠做到"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "お手伝いできる：名詞「お手伝い」加上「できる」（能夠進行），展現商業職場中的客氣語態。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:42",
+    "japanese": "5. 優勝できて光栄です。",
+    "furigana": "5. <ruby>優<rt>ゆう</rt></ruby><ruby>勝<rt>しょう</rt></ruby>できて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "5. 優勝できて | 光栄です。",
+    "translation": {
+      "natural": "5. 能夠贏得冠軍，我感到非常榮幸。",
+      "literal": "5. 能夠優勝，是光榮的。"
+    },
+    "words": [
+      "5",
+      {
+        "word": "優勝する",
+        "reading": "ゆうしょうする",
+        "note": "動詞，獲得冠軍（可能形為優勝できる）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "優勝できて：サ變動詞「優勝する」的可能形「優勝できる」之 te 形。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:47",
+    "japanese": "6. 代表になれて光栄です。",
+    "furigana": "6. <ruby>代<rt>だい</rt></ruby><ruby>表<rt>ひょう</rt></ruby>になれて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "6. 代表に | なれて | 光栄です。",
+    "translation": {
+      "natural": "6. 能獲選為代表，我感到無上榮幸。",
+      "literal": "6. 能成為代表，是光榮的。"
+    },
+    "words": [
+      "6",
+      {
+        "word": "代表",
+        "reading": "だいひょう",
+        "note": "名詞，代表"
+      },
+      {
+        "word": "なる",
+        "reading": "なる",
+        "note": "動詞，成為（可能形為なれる）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "代表になれて：可能形「なれる」的 te 形作因果接續。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:52",
+    "japanese": "7. 選んでいただいて光栄です。",
+    "furigana": "7. <ruby>選<rt>えら</rt></ruby>んでいただいて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "7. 選んでいただいて | 光栄です。",
+    "translation": {
+      "natural": "7. 感謝您選擇了我，我感到非常榮幸。",
+      "literal": "7. 蒙受選選擇，是光榮的。"
+    },
+    "words": [
+      "7",
+      {
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "note": "動詞，選擇（te 形為選んで）"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "note": "動詞，蒙受（謙讓語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "選んでいただいて：第一類動詞「選ぶ」發生撥音便（選んで），加上謙讓補助動詞「いただく」的 te 形。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:56",
+    "japanese": "8. お褒めに預かり光栄です。",
+    "furigana": "8. お<ruby>褒<rt>ほ</rt></ruby>めに<ruby>預<rt>あずか</rt></ruby>り<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "8. お褒めに | 預かり | 光栄です。",
+    "translation": {
+      "natural": "8. 能蒙受您的誇獎，我感到非常榮幸。",
+      "literal": "8. 蒙受讚美，是光榮的。"
+    },
+    "words": [
+      "8",
+      {
+        "word": "お褒め",
+        "reading": "おほめ",
+        "note": "名詞，讚美、誇獎（帶美化語お）"
+      },
+      {
+        "word": "預かる",
+        "reading": "あずかる",
+        "note": "動詞，接受、蒙受（在此為慣用語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "お褒めに預かる：日文高度商務成語，表示「承蒙讚賞」。",
+      "預かり：動詞連用形中止法（替代 te 形），顯得更為正式典雅。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:01",
+    "japanese": "9. お気に召していただき光栄です。",
+    "furigana": "9. お<ruby>気<rt>き</rt></ruby>に<ruby>召<rt>め</rt></ruby>していただき<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "9. お気に召していただき | 光栄です。",
+    "translation": {
+      "natural": "9. 能得到您的喜愛／合您的心意，是我的榮幸。",
+      "literal": "9. 蒙受進入尊意，是光榮的。"
+    },
+    "words": [
+      "9",
+      {
+        "word": "気に召す",
+        "reading": "きにめす",
+        "note": "動詞，喜歡、中意（「気に入る」的敬語）"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "note": "動詞，蒙受（謙讓語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "お気に召す：尊敬語，抬高對方的喜好行為。",
+      "〜ていただき：動詞連用形連體接續，呈現尊謙並用的商務高階語法。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:06",
+    "japanese": "10. このようなチャンスをいただいて光栄です。",
+    "furigana": "10. このようなチャンスをいただいて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "10. このような | チャンスを | いただいて | 光栄です。",
+    "translation": {
+      "natural": "10. 能獲得這樣的寶貴機會，我感到無上榮幸。",
+      "literal": "10. 領受這樣的機會，是光榮的。"
+    },
+    "words": [
+      "10",
+      {
+        "word": "このような",
+        "reading": "このような",
+        "note": "連體詞，像這樣的"
+      },
+      {
+        "word": "チャンス",
+        "reading": "チャンス",
+        "note": "名詞，機會"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "note": "動詞，接受、給予（謙讓語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "このような：形動型連體詞，修飾外來語名詞「チャンス」。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:12",
+    "japanese": "STEP 3",
+    "furigana": "STEP 3",
+    "segmentation": "STEP 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      "STEP 3"
+    ],
+    "context_grammar": [
+      "STEP 3：對話應用階段標題。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:14",
+    "japanese": "おめでとうございます。",
+    "furigana": "おめでとうございます。",
+    "segmentation": "おめでとうございます。",
+    "translation": {
+      "natural": "恭喜您！",
+      "literal": "非常祝賀。"
+    },
+    "words": [
+      {
+        "word": "おめでとうございます",
+        "reading": "おめでとうございます",
+        "note": "感嘆詞，恭喜（禮貌形）"
+      }
+    ],
+    "context_grammar": [
+      "おめでとうございます：標準的祝賀用語。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:16",
+    "japanese": "ありがとうございます。賞をいただいて光栄です。",
+    "furigana": "ありがとうございます。<ruby>賞<rt>しょう</rt></ruby>をいただいて<ruby>光<rt>こう</rt></ruby><ruby>栄<rt>えい</rt></ruby>です。",
+    "segmentation": "ありがとうございます。 | 賞を | いただいて | 光栄です。",
+    "translation": {
+      "natural": "非常感謝您。能得到這個獎項，我感到十分榮幸。",
+      "literal": "謝謝。領受獎項，是光榮的。"
+    },
+    "words": [
+      {
+        "word": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "note": "感嘆詞，非常感謝"
+      },
+      {
+        "word": "賞",
+        "reading": "しょう",
+        "note": "名詞，獎項"
+      },
+      {
+        "word": "いただく",
+        "reading": "いただく",
+        "note": "動詞，領取（謙讓語）"
+      },
+      {
+        "word": "光栄",
+        "reading": "こうえい",
+        "note": "名詞，榮幸"
+      }
+    ],
+    "context_grammar": [
+      "獲獎感言的標準連貫應答模式：表達感謝（ありがとうございます）+ 謙遜致謝（〜いただいて光栄です）。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:22",
+    "japanese": "10. 〜が心配です",
+    "furigana": "10. 〜が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です",
+    "segmentation": "10. | 〜が | 心配です",
+    "translation": {
+      "natural": "10. 很擔心〜",
+      "literal": "10. 〜是令人擔心的。"
+    },
+    "words": [
+      "10",
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心、憂慮"
+      }
+    ],
+    "context_grammar": [
+      "〜が心配です：格助詞「が」標示令人擔心的對象。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:25",
+    "japanese": "STEP 1",
+    "furigana": "STEP 1",
+    "segmentation": "STEP 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      "STEP 1"
+    ],
+    "context_grammar": [
+      "STEP 1：練習階段標題。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:26",
+    "japanese": "1. 大型台風が心配です。",
+    "furigana": "1. <ruby>大<rt>おお</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>台<rt>たい</rt></ruby><ruby>風<rt>ふう</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "1. 大型台風が | 心配です。",
+    "translation": {
+      "natural": "1. 很令人擔心這個大型颱風。",
+      "literal": "1. 大型颱風是擔心的。"
+    },
+    "words": [
+      "1",
+      {
+        "word": "大型",
+        "reading": "おおがた",
+        "note": "名詞，大型的"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "note": "名詞，颱風"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "大型台風が：名詞修飾結合，加上主格助詞「が」指示對象。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:31",
+    "japanese": "2. 明日の試験が心配です。",
+    "furigana": "2. <ruby>明<rt>あし</rt></ruby><ruby>日<rt>た</rt></ruby>の<ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "2. 明日の試験が | 心配です。",
+    "translation": {
+      "natural": "2. 很擔心明天的考試。",
+      "literal": "2. 明天的考試是擔心的。"
+    },
+    "words": [
+      "2",
+      {
+        "word": "明日",
+        "reading": "あした",
+        "note": "名詞，明天"
+      },
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "明日の：時間名詞 + 「の」修飾名詞「試験」。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:35",
+    "japanese": "3. 健康が心配です。",
+    "furigana": "3. <ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "3. 健康が | 心配です。",
+    "translation": {
+      "natural": "3. 很擔心健康狀況。",
+      "literal": "3. 健康是擔心的。"
+    },
+    "words": [
+      "3",
+      {
+        "word": "健康",
+        "reading": "けんこう",
+        "note": "名詞，健康"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "健康が心配です：抽象名詞作為擔憂對象。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:39",
+    "japanese": "4. 地震が心配です。",
+    "furigana": "4. <ruby>地<rt>じ</rt></ruby><ruby>震<rt>しん</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "4. 地震が | 心配です。",
+    "translation": {
+      "natural": "4. 很令人擔心會有地震。",
+      "literal": "4. 地震是擔心的。"
+    },
+    "words": [
+      "4",
+      {
+        "word": "地震",
+        "reading": "じしん",
+        "note": "名詞，地震"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "地震が：災害名詞作為「心配」的標的主語。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:43",
+    "japanese": "5. 火山噴火が心配です。",
+    "furigana": "5. <ruby>火<rt>か</rt></ruby><ruby>山<rt>ざん</rt></ruby><ruby>噴<rt>ふん</rt></ruby><ruby>火<rt>か</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "5. 火山噴火が | 心配です。",
+    "translation": {
+      "natural": "5. 很擔心火山爆發。",
+      "literal": "5. 火山噴發是擔心的。"
+    },
+    "words": [
+      "5",
+      {
+        "word": "火山噴火",
+        "reading": "かざんふんか",
+        "note": "名詞，火山爆發"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "火山噴火が：複合名詞直接作為對象。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:48",
+    "japanese": "6. 治安が心配です。",
+    "furigana": "6. <ruby>治<rt>ち</rt></ruby><ruby>安<rt>あん</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "6. 治安が | 心配です。",
+    "translation": {
+      "natural": "6. 很讓人擔心當地的治安。",
+      "literal": "6. 治安是擔心的。"
+    },
+    "words": [
+      "6",
+      {
+        "word": "治安",
+        "reading": "ちあん",
+        "note": "名詞，治安"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "治安が：環境狀態名詞標示為心慮點。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:52",
+    "japanese": "7. 将来が心配です。",
+    "furigana": "7. <ruby>将<rt>しょう</rt></ruby><ruby>来<rt>らい</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "7. 将来が | 心配です。",
+    "translation": {
+      "natural": "7. 很擔心未來的出路/前景。",
+      "literal": "7. 將來是擔心的。"
+    },
+    "words": [
+      "7",
+      {
+        "word": "将来",
+        "reading": "しょうらい",
+        "note": "名詞，未來、將來"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "将来が心配です：口語中常表達個人前途焦慮的常用句。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:56",
+    "japanese": "8. 老後が心配です。",
+    "furigana": "8. <ruby>老<rt>ろう</rt></ruby><ruby>後<rt>ご</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "8. 老後が | 心配です。",
+    "translation": {
+      "natural": "8. 很擔心老年後的生活。",
+      "literal": "8. 老後是擔心的。"
+    },
+    "words": [
+      "8",
+      {
+        "word": "老後",
+        "reading": "ろうご",
+        "note": "名詞，晚年、老年期"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "老後が：時間領域名詞做對象指示。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "05:00",
+    "japanese": "9. 物価上昇が心配です。",
+    "furigana": "9. <ruby>物<rt>ぶっ</rt></ruby><ruby>価<rt>か</rt></ruby><ruby>上<rt>じょう</rt></ruby><ruby>昇<rt>しょう</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "9. 物価上昇が | 心配です。",
+    "translation": {
+      "natural": "9. 物價飛漲令人感到相當擔心。",
+      "literal": "9. 物價上升是擔心的。"
+    },
+    "words": [
+      "9",
+      {
+        "word": "物価上昇",
+        "reading": "ぶっかじょうしょう",
+        "note": "名詞，物價上漲、通貨膨脹"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "物価上昇が：社會經濟議題名詞結合主格助詞「が」。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "05:05",
+    "japanese": "10. 子供の帰りが遅くて心配です。",
+    "furigana": "10. <ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りが<ruby>遅<rt>おそ</rt></ruby>くて<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "10. 子供の帰りが | 遅くて | 心配です。",
+    "translation": {
+      "natural": "10. 孩子太晚回家，真讓人擔心。",
+      "literal": "10. 孩子的歸家太遲，很擔心。"
+    },
+    "words": [
+      "10",
+      {
+        "word": "子供",
+        "reading": "こども",
+        "note": "名詞，小孩、孩子"
+      },
+      {
+        "word": "帰り",
+        "reading": "かえり",
+        "note": "名詞，回家、歸途（動詞名詞化）"
+      },
+      {
+        "word": "遅い",
+        "reading": "おそい",
+        "note": "い形容詞，太晚的、遲的（去い加くて改為接續形）"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "子供の帰り：名詞「帰り」表示「回家的這件事/時間」。",
+      "遅くて：い形容詞去「い」加「くて」轉為中斷形，表原因接續（因為太晚，所以擔心）。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "05:10",
+    "japanese": "STEP 3",
+    "furigana": "STEP 3",
+    "segmentation": "STEP 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      "STEP 3"
+    ],
+    "context_grammar": [
+      "STEP 3：對話應用階段標題。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "05:12",
+    "japanese": "富士山へ行きませんか。",
+    "furigana": "<ruby>富<rt>ふ</rt></ruby><ruby>士<rt>じ</rt></ruby><ruby>山<rt>さん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きませんか。",
+    "segmentation": "富士山へ | 行きませんか。",
+    "translation": {
+      "natural": "要不要一起去富士山呢？",
+      "literal": "要往富士山去嗎？"
+    },
+    "words": [
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "note": "名詞，富士山"
+      },
+      {
+        "word": "行く",
+        "reading": "いく",
+        "note": "動詞，去（丁寧否定形為行きません）"
+      }
+    ],
+    "context_grammar": [
+      "富士山へ：格助詞「へ」標示移動的方向與目的地。",
+      "〜行きませんか：標準邀約用語。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "05:14",
+    "japanese": "火山噴火が心配です。",
+    "furigana": "<ruby>火<rt>か</rt></ruby><ruby>山<rt>ざん</rt></ruby><ruby>噴<rt>ふん</rt></ruby><ruby>火<rt>か</rt></ruby>が<ruby>心<rt>しん</rt></ruby><ruby>配<rt>ぱい</rt></ruby>です。",
+    "segmentation": "火山噴火が | 心配です。",
+    "translation": {
+      "natural": "我很擔心火山爆發耶。",
+      "literal": "火山噴發是令人擔心的。"
+    },
+    "words": [
+      {
+        "word": "火山噴火",
+        "reading": "かざんふんか",
+        "note": "名詞，火山爆發"
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "note": "名詞/な形容詞，擔心"
+      }
+    ],
+    "context_grammar": [
+      "對邀約的婉轉拒絕模式：直接提出所顧慮的隱憂（火山噴火が心配です），達成不直接說「不」的日式婉拒溝通風格。"
+    ]
+  }
+]

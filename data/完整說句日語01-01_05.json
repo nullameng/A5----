@@ -1,0 +1,1767 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "寫給無法完整說出一句日文的人",
+    "furigana": "寫給無法完整說出一句日文的人",
+    "segmentation": "寫給無法完整說出一句日文的人",
+    "translation": {
+      "natural": "寫給無法完整說出一句日文的人",
+      "literal": "寫給無法完整說出一句日文的人"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "002",
+    "time": "00:03",
+    "japanese": "不求人文化製作發行",
+    "furigana": "不求人文化製作發行",
+    "segmentation": "不求人文化製作發行",
+    "translation": {
+      "natural": "不求人文化製作發行",
+      "literal": "不求人文化製作發行"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "003",
+    "time": "00:10",
+    "japanese": "Part 1",
+    "furigana": "Part 1",
+    "segmentation": "Part 1",
+    "translation": {
+      "natural": "第一部分",
+      "literal": "Part 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "004",
+    "time": "00:12",
+    "japanese": "1. ～てありがとう",
+    "furigana": "1. ～てありがとう",
+    "segmentation": "1. ～て | ありがとう",
+    "translation": {
+      "natural": "1. 謝謝你做……",
+      "literal": "1. 做了～謝謝"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "005",
+    "time": "00:14",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "006",
+    "time": "00:16",
+    "japanese": "1. いつも応援してくれてありがとう。",
+    "furigana": "1. いつも<ruby>応<rt>おう</rt></ruby><ruby>援<rt>えん</rt></ruby>してくれてありがとう。",
+    "segmentation": "いつも | 応援してくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你一直為我加油。",
+      "literal": "總是為我加油，謝謝。"
+    },
+    "words": [
+      {
+        "word": "いつも",
+        "reading": "いつも",
+        "note": "副詞，總是、一直"
+      },
+      {
+        "word": "応援する",
+        "reading": "おうえんする",
+        "note": "動詞，加油、支持"
+      },
+      {
+        "word": "くれる",
+        "reading": "くれる",
+        "note": "授受動詞，對方為我/我方做某事"
+      }
+    ],
+    "context_grammar": [
+      "「応援する」轉為連用形（て形）「応援して」，接續授受補助動詞「くれる」的て形「くれて」，表示對方為我做出加油支持的行動。",
+      "後接感嘆詞「ありがとう」，構成親近口語中表達具體行為感謝的經典句構（~てくれてありがとう）。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:20",
+    "japanese": "2. 傘を貸してくれてありがとう。",
+    "furigana": "2. <ruby>傘<rt>かさ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してくれてありがとう。",
+    "segmentation": "傘を | 貸してくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你借我傘。",
+      "literal": "借傘給我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "傘",
+        "reading": "かさ",
+        "note": "名詞，雨傘"
+      },
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "note": "他動詞，借出"
+      }
+    ],
+    "context_grammar": [
+      "名詞「傘」受賓格助詞「を」標示，作為他動詞「貸す」的直接受詞。",
+      "「貸す」為五段活用動詞，連用形變為「貸して」，結合「くれて」形成修飾語塊，接續句末的感謝語「ありがとう」。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:24",
+    "japanese": "3. ごちそうしてくれてありがとう。",
+    "furigana": "3. ごちそうしてくれてありがとう。",
+    "segmentation": "ごちそうしてくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你請我客。",
+      "literal": "招待我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "ごちそうする",
+        "reading": "ごちそうする",
+        "note": "三類動詞，請客、招待"
+      }
+    ],
+    "context_grammar": [
+      "サ變動詞「ごちそうする」變化為連用形「ごちそうして」，與補助動詞「くれて」結合。",
+      "在日常生活與日常商業交際後續聯繫中，此句型常用於向朋友或長輩表達「接受了對方飲食招待」的感謝。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:28",
+    "japanese": "4. 仕事を紹介してくれてありがとう。",
+    "furigana": "4. <ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>を<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>してくれてありがとう。",
+    "segmentation": "仕事を | 紹介してくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你幫我介紹工作。",
+      "literal": "介紹工作給我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "note": "名詞，工作"
+      },
+      {
+        "word": "紹介する",
+        "reading": "しょうかいする",
+        "note": "三類動詞，介紹"
+      }
+    ],
+    "context_grammar": [
+      "受詞「仕事」經由助詞「を」修飾動作「紹介して」。",
+      "「紹介して＋くれて」以連用形接續，語序上先交代動作內容與受惠關係，最後落於感謝表達，邏輯結構層層遞進。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:32",
+    "japanese": "5. 洗濯してくれてありがとう。",
+    "furigana": "5. <ruby>洗<rt>せん</rt></ruby><ruby>たく<rt>たく</rt></ruby>してくれてありがとう。",
+    "segmentation": "洗濯してくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你幫我洗衣服。",
+      "literal": "洗衣服給我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "洗濯する",
+        "reading": "せんたくする",
+        "note": "三類動詞，洗衣服"
+      }
+    ],
+    "context_grammar": [
+      "「洗濯する」的て形變化為「洗濯して」，後接「くれて」，強調「幫我做家事」的恩惠性質。",
+      "極具生活感與親密感的表達，常用於家人或同居伴侶間的口語互動。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:36",
+    "japanese": "6. 掃除してくれてありがとう。",
+    "furigana": "6. <ruby>掃<rt>そう</rt></ruby><ruby>除<rt>じ</rt></ruby>してくれてありがとう。",
+    "segmentation": "掃除してくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你幫我打掃。",
+      "literal": "打掃給我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "掃除する",
+        "reading": "そうじする",
+        "note": "三類動詞，打掃"
+      }
+    ],
+    "context_grammar": [
+      "三類動詞「掃除する」轉連用形「掃除して」，接續「くれて」代表受益動作。",
+      "句型結構極簡，屬於未完結句（省略了丁寧終助詞或禮貌結尾），傳遞自然溫馨的口語氛圍。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:39",
+    "japanese": "7. 助けてくれてありがとう。",
+    "furigana": "7. <ruby>助<rt>たす</rt></ruby>けてくれてありがとう。",
+    "segmentation": "助けてくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你救了我 / 幫了我大忙。",
+      "literal": "拯救/幫助我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "助ける",
+        "reading": "たすける",
+        "note": "下一段動詞，援助、拯救"
+      }
+    ],
+    "context_grammar": [
+      "下一段動詞「助ける」去「る」加「て」轉為連用形「助けて」，後接「くれて」。",
+      "常用於對方在關鍵時刻伸出援手或幫忙解決棘手難題後的真誠感謝。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:43",
+    "japanese": "8. 手伝ってくれてありがとう。",
+    "furigana": "8. <ruby>手<rt>て</rt></ruby><ruby>伝<rt>つだ</rt></ruby>ってくれてありがとう。",
+    "segmentation": "手伝ってくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你幫忙。",
+      "literal": "幫忙我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "手伝う",
+        "reading": "てつだう",
+        "note": "五段動詞，協助、幫忙"
+      }
+    ],
+    "context_grammar": [
+      "五段活用動詞「手伝う」發生促音便變化（う➔って），形成連用形「手伝って」。",
+      "極高頻率出現於日常工作或日常生活中，表達對他人輔助性協助的感謝。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:47",
+    "japanese": "9. 荷物を持ってくれてありがとう。",
+    "furigana": "9. <ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってくれてありがとう。",
+    "segmentation": "荷物を | 持ってくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你幫我提行李。",
+      "literal": "提拿行李給我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "note": "名詞，行李、包包"
+      },
+      {
+        "word": "持つ",
+        "reading": "持つ",
+        "note": "五段動詞，拿、提"
+      }
+    ],
+    "context_grammar": [
+      "名詞「荷物」由助詞「を」標示為受詞，修飾動詞「持つ」。",
+      "「持つ」經促音便（つ➔って）轉為「持って」，接續「くれて」代表「為我提拿」的行為受惠。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:51",
+    "japanese": "10. 迎えに来てくれてありがとう。",
+    "furigana": "10. <ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>てくれてありがとう。",
+    "segmentation": "迎えに | 来てくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你來接我。",
+      "literal": "前來迎接我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "迎え",
+        "reading": "むかえ",
+        "note": "名詞（動詞連用形轉名詞），迎接"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "カ變動詞，來"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形名詞「迎え」搭配目的助詞「に」，修飾方向動詞「来る」，組成「迎えに来る」（前來迎接）。",
+      "カ變動詞「来る」連用形為「来て」，結合「くれて」表達對方特地前來接送的感激之情。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:55",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "017",
+    "time": "00:57",
+    "japanese": "荷物を持ってくれてありがとう。",
+    "furigana": "<ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってくれてありがとう。",
+    "segmentation": "荷物を | 持ってくれて | ありがとう。",
+    "translation": {
+      "natural": "謝謝你幫我提行李。",
+      "literal": "提拿行李給我，謝謝。"
+    },
+    "words": [
+      {
+        "word": "荷物",
+        "reading": "にもつ",
+        "note": "名詞，行李"
+      },
+      {
+        "word": "持つ",
+        "reading": "持つ",
+        "note": "五段動詞，拿、提"
+      }
+    ],
+    "context_grammar": [
+      "對話上文，提問或表達感謝端，運用促音便「持って」加「くれて」形成受惠語塊。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:00",
+    "japanese": "いいえ、どういたしまして。",
+    "furigana": "いいえ、どういたしまして。",
+    "segmentation": "いいえ、| どういたしまして。",
+    "translation": {
+      "natural": "不客氣，別放在心上。",
+      "literal": "不，哪裡哪裡。"
+    },
+    "words": [
+      {
+        "word": "いいえ",
+        "reading": "いいえ",
+        "note": "感嘆詞，不、沒什麼"
+      },
+      {
+        "word": "どういたしまして",
+        "reading": "どういたしまして",
+        "note": "成語/慣用語，不客氣"
+      }
+    ],
+    "context_grammar": [
+      "回應他人感謝的固定搭配句型。「いいえ」起軟化語氣作用，「どういたしまして」為標準的禮貌回應。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:03",
+    "japanese": "2. ～てうれしいです",
+    "furigana": "2. ～てうれしいです",
+    "segmentation": "2. ～て | うれしいです",
+    "translation": {
+      "natural": "2. 很開心能……",
+      "literal": "2. 做了～很高興"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "020",
+    "time": "01:06",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "021",
+    "time": "01:08",
+    "japanese": "1. お会いできてうれしいです。",
+    "furigana": "1. お<ruby>会<rt>あ</rt></ruby>いできてうれしいです。",
+    "segmentation": "お会いできて | うれしいです。",
+    "translation": {
+      "natural": "很高興能見到您。",
+      "literal": "能見到您很開心。"
+    },
+    "words": [
+      {
+        "word": "お会いする",
+        "reading": "おあいする",
+        "note": "動詞，見面（謙讓語表現）"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，能夠"
+      },
+      {
+        "word": "うれしい",
+        "reading": "うれしい",
+        "note": "イ形容詞，開心的、高興的"
+      }
+    ],
+    "context_grammar": [
+      "「お＋會話動詞連用形（会い）＋する」為謙讓語句構，轉可能形「お会いできる」。",
+      "「できる」轉連用形「できて」表原因理由，修飾後方的感情形容詞句結尾「うれしいです」。在商務會面或廣告迎賓旁白中為極高級且禮貌的問候句。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:12",
+    "japanese": "2. 彼氏ができてうれしいです。",
+    "furigana": "2. <ruby>彼<rt>かの</rt></ruby><ruby>氏<rt>し</rt></ruby>ができてうれしいです。",
+    "segmentation": "彼氏ができて | うれしいです。",
+    "translation": {
+      "natural": "很高興交到了男朋友。",
+      "literal": "男朋友有了很開心。"
+    },
+    "words": [
+      {
+        "word": "彼氏",
+        "reading": "かれし",
+        "note": "名詞，男朋友"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "自動詞，交到、產生"
+      }
+    ],
+    "context_grammar": [
+      "主語「彼氏」由格助詞「が」標示，自動詞「できる」表「交到/產生」。",
+      "「できて」為連用形表原因，引導出後方「うれしいです」的心理情緒表現。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:16",
+    "japanese": "3. 合格できてうれしいです。",
+    "furigana": "3. <ruby>合<rt>ごう</rt></ruby><ruby>格<rt>かく</rt></ruby>できてうれしいです。",
+    "segmentation": "合格できて | うれしいです。",
+    "translation": {
+      "natural": "很高興能考上 / 通過考試。",
+      "literal": "能夠合格很開心。"
+    },
+    "words": [
+      {
+        "word": "合格する",
+        "reading": "ごうかくする",
+        "note": "三類動詞，合格、通過考試"
+      }
+    ],
+    "context_grammar": [
+      "「合格する」轉可能形「合格できる」，再轉連用形「合格できて」。",
+      "語序上「合格できて」為條件/原因語塊，修飾句尾的心理狀態「うれしいです」。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:20",
+    "japanese": "4. 就職できてうれしいです。",
+    "furigana": "4. <ruby>就<rt>しゅう</rt></ruby><ruby>職<rt>しょく</rt></ruby>できてうれしいです。",
+    "segmentation": "就職できて | うれしいです。",
+    "translation": {
+      "natural": "很高興能順利找到工作。",
+      "literal": "能夠就職很開心。"
+    },
+    "words": [
+      {
+        "word": "就職する",
+        "reading": "しゅうしょくする",
+        "note": "三類動詞，就職、求職成功"
+      }
+    ],
+    "context_grammar": [
+      "「就職する」變換為可能形「就職できる」之連用形「就職できて」。",
+      "表達「順利實現某目標」後的喜悅感情接續句型。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:23",
+    "japanese": "5. 手術が成功してうれしいです。",
+    "furigana": "5. <ruby>手<rt>しゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>が<ruby>成<rt>せい</rt></ruby><ruby>功<rt>こう</rt></ruby>してうれしいです。",
+    "segmentation": "手術が成功して | うれしいです。",
+    "translation": {
+      "natural": "很高興手術成功了。",
+      "literal": "手術成功了很開心。"
+    },
+    "words": [
+      {
+        "word": "手術",
+        "reading": "しゅじゅつ",
+        "note": "名詞，手術"
+      },
+      {
+        "word": "成功する",
+        "reading": "せいこうする",
+        "note": "三類動詞，成功"
+      }
+    ],
+    "context_grammar": [
+      "「手術」為動作主語，由「が」標示。「成功する」轉連用形「成功して」。",
+      "連用形（て形）在此發揮中立連接與表原因的功能，連接後句感情結果「うれしいです」。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:28",
+    "japanese": "6. 昇進できてうれしいです。",
+    "furigana": "6. <ruby>昇<rt>しょう</rt></ruby><ruby>進<rt>しん</rt></ruby>できてうれしいです。",
+    "segmentation": "昇進できて | うれしいです。",
+    "translation": {
+      "natural": "很高興能夠獲得升職。",
+      "literal": "能夠升職很開心。"
+    },
+    "words": [
+      {
+        "word": "昇進する",
+        "reading": "しょうしんする",
+        "note": "三類動詞，升職、晉升"
+      }
+    ],
+    "context_grammar": [
+      "「昇進する」之可能形連用變態「昇進できて」。",
+      "職場常用情感表達，說明「能力獲肯定並達成升職」這一事件作為開心（うれしい）的緣由。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:32",
+    "japanese": "7. 宝くじが当たってうれしいです。",
+    "furigana": "7. <ruby>宝<rt>たから</rt></ruby>くじが<ruby>当<rt>あ</rt></ruby>たってうれしいです。",
+    "segmentation": "宝くじが当たって | うれしいです。",
+    "translation": {
+      "natural": "很高興中彩券了。",
+      "literal": "彩券中了很開心。"
+    },
+    "words": [
+      {
+        "word": "宝くじ",
+        "reading": "たからくじ",
+        "note": "名詞，彩券"
+      },
+      {
+        "word": "当たる",
+        "reading": "あたる",
+        "note": "五段動詞，中獎、命中"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「当たる」發生促音便（る➔って）轉為「当たって」。",
+      "自動詞「当たる」搭配主格助詞「が」，表現非預期的中獎事實作為高興的原因。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:36",
+    "japanese": "8. プレゼントをもらってうれしいです。",
+    "furigana": "8. プレゼントをもらってうれしいです。",
+    "segmentation": "プレゼントをもらって | うれしいです。",
+    "translation": {
+      "natural": "很高興收到禮物。",
+      "literal": "收到禮物很開心。"
+    },
+    "words": [
+      {
+        "word": "プレゼント",
+        "reading": "プレゼント",
+        "note": "外來語名詞，禮物（Present）"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "五段動詞，收到、接受"
+      }
+    ],
+    "context_grammar": [
+      "「プレゼント」受賓格助詞「を」標示，修飾動詞「もらう」。",
+      "「もらう」發生促音便（う➔って）變成「もらって」，作為後句情緒「うれしいです」的前置原因語塊。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:40",
+    "japanese": "9. プロポーズされてうれしいです。",
+    "furigana": "9. プロポーズされてうれしいです。",
+    "segmentation": "プロポーズされて | うれしいです。",
+    "translation": {
+      "natural": "很高興被求婚了。",
+      "literal": "被求婚了很開心。"
+    },
+    "words": [
+      {
+        "word": "プロポーズする",
+        "reading": "プロポーズする",
+        "note": "三類動詞，求婚（Propose）"
+      }
+    ],
+    "context_grammar": [
+      "「プロポーズする」轉為被動語態（受身形）「プロポーズされる」，再轉連用形「プロポーズされて」。",
+      "被動語態在此強調「被動接受對方求婚動作」的語境體驗。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:44",
+    "japanese": "10. ボーナスをもらってうれしいです。",
+    "furigana": "10. ボーナスをもらってうれしいです。",
+    "segmentation": "ボーナスをもらって | うれしいです。",
+    "translation": {
+      "natural": "很高興領到獎金/年終。",
+      "literal": "領到獎金很開心。"
+    },
+    "words": [
+      {
+        "word": "ボーナス",
+        "reading": "ボーナス",
+        "note": "外來語名詞，獎金、紅利（Bonus）"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "五段動詞，領取、收到"
+      }
+    ],
+    "context_grammar": [
+      "「ボーナス」做受詞，動詞「もらう」經促音便轉為「もらって」。",
+      "結構為「動作結果（領到獎金）＋情感形容詞（うれしいです）」。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:49",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "032",
+    "time": "01:50",
+    "japanese": "宝くじが当たってうれしい！",
+    "furigana": "<ruby>宝<rt>たから</rt></ruby>くじが<ruby>当<rt>あ</rt></ruby>たってうれしい！",
+    "segmentation": "宝くじが当たって | うれしい！",
+    "translation": {
+      "natural": "中彩券了真開心！",
+      "literal": "彩券中了，開心！"
+    },
+    "words": [
+      {
+        "word": "宝くじ",
+        "reading": "たからくじ",
+        "note": "名詞，彩券"
+      },
+      {
+        "word": "うれしい",
+        "reading": "うれしい",
+        "note": "イ形容詞，開心的"
+      }
+    ],
+    "context_grammar": [
+      "常規口語會語中省略句尾的敬體「です」，直接以普通體「うれしい」結尾，帶有強烈的情感驚嘆色彩。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "01:53",
+    "japanese": "今度、お祝いしよう！",
+    "furigana": "<ruby>今<rt>こん</rt></ruby><ruby>度<rt>ど</rt></ruby>、お<ruby>祝<rt>い</rt></ruby>いしよう！",
+    "segmentation": "今度、| お祝いしよう！",
+    "translation": {
+      "natural": "下次找時間來慶祝吧！",
+      "literal": "下次，慶祝吧！"
+    },
+    "words": [
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "note": "副詞/名詞，下次、這一次"
+      },
+      {
+        "word": "お祝いする",
+        "reading": "おいわいする",
+        "note": "三類動詞，慶祝"
+      }
+    ],
+    "context_grammar": [
+      "「お祝いする」轉為意向形（志向形）「お祝いしよう」，表提案或邀請對方一同行動（相當於「～しましょう」的口語簡化形式）。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "01:56",
+    "japanese": "3. ～て驚きました",
+    "furigana": "3. ～て驚きました",
+    "segmentation": "3. ～て | 驚きました",
+    "translation": {
+      "natural": "3. 看到/聽到……感到很吃驚",
+      "literal": "3. 做了～很吃驚"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "035",
+    "time": "01:59",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "036",
+    "time": "02:01",
+    "japanese": "1. 人が多くて驚きました。",
+    "furigana": "1. <ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "人が多くて | 驚きました。",
+    "translation": {
+      "natural": "人很多，讓我嚇了一跳。",
+      "literal": "人多而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人、人們"
+      },
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "note": "イ形容詞，多的"
+      },
+      {
+        "word": "驚く",
+        "reading": "おどろく",
+        "note": "五段動詞，吃驚、驚訝"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「多い」去「い」加「くて」轉連用形「多くて」，表示原因或前置狀態。",
+      "五段動詞「驚く」變為連用形加敬體過去式「驚きました」，代表「當時感到驚訝」的已發生心理狀態。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:05",
+    "japanese": "2. 部屋が汚くて驚きました。",
+    "furigana": "2. <ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "部屋が汚くて | 驚きました。",
+    "translation": {
+      "natural": "房間太髒了，讓我感到很驚訝。",
+      "literal": "房間髒而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "汚い",
+        "reading": "きたない",
+        "note": "イ形容詞，髒的、混亂的"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「汚い」的連用形「汚くて」連接原因，修飾後半句動詞「驚きました」。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:09",
+    "japanese": "3. 料理がまずくて驚きました。",
+    "furigana": "3. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>がまずくて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "料理がまずくて | 驚きました。",
+    "translation": {
+      "natural": "餐點太難吃了，真令人吃驚。",
+      "literal": "料理難吃而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、菜餚"
+      },
+      {
+        "word": "まずい",
+        "reading": "まずい",
+        "note": "イ形容詞，難吃的"
+      }
+    ],
+    "context_grammar": [
+      "形容詞連用形「まずくて」表達負面體驗狀況，作為「驚きました」的理由說明。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:13",
+    "japanese": "4. 物価が高くて驚きました。",
+    "furigana": "4. <ruby>物<rt>ぶっ</rt></ruby><ruby>価<rt>か</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "物価が高くて | 驚きました。",
+    "translation": {
+      "natural": "物價高得嚇人。",
+      "literal": "物價高而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "物価",
+        "reading": "ぶっか",
+        "note": "名詞，物價"
+      },
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "note": "イ形容詞，昂貴的、高的"
+      }
+    ],
+    "context_grammar": [
+      "「高い」轉連用形「高くて」，修飾「驚きました」。常用於海外旅遊或觀光行銷中描述當地環境特徵。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:17",
+    "japanese": "5. 料理が辛くて驚きました。",
+    "furigana": "5. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>が<ruby>辛<rt>から</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "料理が辛くて | 驚きました。",
+    "translation": {
+      "natural": "菜辣成這樣，讓我大吃一驚。",
+      "literal": "料理辣而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "辛い",
+        "reading": "からい",
+        "note": "イ形容詞，辣的"
+      }
+    ],
+    "context_grammar": [
+      "「辛い」的連用形「辛くて」，引導出對口感強度超乎預期所產生的驚訝反應。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:21",
+    "japanese": "6. うるさくて驚きました。",
+    "furigana": "6. うるさくて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "うるさくて | 驚きました。",
+    "translation": {
+      "natural": "太吵鬧了，讓人感到驚訝。",
+      "literal": "吵鬧而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "うるさい",
+        "reading": "うるさい",
+        "note": "イ形容詞，吵鬧的、繁雜的"
+      }
+    ],
+    "context_grammar": [
+      "省略了主語（如「現場が」或「音覚が」），直接以形容詞「うるさい」連用形「うるさくて」接續，為典型日語口語高簡練度表達。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:25",
+    "japanese": "7. 寒くて驚きました。",
+    "furigana": "7. <ruby>寒<rt>さむ</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "寒くて | 驚きました。",
+    "translation": {
+      "natural": "冷到讓人吃驚。",
+      "literal": "寒冷而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "note": "イ形容詞，寒冷的"
+      }
+    ],
+    "context_grammar": [
+      "「寒い」去「い」加「くて」表狀況接續，說明氣溫低帶來的震撼感。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:28",
+    "japanese": "8. 荷物が重くて驚きました。",
+    "furigana": "8. <ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "荷物が重くて | 驚きました。",
+    "translation": {
+      "natural": "行李重得讓我吃驚。",
+      "literal": "行李重而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "重い",
+        "reading": "おもい",
+        "note": "イ形容詞，沉重的"
+      }
+    ],
+    "context_grammar": [
+      "主語「荷物」由助詞「が」強調特徵，「重くて」連用接續「驚きました」。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:32",
+    "japanese": "9. 竜巻が来て驚きました。",
+    "furigana": "9. <ruby>竜<rt>たつ</rt></ruby><ruby>巻<rt>まき</rt></ruby>が<ruby>来<rt>き</rt></ruby>て<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "竜巻が来て | 驚きました。",
+    "translation": {
+      "natural": "龍捲風襲來，真是嚇死人了。",
+      "literal": "龍捲風前來而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "竜巻",
+        "reading": "たつまき",
+        "note": "名詞，龍捲風"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "カ變動詞，來臨、襲來"
+      }
+    ],
+    "context_grammar": [
+      "カ變動詞「来る」連用形為「来て」，此處表達突發自然現象的發生，作為情緒「驚きました」的原因。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:36",
+    "japanese": "10. 地震が起きて驚きました。",
+    "furigana": "10. <ruby>地<rt>じ</rt></ruby><ruby>震<rt>しん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "地震が起きて | 驚きました。",
+    "translation": {
+      "natural": "發生地震，讓我嚇了一跳。",
+      "literal": "地震發生而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "地震",
+        "reading": "じしん",
+        "note": "名詞，地震"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "note": "上一段動詞，發生、起來"
+      }
+    ],
+    "context_grammar": [
+      "上一段動詞「起きる」去「る」加「て」轉「起きて」，表示意外事件的發生引發「驚きました」。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:40",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "047",
+    "time": "02:42",
+    "japanese": "大きい地震が起きて驚きました。",
+    "furigana": "<ruby>大<rt>おお</rt></ruby>きい<ruby>地<rt>じ</rt></ruby><ruby>震<rt>しん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きて<ruby>驚<rt>おどろ</rt></ruby>きました。",
+    "segmentation": "大きい地震が起きて | 驚きました。",
+    "translation": {
+      "natural": "發生了大地震，真嚇人。",
+      "literal": "大地震發生而吃驚了。"
+    },
+    "words": [
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "note": "イ形容詞，大的"
+      }
+    ],
+    "context_grammar": [
+      "「大きい」以連體形直接修飾名詞「地震」，與Step 1單句相比增加了形容詞修飾，增強情境真實感。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:45",
+    "japanese": "本当に！",
+    "furigana": "<ruby>本<rt>ほん</rt></ruby><ruby>当<rt>とう</rt></ruby>に！",
+    "segmentation": "本当に！",
+    "translation": {
+      "natural": "真的耶！/ 真的！",
+      "literal": "真的！"
+    },
+    "words": [
+      {
+        "word": "本当に",
+        "reading": "ほんとうに",
+        "note": "副詞，真地、確實地"
+      }
+    ],
+    "context_grammar": [
+      "副詞獨立作為感嘆呼應語，用於對話中表達強烈的同感或驚嘆。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "02:47",
+    "japanese": "4. ～て悲しいです",
+    "furigana": "4. ～て悲しいです",
+    "segmentation": "4. ～て | 悲しいです",
+    "translation": {
+      "natural": "4. 因為……感到難過",
+      "literal": "4. 做了～很悲傷"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "050",
+    "time": "02:50",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "051",
+    "time": "02:51",
+    "japanese": "1. ペットが死んで悲しいです。",
+    "furigana": "1. ペットが<ruby>死<rt>し</rt></ruby>んで<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "ペットが死んで | 悲しいです。",
+    "translation": {
+      "natural": "寵物過世了，我很難過。",
+      "literal": "寵物死了很悲傷。"
+    },
+    "words": [
+      {
+        "word": "ペット",
+        "reading": "ペット",
+        "note": "外來語名詞，寵物（Pet）"
+      },
+      {
+        "word": "死ぬ",
+        "reading": "しのぶ",
+        "note": "五段動詞，死亡"
+      },
+      {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "note": "イ形容詞，悲傷的、難過的"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「死ぬ」發生撥音便（ぬ➔んで）轉連用形「死んで」。",
+      "句型結構為「原因（寵物過世）＋悲傷（悲しいです）」。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "02:55",
+    "japanese": "2. 試験で失敗して悲しいです。",
+    "furigana": "2. <ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>で<ruby>失<rt>しっ</rt></ruby><ruby>敗<rt>ぱい</rt></ruby>して<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "試験で | 失敗して | 悲しいです。",
+    "translation": {
+      "natural": "考試考砸了，我很難過。",
+      "literal": "在考試失敗很悲傷。"
+    },
+    "words": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試"
+      },
+      {
+        "word": "失敗する",
+        "reading": "しっぱいする",
+        "note": "三類動詞，失敗、搞砸"
+      }
+    ],
+    "context_grammar": [
+      "「試験」後接範圍/領域助詞「で」，修飾「失敗する」。",
+      "「失敗して」為三類動詞連用形，引導出情緒表現「悲しいです」。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "02:59",
+    "japanese": "3. 財布をなくして悲しいです。",
+    "furigana": "3. <ruby>財<rt>さい</rt></ruby><ruby>布<rt>ふ</rt></ruby>をなくして<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "財布を | なくして | 悲しいです。",
+    "translation": {
+      "natural": "皮夾弄丟了，我很難過。",
+      "literal": "遺失皮夾很悲傷。"
+    },
+    "words": [
+      {
+        "word": "財布",
+        "reading": "さいふ",
+        "note": "名詞，錢包、皮夾"
+      },
+      {
+        "word": "なくす",
+        "reading": "なくす",
+        "note": "五段動詞，弄丟、遺失"
+      }
+    ],
+    "context_grammar": [
+      "受詞「財布」加助詞「を」，動詞「なくす」連用形為「なくして」，結構極其標準且生活化。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:03",
+    "japanese": "4. 失恋して悲しいです。",
+    "furigana": "4. <ruby>失<rt>しつ</rt></ruby><ruby>恋<rt>れん</rt></ruby>して<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "失恋して | 悲しいです。",
+    "translation": {
+      "natural": "失戀了，我很難過。",
+      "literal": "失戀了很悲傷。"
+    },
+    "words": [
+      {
+        "word": "失恋する",
+        "reading": "しつれんする",
+        "note": "三類動詞，失戀"
+      }
+    ],
+    "context_grammar": [
+      "「失恋する」連用形「失恋して」直接接續情緒用語「悲しいです」。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:10",
+    "japanese": "5. 天気が悪くて悲しいです。",
+    "furigana": "5. <ruby>天<rt>てん</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "天気が悪くて | 悲しいです。",
+    "translation": {
+      "natural": "天氣很差，讓人心情很糟/難過。",
+      "literal": "天氣差很悲傷。"
+    },
+    "words": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "note": "名詞，天氣"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "イ形容詞，不好的、差的"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「悪い」轉連用形「悪くて」，修飾「悲しいです」。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:10",
+    "japanese": "6. 友達と喧嘩して悲しいです。",
+    "furigana": "6. <ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>と<ruby>喧<rt>けん</rt></ruby><ruby>嘩<rt>か</rt></ruby>して<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "友達と | 喧嘩して | 悲しいです。",
+    "translation": {
+      "natural": "和朋友吵架了，我很難過。",
+      "literal": "與朋友吵架很悲傷。"
+    },
+    "words": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "note": "名詞，朋友"
+      },
+      {
+        "word": "喧嘩する",
+        "reading": "けんかする",
+        "note": "三類動詞，吵架、爭執"
+      }
+    ],
+    "context_grammar": [
+      "「友達」後接對象助詞「と」（代表與……一起），修飾動詞連用形「喧嘩して」。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:15",
+    "japanese": "7. 戦争が起きて悲しいです。",
+    "furigana": "7. <ruby>戦<rt>せん</rt></ruby><ruby>争<rt>そう</rt></ruby>が<ruby>起<rt>お</rt></ruby>きて<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "戦争が起きて | 悲しいです。",
+    "translation": {
+      "natural": "爆發了戰爭，讓人很難過。",
+      "literal": "戰爭發生很悲傷。"
+    },
+    "words": [
+      {
+        "word": "戦争",
+        "reading": "せんそう",
+        "note": "名詞，戰爭"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "note": "上一段動詞，發生"
+      }
+    ],
+    "context_grammar": [
+      "「起きて」為動詞連用形，表重大社會事件爆發之原因說明。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:18",
+    "japanese": "8. 自然が破壊されて悲しいです。",
+    "furigana": "8. <ruby>自<rt>じ</rt></ruby><ruby>然<rt>ぜん</rt></ruby>が<ruby>破<rt>は</rt></ruby><ruby>壊<rt>かい</rt></ruby>されて<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "自然が破壊されて | 悲しいです。",
+    "translation": {
+      "natural": "自然環境遭到破壞，我很難過。",
+      "literal": "自然被破壞很悲傷。"
+    },
+    "words": [
+      {
+        "word": "自然",
+        "reading": "しぜん",
+        "note": "名詞，大自然"
+      },
+      {
+        "word": "破壊する",
+        "reading": "はかいする",
+        "note": "三類動詞，破壞"
+      }
+    ],
+    "context_grammar": [
+      "「破壊する」轉被動語態（受身形）「破壊される」，再轉連用形「破壊されて」。",
+      "用於強調大自然「被非人為或外力破壞」的受害感。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:22",
+    "japanese": "9. 携帯が壊れて悲しいです。",
+    "furigana": "9. <ruby>携<rt>けい</rt></ruby><ruby>帯<rt>たい</rt></ruby>が<ruby>壊<rt>こわ</rt></ruby>れて<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "携帯が壊れて | 悲しいです。",
+    "translation": {
+      "natural": "手機壞掉了，我很難過。",
+      "literal": "手機壞掉很悲傷。"
+    },
+    "words": [
+      {
+        "word": "携帯",
+        "reading": "けいたい",
+        "note": "名詞，手機"
+      },
+      {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "note": "下一段自動詞，故障、損壞"
+      }
+    ],
+    "context_grammar": [
+      "下一段自動詞「壊れる」去「る」加「て」變「壊れて」，展現物品自然損壞的客觀狀態作為情緒原因。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:26",
+    "japanese": "10. 無視されて悲しいです。",
+    "furigana": "10. <ruby>無<rt>む</rt></ruby><ruby>視<rt>し</rt></ruby>されて<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "無視されて | 悲しいです。",
+    "translation": {
+      "natural": "被忽視/被冷落了，我很難過。",
+      "literal": "被無視了很悲傷。"
+    },
+    "words": [
+      {
+        "word": "無視する",
+        "reading": "むしする",
+        "note": "三類動詞，無視、忽略"
+      }
+    ],
+    "context_grammar": [
+      "「無視する」改為被動形「無視される」之連用態「無視されて」。",
+      "表達受他人行為影響而產生的負面心理感受。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:30",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "062",
+    "time": "03:32",
+    "japanese": "試験に失敗して悲しいです。",
+    "furigana": "<ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>に<ruby>失<rt>しっ</rt></ruby><ruby>敗<rt>ぱい</rt></ruby>して<ruby>悲<rt>かな</rt></ruby>しいです。",
+    "segmentation": "試験に | 失敗して | 悲しいです。",
+    "translation": {
+      "natural": "考試不順利/失敗了，真讓人難過。",
+      "literal": "在考試失敗很悲傷。"
+    },
+    "words": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試"
+      },
+      {
+        "word": "失敗する",
+        "reading": "しっぱいする",
+        "note": "三類動詞，失敗"
+      }
+    ],
+    "context_grammar": [
+      "對格助詞使用「に」標示失敗的對象與領域（試験に），連用形「失敗して」接續結尾。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:35",
+    "japanese": "この次は頑張ってください。",
+    "furigana": "この<ruby>次<rt>つぎ</rt></ruby>は<ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>ってください。",
+    "segmentation": "この次は | 頑張ってください。",
+    "translation": {
+      "natural": "下一次再好好加油吧！",
+      "literal": "這之後請努力。"
+    },
+    "words": [
+      {
+        "word": "この次",
+        "reading": "このつぎ",
+        "note": "名詞，下一次"
+      },
+      {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "note": "五段動詞，努力、加油"
+      }
+    ],
+    "context_grammar": [
+      "「頑張る」經促音便（る➔って）轉「頑張って」，後接「ください」組成「～てください」祈使/鼓勵句型。",
+      "用於給予挫折者溫和安慰與鼓勵的日常應答。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "03:38",
+    "japanese": "5. ～て気分がいいです",
+    "furigana": "5. ～て気分がいいです",
+    "segmentation": "5. ～て | 気分がいいです",
+    "translation": {
+      "natural": "5. 因為……感覺很爽快/心情很好",
+      "literal": "5. 做了～心情好"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "065",
+    "time": "03:41",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "Step 1"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "066",
+    "time": "03:43",
+    "japanese": "1. 天気が良くて気分がいいです。",
+    "furigana": "1. <ruby>天<rt>てん</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "天気が良くて | 気分がいいです。",
+    "translation": {
+      "natural": "天氣很好，讓人心情真棒。",
+      "literal": "天氣好而心情好。"
+    },
+    "words": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "note": "名詞，天氣"
+      },
+      {
+        "word": "良い",
+        "reading": "よい",
+        "note": "イ形容詞，好的"
+      },
+      {
+        "word": "気分",
+        "reading": "きぶん",
+        "note": "名詞，心情、氣氛"
+      }
+    ],
+    "context_grammar": [
+      "イ形容詞「良い（いい）」的連用形活用必須回到古語幹「良（よ）く」，變為「良くて」。",
+      "修飾後方的「気分がいいです」，常用於爽朗風光的廣告旁白或晨間節目問候。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "03:47",
+    "japanese": "2. パソコンが直って気分がいいです。",
+    "furigana": "2. パソコンが<ruby>直<rt>なお</rt></ruby>って<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "パソコンが直って | 気分がいいです。",
+    "translation": {
+      "natural": "電腦修好了，讓人心情真好。",
+      "literal": "電腦修好而心情好。"
+    },
+    "words": [
+      {
+        "word": "パソコン",
+        "reading": "パソコン",
+        "note": "外來語名詞，個人電腦（Personal Computer）"
+      },
+      {
+        "word": "直る",
+        "reading": "なおる",
+        "note": "五段自動詞，修復、痊癒"
+      }
+    ],
+    "context_grammar": [
+      "五段動詞「直る」發生促音便（る➔って）轉連用形「直って」。",
+      "自動詞「直る」表達客觀故障解除的狀態，作為帶來好心情的原因。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "03:51",
+    "japanese": "3. 褒められて気分がいいです。",
+    "furigana": "3. <ruby>褒<rt>ほ</rt></ruby>められて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "褒められて | 気分がいいです。",
+    "translation": {
+      "natural": "受到讚賞，讓人心情真好。",
+      "literal": "被稱讚了而心情好。"
+    },
+    "words": [
+      {
+        "word": "褒める",
+        "reading": "ほめる",
+        "note": "下一段動詞，稱讚、讚賞"
+      }
+    ],
+    "context_grammar": [
+      "「褒める」轉被動形「褒められる」，去「る」加「て」形成連用形「褒められて」。",
+      "表現受到外部讚揚後帶來的優越感與愉悅心理。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "03:55",
+    "japanese": "4. 奢ってもらって気分がいいです。",
+    "furigana": "4. <ruby>奢<rt>おご</rt></ruby>ってもらって<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "奢ってもらって | 気分がいいです。",
+    "translation": {
+      "natural": "被請客了，讓人心情真好。",
+      "literal": "得到請客而心情好。"
+    },
+    "words": [
+      {
+        "word": "奢る",
+        "reading": "おごる",
+        "note": "五段動詞，請客"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "授受補助動詞，請他人為自己做某事"
+      }
+    ],
+    "context_grammar": [
+      "「奢る」促音便轉「奢って」，搭配「～てもらう」（接受他人請客的動作受惠），再促音便轉為「奢ってもらって」。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "03:59",
+    "japanese": "5. 問題が解決して気分がいいです。",
+    "furigana": "5. <ruby>問<rt>もん</rt></ruby><ruby>題<rt>だい</rt></ruby>が<ruby>解<rt>かい</rt></ruby><ruby>決<rt>けつ</rt></ruby>して<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "問題が解決して | 気分がいいです。",
+    "translation": {
+      "natural": "問題順利解決了，讓人心情真好。",
+      "literal": "問題解決而心情好。"
+    },
+    "words": [
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "note": "名詞，問題、難題"
+      },
+      {
+        "word": "解決する",
+        "reading": "かいけつする",
+        "note": "三類動詞，解決"
+      }
+    ],
+    "context_grammar": [
+      "三類動詞「解決する」之連用形「解決して」，表障礙消除後帶來的輕鬆舒暢感。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "04:03",
+    "japanese": "6. 体調が良くて気分がいいです。",
+    "furigana": "6. <ruby>体<rt>たい</rt></ruby><ruby>調<rt>ちょう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "体調が良くて | 気分がいいです。",
+    "translation": {
+      "natural": "身體狀態很好，讓人心情真棒。",
+      "literal": "體調好而心情好。"
+    },
+    "words": [
+      {
+        "word": "体調",
+        "reading": "たいちょう",
+        "note": "名詞，身體狀況、體調"
+      },
+      {
+        "word": "良い",
+        "reading": "よい",
+        "note": "イ形容詞，良好的"
+      }
+    ],
+    "context_grammar": [
+      "「良い」活化為「良くて」，說明生理健康（体調）直接帶動心理（気分）的愉悅。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "04:07",
+    "japanese": "7. 店員が親切で気分がいいです。",
+    "furigana": "7. <ruby>店<rt>てん</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>で<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "店員が親切で | 気分がいいです。",
+    "translation": {
+      "natural": "店員態度很親切，讓人心情很好。",
+      "literal": "店員親切而心情好。"
+    },
+    "words": [
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "note": "名詞，店員"
+      },
+      {
+        "word": "親切",
+        "reading": "しんせつ",
+        "note": "ナ形容詞（形容動詞），親切的"
+      }
+    ],
+    "context_grammar": [
+      "ナ形容詞「親切」的語尾活用在中立接續/表原因時變為「親切で」，修飾後半句。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "04:11",
+    "japanese": "8. 部屋が綺麗で気分がいいです。",
+    "furigana": "8. <ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>が<ruby>綺<rt>き</rt></ruby><ruby>麗<rt>れい</rt></ruby>で<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "部屋が綺麗で | 気分がいいです。",
+    "translation": {
+      "natural": "房間乾淨整潔，讓人心情真好。",
+      "literal": "房間美麗/乾淨而心情好。"
+    },
+    "words": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "綺麗",
+        "reading": "きれい",
+        "note": "ナ形容詞，乾淨的、美麗的"
+      }
+    ],
+    "context_grammar": [
+      "ナ形容詞「綺麗」接續形為「綺麗で」，說明環境舒適所帶來的良好情緒體驗。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "04:15",
+    "japanese": "9. ボーナスをもらって気分がいいです。",
+    "furigana": "9. ボーナスをもらって<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "ボーナスをもらって | 気分がいいです。",
+    "translation": {
+      "natural": "領到了獎金，讓人心情真好。",
+      "literal": "領到獎金而心情好。"
+    },
+    "words": [
+      {
+        "word": "ボーナス",
+        "reading": "ボーナス",
+        "note": "外來語名詞，獎金（Bonus）"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "五段動詞，領取"
+      }
+    ],
+    "context_grammar": [
+      "「もらって」為五段動詞促音便連用形，連接句尾「気分がいいです」。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "04:20",
+    "japanese": "10. 景品が当たって気分がいいです。",
+    "furigana": "10. <ruby>景<rt>けい</rt></ruby><ruby>品<rt>ひん</rt></ruby>が<ruby>当<rt>あ</rt></ruby>たって<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいです。",
+    "segmentation": "景品が当たって | 気分がいいです。",
+    "translation": {
+      "natural": "抽中了獎品，讓人心情真好。",
+      "literal": "景品抽中而心情好。"
+    },
+    "words": [
+      {
+        "word": "景品",
+        "reading": "けいひん",
+        "note": "名詞，贈品、獎品"
+      },
+      {
+        "word": "当たる",
+        "reading": "あたる",
+        "note": "五段動詞，中獎"
+      }
+    ],
+    "context_grammar": [
+      "「当たる」促音便轉「当たって」，主詞「景品」經「が」標示，展現中獎時的喜悅感覺。"
+    ]
+  },
+  {
+    "id": "076",
+    "time": "04:24",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "Step 3"
+    },
+    "words": [],
+    "context_grammar": []
+  },
+  {
+    "id": "077",
+    "time": "04:25",
+    "japanese": "この店、雰囲気がいいですね。",
+    "furigana": "この<ruby>店<rt>みせ</rt></ruby>、<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいですね。",
+    "segmentation": "この店、| 雰囲気がいいですね。",
+    "translation": {
+      "natural": "這間店氣氛真好呢。",
+      "literal": "這間店，氣氛好呢。"
+    },
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "note": "名詞，店家、店面"
+      },
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛、氛圍"
+      }
+    ],
+    "context_grammar": [
+      "連體詞「この」修飾名詞「店」，作為會話話題開頭。",
+      "終助詞「ね」帶有向對方尋求共鳴與認同的口語語調。"
+    ]
+  },
+  {
+    "id": "078",
+    "time": "04:28",
+    "japanese": "うん、店員も親切で気分がいいですね。",
+    "furigana": "うん、<ruby>店<rt>てん</rt></ruby><ruby>員<rt>いん</rt></ruby>も<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>で<ruby>気<rt>き</rt></ruby><ruby>分<rt>ぶん</rt></ruby>がいいですね。",
+    "segmentation": "うん、| 店員も親切で | 気分がいいですね。",
+    "translation": {
+      "natural": "嗯啊，店員也很親切，讓人心情真好呢。",
+      "literal": "嗯，店員也親切而心情好呢。"
+    },
+    "words": [
+      {
+        "word": "うん",
+        "reading": "うん",
+        "note": "感嘆詞，嗯（口語贊同）"
+      },
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "note": "名詞，店員"
+      },
+      {
+        "word": "親切",
+        "reading": "しんせつ",
+        "note": "ナ形容詞，親切的"
+      }
+    ],
+    "context_grammar": [
+      "副助詞「も」替換「が」，表達「不僅氣氛好，連店員也……」的遞進列舉關係。",
+      "「親切で」作為ナ形容詞連用形表原因，引出「気分がいいですね」的回應。"
+    ]
+  }
+]

@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "31. は大きいです",
+    "furigana": "31. は<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "31. は | 大きいです",
+    "translation": {
+      "natural": "第31句：～很大。",
+      "literal": "31. 是大的。"
+    },
+    "words": [
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "note": "い形容詞，大的"
+      }
+    ],
+    "context_grammar": [
+      "標題句型「A は B です」，這裡點出本單元核心句型：以い形容詞「大きい」結尾的肯定敘述。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟（英語 Step）"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題，進行基本句型的反覆替換練習。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:06",
+    "japanese": "1. 田舎の鯉のぼりは大きいです",
+    "furigana": "1. <ruby>田<rt>い</rt></ruby><ruby>舎<rt>なか</rt></ruby>の<ruby>鯉<rt>こい</rt></ruby>のぼりは<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "1. 田舎の | 鯉のぼりは | 大きいです",
+    "translation": {
+      "natural": "1. 鄉下的鯉魚旗很大。",
+      "literal": "1. 鄉下的鯉魚旗是大的。"
+    },
+    "words": [
+      {
+        "word": "田舎",
+        "reading": "いなか",
+        "note": "名詞，鄉下、故鄉"
+      },
+      {
+        "word": "鯉のぼり",
+        "reading": "こいのぼり",
+        "note": "名詞，鯉魚旗"
+      },
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "note": "い形容詞，大的"
+      }
+    ],
+    "context_grammar": [
+      "「田舎の鯉のぼり」：格助詞「の」用來連接名詞與名詞，代表「鄉下的鯉魚旗」。",
+      "數字開頭按要求標註句號「1. 」。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:11",
+    "japanese": "2. アメリカのハンバーガーは大きいです",
+    "furigana": "2. アメリカのハンバーガーは<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "2. アメリカの | ハンバーガーは | 大きいです",
+    "translation": {
+      "natural": "2. 美國的漢堡很大。",
+      "literal": "2. 美國的漢堡是大的。"
+    },
+    "words": [
+      {
+        "word": "アメリカ",
+        "reading": "あめりか",
+        "note": "名詞，美國"
+      },
+      {
+        "word": "ハンバーガー",
+        "reading": "はんばーがー",
+        "note": "名詞，漢堡"
+      }
+    ],
+    "context_grammar": [
+      "「アメリカのハンバーガー」：以格助詞「の」指示產地或所屬。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:16",
+    "japanese": "3. 大きい字は見やすいです",
+    "furigana": "3. <ruby>大<rt>おお</rt></ruby>きい<ruby>字<rt>じ</rt></ruby>は<ruby>見<rt>み</rt></ruby>やすいです",
+    "segmentation": "3. 大きい | 字は | 見やすいです",
+    "translation": {
+      "natural": "3. 大字比較容易看。",
+      "literal": "3. 大字是容易看的。"
+    },
+    "words": [
+      {
+        "word": "字",
+        "reading": "じ",
+        "note": "名詞，文字、字體"
+      },
+      {
+        "word": "見やすい",
+        "reading": "みやすい",
+        "note": "複合形容詞，容易看的（動詞連用形 見る + やすい）"
+      }
+    ],
+    "context_grammar": [
+      "「大きい字」：い形容詞原形直接修飾後面的名詞「字」（連體修飾）。",
+      "「見やすい」：動詞「見る」去 masu 加上複合尾綴「〜やすい」，表示「容易做某事」。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:20",
+    "japanese": "4. 大きい看板です",
+    "furigana": "4. <ruby>大<rt>おお</rt></ruby>きい<ruby>看<rt>かん</rt></ruby><ruby>板<rt>ばん</rt></ruby>です",
+    "segmentation": "4. 大きい | 看板です",
+    "translation": {
+      "natural": "4. 是個大招牌。",
+      "literal": "4. 是大的看板。"
+    },
+    "words": [
+      {
+        "word": "看板",
+        "reading": "かんばん",
+        "note": "名詞，招牌、看板"
+      }
+    ],
+    "context_grammar": [
+      "省略主詞的簡短描述，直接用「い形容詞 + 名詞 + です」組成判定句。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:24",
+    "japanese": "5. 毛ガニは大きいカニです",
+    "furigana": "5. <ruby>毛<rt>け</rt></ruby>ガニは<ruby>大<rt>おお</rt></ruby>きいカニです",
+    "segmentation": "5. 毛ガニは | 大きい | カニです",
+    "translation": {
+      "natural": "5. 毛蟹是大型的螃蟹。",
+      "literal": "5. 毛蟹是大的螃蟹。"
+    },
+    "words": [
+      {
+        "word": "毛ガニ",
+        "reading": "けがに",
+        "note": "名詞，毛蟹"
+      },
+      {
+        "word": "カニ",
+        "reading": "かに",
+        "note": "名詞，螃蟹"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 A は [形容詞 + 名詞 B] です」結構，用來對特定主題（毛蟹）進行分類性質說明。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:28",
+    "japanese": "6. このセーターは大きいです",
+    "furigana": "6. このセーターは<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "6. この | セーターは | 大きいです",
+    "translation": {
+      "natural": "6. 這件毛衣很大。",
+      "literal": "6. 這件毛衣是大的。"
+    },
+    "words": [
+      {
+        "word": "この",
+        "reading": "この",
+        "note": "連體詞，這個"
+      },
+      {
+        "word": "セーター",
+        "reading": "せーたー",
+        "note": "名詞，毛衣"
+      }
+    ],
+    "context_grammar": [
+      "「この + 名詞」指示代名詞修飾語，限定說話者與聽話者現場視野內的特定對象。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:32",
+    "japanese": "7. この靴は大きいです",
+    "furigana": "7. この<ruby>靴<rt>くつ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "7. この | 靴は | 大きいです",
+    "translation": {
+      "natural": "7. 這雙鞋很大。",
+      "literal": "7. 這雙鞋是大的。"
+    },
+    "words": [
+      {
+        "word": "靴",
+        "reading": "くつ",
+        "note": "名詞，鞋子"
+      }
+    ],
+    "context_grammar": [
+      "生活情境句，在試穿或購物場合中非常實用的尺寸描述。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:37",
+    "japanese": "8. このお好み焼きは大きいです",
+    "furigana": "8. このお<ruby>好<rt>ごの</rt></ruby>み<ruby>焼<rt>や</rt></ruby>きは<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "8. この | お好み焼きは | 大きいです",
+    "translation": {
+      "natural": "8. 這份大阪燒很大。",
+      "literal": "8. 這個大阪燒是大的。"
+    },
+    "words": [
+      {
+        "word": "お好み焼き",
+        "reading": "おこのみやき",
+        "note": "名詞，大阪燒、什錦煎餅"
+      }
+    ],
+    "context_grammar": [
+      "「お好みに」之美化語接頭辭「お-」，常見於日本飲食文化詞彙中。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:41",
+    "japanese": "9. このソフトクリームは大きいです",
+    "furigana": "9. このソフトクリームは<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "9. この | ソフトクリームは | 大きいです",
+    "translation": {
+      "natural": "9. 這個霜淇淋很大。",
+      "literal": "9. 這個霜淇淋是大的。"
+    },
+    "words": [
+      {
+        "word": "ソフトクリーム",
+        "reading": "そふとくりーむ",
+        "note": "名詞，霜淇淋（日式和製英語 soft cream）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞作為主題「～は」，後接形容詞「大きいです」說明其特徵。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:46",
+    "japanese": "10. このお寺は大きいです",
+    "furigana": "10. このお<ruby>寺<rt>てら</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです",
+    "segmentation": "10. この | お寺は | 大きいです",
+    "translation": {
+      "natural": "10. 這座寺廟很大。",
+      "literal": "10. 這座寺廟是大的。"
+    },
+    "words": [
+      {
+        "word": "お寺",
+        "reading": "おてら",
+        "note": "名詞，寺廟（接上接頭語「お」的美化語）"
+      }
+    ],
+    "context_grammar": [
+      "旅遊觀光情境句型，對景點建築物進行規模描繪。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:51",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "進入情境對話應用環節。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:53",
+    "japanese": "立派な鯉のぼりですね",
+    "furigana": "<ruby>立<rt>りっ</rt></ruby><ruby>派<rt>ぱ</rt></ruby>な<ruby>鯉<rt>こい</rt></ruby>のぼりですね",
+    "segmentation": "立派な | 鯉のぼりですね",
+    "translation": {
+      "natural": "真是雄偉的鯉魚旗呢！",
+      "literal": "是氣派的鯉魚旗呢。"
+    },
+    "words": [
+      {
+        "word": "立派な",
+        "reading": "りっぱな",
+        "note": "な形容詞，氣派的、雄偉的、極佳的"
+      },
+      {
+        "word": "ね",
+        "reading": "ね",
+        "note": "終助詞，表示求同感或感嘆（呢）"
+      }
+    ],
+    "context_grammar": [
+      "「立派な + 名詞」：な形容詞連體形加「な」修飾名詞「鯉のぼり」。",
+      "句尾終助詞「ね」傳達讚賞並期待對方的認同回應。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:56",
+    "japanese": "田舎の鯉のぼりは大きいですね",
+    "furigana": "<ruby>田<rt>い</rt></ruby><ruby>舎<rt>なか</rt></ruby>の<ruby>鯉<rt>こい</rt></ruby>のぼりは<ruby>大<rt>おお</rt></ruby>きいですね",
+    "segmentation": "田舎の | 鯉のぼりは | 大きいですね",
+    "translation": {
+      "natural": "鄉下的鯉魚旗真的很巨大呢。",
+      "literal": "鄉下的鯉魚旗是大的呢。"
+    },
+    "words": [
+      {
+        "word": "田舎",
+        "reading": "いなか",
+        "note": "名詞，鄉下"
+      }
+    ],
+    "context_grammar": [
+      "順應對方的感嘆，利用「～ですね」表達共鳴與經驗補充。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:01",
+    "japanese": "32. が遅いです",
+    "furigana": "32. が<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "32. が | 遅いです",
+    "translation": {
+      "natural": "第32句：～很慢 / 晚。",
+      "literal": "32. 是慢的。"
+    },
+    "words": [
+      {
+        "word": "遅い",
+        "reading": "おそい",
+        "note": "い形容詞，慢的、遲的"
+      }
+    ],
+    "context_grammar": [
+      "核心句型標題。主格助詞「が」用來強調前方的主詞現象。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:04",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:06",
+    "japanese": "1. バスが遅いです",
+    "furigana": "1. バスが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "1. バスが | 遅いです",
+    "translation": {
+      "natural": "1. 公車很慢／公車遲到了。",
+      "literal": "1. 公車是慢的。"
+    },
+    "words": [
+      {
+        "word": "バス",
+        "reading": "ばす",
+        "note": "名詞，公車"
+      },
+      {
+        "word": "遅い",
+        "reading": "おそい",
+        "note": "い形容詞，慢的、誤點的"
+      }
+    ],
+    "context_grammar": [
+      "主格助詞「が」用來陳述眼前發生的客觀現象（公車遲遲不來）。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:09",
+    "japanese": "2. 彼はお遅いですね",
+    "furigana": "2. <ruby>彼<rt>かれ</rt></ruby>は<ruby>遅<rt>おそ</rt></ruby>いですね",
+    "segmentation": "2. 彼は | 遅いですね",
+    "translation": {
+      "natural": "2. 他動作真慢呢／他真晚來呢。",
+      "literal": "2. 他是慢的呢。"
+    },
+    "words": [
+      {
+        "word": "彼",
+        "reading": "かれ",
+        "note": "代名詞，他"
+      }
+    ],
+    "context_grammar": [
+      "音訊中發音為「彼はお遅いですね」，為口語中加美化語「お」或語意轉折之感嘆表現。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:13",
+    "japanese": "3. 彼女は準備が遅いです",
+    "furigana": "3. <ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>は<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "3. 彼女は | 準備が | 遅いです",
+    "translation": {
+      "natural": "3. 她準備動作很慢。",
+      "literal": "3. 關於她，準備是慢的。"
+    },
+    "words": [
+      {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "note": "代名詞，她"
+      },
+      {
+        "word": "準備",
+        "reading": "じゅんび",
+        "note": "名詞，準備"
+      }
+    ],
+    "context_grammar": [
+      "「[大主詞 は] [小主詞 が] 形容詞」句型：以「は」提出整體主題（她），以「が」指明具體的領域或對象（準備）。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "021",
+    "japanese": "4. 歩くのが遅いです",
+    "furigana": "4. <ruby>歩<rt>ある</rt></ruby>くのが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "4. 歩くのが | 遅いです",
+    "translation": {
+      "natural": "4. 走路走得很慢。",
+      "literal": "4. 走路這件事是慢的。"
+    },
+    "words": [
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "note": "動詞，走路"
+      },
+      {
+        "word": "の",
+        "reading": "の",
+        "note": "形式名詞，將動詞名詞化（～這件事）"
+      }
+    ],
+    "context_grammar": [
+      "「動詞連體形 + の + が + 形容詞」：將動詞「歩く」名詞化為動作主體，再接「が」與形容詞「遅い」搭配。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:21",
+    "japanese": "5. 料理が来るのが遅いです",
+    "furigana": "5. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>が<ruby>来<rt>く</rt></ruby>るのが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "5. 料理が来るのが | 遅いです",
+    "translation": {
+      "natural": "5. 上菜速度很慢。",
+      "literal": "5. 料理來這件事是慢的。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、餐點"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "動詞，來（III 類 / カ行變格動詞）"
+      }
+    ],
+    "context_grammar": [
+      "嵌套子句名詞化：「料理が来る」（小子句）加上形式名詞「の」變成名詞塊，再由「が」帶領作為全句主詞。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:26",
+    "japanese": "6. 飛行機の出発が遅いです",
+    "furigana": "6. <ruby>飛<rt>ひ</rt></ruby><ruby>行<rt>こう</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>出<rt>しゅっ</rt></ruby><ruby>発<rt>ぱつ</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "6. 飛行機の | 出発が | 遅いです",
+    "translation": {
+      "natural": "6. 班機起飛延誤了／班機出發時間很晚。",
+      "literal": "6. 飛行機的出發是慢的。"
+    },
+    "words": [
+      {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "note": "名詞，飛機"
+      },
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "note": "名詞，出發"
+      }
+    ],
+    "context_grammar": [
+      "「飛行機の出発」：名詞修飾名詞。形容詞「遅い」在這裡可用於形容時間延遲。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:31",
+    "japanese": "7. 帰りが遅いです",
+    "furigana": "7. <ruby>帰<rt>かえ</rt></ruby>りが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "7. 帰りが | 遅いです",
+    "translation": {
+      "natural": "7. 很晚回家。",
+      "literal": "7. 回家是晚的。"
+    },
+    "words": [
+      {
+        "word": "帰り",
+        "reading": "かえり",
+        "note": "名詞，歸途、回家（由動詞 帰る 轉化而來的名詞）"
+      }
+    ],
+    "context_grammar": [
+      "動詞連用形「帰り」名詞化後，直接作為主詞搭配「遅いです」。常用於描述家人或自己歸宅的時間很晚。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:35",
+    "japanese": "8. 朝起きるのが遅いです",
+    "furigana": "8. <ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きるのが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "8. 朝起きるのが | 遅いです",
+    "translation": {
+      "natural": "8. 早上很晚起床。",
+      "literal": "8. 早上起床這件事是慢／晚的。"
+    },
+    "words": [
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "note": "名詞，早晨"
+      },
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "note": "動詞，起床（II 類 / 上一段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "「朝起きる」（動詞片語）+ 「の」（名詞化）+ 「が遅い」（形容詞 predicate）。習慣性生活作息的說明。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:39",
+    "japanese": "9. お風呂に入るのが遅いです",
+    "furigana": "9. お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "9. お風呂に | 入るのが | 遅いです",
+    "translation": {
+      "natural": "9. 很晚才去洗澡。",
+      "literal": "9. 進入浴室洗澡這件事是晚的。"
+    },
+    "words": [
+      {
+        "word": "お風呂",
+        "reading": "おふろ",
+        "note": "名詞，浴室、洗澡"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入（I 類 / 五段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「に」表示進入的對象目的「お風呂に入る」。加上「の」名詞化後作為主詞。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:43",
+    "japanese": "10. 家を出るのが遅いです",
+    "furigana": "10. <ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>るのが<ruby>遅<rt>おそ</rt></ruby>いです",
+    "segmentation": "10. 家を出るのが | 遅いです",
+    "translation": {
+      "natural": "10. 太晚出門了。",
+      "literal": "10. 離開家這件事是晚的。"
+    },
+    "words": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "note": "名詞，家、房子"
+      },
+      {
+        "word": "出る",
+        "reading": "でる",
+        "note": "動詞，離開、出來（II 類 / 下一段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "「家を出る」：格助詞「を」表示離開的場所與點。「～のが遅い」表示出門的時間偏晚。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:48",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "情境會話練習。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:50",
+    "japanese": "バスが遅いですね",
+    "furigana": "バスが<ruby>遅<rt>おそ</rt></ruby>いですね",
+    "segmentation": "バスが | 遅いですね",
+    "translation": {
+      "natural": "公車真慢呢。",
+      "literal": "公車是慢的呢。"
+    },
+    "words": [
+      {
+        "word": "バス",
+        "reading": "ばす",
+        "note": "名詞，公車"
+      }
+    ],
+    "context_grammar": [
+      "現場等待公車時向同行者發出的社交共鳴句型「～ですね」。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "01:52",
+    "japanese": "どうしたんでしょうね",
+    "furigana": "どうしたんでしょうね",
+    "segmentation": "どうしたんでしょうね",
+    "translation": {
+      "natural": "不知道是怎麼了呢？",
+      "literal": "是怎麼了嗎。"
+    },
+    "words": [
+      {
+        "word": "どうした",
+        "reading": "どうした",
+        "note": "疑問片語，怎麼了（動詞 する 的過去式）"
+      },
+      {
+        "word": "んでしょう",
+        "reading": "んでしょう",
+        "note": "推測表達，是～的吧（の推測與軟化語氣）"
+      }
+    ],
+    "context_grammar": [
+      "「〜んですか / 〜んでしょう」強調求因或推測狀況。句尾「ね」帶有與對方一同疑惑、討論的語氣。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "01:56",
+    "japanese": "33. は面白いです",
+    "furigana": "33. は<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "33. は | 面白いです",
+    "translation": {
+      "natural": "第33句：～很具吸引力 / 有趣。",
+      "literal": "33. 是有趣的。"
+    },
+    "words": [
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "note": "い形容詞，有趣的、好玩的"
+      }
+    ],
+    "context_grammar": [
+      "核心句型標題。用「面白い」陳述事物、娛樂或活動的趣味性。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "01:59",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:01",
+    "japanese": "1. 日本の漫画は面白いです",
+    "furigana": "1. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>の<ruby>漫<rt>まん</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "1. 日本の | 漫画は | 面白いです",
+    "translation": {
+      "natural": "1. 日本的漫畫很有趣。",
+      "literal": "1. 日本的漫畫是有趣的。"
+    },
+    "words": [
+      {
+        "word": "漫画",
+        "reading": "まんが",
+        "note": "名詞，漫畫"
+      }
+    ],
+    "context_grammar": [
+      "「日本の漫画」：名詞屬性連接。「は」引出談論的主題「漫畫」。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:05",
+    "japanese": "2. 日本語の勉強は面白いです",
+    "furigana": "2. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>は<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "2. 日本語の | 勉強は | 面白いです",
+    "translation": {
+      "natural": "2. 學習日文很有趣。",
+      "literal": "2. 日語的學習是有趣的。"
+    },
+    "words": [
+      {
+        "word": "日本語",
+        "reading": "にほんご",
+        "note": "名詞，日語"
+      },
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "note": "名詞，學習、讀書"
+      }
+    ],
+    "context_grammar": [
+      "「日本語の勉強」：動作性名詞「勉強」前接內容限定「日本語の」。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:10",
+    "japanese": "3. 日本のコントは面白いです",
+    "furigana": "3. <ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>のコントは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "3. 日本の | コントは | 面白いです",
+    "translation": {
+      "natural": "3. 日本短劇很有趣。",
+      "literal": "3. 日本的喜劇短劇是有趣的。"
+    },
+    "words": [
+      {
+        "word": "コント",
+        "reading": "こんと",
+        "note": "名詞，短劇、搞笑表演（源自法語 conte）"
+      }
+    ],
+    "context_grammar": [
+      "外來語「コント」指日式搞笑喜劇短劇，為娛樂文化常出現的主題。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:14",
+    "japanese": "4. 運動するのは面白いです",
+    "furigana": "4. <ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>するのは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "4. 運動するのは | 面白いです",
+    "translation": {
+      "natural": "4. 運動很有趣。",
+      "literal": "4. 做運動這件事是有趣的。"
+    },
+    "words": [
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動（サ變動詞）"
+      }
+    ],
+    "context_grammar": [
+      "「動詞原形 + のは + 形容詞」：將「運動する」整句名詞化後當作主題「〜は」。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:19",
+    "japanese": "5. 料理を作るのは面白いです",
+    "furigana": "5. <ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>を<ruby>作<rt>つく</rt></ruby>るのは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "5. 料理を作るのは | 面白いです",
+    "translation": {
+      "natural": "5. 做菜很有趣。",
+      "literal": "5. 製作料理這件事是有趣的。"
+    },
+    "words": [
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "note": "動詞，做、製作（I 類 / 五段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "「料理を作る」動詞詞組 + 「の」名詞化 + 提示主題助詞「は」。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:23",
+    "japanese": "6. 登山は面白いです",
+    "furigana": "6. <ruby>登<rt>と</rt></ruby><ruby>山<rt>ざん</rt></ruby>は<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "6. 登山は | 面白いです",
+    "translation": {
+      "natural": "6. 登山很有趣。",
+      "literal": "6. 登山是有趣的。"
+    },
+    "words": [
+      {
+        "word": "登山",
+        "reading": "とざん",
+        "note": "名詞，爬山、登山"
+      }
+    ],
+    "context_grammar": [
+      "名詞「登山」直接當作主題「～は」，簡潔說明戶外興趣。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:27",
+    "japanese": "7. ハイキングは面白いです",
+    "furigana": "7. ハイキングは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "7. ハイキングは | 面白いです",
+    "translation": {
+      "natural": "7. 徒步健行很有趣。",
+      "literal": "7. 健行是有趣的。"
+    },
+    "words": [
+      {
+        "word": "ハイキング",
+        "reading": "はいきんぐ",
+        "note": "名詞，健行（Hiking）"
+      }
+    ],
+    "context_grammar": [
+      "外來語戶外休閒名詞作為敘述主題。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:31",
+    "japanese": "8. カラオケで歌うのは面白いです",
+    "furigana": "8. カラオケで<ruby>歌<rt>うた</rt></ruby>うのは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "8. カラオケで | 歌うのは | 面白いです",
+    "translation": {
+      "natural": "8. 去卡拉OK唱歌很有趣。",
+      "literal": "8. 在卡拉OK唱歌這件事是有趣的。"
+    },
+    "words": [
+      {
+        "word": "カラオケ",
+        "reading": "からおけ",
+        "note": "名詞，卡拉OK"
+      },
+      {
+        "word": "歌う",
+        "reading": "うたう",
+        "note": "動詞，唱歌（I 類 / 五段動詞）"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「で」標示動作發生的場所「カラオケで」。「歌うの」將動作名詞化。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:36",
+    "japanese": "9. サイクリングは面白いです",
+    "furigana": "9. サイクリングは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "9. サイクリングは | 面白いです",
+    "translation": {
+      "natural": "9. 騎單車很歡樂。",
+      "literal": "9. 騎單車是有趣的。"
+    },
+    "words": [
+      {
+        "word": "サイクリング",
+        "reading": "さいくりんぐ",
+        "note": "名詞，騎自行車（Cycling）"
+      }
+    ],
+    "context_grammar": [
+      "休閒運動外來語單字作為主題表達喜好或評價。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:41",
+    "japanese": "10. ドライブは面白いです",
+    "furigana": "10. ドライブは<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "10. ドライブは | 面白いです",
+    "translation": {
+      "natural": "10. 開車兜風很有趣。",
+      "literal": "10. 開車兜風是有趣的。"
+    },
+    "words": [
+      {
+        "word": "ドライブ",
+        "reading": "どらいぶ",
+        "note": "名詞，開車兜風（Drive）"
+      }
+    ],
+    "context_grammar": [
+      "名詞「ドライブ」搭配「は面白いです」進行總結性評價。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:45",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "會話練習階段。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:47",
+    "japanese": "日本語が上手ですね",
+    "furigana": "<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>が<ruby>上<rt>じょう</rt></ruby><ruby>手<rt>ず</rt></ruby>ですね",
+    "segmentation": "日本語が | 上手ですね",
+    "translation": {
+      "natural": "你的日文講得真好呢！",
+      "literal": "日語是擅長誇讚呢。"
+    },
+    "words": [
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "note": "な形容詞，擅長的、高明誇讚語"
+      }
+    ],
+    "context_grammar": [
+      "對象格助詞「が」與能力形容詞「上手」搭配「[名詞] が 上手です」。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:50",
+    "japanese": "日本語の勉強は面白いです",
+    "furigana": "<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>は<ruby>面<rt>おも</rt></ruby><ruby>白<rt>しろ</rt></ruby>いです",
+    "segmentation": "日本語の | 勉強は | 面白いです",
+    "translation": {
+      "natural": "因為學日文很有趣呀。",
+      "literal": "日語的學習是有趣的。"
+    },
+    "words": [
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "note": "名詞，學習"
+      }
+    ],
+    "context_grammar": [
+      "謙虛化解對方的稱讚，並將重點轉移到對學習過程本身興趣的表達。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "02:54",
+    "japanese": "34. は簡単です",
+    "furigana": "34. は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "34. は | 簡単です",
+    "translation": {
+      "natural": "第34句：～很簡單。",
+      "literal": "34. 是簡單的。"
+    },
+    "words": [
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "note": "な形容詞，簡單的、容易的"
+      }
+    ],
+    "context_grammar": [
+      "な形容詞句型：直接接續「です」構成敬體肯定句「簡単です」。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "02:58",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "02:59",
+    "japanese": "1. この仕事は簡単です",
+    "furigana": "1. この<ruby>事<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "1. この | 仕事は | 簡単です",
+    "translation": {
+      "natural": "1. 這項工作很簡單。",
+      "literal": "1. 這個工作是簡單的。"
+    },
+    "words": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "note": "名詞，工作、任務"
+      }
+    ],
+    "context_grammar": [
+      "指示詞「この」+ 名詞「仕事」作為全句談論主題。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:03",
+    "japanese": "2. この宿題は簡単です",
+    "furigana": "2. この<ruby>宿<rt>しゅく</rt></ruby><ruby>題<rt>だい</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "2. この | 宿題は | 簡単です",
+    "translation": {
+      "natural": "2. 這個功課很簡單。",
+      "literal": "2. 這個作業是簡單的。"
+    },
+    "words": [
+      {
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "note": "名詞，作業、功課"
+      }
+    ],
+    "context_grammar": [
+      "用於形容任務難易度。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:08",
+    "japanese": "3. この翻訳は簡単です",
+    "furigana": "3. この<ruby>翻<rt>ほん</rt></ruby><ruby>訳<rt>やく</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "3. この | 翻訳は | 簡単です",
+    "translation": {
+      "natural": "3. 這份翻譯很簡單。",
+      "literal": "3. 這個翻譯是簡單的。"
+    },
+    "words": [
+      {
+        "word": "翻訳",
+        "reading": "ほんやく",
+        "note": "名詞，翻譯（筆譯）"
+      }
+    ],
+    "context_grammar": [
+      "名詞「翻訳」作為主題，後面接形容詞述語。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:12",
+    "japanese": "4. この料理は簡単です",
+    "furigana": "4. この<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "4. この | 料理は | 簡単です",
+    "translation": {
+      "natural": "4. 這道菜做法很簡單。",
+      "literal": "4. 這道料理是簡單的。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，菜餚、料理"
+      }
+    ],
+    "context_grammar": [
+      "常用於食譜或烹飪節目中的介紹語句。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:16",
+    "japanese": "5. 操作は簡単です",
+    "furigana": "5. <ruby>操<rt>そう</rt></ruby><ruby>作<rt>さ</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "5. 操作は | 簡単です",
+    "translation": {
+      "natural": "5. 操作非常簡單。",
+      "literal": "5. 操作是簡單的。"
+    },
+    "words": [
+      {
+        "word": "操作",
+        "reading": "そうさ",
+        "note": "名詞，操作、控制"
+      }
+    ],
+    "context_grammar": [
+      "典型家電或產品說明文案語句「操作は簡単です」。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:20",
+    "japanese": "6. 作り方は簡単です",
+    "furigana": "6. <ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "6. 作り方は | 簡単です",
+    "translation": {
+      "natural": "6. 製作方法很簡單。",
+      "literal": "6. 做法是簡單的。"
+    },
+    "words": [
+      {
+        "word": "作り方",
+        "reading": "つくりかた",
+        "note": "名詞，做法、製作方式（動詞去 masu + 方）"
+      }
+    ],
+    "context_grammar": [
+      "「動詞連用形 + 方（かた）」：構成「做某事的方法」之名詞片語。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:24",
+    "japanese": "7. 行き方は簡単です",
+    "furigana": "7. <ruby>行<rt>い</rt></ruby>き<ruby>方<rt>かた</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "7. 行き方は | 簡単です",
+    "translation": {
+      "natural": "7. 去的方法很簡單／路線很容易找。",
+      "literal": "7. 去法是簡單的。"
+    },
+    "words": [
+      {
+        "word": "行き方",
+        "reading": "いきかた",
+        "note": "名詞，去的路線、走法"
+      }
+    ],
+    "context_grammar": [
+      "「行く」連用形「行き」+「方」，指前往目的地的交通方式或路線。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:28",
+    "japanese": "8. このゲームは簡単です",
+    "furigana": "8. このゲームは<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "8. この | ゲームは | 簡単です",
+    "translation": {
+      "natural": "8. 這個遊戲很簡單。",
+      "literal": "8. 這個遊戲是簡單的。"
+    },
+    "words": [
+      {
+        "word": "ゲーム",
+        "reading": "げーむ",
+        "note": "名詞，遊戲（Game）"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞作為主題進行屬性判斷。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:32",
+    "japanese": "9. 手入れは簡単です",
+    "furigana": "9. <ruby>手<rt>て</rt></ruby><ruby>入<rt>い</rt></ruby>れは<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "9. 手入れは | 簡単です",
+    "translation": {
+      "natural": "9. 保養照顧很簡單。",
+      "literal": "9. 保養是簡單的。"
+    },
+    "words": [
+      {
+        "word": "手入れ",
+        "reading": "ていれ",
+        "note": "名詞，保養、維護、照顧"
+      }
+    ],
+    "context_grammar": [
+      "商業產品宣傳常見句型，標榜維護保養極具便利性。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:36",
+    "japanese": "10. 使い方は簡単です",
+    "furigana": "10. <ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>です",
+    "segmentation": "10. 使い方は | 簡単です",
+    "translation": {
+      "natural": "10. 使用方法很簡單。",
+      "literal": "10. 使用法是簡單的。"
+    },
+    "words": [
+      {
+        "word": "使い方",
+        "reading": "つかいかた",
+        "note": "名詞，用法、使用方式"
+      }
+    ],
+    "context_grammar": [
+      "「使う」連用形「使い」+「方」，經典產品使用說明的開場句。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:41",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "情境會話練習。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:43",
+    "japanese": "新しいカメラですか？",
+    "furigana": "<ruby>新<rt>あたら</rt></ruby>しいカメラですか？",
+    "segmentation": "新しい | カメラですか？",
+    "translation": {
+      "natural": "這是新的相機嗎？",
+      "literal": "是新的相機嗎？"
+    },
+    "words": [
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "note": "い形容詞，新的"
+      },
+      {
+        "word": "カメラ",
+        "reading": "かめら",
+        "note": "名詞，相機"
+      }
+    ],
+    "context_grammar": [
+      "「新しいカメラ」：い形容詞連體修飾名詞。疑問終助詞「か」帶有上升語調。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "03:45",
+    "japanese": "ええ、操作は簡単ですよ",
+    "furigana": "ええ、<ruby>操<rt>そう</rt></ruby><ruby>作<rt>さ</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>ですよ",
+    "segmentation": "ええ、| 操作は | 簡単ですよ",
+    "translation": {
+      "natural": "對呀，操作非常簡單喔！",
+      "literal": "是的，操作是簡單的喔。"
+    },
+    "words": [
+      {
+        "word": "ええ",
+        "reading": "ええ",
+        "note": "感嘆詞，嗯、是的（禮貌肯定答覆）"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "note": "終助詞，告知對方未知資訊的強烈提醒（喔／喲）"
+      }
+    ],
+    "context_grammar": [
+      "終助詞「よ」在回答中提供補充資訊並推薦對方使用。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "03:50",
+    "japanese": "35. は汚いです",
+    "furigana": "35. は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "35. は | 汚いです",
+    "translation": {
+      "natural": "第35句：～很髒。",
+      "literal": "35. 是髒的。"
+    },
+    "words": [
+      {
+        "word": "汚い",
+        "reading": "きたない",
+        "note": "い形容詞，髒的、不潔的"
+      }
+    ],
+    "context_grammar": [
+      "核心句型標題。以い形容詞「汚い」結尾的述語表達狀態。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "03:53",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ | 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "Step 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元章節標題。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "03:55",
+    "japanese": "1. この部屋は汚いです",
+    "furigana": "1. この<ruby>房<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "1. この | 部屋は | 汚いです",
+    "translation": {
+      "natural": "1. 這間房間很髒。",
+      "literal": "1. 這個房間是髒的。"
+    },
+    "words": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      }
+    ],
+    "context_grammar": [
+      "空間狀態描述的基本構造。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "03:59",
+    "japanese": "2. このトイレは汚いです",
+    "furigana": "2. このトイレは<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "2. この | トイレは | 汚いです",
+    "translation": {
+      "natural": "2. 這個廁所很髒。",
+      "literal": "2. 這個廁所是髒的。"
+    },
+    "words": [
+      {
+        "word": "トイレ",
+        "reading": "といれ",
+        "note": "名詞，廁所、洗手間（Toilet）"
+      }
+    ],
+    "context_grammar": [
+      "生活常見設施清潔程度的客觀描述。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:03",
+    "japanese": "3. 道路は汚いです",
+    "furigana": "3. <ruby>道<rt>どう</rt></ruby><ruby>路<rt>ろ</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "3. 道路は | 汚いです",
+    "translation": {
+      "natural": "3. 馬路很髒。",
+      "literal": "3. 道路是髒的。"
+    },
+    "words": [
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "note": "名詞，道路、馬路"
+      }
+    ],
+    "context_grammar": [
+      "名詞「道路」作為全句提示的主題「～は」。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:07",
+    "japanese": "4. この店は汚いです",
+    "furigana": "4. この<ruby>店<rt>みせ</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "4. この | 店は | 汚いです",
+    "translation": {
+      "natural": "4. 這店家環境很髒。",
+      "literal": "4. 這個店家是髒的。"
+    },
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "note": "名詞，店家、商店"
+      }
+    ],
+    "context_grammar": [
+      "對特定商業空間衛生狀況之陳述。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:11",
+    "japanese": "5. このグラスは汚いです",
+    "furigana": "5. このグラスは<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "5. この | グラスは | 汚いです",
+    "translation": {
+      "natural": "5. 這個玻璃杯很不乾淨。",
+      "literal": "5. 這個玻璃杯是髒的。"
+    },
+    "words": [
+      {
+        "word": "グラス",
+        "reading": "ぐらす",
+        "note": "名詞，玻璃杯（Glass）"
+      }
+    ],
+    "context_grammar": [
+      "餐飲場合對器具衛生反應常見用語。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:15",
+    "japanese": "6. このお皿は汚いです",
+    "furigana": "6. このお<ruby>皿<rt>さら</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "6. この | お皿は | 汚いです",
+    "translation": {
+      "natural": "6. 這個盤子沒洗乾淨。",
+      "literal": "6. 這個盤子是髒的。"
+    },
+    "words": [
+      {
+        "word": "お皿",
+        "reading": "おさら",
+        "note": "名詞，盤子（接上美化語接頭辭「お」）"
+      }
+    ],
+    "context_grammar": [
+      "「お皿」：美化語表現，餐具項目的生活表達。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:20",
+    "japanese": "7. この川は汚いです",
+    "furigana": "7. この<ruby>川<rt>かわ</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "7. この | 川は | 汚いです",
+    "translation": {
+      "natural": "7. 這條河流受到污染／很髒。",
+      "literal": "7. 這條河流是髒的。"
+    },
+    "words": [
+      {
+        "word": "川",
+        "reading": "かわ",
+        "note": "名詞，河流"
+      }
+    ],
+    "context_grammar": [
+      "自然環境水質狀態描述。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:24",
+    "japanese": "8. この海は汚いですから泳ぎたくないです",
+    "furigana": "8. この<ruby>海<rt>うみ</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いですから<ruby>泳<rt>およ</rt></ruby>ぎたくないです",
+    "segmentation": "8. この海は | 汚いですから | 泳ぎたくないです",
+    "translation": {
+      "natural": "8. 這片海太髒了，所以我不想在這裡游泳。",
+      "literal": "8. 因為這片海是髒的，所以不想游泳。"
+    },
+    "words": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "note": "名詞，大海"
+      },
+      {
+        "word": "から",
+        "reading": "から",
+        "note": "接續助詞，表示原因、理由（因為〜）"
+      },
+      {
+        "word": "泳ぎたくない",
+        "reading": "およぎたくない",
+        "note": "願望否定型，不想游泳（動詞 泳ぐ 連用形 + たい 否定形 たくない）"
+      }
+    ],
+    "context_grammar": [
+      "「～ですから」：因果關係複句，前句為理由。「泳ぎたくないです」：第一人稱願望否定，表達個人意志。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "04:30",
+    "japanese": "9. この車は汚いです",
+    "furigana": "9. この<ruby>車<rt>くるま</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "9. この | 車は | 汚いです",
+    "translation": {
+      "natural": "9. 這台車很髒。",
+      "literal": "9. 這台車是髒的。"
+    },
+    "words": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "note": "名詞，汽車"
+      }
+    ],
+    "context_grammar": [
+      "車輛外觀髒污的陳述。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "04:34",
+    "japanese": "10. ここの空気は汚いです",
+    "furigana": "10. ここの<ruby>空<rt>くう</rt></ruby><ruby>気<rt>き</rt></ruby>は<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "10. ここの | 空気は | 汚いです",
+    "translation": {
+      "natural": "10. 這裡的空氣很糟／污染嚴重。",
+      "literal": "10. 這裡的空氣是髒的。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "指示代名詞，這裡"
+      },
+      {
+        "word": "空気",
+        "reading": "くうき",
+        "note": "名詞，空氣"
+      }
+    ],
+    "context_grammar": [
+      "「ここの空気」：指示代名詞加「の」限定區域範圍。形容空氣污濁。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "04:39",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ | 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "Step 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "情境會話練習。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "04:41",
+    "japanese": "このグラスは汚いです",
+    "furigana": "このグラスは<ruby>汚<rt>きたな</rt></ruby>いです",
+    "segmentation": "このグラスは | 汚いです",
+    "translation": {
+      "natural": "這個杯子不乾淨耶。",
+      "literal": "這個玻璃杯是髒的。"
+    },
+    "words": [
+      {
+        "word": "グラス",
+        "reading": "ぐらす",
+        "note": "名詞，玻璃杯"
+      }
+    ],
+    "context_grammar": [
+      "餐廳中顧客向服務人員或同桌提出的反映用語。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "04:44",
+    "japanese": "変えてもらいましょう",
+    "furigana": "<ruby>変<rt>か</rt></ruby>えてもらいましょう",
+    "segmentation": "変えてもらいましょう",
+    "translation": {
+      "natural": "請他們幫我們換一個吧。",
+      "literal": "去請人換給我們吧。"
+    },
+    "words": [
+      {
+        "word": "変える",
+        "reading": "かえる",
+        "note": "動詞，更換（II 類 / 下一段動詞）"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "授受動詞，接受／請別人為自己做某事"
+      },
+      {
+        "word": "ましょう",
+        "reading": "ましょう",
+        "note": "助動詞，提議、提議共同做某事（〜吧）"
+      }
+    ],
+    "context_grammar": [
+      "「動詞 て形 + もらう」：請求他人為自己提供服務的授受句型。",
+      "「〜ましょう」：勸誘/提議句型，向同行者提議共同做出解決行動。"
+    ]
+  }
+]

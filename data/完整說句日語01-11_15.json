@@ -1,0 +1,1777 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "11. て、すみません",
+    "furigana": "11. て、すみません",
+    "segmentation": "11. | て、| すみません",
+    "translation": {
+      "natural": "11. 因……而感到抱歉",
+      "literal": "11. 做……對不起"
+    },
+    "words": [
+      {
+        "word": "すみません",
+        "reading": "すみません",
+        "note": "感嘆詞/動詞，對不起、抱歉"
+      }
+    ],
+    "context_grammar": [
+      "て、すみません：以動詞/形容詞的て形表原因理由，後接道歉用語「すみません」，常用於向對方表達為自己做出的過失或動作感到抱歉。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:03",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ 1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "ステップ 1：外來語「Step」加上數字，用於教學單元中的階段劃分。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "1. 遅れてしまって、すみません。",
+    "furigana": "1. <ruby>遅<rt>おく</rt></ruby>れてしまって、すみません。",
+    "segmentation": "1. 遅れてしまって、| すみません。",
+    "translation": {
+      "natural": "1. 我遲到了，非常抱歉。",
+      "literal": "1. 不小心遲到了，對不起。"
+    },
+    "words": [
+      {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "note": "動詞，遲到、耽擱"
+      },
+      {
+        "word": "〜てしまう",
+        "reading": "〜てしまう",
+        "note": "補助動詞，表示動作的不幸發生或遺憾遺憾的情緒"
+      }
+    ],
+    "context_grammar": [
+      "遅れてしまって：動詞「遅れる」接「〜てしまう」轉為「遅れてしまって」（て形未完結接續），修飾後方的「すみません」，表達因「不小心遲到」這一無心或遺憾之過失而道歉。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:10",
+    "japanese": "2. 約束を忘れてしまって、すみません。",
+    "furigana": "2. <ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまって、すみません。",
+    "segmentation": "2. 約束を | 忘れてしまって、| すみません。",
+    "translation": {
+      "natural": "2. 我忘記約定了，真的很抱歉。",
+      "literal": "2. 把約定不小心忘了，對不起。"
+    },
+    "words": [
+      {
+        "word": "約束",
+        "reading": "やくそく",
+        "note": "名詞，約定、忘記"
+      },
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "note": "動詞，忘記"
+      }
+    ],
+    "context_grammar": [
+      "約束を：格助詞「を」標示動詞「忘れる」受詞。",
+      "忘れてしまって：動詞連用形接「〜てしまう」的て形，帶有「非故意卻不小心忘記」的遺憾語氣，作為後續「すみません」的原因。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:15",
+    "japanese": "3. 傘をなくしてしまって、すみません。",
+    "furigana": "3. <ruby>傘<rt>かさ</rt></ruby>をなくしてしまって、すみません。",
+    "segmentation": "3. 傘を | なくしてしまって、| すみません。",
+    "translation": {
+      "natural": "3. 我把雨傘弄丟了，真抱歉。",
+      "literal": "3. 不小心把傘弄丟了，對不起。"
+    },
+    "words": [
+      {
+        "word": "傘",
+        "reading": "かさ",
+        "note": "名詞，雨傘"
+      },
+      {
+        "word": "なくす",
+        "reading": "なくす",
+        "note": "動詞，遺失、弄丟"
+      }
+    ],
+    "context_grammar": [
+      "なくしてしまって：「なくす」改連用形接「〜てしまう」轉為「〜てしまって」，展現出對弄丟物品這件事的不妥與自責的情感。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:20",
+    "japanese": "4. 模型を壊してしまって、すみません。",
+    "furigana": "4. <ruby>模<rt>も</rt></ruby><ruby>型<rt>けい</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>してしまって、すみません。",
+    "segmentation": "4. 模型を | 壊してしまって、| すみません。",
+    "translation": {
+      "natural": "4. 我不小心把模型弄壞了，非常抱歉。",
+      "literal": "4. 把模型不小心弄壞了，對不起。"
+    },
+    "words": [
+      {
+        "word": "模型",
+        "reading": "もけい",
+        "note": "名詞，模型"
+      },
+      {
+        "word": "壊す",
+        "reading": "こわす",
+        "note": "動詞，弄壞、破壞"
+      }
+    ],
+    "context_grammar": [
+      "壊してしまって：動詞「壊す」活用為「壊して」接續補助動詞，表達不慎破壞物品時的歉意與愧疚。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:25",
+    "japanese": "5. 枝を折ってしまって、すみません。",
+    "furigana": "5. <ruby>枝<rt>えだ</rt></ruby>を<ruby>折<rt>お</rt></ruby>ってしまって、すみません。",
+    "segmentation": "5. 枝を | 折ってしまって、| すみません。",
+    "translation": {
+      "natural": "5. 我不小心折斷了樹枝，真的很抱歉。",
+      "literal": "5. 把樹枝不小心折斷了，對不起。"
+    },
+    "words": [
+      {
+        "word": "枝",
+        "reading": "えだ",
+        "note": "名詞，樹枝"
+      },
+      {
+        "word": "折る",
+        "reading": "おる",
+        "note": "動詞，折斷"
+      }
+    ],
+    "context_grammar": [
+      "折ってしまって：五段動詞「折る」發生促音便（折って）後接「〜てしまう」，作為前置因果句，向對方道歉。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:30",
+    "japanese": "6. 袋を破ってしまって、すみません。",
+    "furigana": "6. <ruby>袋<rt>ふくろ</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>ってしまって、すみません。",
+    "segmentation": "6. 袋を | 破ってしまって、| すみません。",
+    "translation": {
+      "natural": "6. 我不小心把袋子弄破了，不好意思。",
+      "literal": "6. 把袋子不小心撕破了，對不起。"
+    },
+    "words": [
+      {
+        "word": "袋",
+        "reading": "ふくろ",
+        "note": "名詞，袋子"
+      },
+      {
+        "word": "破る",
+        "reading": "やぶる",
+        "note": "動詞，弄破、撕破"
+      }
+    ],
+    "context_grammar": [
+      "破ってしまって：五段動詞「破る」促音便接「〜てしまう」，語氣上強化了「非故意但已發生」的遺憾失誤感。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:35",
+    "japanese": "7. 花瓶を割ってしまって、すみません。",
+    "furigana": "7. <ruby>花<rt>か</rt></ruby><ruby>瓶<rt>びん</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまって、すみません。",
+    "segmentation": "7. 花瓶を | 割ってしまって、| すみません。",
+    "translation": {
+      "natural": "7. 我不小心打破了花瓶，非常抱歉。",
+      "literal": "7. 把花瓶打破了，對不起。"
+    },
+    "words": [
+      {
+        "word": "花瓶",
+        "reading": "かびん",
+        "note": "名詞，花瓶"
+      },
+      {
+        "word": "割る",
+        "reading": "わる",
+        "note": "動詞，打碎、打破"
+      }
+    ],
+    "context_grammar": [
+      "割ってしまって：動詞「割る」促音便變化，結合「〜てしまう」表現出打碎貴重物品時的懊悔情緒。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:40",
+    "japanese": "8. 床を濡らしてしまって、すみません。",
+    "furigana": "8. <ruby>床<rt>ゆか</rt></ruby>を<ruby>濡<rt>ぬ</rt></ruby>らしてしまって、すみません。",
+    "segmentation": "8. 床を | 濡らしてしまって、| すみません。",
+    "translation": {
+      "natural": "8. 我不小心把地板弄濕了，真抱歉。",
+      "literal": "8. 把地板弄濕了，對不起。"
+    },
+    "words": [
+      {
+        "word": "床",
+        "reading": "ゆか",
+        "note": "名詞，地板"
+      },
+      {
+        "word": "濡らす",
+        "reading": "ぬらす",
+        "note": "動詞，弄濕"
+      }
+    ],
+    "context_grammar": [
+      "濡らしてしまって：他動詞「濡らす」的連用形接「〜てしまう」，強調不小心製造了髒亂或困擾。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:45",
+    "japanese": "9. ケーキを食べてしまって、すみません。",
+    "furigana": "9. ケーキを<ruby>食<rt>た</rt></ruby>べてしまって、すみません。",
+    "segmentation": "9. ケーキを | 食べたしまって、| すみません。",
+    "translation": {
+      "natural": "9. 我不小心把蛋糕吃掉了，真抱歉。",
+      "literal": "9. 把蛋糕吃掉了，對不起。"
+    },
+    "words": [
+      {
+        "word": "ケーキ",
+        "reading": "けーき",
+        "note": "名詞，蛋糕"
+      },
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "note": "動詞，吃"
+      }
+    ],
+    "context_grammar": [
+      "食べてしまって：下一段動詞「食べる」去「る」接「てしまって」，表示將不該吃或屬於別人的東西吃掉後的愧疚表現。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:50",
+    "japanese": "10. ジュースを飲んでしまって、すみません。",
+    "furigana": "10. ジュースを<ruby>飲<rt>の</rt></ruby>んでしまって、すみません。",
+    "segmentation": "10. ジュースを | 飲んでしまって、| すみません。",
+    "translation": {
+      "natural": "10. 我不小心把果汁喝掉了，非常抱歉。",
+      "literal": "10. 把果汁喝掉了，對不起。"
+    },
+    "words": [
+      {
+        "word": "ジュース",
+        "reading": "じゅーす",
+        "note": "名詞，果汁"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      }
+    ],
+    "context_grammar": [
+      "飲んでしまって：五段動詞「飲む」發生撥音便（飲んで）後接「〜てしまう」，說明不小心喝光飲料的行為。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:56",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ 3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "ステップ 3：應用情境練習階段。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:58",
+    "japanese": "30分待ちましたよ。",
+    "furigana": "30<ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちましたよ。",
+    "segmentation": "30分 | 待ちましたよ。",
+    "translation": {
+      "natural": "我等了 30 分鐘耶！",
+      "literal": "等了30分鐘喔。"
+    },
+    "words": [
+      {
+        "word": "30分",
+        "reading": "さんじゅっぷん",
+        "note": "名詞，30分鐘"
+      },
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "note": "動詞，等待"
+      }
+    ],
+    "context_grammar": [
+      "待ちましたよ：動詞「待つ」的丁寧過去式「待ちました」，句尾加上終助詞「よ」，用於向對方提醒或帶有輕微抱怨/強調的情況。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:02",
+    "japanese": "遅れてしまって、すみません。",
+    "furigana": "<ruby>遅<rt>おく</rt></ruby>れてしまって、すみません。",
+    "segmentation": "遅れてしまって、| すみません。",
+    "translation": {
+      "natural": "我遲到了，真的非常抱歉。",
+      "literal": "不小心遲到了，對不起。"
+    },
+    "words": [
+      {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "note": "動詞，遲到"
+      }
+    ],
+    "context_grammar": [
+      "遲到情境的對話回應，呼應前面步驟所學的過失原因提示及致歉句型。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:06",
+    "japanese": "12. て、楽しいです",
+    "furigana": "12. て、<ruby>楽<rt>たの</rt></ruby>しいです",
+    "segmentation": "12. | て、| 楽しいです",
+    "translation": {
+      "natural": "12. 做……很開心",
+      "literal": "12. 做……很愉快"
+    },
+    "words": [
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "note": "い形容詞，快樂的、愉快的"
+      }
+    ],
+    "context_grammar": [
+      "て、楽しいです：用動詞/形容詞的て形連接後半句的感情形容詞「楽しいです」，說明令人感到愉快的活動或原因。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:10",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ 1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "標題階段說明。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:12",
+    "japanese": "1. 健行很開心。",
+    "furigana": "1. ハイキングは<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "1. ハイキングは | 楽しいです。",
+    "translation": {
+      "natural": "1. 健行很開心。",
+      "literal": "1. 健行是快樂的。"
+    },
+    "words": [
+      {
+        "word": "ハイキング",
+        "reading": "はいきんぐ",
+        "note": "名詞，健行 (Hiking)"
+      },
+      {
+        "word": "楽しい",
+        "reading": "たのしい",
+        "note": "い形容詞，快樂的"
+      }
+    ],
+    "context_grammar": [
+      "ハイキングは：提示助詞「は」標示主題「健行」，以「名詞 + は + 形容詞」進行直截了當的感想陳述。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:16",
+    "japanese": "2. パーティーは楽しいです。",
+    "furigana": "2. パーティーは<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "2. パーティーは | 楽しいです。",
+    "translation": {
+      "natural": "2. 派對很好玩。",
+      "literal": "2. 派對是快樂的。"
+    },
+    "words": [
+      {
+        "word": "パーティー",
+        "reading": "ぱーてぃー",
+        "note": "名詞，派對 (Party)"
+      }
+    ],
+    "context_grammar": [
+      "主題助詞「は」引導名詞「パーティー」，搭配形容詞敬體「楽しいです」表達情感。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:21",
+    "japanese": "3. 旅行は楽しいです。",
+    "furigana": "3. <ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "3. 旅行は | 楽しいです。",
+    "translation": {
+      "natural": "3. 去旅行很開心。",
+      "literal": "3. 旅行是快樂的。"
+    },
+    "words": [
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "note": "名詞，旅行"
+      }
+    ],
+    "context_grammar": [
+      "「旅行」作為句子的話題核心，接續 predicate 描述其帶來的愉悅體驗。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:25",
+    "japanese": "4. みんなで会食できて、楽しいです。",
+    "furigana": "4. みんなで<ruby>会<rt>かい</rt></ruby><ruby>食<rt>しょく</rt></ruby>できて、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "4. みんなで | 会食できて、| 楽しいです。",
+    "translation": {
+      "natural": "4. 能和大家一起聚餐，真的很開心。",
+      "literal": "4. 能夠大家一起聚餐，很快樂。"
+    },
+    "words": [
+      {
+        "word": "みんな",
+        "reading": "みんな",
+        "note": "名詞，大家"
+      },
+      {
+        "word": "会食する",
+        "reading": "かいしょくする",
+        "note": "動詞，聚餐、會食"
+      }
+    ],
+    "context_grammar": [
+      "みんなで：格助詞「で」表示動作的狀態或人數範圍（大家一起）。",
+      "会食できて：動詞「会食する」的可行形（可能形）「会食できる」，轉為「て形」表原因，表達「因為能夠聚餐」這件事令人開心。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:31",
+    "japanese": "5. みんなでサイクリングできて、楽しいです。",
+    "furigana": "5. みんなでサイクリングできて、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "5. みんなで | サイクリングできて、| 楽しいです。",
+    "translation": {
+      "natural": "5. 能和大家一起騎自行車，非常開心。",
+      "literal": "5. 能夠大家一起騎單車，很快樂。"
+    },
+    "words": [
+      {
+        "word": "サイクリング",
+        "reading": "さいくりんぐ",
+        "note": "名詞，騎單車 (Cycling)"
+      }
+    ],
+    "context_grammar": [
+      "サイクリングできて：サ變動詞「サイクリングする」的可能形連用接續，表能完成該項戶外運動的喜悅。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:37",
+    "japanese": "6. みんなで登山できて、楽しいです。",
+    "furigana": "6. みんなで<ruby>登<rt>と</rt></ruby><ruby>山<rt>ざん</rt></ruby>できて、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "6. みんなで | 登山できて、| 楽しいです。",
+    "translation": {
+      "natural": "6. 能大家一起去爬山，非常開心。",
+      "literal": "6. 能夠大家一起登山，很快樂。"
+    },
+    "words": [
+      {
+        "word": "登山",
+        "reading": "とざん",
+        "note": "名詞，登山、爬山"
+      }
+    ],
+    "context_grammar": [
+      "登山できて：「登山する」可能形「登山できる」的て形，作為引起後面心理情緒「楽しいです」的具體事項。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:42",
+    "japanese": "7. みんなでお酒を飲んで、楽しいです。",
+    "furigana": "7. みんなでお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "7. みんなで | お酒を飲んで、| 楽しいです。",
+    "translation": {
+      "natural": "7. 大家一起喝酒聚聚，真開心。",
+      "literal": "7. 大家一起喝酒，很快樂。"
+    },
+    "words": [
+      {
+        "word": "お酒",
+        "reading": "おさけ",
+        "note": "名詞，酒（「お」為美化語Prefix）"
+      },
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "note": "動詞，喝"
+      }
+    ],
+    "context_grammar": [
+      "お酒を飲んで：五段動詞「飲む」撥音便「飲んで」，以て形作為輕微的因果或伴隨狀態，接續「楽しいです」。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:48",
+    "japanese": "8. みんなでゲームをして、楽しいです。",
+    "furigana": "8. みんなでゲームをして、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "8. みんなで | ゲームをして、| 楽しいです。",
+    "translation": {
+      "natural": "8. 大家一起玩遊戲，覺得很開心。",
+      "literal": "8. 大家一起做遊戲，很快樂。"
+    },
+    "words": [
+      {
+        "word": "ゲーム",
+        "reading": "げーむ",
+        "note": "名詞，遊戲 (Game)"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做、進行"
+      }
+    ],
+    "context_grammar": [
+      "ゲームをして：サ變動詞「する」改「して」，順接描述當下進行的活動及帶來的快樂情感。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:53",
+    "japanese": "9. みんなでダンスをして、楽しいです。",
+    "furigana": "9. みんなでダンスをして、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "9. みんなで | ダンスをして、| 楽しいです。",
+    "translation": {
+      "natural": "9. 大家一起跳跳舞，真的很開心。",
+      "literal": "9. 大家一起跳舞，很快樂。"
+    },
+    "words": [
+      {
+        "word": "ダンス",
+        "reading": "だんす",
+        "note": "名詞，舞蹈 (Dance)"
+      }
+    ],
+    "context_grammar": [
+      "ダンスをして：「ダンスする」改為連用接續「して」，帶出整體熱鬧、歡樂的氛圍。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:58",
+    "japanese": "10. みんなで歌って、楽しいです。",
+    "furigana": "10. みんなで<ruby>歌<rt>うた</rt></ruby>って、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "10. みんなで | 歌って、| 楽しいです。",
+    "translation": {
+      "natural": "10. 大家一起唱歌，真高興。",
+      "literal": "10. 大家一起唱歌，很快樂。"
+    },
+    "words": [
+      {
+        "word": "歌う",
+        "reading": "うたう",
+        "note": "動詞，唱歌"
+      }
+    ],
+    "context_grammar": [
+      "歌って：五段動詞「歌う」促音便轉「歌って」，將唱歌的情境作為享受快樂的原因。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:04",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ 3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟 (Step)"
+      }
+    ],
+    "context_grammar": [
+      "對話實戰模組。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:06",
+    "japanese": "皆さんお久しぶりですね。みんなで会食できて、楽しいです。",
+    "furigana": "<ruby>皆<rt>みな</rt></ruby><ruby>様<rt>さま</rt></ruby>お<ruby>久<rt>ひさ</rt></ruby>しぶりですね。みんなで<ruby>会<rt>かい</rt></ruby><ruby>食<rt>しょく</rt></ruby>できて、<ruby>楽<rt>たの</rt></ruby>しいです。",
+    "segmentation": "皆さん | お久しぶりですね。| みんなで | 会食できて、| 楽しいです。",
+    "translation": {
+      "natural": "好久不見了大家！能像這樣聚在一起吃飯，真的很開心。",
+      "literal": "各位好久不見呢。能夠大家一起聚餐，很快樂。"
+    },
+    "words": [
+      {
+        "word": "お久しぶり",
+        "reading": "おひさしぶり",
+        "note": "寒暄語，好久不見"
+      }
+    ],
+    "context_grammar": [
+      "お久しぶりですね：美化接頭詞「お」+「久しぶり」，搭配感嘆終助詞「ね」，經常用於久別重逢時的熱情問候語境。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:15",
+    "japanese": "13. て、疲れました",
+    "furigana": "13. て、<ruby>疲<rt>つか</rt></ruby>れました",
+    "segmentation": "13. | て、| 疲れました",
+    "translation": {
+      "natural": "13. 因為做……累壞了",
+      "literal": "13. 做……疲倦了"
+    },
+    "words": [
+      {
+        "word": "疲れる",
+        "reading": "つかれる",
+        "note": "動詞，疲勞、累"
+      }
+    ],
+    "context_grammar": [
+      "て、疲れました：用動詞/原因句型的て形連接「疲れました」（疲れる的過去式丁寧形），表達過度做某事後產生的疲憊生理或心理狀態。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:19",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ 1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:20",
+    "japanese": "1. 働きすぎて、疲れました。",
+    "furigana": "1. <ruby>働<rt>はたら</rt></ruby>きすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "1. 働きすぎて、| 疲れました。",
+    "translation": {
+      "natural": "1. 工作太過頭，累壞了。",
+      "literal": "1. 過度工作，累了。"
+    },
+    "words": [
+      {
+        "word": "働く",
+        "reading": "はたらく",
+        "note": "動詞，工作"
+      },
+      {
+        "word": "〜すぎる",
+        "reading": "〜すぎる",
+        "note": "複合動詞，太過……、過度……"
+      }
+    ],
+    "context_grammar": [
+      "働きすぎて：動詞連用形「働き」+「すぎる」改為連用接續「すぎて」，表示工作過度（超出適當限度）因而造成身體疲憊的結果。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:25",
+    "japanese": "2. 運動しすぎて、疲れました。",
+    "furigana": "2. <ruby>運<rt>うん</rt></ruby><ruby>動<rt>どう</rt></ruby>しすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "2. 運動しすぎて、| 疲れました。",
+    "translation": {
+      "natural": "2. 運動量太大，累壞了。",
+      "literal": "2. 過度運動，累了。"
+    },
+    "words": [
+      {
+        "word": "運動する",
+        "reading": "うんどうする",
+        "note": "動詞，運動"
+      }
+    ],
+    "context_grammar": [
+      "運動しすぎて：サ變動詞連用形「運動し」結合「すぎる」的て形，說明激烈或過量運動導致疲倦。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:30",
+    "japanese": "3. ゲームをしすぎて、疲れました。",
+    "furigana": "3. ゲームをしすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "3. ゲームをしすぎて、| 疲れました。",
+    "translation": {
+      "natural": "3. 玩太久遊戲，眼睛跟身體都累了。",
+      "literal": "3. 過度玩遊戲，累了。"
+    },
+    "words": [
+      {
+        "word": "ゲーム",
+        "reading": "げーむ",
+        "note": "名詞，遊戲"
+      }
+    ],
+    "context_grammar": [
+      "しすぎて：動詞「する」連用形「し」接複合動詞尾「すぎる」，提示過度沈迷或進行娛樂後的疲勞。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:35",
+    "japanese": "4. テレビを見すぎて、疲れました。",
+    "furigana": "4. テレビを<ruby>見<rt>み</rt></ruby>すぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "4. テレビを見すぎて、| 疲れました。",
+    "translation": {
+      "natural": "4. 看太多電視，覺得好累。",
+      "literal": "4. 過度看電視，累了。"
+    },
+    "words": [
+      {
+        "word": "テレビ",
+        "reading": "てれび",
+        "note": "名詞，電視"
+      },
+      {
+        "word": "見る",
+        "reading": "みる",
+        "note": "動詞，看"
+      }
+    ],
+    "context_grammar": [
+      "見すぎて：上一段動詞「見る」去「る」直接組合「すぎる」，表長時間觀看電視所引發的倦怠感。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:40",
+    "japanese": "5. 遊びすぎて、疲れました。",
+    "furigana": "5. <ruby>遊<rt>あそ</rt></ruby>びすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "5. 遊びすぎて、| 疲れました。",
+    "translation": {
+      "natural": "5. 玩的太瘋了，好累哦。",
+      "literal": "5. 過度遊玩，累了。"
+    },
+    "words": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "note": "動詞，遊玩、玩耍"
+      }
+    ],
+    "context_grammar": [
+      "遊びすぎて：五段動詞「遊ぶ」連用形「遊び」搭配「すぎる」，常見於休假行程排太滿、體力耗盡的日常情境。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:45",
+    "japanese": "6. 歩きすぎて、疲れました。",
+    "furigana": "6. <ruby>歩<rt>ある</rt></ruby>きすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "6. 歩きすぎて、| 疲れました。",
+    "translation": {
+      "natural": "6. 走太多路，腳好累。",
+      "literal": "6. 過度行走，累了。"
+    },
+    "words": [
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "note": "動詞，步行、走路"
+      }
+    ],
+    "context_grammar": [
+      "歩きすぎて：「歩く」連用形「歩き」+「すぎる」，表達因長距離步行導致腳酸乏力的狀態。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:50",
+    "japanese": "7. 歌いすぎて、疲れました。",
+    "furigana": "7. <ruby>歌<rt>うた</rt></ruby>いすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "7. 歌いすぎて、| 疲れました。",
+    "translation": {
+      "natural": "7. 唱太多歌，有點累了。",
+      "literal": "7. 過度唱歌，累了。"
+    },
+    "words": [
+      {
+        "word": "歌う",
+        "reading": "うたう",
+        "note": "動詞，唱歌"
+      }
+    ],
+    "context_grammar": [
+      "歌いすぎて：「歌う」連用形「歌い」結合過度句型，常用於去卡拉OK或演唱會後喉嚨或體力透支的情況。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:55",
+    "japanese": "8. 勉強しすぎて、疲れました。",
+    "furigana": "8. <ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>しすぎて、<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "8. 勉強しすぎて、| 疲れました。",
+    "translation": {
+      "natural": "8. 讀書讀得太久，讀到累了。",
+      "literal": "8. 過度讀書，累了。"
+    },
+    "words": [
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "note": "動詞，學習、讀書"
+      }
+    ],
+    "context_grammar": [
+      "勉強しすぎて：サ變動詞連用形「勉強し」+「すぎる」，描述長時間專注唸書後的精神疲憊。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "03:00",
+    "japanese": "9. 結婚生活に疲れました。",
+    "furigana": "9. <ruby>結<rt>けっ</rt></ruby><ruby>婚<rt>こん</rt></ruby><ruby>生<rt>せい</rt></ruby><ruby>活<rt>かつ</rt></ruby>に<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "9. 結婚生活に | 疲れました。",
+    "translation": {
+      "natural": "9. 我對婚姻生活感到疲憊了。",
+      "literal": "9. 對於結婚生活疲倦了。"
+    },
+    "words": [
+      {
+        "word": "結婚生活",
+        "reading": "けっこんせいかつ",
+        "note": "名詞，婚姻生活"
+      }
+    ],
+    "context_grammar": [
+      "結婚生活に：格助詞「に」在此表示心理狀態或感受所針對的對象/對象對象（對……感到厭倦、疲憊）。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "03:05",
+    "japanese": "10. 人間関係に疲れました。",
+    "furigana": "10. <ruby>人<rt>にん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>関<rt>かん</rt></ruby><ruby>係<rt>けい</rt></ruby>に<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "10. 人間関係に | 疲れました。",
+    "translation": {
+      "natural": "10. 我對人際關係感到心累了。",
+      "literal": "10. 對於人際關係疲倦了。"
+    },
+    "words": [
+      {
+        "word": "人間関係",
+        "reading": "にんげんかんけい",
+        "note": "名詞，人際關係"
+      }
+    ],
+    "context_grammar": [
+      "人間関係に：「名詞 + に + 疲れる」結構，表達心智精神上因該事物而感到心力交瘁。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "03:10",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ 3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "實用對話練習。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:12",
+    "japanese": "足が痛いんですか。",
+    "furigana": "<ruby>足<rt>あし</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いんですか。",
+    "segmentation": "足が | 痛いんですか。",
+    "translation": {
+      "natural": "你的腳在痛嗎？",
+      "literal": "是腳痛嗎？"
+    },
+    "words": [
+      {
+        "word": "足",
+        "reading": "あし",
+        "note": "名詞，腳、腿"
+      },
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "note": "い形容詞，疼痛的"
+      }
+    ],
+    "context_grammar": [
+      "痛いんですか：形容詞接「〜んです（のだ的口語說法）」加疑問助詞「か」，用於關切對方狀況、尋求解釋或確認原因的說話口氣。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:15",
+    "japanese": "ええ、歩きすぎて疲れました。",
+    "furigana": "ええ、<ruby>歩<rt>ある</rt></ruby>きすぎて<ruby>疲<rt>つか</rt></ruby>れました。",
+    "segmentation": "ええ、| 歩きすぎて | 疲れました。",
+    "translation": {
+      "natural": "對啊，走太多路累壞了。",
+      "literal": "是的，過度行走累了。"
+    },
+    "words": [
+      {
+        "word": "ええ",
+        "reading": "ええ",
+        "note": "感嘆詞，是的、嗯（比「はい」稍口語柔和）"
+      }
+    ],
+    "context_grammar": [
+      "呼應前面詢問，運用「歩きすぎて」說明造成腳痛及體力耗竭的原因。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:20",
+    "japanese": "14. て、腹が立ちます",
+    "furigana": "14. て、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます",
+    "segmentation": "14. | て、| 腹が立ちます",
+    "translation": {
+      "natural": "14. 因為……令人生氣/火大",
+      "literal": "14. 做……肚子站立（生氣）"
+    },
+    "words": [
+      {
+        "word": "腹が立つ",
+        "reading": "はらがたつ",
+        "note": "慣用語，生氣、發怒"
+      }
+    ],
+    "context_grammar": [
+      "て、腹が立ちます：前句用動詞或形容詞的て形表原因，後接慣用句「腹が立ちます」（生氣），用來表達對某事、某行為感到憤怒或滿不安的情緒。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:24",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ 1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:25",
+    "japanese": "1. 子供のマナーが悪くて、腹が立ちます。",
+    "furigana": "1. <ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>のマナーが<ruby>悪<rt>わる</rt></ruby>くて、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "1. 子供のマナーが | 悪くて、| 腹が立ちます。",
+    "translation": {
+      "natural": "1. 小孩的禮貌規矩很差，真讓人火大。",
+      "literal": "1. 小孩的禮儀不好，生氣。"
+    },
+    "words": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "note": "名詞，小孩"
+      },
+      {
+        "word": "マナー",
+        "reading": "まなー",
+        "note": "名詞，禮儀、規矩 (Manner)"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "い形容詞，壞的、差的"
+      }
+    ],
+    "context_grammar": [
+      "悪くて：い形容詞「悪い」去「い」加「くて」轉為連用接續，表達原因理由，作為後半句「腹が立ちます」的情感起因。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:31",
+    "japanese": "2. バスがずっと来なくて、腹が立ちます。",
+    "furigana": "2. バスがずっと<ruby>来<rt>こ</rt></ruby>なくて、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "2. バスが | ずっと来なくて、| 腹が立ちます。",
+    "translation": {
+      "natural": "2. 公車一直不來，令人非常生氣。",
+      "literal": "2. 公車一直不來，生氣。"
+    },
+    "words": [
+      {
+        "word": "バス",
+        "reading": "ばす",
+        "note": "名詞，公車 (Bus)"
+      },
+      {
+        "word": "ずっと",
+        "reading": "ずっと",
+        "note": "副詞，一直、始終"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "動詞，來"
+      }
+    ],
+    "context_grammar": [
+      "来なくて：動詞「来る」的否定形「来ない」再轉為て形「来なくて」，用否定事件發生的狀態作為生氣的原因。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:36",
+    "japanese": "3. パソコンがよく故障するので、腹が立ちます。",
+    "furigana": "3. パソコンがよく<ruby>故<rt>こ</rt></ruby><ruby>障<rt>しょう</rt></ruby>するので、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "3. パソコンが | よく故障するので、| 腹が立ちます。",
+    "translation": {
+      "natural": "3. 電腦經常故障，真讓人動怒。",
+      "literal": "3. 電腦常常故障，所以生氣。"
+    },
+    "words": [
+      {
+        "word": "パソコン",
+        "reading": "ぱそこん",
+        "note": "名詞，個人電腦"
+      },
+      {
+        "word": "故障する",
+        "reading": "こしょうする",
+        "note": "動詞，故障"
+      }
+    ],
+    "context_grammar": [
+      "故障するので：助詞「ので」客觀標示強烈的因果關係（因為經常故障），後接表達主觀憤怒的「腹が立ちます」。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:42",
+    "japanese": "4. いつも工事中で、腹が立ちます。",
+    "furigana": "4. いつも<ruby>工<rt>こう</rt></ruby><ruby>事<rt>じ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "4. いつも | 工事中で、| 腹が立ちます。",
+    "translation": {
+      "natural": "4. 總是處於施工狀態，真的很讓人火大。",
+      "literal": "4. 總是施工中，生氣。"
+    },
+    "words": [
+      {
+        "word": "いつも",
+        "reading": "いつも",
+        "note": "副詞，總是、經常"
+      },
+      {
+        "word": "工事中",
+        "reading": "こうじちゅう",
+        "note": "名詞，施工中"
+      }
+    ],
+    "context_grammar": [
+      "工事中で：名詞「工事中」加上斷定助動詞「だ」的連用形「で」，表示「因為處於施工狀態」這項情境導致不滿。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:47",
+    "japanese": "5. 近所の人が深夜に洗濯するので、腹が立ちます。",
+    "furigana": "5. <ruby>近<rt>きん</rt></ruby><ruby>所<rt>じょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>深<rt>しん</rt></ruby><ruby>夜<rt>や</rt></ruby>に<ruby>洗<rt>せん</rt></ruby><ruby>濯<rt>たく</rt></ruby>するので、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "5. 近所の人が | 深夜に洗濯するので、| 腹が立ちます。",
+    "translation": {
+      "natural": "5. 鄰居半夜洗衣服，真令人火大。",
+      "literal": "5. 鄰居在深夜洗衣服，所以生氣。"
+    },
+    "words": [
+      {
+        "word": "近所",
+        "reading": "きんじょ",
+        "note": "名詞，鄰居、附近"
+      },
+      {
+        "word": "深夜",
+        "reading": "しんや",
+        "note": "名詞，深夜"
+      },
+      {
+        "word": "洗濯する",
+        "reading": "せんたくする",
+        "note": "動詞，洗衣服"
+      }
+    ],
+    "context_grammar": [
+      "深夜に：格助詞「に」標示動作發生的時間點。",
+      "洗濯するので：以「連體形+ので」明確交代惹怒自己的外部環境行為。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:53",
+    "japanese": "6. MRTの中で、大きい声で話す人に腹が立ちます。",
+    "furigana": "6. MRTの<ruby>中<rt>なか</rt></ruby>で、おっきい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>に<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "6. MRTの中で、| 大きい声で話す人に | 腹が立ちます。",
+    "translation": {
+      "natural": "6. 對於在捷運上大聲講話的人，真的很令人氣憤。",
+      "literal": "6. 在MRT裡面，對於大聲說話的人生氣。"
+    },
+    "words": [
+      {
+        "word": "MRT",
+        "reading": "えむあーるてぃー",
+        "note": "名詞，捷運、地鐵"
+      },
+      {
+        "word": "大きい声",
+        "reading": "おおきいこえ",
+        "note": "名詞片語，大聲"
+      },
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "note": "動詞，說話"
+      }
+    ],
+    "context_grammar": [
+      "話す人に：動詞辭書形「話す」連體修飾名詞「人」，形成「在大聲講話的人」長名詞組；接格助詞「に」標示憤怒對象（對……生氣）。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:59",
+    "japanese": "7. 嘘つきばかりで、腹が立ちます。",
+    "furigana": "7. <ruby>嘘<rt>うそ</rt></ruby>つきばかりで、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "7. 嘘つきばかりで、| 腹が立ちます。",
+    "translation": {
+      "natural": "7. 身邊全是說謊的人，令人動怒。",
+      "literal": "7. 盡是說謊者，生氣。"
+    },
+    "words": [
+      {
+        "word": "嘘つき",
+        "reading": "うそつき",
+        "note": "名詞，說謊者、騙子"
+      },
+      {
+        "word": "ばかり",
+        "reading": "ばかり",
+        "note": "副助詞，滿是……、盡是……"
+      }
+    ],
+    "context_grammar": [
+      "嘘つきばかりで：名詞「嘘つき」+ 副助詞「ばかり」表示全部都是這類對象；「で」為斷定接續，表示這種環境讓人很不爽。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "04:04",
+    "japanese": "8. 自分の利益だけ考える人に、腹が立ちます。",
+    "furigana": "8. <ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>利<rt>り</rt></ruby><ruby>益<rt>えき</rt></ruby>だけ<ruby>考<rt>かんが</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>に、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "8. 自分の利益だけ考える人に、| 腹が立ちます。",
+    "translation": {
+      "natural": "8. 對於只考慮自身利益的人，真讓人生氣。",
+      "literal": "8. 對於只考慮自己利益的人，生氣。"
+    },
+    "words": [
+      {
+        "word": "利益",
+        "reading": "りえき",
+        "note": "名詞，利益、好處"
+      },
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "note": "動詞，思考、考慮"
+      }
+    ],
+    "context_grammar": [
+      "考える人に：子句「自分の利益だけ考える」修飾名詞「人」，「に」則為「腹が立つ」所指向的生氣目標對象。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "04:10",
+    "japanese": "9. 他人の立場を考えない人に、腹が立ちます。",
+    "furigana": "9. <ruby>他<rt>た</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>立<rt>たち</rt></ruby><ruby>場<rt>ば</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えない<ruby>人<rt>ひと</rt></ruby>に、<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "9. 他人の立場を考えない人に、| 腹が立ちます。",
+    "translation": {
+      "natural": "9. 對於不替別人著想的人，真的很火大。",
+      "literal": "9. 對於不考慮他人立場的人，生氣。"
+    },
+    "words": [
+      {
+        "word": "他人",
+        "reading": "たにん",
+        "note": "名詞，他人、別人"
+      },
+      {
+        "word": "立場",
+        "reading": "たちば",
+        "note": "名詞，立場、處境"
+      }
+    ],
+    "context_grammar": [
+      "考えない人に：動詞「考える」否定形「考えない」做連體修飾，標示「不設身處地思考的人」。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "04:16",
+    "japanese": "10. 自分に腹が立ちます。",
+    "furigana": "10. <ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>に<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちます。",
+    "segmentation": "10. 自分に | 腹が立ちます。",
+    "translation": {
+      "natural": "10. 我對自己感到很生氣。",
+      "literal": "10. 對自己生氣。"
+    },
+    "words": [
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "note": "名詞，自己"
+      }
+    ],
+    "context_grammar": [
+      "自分に：格助詞「に」將憤怒的情緒指向自身，表達懊悔或對自身表現不滿的情形。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "04:20",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ 3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "情境演練步驟。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "04:22",
+    "japanese": "大きな声でうるさいですね。",
+    "furigana": "<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>でうるさいですね。",
+    "segmentation": "大きな声で | うるさいですね。",
+    "translation": {
+      "natural": "講話那麼大聲，真的很吵耶。",
+      "literal": "用大聲音很吵呢。"
+    },
+    "words": [
+      {
+        "word": "大きな",
+        "reading": "おおきな",
+        "note": "連體詞，大的"
+      },
+      {
+        "word": "うるさい",
+        "reading": "うるさい",
+        "note": "い形容詞，吵鬧的、煩人的"
+      }
+    ],
+    "context_grammar": [
+      "大きな声で：「連體詞 + 名詞 + で」，「で」表手段或狀態（大聲地）；後接形容詞「うるさい」抒發當下的不悅。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:25",
+    "japanese": "MRTの中で、大きい声で話す人に腹が立ちますね。",
+    "furigana": "MRTの<ruby>中<rt>なか</rt></ruby>で、おっきい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>に<ruby>腹<rt>はら</rt></ruby>が<ruby>立<rt>た</rt></ruby>ちますね。",
+    "segmentation": "MRTの中で、| 大きい声で話す人に | 腹が立ちますね。",
+    "translation": {
+      "natural": "在捷運上大聲喧嘩的人，真的會讓人很火大對吧。",
+      "literal": "在MRT裡面，對大聲說話的人生氣呢。"
+    },
+    "words": [
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "note": "動詞，說話"
+      }
+    ],
+    "context_grammar": [
+      "腹が立ちますね：句尾加上共鳴尋求助詞「ね」，同意對方的看法並再次強調該行為不可取。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:32",
+    "japanese": "15. て、ほしいです",
+    "furigana": "15. て、ほしいです",
+    "segmentation": "15. | て、| ほしいです",
+    "translation": {
+      "natural": "15. 希望（別人）做……",
+      "literal": "15. 做……想要"
+    },
+    "words": [
+      {
+        "word": "ほしい",
+        "reading": "ほしい",
+        "note": "い形容詞，想要（對方做某事）"
+      }
+    ],
+    "context_grammar": [
+      "て、ほしいです：動詞て形接續「ほしいです」，專門用於希望「他人」執行某動作或達成某種狀態的句型。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:35",
+    "japanese": "ステップ 1",
+    "furigana": "ステップ 1",
+    "segmentation": "ステップ 1",
+    "translation": {
+      "natural": "Step 1",
+      "literal": "步驟 1"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "單元步驟。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:37",
+    "japanese": "1. 両親にはずっと元気でいてほしいです。",
+    "furigana": "1. <ruby>両<rt>りょう</rt></ruby><ruby>親<rt>しん</rt></ruby>にはずっと<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>でいてほしいです。",
+    "segmentation": "1. 両親には | ずっと元気でいてほしいです。",
+    "translation": {
+      "natural": "1. 我希望父母能一直保持健康活力。",
+      "literal": "1. 對於父母，希望一直保持健康。"
+    },
+    "words": [
+      {
+        "word": "両親",
+        "reading": "りょうしん",
+        "note": "名詞，父母、雙親"
+      },
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "note": "な形容詞/名詞，健康、有精神"
+      },
+      {
+        "word": "いる",
+        "reading": "いる",
+        "note": "動詞，在、存在"
+      }
+    ],
+    "context_grammar": [
+      "両親には：助詞「には」強調希望對象為父母。",
+      "元気でいてほしいです：「元気でいる（維持健康狀態）」轉為「元気でいて」接「ほしいです」，表達對長輩健康的殷切期盼。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:43",
+    "japanese": "2. 明日はハイキングだから、晴れてほしいです。",
+    "furigana": "2. <ruby>明<rt>あした</rt></ruby>はハイキングだから、<ruby>晴<rt>は</rt></ruby>れてほしいです。",
+    "segmentation": "2. 明日は | ハイキングだから、| 晴れてほしいです。",
+    "translation": {
+      "natural": "2. 明天因為要去健行，希望天氣能放晴。",
+      "literal": "2. 明天因為是健行，希望放晴。"
+    },
+    "words": [
+      {
+        "word": "明日",
+        "reading": "あした",
+        "note": "名詞，明天"
+      },
+      {
+        "word": "晴れる",
+        "reading": "はれる",
+        "note": "動詞，放晴"
+      }
+    ],
+    "context_grammar": [
+      "ハイキングだから：名詞加「だから」表示理由（因為是健行）。",
+      "晴れてほしいです：無意志動詞「晴れる」的て形+「ほしいです」，延伸表示對自然現象放晴的許願與冀望。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:48",
+    "japanese": "3. 試験を簡単にしてほしいです。",
+    "furigana": "3. <ruby>試<rt>し</rt></ruby><ruby>験<rt>けん</rt></ruby>を<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>にしてほしいです。",
+    "segmentation": "3. 試験を | 簡単にしてほしいです。",
+    "translation": {
+      "natural": "3. 我希望出題者能把考試改簡單一點。",
+      "literal": "3. 考試，希望變簡單。"
+    },
+    "words": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "note": "名詞，考試"
+      },
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "note": "な形容詞，簡單的"
+      }
+    ],
+    "context_grammar": [
+      "簡単にしてほしいです：「な形容詞+にする（弄成……狀態）」改為連用接續「にして」，再接「ほしいです」，祈求出題方降低難度。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:53",
+    "japanese": "4. 衛生に気をつけてほしいです。",
+    "furigana": "4. <ruby>衛<rt>えい</rt></ruby><ruby>生<rt>せい</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけてほしいです。",
+    "segmentation": "4. 衛生に | 気をつけてほしいです。",
+    "translation": {
+      "natural": "4. 希望大家能多加注意衛生習慣。",
+      "literal": "4. 對於衛生，希望注意。"
+    },
+    "words": [
+      {
+        "word": "衛生",
+        "reading": "えいせい",
+        "note": "名詞，衛生"
+      },
+      {
+        "word": "気をつける",
+        "reading": "きをつける",
+        "note": "動詞片語，注意、留心"
+      }
+    ],
+    "context_grammar": [
+      "気をつけてほしいです：「気をつける」轉為「気をつけて」接「ほしいです」，常見於公共場所或店面對民眾、消費者的提示訴求。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:58",
+    "japanese": "5. 物價が安くなってほしいです。",
+    "furigana": "5. <ruby>物<rt>ぶっ</rt></ruby><ruby>価<rt>か</rt></ruby>が<ruby>安<rt>やす</rt></ruby>くなってほしいです。",
+    "segmentation": "5. 物価が | 安くなってほしいです。",
+    "translation": {
+      "natural": "5. 希望物價能夠便宜一點。",
+      "literal": "5. 物價，希望變便宜。"
+    },
+    "words": [
+      {
+        "word": "物価",
+        "reading": "ぶっか",
+        "note": "名詞，物價"
+      },
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "note": "い形容詞，便宜的"
+      }
+    ],
+    "context_grammar": [
+      "安くなってほしいです：形容詞詞尾「い」改「く」加「なる（變得……）」，再轉「なって」接「ほしいです」，對社會經濟現況表達期望。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "05:03",
+    "japanese": "6. 工事を早く終わらせてほしいです。",
+    "furigana": "6. <ruby>工<rt>こう</rt></ruby><ruby>事<rt>じ</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わらせてほしいです。",
+    "segmentation": "6. 工事を | 早く終わらせてほしいです。",
+    "translation": {
+      "natural": "6. 希望能讓工程早點結束。",
+      "literal": "6. 工事，希望早點使之結束。"
+    },
+    "words": [
+      {
+        "word": "工事",
+        "reading": "こうじ",
+        "note": "名詞，工程、施工"
+      },
+      {
+        "word": "終わる",
+        "reading": "おわる",
+        "note": "動詞，結束"
+      }
+    ],
+    "context_grammar": [
+      "終わらせてほしいです：五段動詞「終わる」改使役形「終わらせる（讓……結束）」，再轉換為て形接續「ほしいです」，要求施工單位加緊進度。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "05:08",
+    "japanese": "7. 服務を改善してほしいです。",
+    "furigana": "7. サービスを<ruby>改<rt>かい</rt></ruby><ruby>善<rt>ぜん</rt></ruby>してほしいです。",
+    "segmentation": "7. サービスを | 改善してほしいです。",
+    "translation": {
+      "natural": "7. 希望能改善服務品質。",
+      "literal": "7. 服務，希望改善。"
+    },
+    "words": [
+      {
+        "word": "サービス",
+        "reading": "さーびす",
+        "note": "名詞，服務 (Service)"
+      },
+      {
+        "word": "改善する",
+        "reading": "かいぜんする",
+        "note": "動詞，改善"
+      }
+    ],
+    "context_grammar": [
+      "改善してほしいです：「改善する」的て形結合「ほしいです」，常用於顧客意見回饋或客訴語境。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "05:13",
+    "japanese": "8. ゴミを道路に捨てないでほしいです。",
+    "furigana": "8. ゴミを<ruby>道<rt>どう</rt></ruby><ruby>路<rt>ろ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てないでほしいです。",
+    "segmentation": "8. ゴミを | 道路に捨てないでほしいです。",
+    "translation": {
+      "natural": "8. 希望大家不要把垃圾丟在馬路上。",
+      "literal": "8. 垃圾，希望不要丟在道路上。"
+    },
+    "words": [
+      {
+        "word": "ゴミ",
+        "reading": "ごみ",
+        "note": "名詞，垃圾"
+      },
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "note": "名詞，道路、馬路"
+      },
+      {
+        "word": "捨てる",
+        "reading": "すてる",
+        "note": "動詞，丟棄"
+      }
+    ],
+    "context_grammar": [
+      "捨てないでほしいです：動詞否定形「捨てない」+「で」+「ほしいです」，形成「希望對方不要做某事」的否定請求句型。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "05:19",
+    "japanese": "9. 交通ルールを守ってほしいです。",
+    "furigana": "9. <ruby>交<rt>こう</rt></ruby><ruby>通<rt>つう</rt></ruby>ルールを<ruby>守<rt>まも</rt></ruby>ってほしいです。",
+    "segmentation": "9. 交通ルールを | 守ってほしいです。",
+    "translation": {
+      "natural": "9. 希望大家能遵守交通規則。",
+      "literal": "9. 交通規則，希望遵守。"
+    },
+    "words": [
+      {
+        "word": "交通ルール",
+        "reading": "こうつうるーる",
+        "note": "名詞，交通規則"
+      },
+      {
+        "word": "守る",
+        "reading": "まもる",
+        "note": "動詞，遵守、保護"
+      }
+    ],
+    "context_grammar": [
+      "守ってほしいです：五段動詞「守る」促音便接「〜てほしいです」，為呼籲公眾遵守規範的常見說法。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "05:24",
+    "japanese": "10. 静かにしてほしいです。",
+    "furigana": "10. <ruby>静<rt>しず</rt></ruby>かにしてほしいです。",
+    "segmentation": "10. 静かにしてほしいです。",
+    "translation": {
+      "natural": "10. 希望大家能夠保持安靜。",
+      "literal": "10. 希望弄成安靜的。"
+    },
+    "words": [
+      {
+        "word": "静か",
+        "reading": "しずか",
+        "note": "な形容詞，安靜的"
+      }
+    ],
+    "context_grammar": [
+      "静かにしてほしいです：「静か（な）」詞尾改為副詞修飾「に」+「する」，轉為「静かにして」加「ほしいです」，懇求環境安靜。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "05:29",
+    "japanese": "ステップ 3",
+    "furigana": "ステップ 3",
+    "segmentation": "ステップ 3",
+    "translation": {
+      "natural": "Step 3",
+      "literal": "步驟 3"
+    },
+    "words": [
+      {
+        "word": "ステップ",
+        "reading": "すてっぷ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "最後對話應用練習。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "05:31",
+    "japanese": "あ、危ない！",
+    "furigana": "あ、<ruby>危<rt>あぶ</rt></ruby>ない！",
+    "segmentation": "あ、| 危ない！",
+    "translation": {
+      "natural": "啊，好危險！",
+      "literal": "啊，危險！"
+    },
+    "words": [
+      {
+        "word": "危ない",
+        "reading": "あぶない",
+        "note": "い形容詞，危險的"
+      }
+    ],
+    "context_grammar": [
+      "危ない：形容詞單獨使用作為突發狀況時的感嘆/警示用語。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "05:33",
+    "japanese": "運転手には交通ルールを守ってほしいですね。",
+    "furigana": "<ruby>運<rt>うん</rt></ruby><ruby>転<rt>てん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>には<ruby>交<rt>こう</rt></ruby><ruby>通<rt>つう</rt></ruby>ルールを<ruby>守<rt>まも</rt></ruby>ってほしいですね。",
+    "segmentation": "運転手には | 交通ルールを | 守ってほしいですね。",
+    "translation": {
+      "natural": "真希望駕駛們能夠好好的遵守交通規則啊。",
+      "literal": "對於司機，希望遵守交通規則呢。"
+    },
+    "words": [
+      {
+        "word": "運転手",
+        "reading": "うんてんしゅ",
+        "note": "名詞，駕駛、司機"
+      }
+    ],
+    "context_grammar": [
+      "運転手には：助詞「には」強調特定目標對象（針對駕駛人）。",
+      "守ってほしいですね：終助詞「ね」抒發目睹險境後的感慨與對話認同。"
+    ]
+  }
+]

@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "16 て良かったです。",
+    "furigana": "16 て<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "16 | て良かったです。",
+    "translation": {
+      "natural": "單元16：太好了／幸好有……。",
+      "literal": "16 做了～太好了。"
+    },
+    "words": [
+      {
+        "word": "良い",
+        "reading": "いい／よい",
+        "note": "形容詞，好、令人滿意"
+      }
+    ],
+    "context_grammar": [
+      "V-て＋良かったです：動詞連用形（Te形）接續「良かったです」，表示對過去已發生的事情或結果感到慶幸或滿意（幸好有做某事、太好了）。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:04",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟、階段"
+      }
+    ],
+    "context_grammar": [
+      "Step 1：教學單元標題用語，引導進入基礎練習階段。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:06",
+    "japanese": "1. 晴れて良かったです。",
+    "furigana": "1. <ruby>晴<rt>は</rt></ruby>れて<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "1. 晴れて | 良かったです。",
+    "translation": {
+      "natural": "放晴了真是太好了。",
+      "literal": "1. 天氣放晴太好了。"
+    },
+    "words": [
+      {
+        "word": "晴れる",
+        "reading": "はれる",
+        "note": "動詞，放晴（Te形為晴れて）"
+      },
+      {
+        "word": "良い",
+        "reading": "よい",
+        "note": "形容詞，好（過去式為良かったです）"
+      }
+    ],
+    "context_grammar": [
+      "晴れて：自動詞「晴れる」的Te形，在此作為原因理由的接續，順接後方的感情抒發「良かったです」。",
+      "常用於社交對話中，表達對好天氣或順利狀況的安心與高興。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:09",
+    "japanese": "2. 気に入ってもらえて良かったです。",
+    "furigana": "2. <ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>ってもらえて<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "2. 気に入ってもらえて | 良かったです。",
+    "translation": {
+      "natural": "您能喜歡真是太好了。",
+      "literal": "2. 能得到喜歡太好了。"
+    },
+    "words": [
+      {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "note": "慣用語，中意、喜歡"
+      },
+      {
+        "word": "もらう",
+        "reading": "もらう",
+        "note": "動詞，接受（可能形為もら方、もらえて）"
+      }
+    ],
+    "context_grammar": [
+      "気に入ってもらえて：「気に入る」＋「～てもらう（請對方做/獲得對方做）」＋可能形「もら方（能夠獲得）」，最終轉為Te形表示「能夠獲得您喜歡」。",
+      "這是送禮或提供服務後極其精緻且道地的客氣用語，表達「看到對方滿意自己也鬆了一口氣」。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:13",
+    "japanese": "3. お口に合って良かったです。",
+    "furigana": "3. お<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>って<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "3. お口に合って | 良かったです。",
+    "translation": {
+      "natural": "合您的口味真是太好了。",
+      "literal": "3. 合於您的口太好了。"
+    },
+    "words": [
+      {
+        "word": "口に合う",
+        "reading": "くちにあう",
+        "note": "慣用語，合口味（加上美化語「お」）"
+      }
+    ],
+    "context_grammar": [
+      "お口に合って：美化語前綴「お」加上慣用語「口に合う（合口味）」的Te形接續。",
+      "餐飲招待、招待客人用餐時，聽到對方誇讚料理美味後的經典客套回答語句。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:17",
+    "japanese": "4. 財布が見つかって良かったです。",
+    "furigana": "4. <ruby>差<rt>さ</rt></ruby><ruby>い<rt>い</rt></ruby><ruby>ふ<rt>ふ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかって<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "4. 財布が | 見つかって | 良かったです。",
+    "translation": {
+      "natural": "皮夾找回來了真是太好了。",
+      "literal": "4. 錢包被找到太好了。"
+    },
+    "words": [
+      {
+        "word": "財布",
+        "reading": "さいふ",
+        "note": "名詞，錢包、皮夾"
+      },
+      {
+        "word": "見つかる",
+        "reading": "みつかる",
+        "note": "動詞，被發現、找著（Te形為見つかって）"
+      }
+    ],
+    "context_grammar": [
+      "財布が：格助詞「が」標示自動詞「見つかる」的主語。",
+      "見つかって：自動詞「見つかる（被找到）」的Te形，表達對某個事件順利落幕的安心感。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:21",
+    "japanese": "5. 仕事が見つかって良かったです。",
+    "furigana": "5. <ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかって<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "5. 仕事が | 見つかって | 良かったです。",
+    "translation": {
+      "natural": "找到工作真是太好了。",
+      "literal": "5. 工作被找到太好了。"
+    },
+    "words": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "note": "名詞，工作、職業"
+      },
+      {
+        "word": "見つかる",
+        "reading": "みつかる",
+        "note": "動詞，找到、發現"
+      }
+    ],
+    "context_grammar": [
+      "仕事が見つかって：「仕事（工作）」加上自動詞「見つかる」，表示「工作有著落了」，後接「良かったです」向對方表達祝賀與慰問。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:25",
+    "japanese": "6. 恋人ができて良かったです。",
+    "furigana": "6. <ruby>恋<rt>こい</rt></ruby><ruby>人<rt>びと</rt></ruby>ができて<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "6. 恋人が | できて | 良かったです。",
+    "translation": {
+      "natural": "交到交心對象（情人）真是太好了。",
+      "literal": "6. 戀人交成了太好了。"
+    },
+    "words": [
+      {
+        "word": "恋人",
+        "reading": "こいびと",
+        "note": "名詞，情人、戀人"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，形成、交到（Te形為できて）"
+      }
+    ],
+    "context_grammar": [
+      "できて：動詞「できる」有「產生、交到（朋友、戀人）」之意。使用Te形引出後方表達喜悅的句型。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:29",
+    "japanese": "7. いい友達ができて良かったです。",
+    "furigana": "7. いい<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>ができて<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "7. いい友達が | できて | 良かったです。",
+    "translation": {
+      "natural": "能結交到好朋友真是太好了。",
+      "literal": "7. 好朋友交到了太好了。"
+    },
+    "words": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "note": "名詞，朋友"
+      },
+      {
+        "word": "できる",
+        "reading": "できる",
+        "note": "動詞，結交、產生"
+      }
+    ],
+    "context_grammar": [
+      "いい友達が：「いい（好）」連體修飾名詞「友達」，格助詞「が」引出對象，表示「交到好朋友」這一正面結果。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:33",
+    "japanese": "8. うまくいって良かったです。",
+    "furigana": "8. うまくいって<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "8. うまくいって | 良かったです。",
+    "translation": {
+      "natural": "事情進展順利真是太好了。",
+      "literal": "8. 順利進行了太好了。"
+    },
+    "words": [
+      {
+        "word": "うまくいく",
+        "reading": "うまくいく",
+        "note": "慣用語，進展順利（Te形為うまくいって）"
+      }
+    ],
+    "context_grammar": [
+      "うまくいって：副詞「うまく（順利地）」結合動詞「いく（進行）」，Te形連接「良かったです」，是商業或日常中安慰、恭喜對方任務成功的經典萬用句。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:37",
+    "japanese": "9. 仲直りできて良かったです。",
+    "furigana": "9. <ruby>仲<rt>なか</rt></ruby><ruby>直<rt>なお</rt></ruby>りできて<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "9. 仲直りできて | 良かったです。",
+    "translation": {
+      "natural": "能和好真是太好了。",
+      "literal": "9. 能和好太好了。"
+    },
+    "words": [
+      {
+        "word": "仲直り",
+        "reading": "なかなおり",
+        "note": "名詞/サ變動詞，和好、改觀關係"
+      },
+      {
+        "word": "する",
+        "reading": "する",
+        "note": "動詞，做（可能形為できる，Te形為できて）"
+      }
+    ],
+    "context_grammar": [
+      "仲直りできて：「仲直りする」轉可能形「仲直りできる」，再接Te形，表示「成功實現了和好」這項條件。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:41",
+    "japanese": "10. あなたと出会えて良かったです。",
+    "furigana": "10. あなたと<ruby>出<rt>で</rt></ruby><ruby>合<rt>あ</rt></ruby>えて<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "10. あなたと | 出会えて | 良かったです。",
+    "translation": {
+      "natural": "能遇見你真是太好了。",
+      "literal": "10. 能和你相遇太好了。"
+    },
+    "words": [
+      {
+        "word": "出会う",
+        "reading": "であう",
+        "note": "動詞，相遇、遇見（可能形為出会える，Te形為出会えて）"
+      }
+    ],
+    "context_grammar": [
+      "あなたと：格助詞「と」表示互動共同動作的對象（與你）。",
+      "出会えて：動詞「出会う」的下一段可能形「出会える」之Te形，極具感情色彩，常見於感言、歌詞或影視作品對白中。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "00:45",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 3：實戰對話應用階段。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "00:47",
+    "japanese": "美味しいですね。お口に合って良かったです。",
+    "furigana": "<ruby>美<rt>おい</rt></ruby>しいですね。お<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>って<ruby>良<rt>よ</rt></ruby>かったです。",
+    "segmentation": "美味しいですね。| お口に合って | 良かったです。",
+    "translation": {
+      "natural": "很好吃呢！——能合您的口味真是太好了。",
+      "literal": "很好吃呢。合於口太好了。"
+    },
+    "words": [
+      {
+        "word": "美味しい",
+        "reading": "おいしい",
+        "note": "形容詞，美味的"
+      },
+      {
+        "word": "口に合う",
+        "reading": "くちにあう",
+        "note": "慣用語，合口味"
+      }
+    ],
+    "context_grammar": [
+      "ね：終助詞，用於表達感嘆並尋求對方共鳴。",
+      "本句為雙人交談組合：客人的讚美＋主人的禮貌應對。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "00:53",
+    "japanese": "17 て雰囲気がいいです。",
+    "furigana": "17 て<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "17 | て雰囲気がいいis。",
+    "translation": {
+      "natural": "單元17：……而且氣氛很好。",
+      "literal": "17 並且氣氛很好。"
+    },
+    "words": [
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛、氛圍"
+      },
+      {
+        "word": "いい",
+        "reading": "いい",
+        "note": "形容詞，好的"
+      }
+    ],
+    "context_grammar": [
+      "～て雰囲気がいいです：利用動詞/形容詞的Te形並列優點，最後以「雰囲気がいいです（氣氛很好）」作為綜合評價。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "00:57",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 1：單句替換練習開始。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "00:59",
+    "japanese": "1. このクラスは仲が良くて雰囲気がいいです。",
+    "furigana": "1. このクラスは<ruby>仲<rt>なか</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "1. このクラスは | 仲が良くて | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這個班級大家感情很好，氣氛也棒。",
+      "literal": "1. 這個班級關係好且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "クラス",
+        "reading": "くらす",
+        "note": "名詞，班級（Class）"
+      },
+      {
+        "word": "仲が良い",
+        "reading": "なかがいい",
+        "note": "慣用語，感情好（Te形為仲が良くて）"
+      }
+    ],
+    "context_grammar": [
+      "このクラスは：主題標示助詞「は」明確指出討論主體。",
+      "仲が良くて：形容詞「良い」的Te形「良くて」，用以中斷句尾並連接多個正面特質（感情好＋氣氛佳）。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:04",
+    "japanese": "2. ここは明るくて雰囲気がいいです。",
+    "furigana": "2. ここは<ruby>明<rt>あか</rt></ruby>るくて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "2. ここは | 明るくて | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡採光明亮，氣氛又好。",
+      "literal": "2. 這裡明亮且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "ここ",
+        "reading": "ここ",
+        "note": "指示代名詞，這裡"
+      },
+      {
+        "word": "明るい",
+        "reading": "あかるい",
+        "note": "形容詞，明亮的（Te形為明るくて）"
+      }
+    ],
+    "context_grammar": [
+      "明るくて：i-形容詞詞尾「い」變更為「くて」，達成句中停頓與並列描述的功能。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:08",
+    "japanese": "3. ここは景色も良くて雰囲気がいいです。",
+    "furigana": "3. ここは<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>も<ruby>良<rt>よ</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "3. ここは | 景色も良くて | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡不僅風景漂亮，氣氛也很好。",
+      "literal": "3. 這裡景色也好且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "景色",
+        "reading": "けいしき",
+        "note": "名詞，景色、風景"
+      },
+      {
+        "word": "も",
+        "reading": "も",
+        "note": "助詞，也"
+      }
+    ],
+    "context_grammar": [
+      "景色も：用「も」取代「が」，遞進強調「連景色這個優勢也包含在內」。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:13",
+    "japanese": "4. このカフェはサービスも良くて雰囲気がいいです。",
+    "furigana": "4. このカフェはサービスも<ruby>良<rt>よ</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "4. このカフェは | サービスも良くて | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這家咖啡廳服務周到，氣氛也很棒。",
+      "literal": "4. 這家咖啡廳服務也好且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "カフェ",
+        "reading": "かふぇ",
+        "note": "名詞，咖啡廳"
+      },
+      {
+        "word": "サービス",
+        "reading": "さーびす",
+        "note": "名詞，服務（Service）"
+      }
+    ],
+    "context_grammar": [
+      "サービスも良くて：將商業場所（カフェ）的軟體服務與硬體氣氛相提並論的商業評價表現。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:18",
+    "japanese": "5. ここは静かで雰囲気がいいです。",
+    "furigana": "5. ここは<ruby>静<rt>しず</rt></ruby>かで<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "5. ここは | 静かで | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡環境安靜，氣氛非常好。",
+      "literal": "5. 這裡安靜且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "静か",
+        "reading": "しずか",
+        "note": "na-形容詞，安靜的（中繼形為静かで）"
+      }
+    ],
+    "context_grammar": [
+      "静かで：na-形容詞（形容動詞）語尾加上「で」，作為連用形中繼，連接後續句語。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:22",
+    "japanese": "6. ここはセンスも良くて雰囲気がいいです。",
+    "furigana": "6. ここはセンスも<ruby>良<rt>よ</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "6. ここは | センスも良くて | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡很有品味，氣氛也極佳。",
+      "literal": "6. 這裡品味也好且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "センス",
+        "reading": "せんす",
+        "note": "名詞，品味、美感（Sense）"
+      }
+    ],
+    "context_grammar": [
+      "センスも良くて：常用於稱讚店家的裝潢裝飾、音樂挑選或總體美感。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:27",
+    "japanese": "7. ここは人も親切で雰囲気がいいです。",
+    "furigana": "7. ここは<ruby>人<rt>ひと</rt></ruby>も<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>で<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "7. ここは | 人も親切で | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡的人都很親切，氣氛也很融洽。",
+      "literal": "7. 這裡人也親切且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "note": "名詞，人、人們"
+      },
+      {
+        "word": "親切",
+        "reading": "しんせつ",
+        "note": "na-形容詞，親切的、體貼的"
+      }
+    ],
+    "context_grammar": [
+      "親切で：na-形容詞「親切」的中繼形（加上「で」），用來累積正面的評價因素。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:31",
+    "japanese": "8. この学校は学生も積極的で雰囲気がいいです。",
+    "furigana": "8. この<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>は<ruby>学<rt>がく</rt></ruby><ruby>生<rt>せい</rt></ruby>も<ruby>積<rt>せっ</rt></ruby><ruby>極<rt>きょく</rt></ruby><ruby>的<rt>てき</rt></ruby>で<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "8. この学校は | 学生も積極的で | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這間學校連學生都很積極主動，校風氣氛很好。",
+      "literal": "8. 這學校學生也積極且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "note": "名詞，學校"
+      },
+      {
+        "word": "積極的",
+        "reading": "せっきょくてき",
+        "note": "na-形容詞，積極的"
+      }
+    ],
+    "context_grammar": [
+      "～的で：接尾語「的」構成na-形容詞，活用連用形「で」作接續。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:37",
+    "japanese": "9. ここは清潔で雰囲気がいいです。",
+    "furigana": "9. ここは<ruby>清<rt>せい</rt></ruby><ruby>潔<rt>けつ</rt></ruby>で<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "9. ここは | 清潔で | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡整潔乾淨，氣氛非常舒適。",
+      "literal": "9. 這裡清潔且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "清潔",
+        "reading": "せいけつ",
+        "note": "na-形容詞，乾淨的、整潔的"
+      }
+    ],
+    "context_grammar": [
+      "清潔で：以「清潔（乾淨）」作為優點描述的中續連用。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:41",
+    "japanese": "10. ここは手入れが行き届いていて雰囲気がいいです。",
+    "furigana": "10. ここは<ruby>手<rt>て</rt></ruby><ruby>入<rt>い</rt></ruby>れが行き届いていて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>がいいです。",
+    "segmentation": "10. ここは | 手入れが行き届いていて | 雰囲気がいいです。",
+    "translation": {
+      "natural": "這裡維護保養得面面俱到，氣氛非常好。",
+      "literal": "10. 這裡照顧十分周到且氣氛好。"
+    },
+    "words": [
+      {
+        "word": "手入れ",
+        "reading": "ていれ",
+        "note": "名詞，維護、保養、打理"
+      },
+      {
+        "word": "行き届く",
+        "reading": "いきとどく",
+        "note": "動詞，周到、細緻（Te形進一步疊加為行き届いている）"
+      }
+    ],
+    "context_grammar": [
+      "行き届いていて：「行き届く（動詞Te形）」＋「いる（持續狀態）」再轉Te形「いて」，用來高度讚揚環境或事業維護經營得極其細心。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:47",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 3：應用對話練習。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "01:49",
+    "japanese": "このレストラン素敵ですね。ここは景色も良くて雰囲気もいいですね。",
+    "furigana": "このレストラン<ruby>素<rt>す</rt></ruby><ruby>敵<rt>てき</rt></ruby>ですね。ここは<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>も<ruby>良<rt>よ</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>もいいですね。",
+    "segmentation": "このレストラン | 素敵ですね。| ここは景色も良くて | 雰囲気もいいですね。",
+    "translation": {
+      "natural": "這間餐廳好棒喔！——這裡不僅景色好，氣氛也很優雅呢。",
+      "literal": "這餐廳真棒呢。這裡景色也好且氣氛也好呢。"
+    },
+    "words": [
+      {
+        "word": "レストラン",
+        "reading": "れすとらん",
+        "note": "名詞，餐廳"
+      },
+      {
+        "word": "素敵",
+        "reading": "すてき",
+        "note": "na-形容詞，棒的、絕妙的"
+      }
+    ],
+    "context_grammar": [
+      "～も～も：重複使用助詞「も」，呈現雙重遞進（既有A優點，又有B優點）。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "01:58",
+    "japanese": "18 の雰囲気が悪いことです。",
+    "furigana": "18 の<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いことです。",
+    "segmentation": "18 | の雰囲気が悪いことです。",
+    "translation": {
+      "natural": "單元18：……的氣氛很糟這件事。",
+      "literal": "18 的氣氛不好這件事。"
+    },
+    "words": [
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛"
+      },
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "note": "形容詞，壞的、差的"
+      }
+    ],
+    "context_grammar": [
+      "～ことです：用形式名詞「こと」將整個子句名詞化，後接斷定助動詞「です」。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:02",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 1：句型練習單元標題。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:04",
+    "japanese": "1. このクラスは仲が悪くて雰囲気が悪いです。",
+    "furigana": "1. このクラスは<ruby>仲<rt>なか</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "1. このクラスは | 仲が悪くて | 雰囲気が悪いです。",
+    "translation": {
+      "natural": "這個班級感情不合，氣氛也很差。",
+      "literal": "1. 這個班級關係壞且氣氛壞。"
+    },
+    "words": [
+      {
+        "word": "仲が悪い",
+        "reading": "なかがわるい",
+        "note": "慣用語，感情不好（Te形為仲が悪くて）"
+      }
+    ],
+    "context_grammar": [
+      "仲が悪くて：i-形容詞「悪い」活用為連用形「悪くて」，並列兩個負面特質。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:09",
+    "japanese": "2. ここは暗くて雰囲気も悪いです。",
+    "furigana": "2. ここは<ruby>暗<rt>くら</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "2. ここは | 暗くて | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡昏暗昏暗的，氣氛也很糟。",
+      "literal": "2. 這裡昏暗且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "note": "形容詞，陰暗的、昏暗的"
+      }
+    ],
+    "context_grammar": [
+      "暗くて：形容詞Te形，代表昏暗是導致氣氛差的複合因素之一。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:13",
+    "japanese": "3. ここは景色が悪くて雰囲気も悪いです。",
+    "furigana": "3. ここは<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "3. ここは | 景色が悪くて | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡展望視野不好，氣氛也跟著不好。",
+      "literal": "3. 這裡景色壞且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "景色",
+        "reading": "けいしき",
+        "note": "名詞，景色"
+      }
+    ],
+    "context_grammar": [
+      "景色が悪くて：主語助詞「が」搭配形容詞連用形「悪くて」。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:18",
+    "japanese": "4. このカフェはサービスが悪くて雰囲気も悪いです。",
+    "furigana": "4. このカフェはサービスが<ruby>悪<rt>わる</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "4. このカフェは | サービスが悪くて | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這家咖啡廳服務態度差，氣氛也很糟。",
+      "literal": "4. 這咖啡廳服務壞且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "サービス",
+        "reading": "さーびす",
+        "note": "名詞，服務"
+      }
+    ],
+    "context_grammar": [
+      "サービスが悪くて：將服務差與整體氣氛差進行連動負評。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:23",
+    "japanese": "5. ここはうるさくて雰囲気も悪いです。",
+    "furigana": "5. ここはうるさくて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "5. ここは | うるさくて | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡吵鬧嘈雜，氣氛也很差。",
+      "literal": "5. 這裡吵鬧且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "うるさい",
+        "reading": "うるさい",
+        "note": "形容詞，吵鬧的（Te形為うるさくて）"
+      }
+    ],
+    "context_grammar": [
+      "うるさくて：i-形容詞「うるさい」的連用中繼形。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:27",
+    "japanese": "6. ここはセンスが悪くて雰囲気も悪いです。",
+    "furigana": "6. ここはセンスが<ruby>悪<rt>わる</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "6. ここは | センスが悪くて | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡品味很差，氣氛也不討喜。",
+      "literal": "6. 這裡品味壞且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "センス",
+        "reading": "せんす",
+        "note": "名詞，品味、美感"
+      }
+    ],
+    "context_grammar": [
+      "センスが悪くて：常用於批評空間陳設或審美欠佳。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:32",
+    "japanese": "7. ここは人が不親切で雰囲気も悪いです。",
+    "furigana": "7. ここは<ruby>人<rt>ひと</rt></ruby>が<ruby>不<rt>ふ</rt></ruby><ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>で<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "7. ここは | 人が不親切で | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡的人冷淡不親切，氣氛也很糟糕。",
+      "literal": "7. 這裡人不親切且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "不親切",
+        "reading": "ふしんせつ",
+        "note": "na-形容詞，不親切的、冷漠的"
+      }
+    ],
+    "context_grammar": [
+      "不親切で：前綴「不-」構成反義詞，句末接「で」作中繼。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:37",
+    "japanese": "8. この学校は学生が消極的で雰囲気が悪いです。",
+    "furigana": "8. この<ruby>学<rt>がっ</rt></ruby><ruby>校<rt>こう</rt></ruby>は<ruby>学<rt>がく</rt></ruby><ruby>生<rt>せい</rt></ruby>が<ruby>消<rt>しょう</rt></ruby><ruby>極<rt>きょく</rt></ruby><ruby>的<rt>てき</rt></ruby>で<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "8. この学校は | 学生が消極的で | 雰囲気が悪いです。",
+    "translation": {
+      "natural": "這間學校學生態度消極被動，風氣不佳。",
+      "literal": "8. 這學校學生消極且氣氛壞。"
+    },
+    "words": [
+      {
+        "word": "消極的",
+        "reading": "しょうきょくてき",
+        "note": "na-形容詞，被動的、消極的"
+      }
+    ],
+    "context_grammar": [
+      "消極的で：na-形容詞活用中繼形，形容學習或組織氛圍不活絡。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:42",
+    "japanese": "9. ここは不潔で雰囲気も悪いです。",
+    "furigana": "9. ここは<ruby>不<rt>ふ</rt></ruby><ruby>潔<rt>けつ</rt></ruby>で<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "9. ここは | 不潔で | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡環境不衛生，氣氛也很糟糕。",
+      "literal": "9. 這裡不潔且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "不潔",
+        "reading": "ふけつ",
+        "note": "na-形容詞，不乾淨的、不衛生的"
+      }
+    ],
+    "context_grammar": [
+      "不潔で：na-形容詞「不潔」加上中繼語尾「で」。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:46",
+    "japanese": "10. ここは手入れが行き届いていなくて雰囲気も悪いです。",
+    "furigana": "10. ここは<ruby>手<rt>て</rt></ruby><ruby>入<rt>い</rt></ruby>れが行き届いていなくて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いです。",
+    "segmentation": "10. ここは | 手入れが行き届いていなくて | 雰囲気も悪いです。",
+    "translation": {
+      "natural": "這裡缺乏打理維護，氣氛也很糟。",
+      "literal": "10. 這裡照顧不周到且氣氛也壞。"
+    },
+    "words": [
+      {
+        "word": "手入れ",
+        "reading": "ていれ",
+        "note": "名詞，維護、照顧"
+      },
+      {
+        "word": "行き届く",
+        "reading": "いきとどく",
+        "note": "動詞，周到（否定連用為行き届いていなくて）"
+      }
+    ],
+    "context_grammar": [
+      "行き届いていなくて：「行き届く」的否定持續態「行き届いていない」轉為Te形（なくて），表示「未被好好保養」的狀況。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:53",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 3：實境對話應用。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:54",
+    "japanese": "私のコーヒー30分待っているのに来ませんよ。このカフェはサービスが悪くて雰囲気も悪いですね。",
+    "furigana": "<ruby>私<rt>わたし</rt></ruby>のコーヒー30<ruby>分<rt>ふん</rt></ruby><ruby>待<rt>ま</rt></ruby>っているのに<ruby>来<rt>き</rt></ruby>ませんよ。このカフェはサービスが<ruby>悪<rt>わる</rt></ruby>くて<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>も<ruby>悪<rt>わる</rt></ruby>いですね。",
+    "segmentation": "私のコーヒー | 30分待っているのに | 来ませんよ。| このカフェは | サービスが悪くて | 雰囲気も悪いですね。",
+    "translation": {
+      "natural": "我的咖啡明明都等了30分鐘卻還沒送來！這家咖啡廳服務不好，氣氛也很差呢。",
+      "literal": "我的咖啡等了30分明明卻不來喔。這咖啡廳服務壞且氣氛也壞呢。"
+    },
+    "words": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "note": "動詞，等待（持續態為待っている）"
+      },
+      {
+        "word": "のに",
+        "reading": "のに",
+        "note": "助詞，明明……卻……（表示轉折與抱怨）"
+      },
+      {
+        "word": "来る",
+        "reading": "くる",
+        "note": "動詞，來（禮貌否定為来ません）"
+      }
+    ],
+    "context_grammar": [
+      "待っているのに：逆接確定條件助詞「のに」，強烈帶有說話者不滿、怨言的語氣情緒。",
+      "來ませんよ：終助詞「よ」用於向對方強調告知事實並傳達憤怒情緒。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "03:04",
+    "japanese": "19 が薄いです。",
+    "furigana": "19 が<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "19 | が薄いです。",
+    "translation": {
+      "natural": "單元19：……很淡／很薄。",
+      "literal": "19 是薄/淡的。"
+    },
+    "words": [
+      {
+        "word": "薄い",
+        "reading": "うすい",
+        "note": "形容詞，薄的、（味道）淡的、（色彩）淺的"
+      }
+    ],
+    "context_grammar": [
+      "～が薄いです：主語助詞「が」搭配形容詞「薄い」，可用於味道（清淡）、物理厚度（薄）或濃度（稀薄）。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "03:07",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 1：句型練習單元標題。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "03:09",
+    "japanese": "1. このスープの味が薄いです。",
+    "furigana": "1. このスープの<ruby>味<rt>あじ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "1. このスープの味が | 薄いです。",
+    "translation": {
+      "natural": "這碗湯的味道有點淡。",
+      "literal": "1. 這湯的味道淡。"
+    },
+    "words": [
+      {
+        "word": "スープ",
+        "reading": "すーぷ",
+        "note": "名詞，湯（Soup）"
+      },
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道"
+      }
+    ],
+    "context_grammar": [
+      "色が薄い／味が薄い：「薄い」在餐飲語境中專門形容味道不夠濃郁、過淡。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:12",
+    "japanese": "2. アメリカンコーヒーは味が薄いです。",
+    "furigana": "2. アメリカンコーヒーは<ruby>味<rt>あじ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "2. アメリカンコーヒーは | 味が薄いです。",
+    "translation": {
+      "natural": "美式咖啡的味道比較清淡。",
+      "literal": "2. 美式咖啡味道淡。"
+    },
+    "words": [
+      {
+        "word": "アメリカンコーヒー",
+        "reading": "あめりかんこーひー",
+        "note": "名詞，美式淡咖啡"
+      }
+    ],
+    "context_grammar": [
+      "アメリカンコーヒーは：主題助詞「は」定義描述對象，後接說明句「味が薄いです」。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:16",
+    "japanese": "3. 夏の洋服は生地が薄いです。",
+    "furigana": "3. <ruby>夏<rt>なつ</rt></ruby>の<ruby>洋<rt>よう</rt></ruby><ruby>服<rt>ふく</rt></ruby>は<ruby>生<rt>き</rt></ruby><ruby>地<rt>じ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "3. 夏の洋服は | 生地が薄いです。",
+    "translation": {
+      "natural": "夏季的西式衣服布料比較薄透。",
+      "literal": "3. 夏天的洋服布料薄。"
+    },
+    "words": [
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "note": "名詞，西服、衣服"
+      },
+      {
+        "word": "生地",
+        "reading": "きじ",
+        "note": "名詞，布料、面料"
+      }
+    ],
+    "context_grammar": [
+      "生地が薄い：此處「薄い」指實體物體的厚度薄。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:20",
+    "japanese": "4. このケーキの厚さが薄いです。",
+    "furigana": "4. このケーキの<ruby>厚<rt>あつ</rt></ruby>さが<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "4. このケーキの厚さが | 薄いです。",
+    "translation": {
+      "natural": "這塊蛋糕切得很薄（厚度很薄）。",
+      "literal": "4. 這蛋糕的厚度薄。"
+    },
+    "words": [
+      {
+        "word": "ケーキ",
+        "reading": "けーき",
+        "note": "名詞，蛋糕"
+      },
+      {
+        "word": "厚さ",
+        "reading": "あつさ",
+        "note": "名詞，厚度（形容詞「厚い」的名詞化）"
+      }
+    ],
+    "context_grammar": [
+      "厚さ：形容詞字尾「い」轉為「さ」，將性質轉換為抽象或具體可測量的名詞（厚度）。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:23",
+    "japanese": "5. この部屋の壁が薄いです。",
+    "furigana": "5. この<ruby>房<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "5. この部屋の壁が | 薄いです。",
+    "translation": {
+      "natural": "這間房間的牆壁隔音很薄（牆壁很薄）。",
+      "literal": "5. 這房間的牆壁薄。"
+    },
+    "words": [
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "note": "名詞，房間"
+      },
+      {
+        "word": "壁",
+        "reading": "かべ",
+        "note": "名詞，牆壁"
+      }
+    ],
+    "context_grammar": [
+      "壁が薄い：日文中常用「壁が薄い」來暗指房間隔音不好、容易聽見隔壁聲音。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:27",
+    "japanese": "6. この論文は薄いですからすぐ読み終わりました。",
+    "furigana": "6. この<ruby>論<rt>ろん</rt></ruby><ruby>文<rt>ぶん</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>いですから<ruby>す<rt></rt></ruby>ぐ<ruby>読<rt>よ</rt></ruby>み<ruby>終<rt>お</rt></ruby>わりました。",
+    "segmentation": "6. この論文は薄いですから | すぐ読み終わりました。",
+    "translation": {
+      "natural": "因為這篇論文篇幅很薄，所以我很快就讀完了。",
+      "literal": "6. 這論文因為薄，立刻讀完了。"
+    },
+    "words": [
+      {
+        "word": "論文",
+        "reading": "ろんぶん",
+        "note": "名詞，論文"
+      },
+      {
+        "word": "読み終わる",
+        "reading": "よみおわる",
+        "note": "複合動詞，讀完（過去式為読み終わりました）"
+      }
+    ],
+    "context_grammar": [
+      "～ですから：接續助詞「から」表原因理由（因為……）。",
+      "読み終わる：動詞連用形「読み」＋補助動詞「終わる」，表示「完成該動作」。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:32",
+    "japanese": "7. 京都の料理は味が薄そうです。",
+    "furigana": "7. <ruby>京<rt>きょう</rt></ruby><ruby>都<rt>と</rt></ruby>の<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>は<ruby>味<rt>あじ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>そうです。",
+    "segmentation": "7. 京都の料理は | 味が薄そうです。",
+    "translation": {
+      "natural": "京都的料理看起來味道好像蠻清淡的。",
+      "literal": "7. 京都的料理味道看起來淡。"
+    },
+    "words": [
+      {
+        "word": "京都",
+        "reading": "きょうと",
+        "note": "專有名詞，京都"
+      },
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，料理、菜餚"
+      }
+    ],
+    "context_grammar": [
+      "薄そうです：形容詞「薄い」去詞尾「い」加上樣態助動詞「そう（看起來樣）」，表達說話者觀察外觀後的推測判斷。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:36",
+    "japanese": "8. 最近の携帯は厚さが薄いです。",
+    "furigana": "8. <ruby>最<rt>さい</rt></ruby><ruby>近<rt>きん</rt></ruby>の<ruby>携<rt>けい</rt></ruby><ruby>帯<rt>たい</rt></ruby>は<ruby>厚<rt>あつ</rt></ruby>さが<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "8. 最近の携帯は | 厚さが薄いです。",
+    "translation": {
+      "natural": "最近的手機機身厚度都很薄。",
+      "literal": "8. 最近的手機厚度薄。"
+    },
+    "words": [
+      {
+        "word": "最近",
+        "reading": "さいきん",
+        "note": "名詞，最近"
+      },
+      {
+        "word": "携帯",
+        "reading": "けいたい",
+        "note": "名詞，手機（携帯電話的簡稱）"
+      }
+    ],
+    "context_grammar": [
+      "厚さが薄い：結合機身尺寸規格的常用講法。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:40",
+    "japanese": "9. 彼女はメイクが薄いです。",
+    "furigana": "9. <ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>はメイクが<ruby>薄<rt>うす</rt></ruby>いです。",
+    "segmentation": "9. 彼女は | メイクが薄いです。",
+    "translation": {
+      "natural": "她的妝容很淡（化淡妝）。",
+      "literal": "9. 她妝容淡。"
+    },
+    "words": [
+      {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "note": "代名詞，她"
+      },
+      {
+        "word": "メイク",
+        "reading": "めいく",
+        "note": "名詞，妝容、化妝（Make-up）"
+      }
+    ],
+    "context_grammar": [
+      "メイクが薄い：日文中形容「淡妝」的道地用語（反義詞為メイクが濃い）。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:43",
+    "japanese": "10. このコピーが薄くて読めません。",
+    "furigana": "10. このコピーが<ruby>薄<rt>うす</rt></ruby>くて<ruby>読<rt>よ</rt></ruby>めません。",
+    "segmentation": "10. このコピーが | 薄くて | 読めません。",
+    "translation": {
+      "natural": "這份影印本墨色太淡了，看不清楚。",
+      "literal": "10. 這影本淡且無法閱讀。"
+    },
+    "words": [
+      {
+        "word": "コピー",
+        "reading": "こぴー",
+        "note": "名詞，影印本、複印（Copy）"
+      },
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "note": "動詞，閱讀（可能否定形為読めません）"
+      }
+    ],
+    "context_grammar": [
+      "薄くて：形容詞「薄い」活用連用形，引出「因為字跡太淡」的原因此節。",
+      "読めません：五段動詞「読む」可能形「読める」的禮貌否定形（無法閱讀）。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:47",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 3：實境對話練習。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:49",
+    "japanese": "このスープの味が薄いですね。胡椒でも入れましょう。",
+    "furigana": "このスープの<ruby>味<rt>あじ</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>いですね。<ruby>胡<rt>こ</rt></ruby><ruby>椒<rt>しょう</rt></ruby>でも<ruby>入<rt>い</rt></ruby>れましょう。",
+    "segmentation": "このスープの味が | 薄いですね。| 胡椒でも | 入れましょう。",
+    "translation": {
+      "natural": "這湯味道有點淡呢。加點胡椒之類的吧！",
+      "literal": "這湯的味道淡呢。胡椒之類的加吧。"
+    },
+    "words": [
+      {
+        "word": "胡椒",
+        "reading": "こしょう",
+        "note": "名詞，胡椒"
+      },
+      {
+        "word": "入れる",
+        "reading": "いれる",
+        "note": "動詞，放入、加進（提議形式為入れましょう）"
+      }
+    ],
+    "context_grammar": [
+      "胡椒でも：副助詞「でも」表示「舉例（……之類的）」，放寬選項不強求非胡椒不可。",
+      "入れましょう：動詞連用形＋「ましょう」，表示主動提議或邀請共同動作。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:55",
+    "japanese": "20 が嫌いです。",
+    "furigana": "20 が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "20 | が嫌いです。",
+    "translation": {
+      "natural": "單元20：討厭／不喜歡……。",
+      "literal": "20 討厭。"
+    },
+    "words": [
+      {
+        "word": "嫌い",
+        "reading": "きらい",
+        "note": "na-形容詞，討厭的、不喜歡的"
+      }
+    ],
+    "context_grammar": [
+      "～が嫌いです：情緒情感或好惡的對象，必須使用格助詞「が」來標示。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:58",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟一",
+      "literal": "步驟1"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 1：句型替換練習開始。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "04:00",
+    "japanese": "1. この色は嫌いです。",
+    "furigana": "1. この<ruby>色<rt>いろ</rt></ruby>は<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "1. この色は | 嫌いです。",
+    "translation": {
+      "natural": "我不喜歡這個顏色。",
+      "literal": "1. 這個顏色討厭。"
+    },
+    "words": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      },
+      {
+        "word": "嫌い",
+        "reading": "きらい",
+        "note": "na-形容詞，討厭的"
+      }
+    ],
+    "context_grammar": [
+      "この色は：用主題助詞「は」取代「が」，帶有「相較於其他，『這個顏色』我不喜歡」的對比或強調色彩。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:03",
+    "japanese": "2. このデザインは嫌いです。",
+    "furigana": "2. このデザインは<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "2. このデザインは | 嫌いです。",
+    "translation": {
+      "natural": "我不喜歡這個設計款式。",
+      "literal": "2. 這個設計討厭。"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計、款式（Design）"
+      }
+    ],
+    "context_grammar": [
+      "デザインは嫌いです：表現對商品外觀造型的主觀偏好（不滿意）。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:06",
+    "japanese": "3. この匂いは嫌いです。",
+    "furigana": "3. この<ruby>匂<rt>にお</rt></ruby>いは<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "3. この匂いは | 嫌いです。",
+    "translation": {
+      "natural": "我不喜歡這個氣味。",
+      "literal": "3. 這個氣味討厭。"
+    },
+    "words": [
+      {
+        "word": "匂い",
+        "reading": "におい",
+        "note": "名詞，氣味、香味/臭味"
+      }
+    ],
+    "context_grammar": [
+      "匂いは：用來指出感官嗅覺上的排斥感。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:09",
+    "japanese": "4. ピーマンが嫌いです。",
+    "furigana": "4. ピーマンが<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "4. ピーマンが | 嫌いです。",
+    "translation": {
+      "natural": "我討厭青椒。",
+      "literal": "4. 青椒討厭。"
+    },
+    "words": [
+      {
+        "word": "ピーマン",
+        "reading": "ぴーまん",
+        "note": "名詞，青椒（法文Piment）"
+      }
+    ],
+    "context_grammar": [
+      "ピーマンが：標準感情對象標示法（～が嫌いです），用於食物挑食或偏好表態。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:12",
+    "japanese": "5. この店の雰囲気が嫌いです。",
+    "furigana": "5. この<ruby>店<rt>みせ</rt></ruby>の<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "5. この店の雰囲気が | 嫌いです。",
+    "translation": {
+      "natural": "我不喜歡這家店的氣氛。",
+      "literal": "5. 這店的氣氛討厭。"
+    },
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "note": "名詞，店家、商店"
+      },
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛"
+      }
+    ],
+    "context_grammar": [
+      "雰囲気が嫌いです：表達對總體空間風格或環境風氣的不適感。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:15",
+    "japanese": "6. この店の店員が嫌いです。",
+    "furigana": "6. この<ruby>店<rt>みせ</rt></ruby>の<ruby>店<rt>てん</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "6. この店の店員が | 嫌いです。",
+    "translation": {
+      "natural": "我不喜歡這家店的店員。",
+      "literal": "6. 這店的店員討厭。"
+    },
+    "words": [
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "note": "名詞，店員"
+      }
+    ],
+    "context_grammar": [
+      "店員が嫌いです：標示對特定人物或服務人員的厭惡主觀。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:18",
+    "japanese": "7. ねばねばした感触が嫌いです。",
+    "furigana": "7. ねばねばした<ruby>感<rt>かん</rt></ruby><ruby>触<rt>しょく</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "7. ねばねばした感触が | 嫌いです。",
+    "translation": {
+      "natural": "我討厭黏黏糊糊的觸感。",
+      "literal": "7. 黏糊糊的觸感討厭。"
+    },
+    "words": [
+      {
+        "word": "ねばねば",
+        "reading": "ねばねば",
+        "note": "擬態詞/サ變動詞，黏黏的、發黏的"
+      },
+      {
+        "word": "感触",
+        "reading": "かんしょく",
+        "note": "名詞，觸感、手感"
+      }
+    ],
+    "context_grammar": [
+      "ねばねばした：擬態詞＋動詞「する」的過去/連體形（した），作為形容詞修飾後方的名詞「感触（觸感）」。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:22",
+    "japanese": "8. この形が嫌いです。",
+    "furigana": "8. この<ruby>形<rt>かたち</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "8. この形が | 嫌いです。",
+    "translation": {
+      "natural": "我不喜歡這個形狀造型。",
+      "literal": "8. 這個外形討厭。"
+    },
+    "words": [
+      {
+        "word": "形",
+        "reading": "かたち",
+        "note": "名詞，形狀、外形"
+      }
+    ],
+    "context_grammar": [
+      "形が嫌いです：表達對於幾何形狀或物品剪裁的外型偏好。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:25",
+    "japanese": "9. 外見が嫌いです。",
+    "furigana": "9. <ruby>外<rt>がい</rt></ruby><ruby>見<rt>けん</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "9. 外見が | 嫌いです。",
+    "translation": {
+      "natural": "我討厭它的外表／外觀。",
+      "literal": "9. 外貌討厭。"
+    },
+    "words": [
+      {
+        "word": "外見",
+        "reading": "がいけん",
+        "note": "名詞，外表、外貌、外觀"
+      }
+    ],
+    "context_grammar": [
+      "外見が：指對人或物外在容貌、裝潢包裝的不喜愛。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:27",
+    "japanese": "10. 性格が嫌いです。",
+    "furigana": "10. <ruby>性<rt>せい</rt></ruby><ruby>格<rt>かく</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "10. 性格が | 嫌いです。",
+    "translation": {
+      "natural": "我討厭他的性格／個性。",
+      "literal": "10. 性格討厭。"
+    },
+    "words": [
+      {
+        "word": "性格",
+        "reading": "せいかく",
+        "note": "名詞，性格、個性"
+      }
+    ],
+    "context_grammar": [
+      "性格が嫌いです：針對內在個性或作風進行主觀評價。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:30",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟三",
+      "literal": "步驟3"
+    },
+    "words": [
+      {
+        "word": "Step",
+        "reading": "ステップ",
+        "note": "名詞，步驟"
+      }
+    ],
+    "context_grammar": [
+      "Step 3：實用情境對話。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:32",
+    "japanese": "納豆美味しいですよ。この匂いは嫌いです。",
+    "furigana": "<ruby>納<rt>なっ</rt></ruby><ruby>豆<rt>とう</rt></ruby><ruby>美<rt>おい</rt></ruby>しいですよ。この<ruby>匂<rt>にお</rt></ruby>いは<ruby>嫌<rt>きら</rt></ruby>いです。",
+    "segmentation": "納豆美味しいですよ。| この匂いは | 嫌いです。",
+    "translation": {
+      "natural": "納豆很好吃喔！——我討厭這個氣味啦。",
+      "literal": "納豆好吃喔。這個氣味討厭。"
+    },
+    "words": [
+      {
+        "word": "納豆",
+        "reading": "なっとう",
+        "note": "名詞，納豆"
+      },
+      {
+        "word": "匂い",
+        "reading": "におい",
+        "note": "名詞，氣味"
+      }
+    ],
+    "context_grammar": [
+      "～ですよ：形容詞＋語氣助詞「よ」，用於推薦或宣導某事。",
+      "この匂いは：使用「は」對應對方的推薦，做出對比性的拒絕「其他還好，但『這個味道』我真的不行」。"
+    ]
+  }
+]

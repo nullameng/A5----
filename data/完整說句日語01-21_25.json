@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "001",
+    "time": "00:00",
+    "japanese": "21. が濃いです",
+    "furigana": "21. が<ruby>濃<rt>こ</rt></ruby>いです",
+    "segmentation": "21. が | 濃いです",
+    "translation": {
+      "natural": "21. 很濃／很深",
+      "literal": "21. 主語是濃厚的"
+    },
+    "words": [
+      {
+        "word": "濃い",
+        "reading": "こい",
+        "note": "い形容詞，濃的、深色的、味道重濃郁的"
+      }
+    ],
+    "context_grammar": [
+      "標頭與句型提示，直譯即可。"
+    ]
+  },
+  {
+    "id": "002",
+    "time": "00:03",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "003",
+    "time": "00:05",
+    "japanese": "1. 霧が濃いです。",
+    "furigana": "1. <ruby>霧<rt>きり</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>いです。",
+    "segmentation": "1. 霧が | 濃いです。",
+    "translation": {
+      "natural": "霧很大／霧很濃。",
+      "literal": "1. 霧很濃。"
+    },
+    "words": [
+      {
+        "word": "霧",
+        "reading": "きり",
+        "note": "名詞，霧"
+      },
+      {
+        "word": "濃い",
+        "reading": "こい",
+        "note": "い形容詞，濃的"
+      }
+    ],
+    "context_grammar": [
+      "主體「霧」接續格助詞「が」表示自然現象的主語，搭配い形容詞「濃い」與敬體語尾「です」。",
+      "常用於氣象播報或交通狀況說明的基礎描述表現。"
+    ]
+  },
+  {
+    "id": "004",
+    "time": "00:08",
+    "japanese": "2. この料理の味は濃いです。",
+    "furigana": "2. この<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>は<ruby>濃<rt>こ</rt></ruby>いです。",
+    "segmentation": "2. この料理の | 味は | 濃いです。",
+    "translation": {
+      "natural": "這道菜的味道很重／很濃郁。",
+      "literal": "2. 這個料理的味道是濃的。"
+    },
+    "words": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "note": "名詞，菜餚、料理"
+      },
+      {
+        "word": "味",
+        "reading": "あじ",
+        "note": "名詞，味道"
+      }
+    ],
+    "context_grammar": [
+      "「この＋名詞」指示代名詞修飾名詞「料理」，提示主題的「は」引導出對於餐點口味的特徵評價。",
+      "在美食介紹或美食節目旁白中十分常見的口感說明用語。"
+    ]
+  },
+  {
+    "id": "005",
+    "time": "00:12",
+    "japanese": "3. このスープは味が濃いです。",
+    "furigana": "3. このスープは<ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>いです。",
+    "segmentation": "3. このスープは | 味が | 濃いです。",
+    "translation": {
+      "natural": "這款湯口味偏重。",
+      "literal": "3. 這個湯味道很濃。"
+    },
+    "words": [
+      {
+        "word": "スープ",
+        "reading": "すーぷ",
+        "note": "名詞，湯品"
+      }
+    ],
+    "context_grammar": [
+      "大主語「このスープは」搭配小主語「味が」，為典型「N1は N2が 属性」的大主詞小主詞句型結構。",
+      "用於強調具體某項特徵（口味重量）的口語及商業介紹句式。"
+    ]
+  },
+  {
+    "id": "006",
+    "time": "00:17",
+    "japanese": "4. 芸者の化粧は濃いです。",
+    "furigana": "4. <ruby>芸<rt>げい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>化<rt>け</rt></ruby><ruby>粧<rt>しょう</rt></ruby>は<ruby>濃<rt>こ</rt></ruby>いです。",
+    "segmentation": "4. 芸者の | 化粧は | 濃いです。",
+    "translation": {
+      "natural": "藝妓的妝容比較濃。",
+      "literal": "4. 藝妓的化妝是濃的。"
+    },
+    "words": [
+      {
+        "word": "芸者",
+        "reading": "げいしゃ",
+        "note": "名詞，藝妓"
+      },
+      {
+        "word": "化粧",
+        "reading": "けしょう",
+        "note": "名詞，化妝、妝容"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「の」作連體修飾，修飾「化粧」，用以說明妝容的視覺厚重程度。",
+      "文化介紹或旅遊導覽影片中客觀描述外貌特徵的句型。"
+    ]
+  },
+  {
+    "id": "007",
+    "time": "00:21",
+    "japanese": "5. このソフトクリームは抹茶の味が濃くて美味しいです。",
+    "furigana": "5. このソフトクリームは<ruby>抹<rt>まっ</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>くて<ruby>美<rt>おい</rt></ruby>しいです。",
+    "segmentation": "5. このソフトクリームは | 抹茶の味が | 濃くて | 美味しいです。",
+    "translation": {
+      "natural": "這支霜霜淇淋的抹茶味非常濃郁，十分美味。",
+      "literal": "5. 這個霜淇淋抹茶的味道濃且好吃。"
+    },
+    "words": [
+      {
+        "word": "ソフトクリーム",
+        "reading": "そふときりーむ",
+        "note": "名詞，霜淇淋"
+      },
+      {
+        "word": "抹茶",
+        "reading": "まっちゃ",
+        "note": "名詞，抹茶"
+      },
+      {
+        "word": "美味しい",
+        "reading": "おいしい",
+        "note": "い形容詞，美味的"
+      }
+    ],
+    "context_grammar": [
+      "形容詞的中繼形（て形）：い形容詞「濃い」去い加「くて」轉為「濃くて」，用以並列接續後方的形容詞「美味しいです」。",
+      "商品廣告旁白極高頻出現的因果／順接並列讚美結構。"
+    ]
+  },
+  {
+    "id": "008",
+    "time": "00:29",
+    "japanese": "6. プーアル茶は色が濃いお茶です。",
+    "furigana": "6. プーアル<ruby>茶<rt>ちゃ</rt></ruby>は<ruby>色<rt>いろ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>です。",
+    "segmentation": "6. プーアル茶は | 色が濃い | お茶です。",
+    "translation": {
+      "natural": "普洱茶是一種茶色較深的茶。",
+      "literal": "6. 普洱茶是顏色濃的茶。"
+    },
+    "words": [
+      {
+        "word": "普洱茶",
+        "reading": "ぷーあるちゃ",
+        "note": "名詞，普洱茶"
+      },
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      },
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "note": "名詞，茶（帶美化語お）"
+      }
+    ],
+    "context_grammar": [
+      "連體修飾結構：「色が濃い」整個子句直接修飾後面的名詞「お茶」，形成產品說明的定義句型。",
+      "適用於產品分類解說或特色推廣影片。"
+    ]
+  },
+  {
+    "id": "009",
+    "time": "00:35",
+    "japanese": "7. 台湾の桜は色が濃いです。",
+    "furigana": "7. <ruby>台<rt>たい</rt></ruby><ruby>湾<rt>わん</rt></ruby>の<ruby>桜<rt>さくら</rt></ruby>は<ruby>色<rt>いろ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>いです。",
+    "segmentation": "7. 台湾の桜は | 色が | 濃いです。",
+    "translation": {
+      "natural": "臺灣的櫻花顏色比較深豔。",
+      "literal": "7. 臺灣的櫻花顏色濃。"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "名詞，臺灣"
+      },
+      {
+        "word": "桜",
+        "reading": "さくら",
+        "note": "名詞，櫻花"
+      }
+    ],
+    "context_grammar": [
+      "主題「台湾の桜は」後接特徵小主語「色が」，呈現具體事物的視覺顯著特點。",
+      "常用於旅遊觀光影片比較地區特產或景觀之旁白。"
+    ]
+  },
+  {
+    "id": "010",
+    "time": "00:41",
+    "japanese": "8. 色が濃い服装は痩せて見えます。",
+    "furigana": "8. <ruby>色<rt>いろ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>い<ruby>服<rt>ふく</rt></ruby><ruby>装<rt>そう</rt></ruby>は<ruby>瘦<rt>や</rt></ruby>せて<ruby>見<rt>み</rt></ruby>えます。",
+    "segmentation": "8. 色が濃い | 服装は | 痩せて見えます。",
+    "translation": {
+      "natural": "穿深色系的衣服看起來會比較顯瘦。",
+      "literal": "8. 顏色濃的服裝看起來瘦。"
+    },
+    "words": [
+      {
+        "word": "服装",
+        "reading": "ふくそう",
+        "note": "名詞，服裝、穿搭"
+      },
+      {
+        "word": "痩せる",
+        "reading": "やせる",
+        "note": "動詞，變瘦（て形為痩せて）"
+      },
+      {
+        "word": "見える",
+        "reading": "みえる",
+        "note": "動詞，看得見、顯得、看起來"
+      }
+    ],
+    "context_grammar": [
+      "「痩せて見えます」：動詞連用形（て形）＋「見える」，表示狀態呈現出的視覺效果「看起來…」。",
+      "時尚穿搭教學或女性節目旁白極為普遍的小撇步句法。"
+    ]
+  },
+  {
+    "id": "011",
+    "time": "00:46",
+    "japanese": "9. 味が濃い食べ物は控えた方がいいです。",
+    "furigana": "9. <ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>い<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>えた<ruby>方<rt>ほう</rt></ruby>がいいです。",
+    "segmentation": "9. 味が濃い | 食べ物は | 控えた方がいいです。",
+    "translation": {
+      "natural": "口味太重的食物最好少吃一點。",
+      "literal": "9. 味道濃的食物節制比較好。"
+    },
+    "words": [
+      {
+        "word": "食べ物",
+        "reading": "たべもの",
+        "note": "名詞，食物"
+      },
+      {
+        "word": "控える",
+        "reading": "ひかえる",
+        "note": "動詞，控制、節制（過去式た形為控えた）"
+      }
+    ],
+    "context_grammar": [
+      "「動詞た形 ＋ 方がいいです」：建議句型，表達「最好…做比較好」。",
+      "常用於健康節目、衛教廣告或生活建議宣導中。"
+    ]
+  },
+  {
+    "id": "012",
+    "time": "00:53",
+    "japanese": "10. このヌガーはミルクの味が濃くて、アーモンドも入っています。",
+    "furigana": "10. このヌガーはミルクの<ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>くて、アーモンドも<ruby>入<rt>はい</rt></ruby>っています。",
+    "segmentation": "10. このヌガーは | ミルクの味が | 濃くて、| アーモンドも | 入っています。",
+    "translation": {
+      "natural": "這款牛軋糖奶香味濃郁，裡面還包了杏仁果。",
+      "literal": "10. 這個牛軋糖牛奶的味道濃，杏仁也放著。"
+    },
+    "words": [
+      {
+        "word": "ヌガー",
+        "reading": "ぬがー",
+        "note": "名詞，牛軋糖"
+      },
+      {
+        "word": "ミルク",
+        "reading": "みるく",
+        "note": "名詞，牛奶"
+      },
+      {
+        "word": "アーモンド",
+        "reading": "あーもんど",
+        "note": "名詞，杏仁"
+      },
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "note": "動詞，進入、包含（て型+いる表示結果狀態）"
+      }
+    ],
+    "context_grammar": [
+      "「濃くて」為形容詞中繼句型；「入っています」（入る的て型＋います）表示物品內部含有某材料的持續/結果狀態。",
+      "典型伴手禮宣傳或食品行銷開箱的商品特色說明。"
+    ]
+  },
+  {
+    "id": "013",
+    "time": "01:03",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "014",
+    "time": "01:05",
+    "japanese": "霧が濃いですね。",
+    "furigana": "霧が濃いですね。",
+    "segmentation": "霧が | 濃いですね。",
+    "translation": {
+      "natural": "霧下得很大呢。",
+      "literal": "霧很濃呢。"
+    },
+    "words": [
+      {
+        "word": "ですね",
+        "reading": "ですね",
+        "note": "終助詞，徵求對方同意、感嘆"
+      }
+    ],
+    "context_grammar": [
+      "句尾「ね」帶有感嘆與徵求對方認同的口吻，常見於兩人日常對話起頭。"
+    ]
+  },
+  {
+    "id": "015",
+    "time": "01:08",
+    "japanese": "今日は飛行機が飛べないでしょうね。",
+    "furigana": "今日は飛行機が飛べないでしょうね。",
+    "segmentation": "今日は | 飛行機が | 飛べないでしょうね。",
+    "translation": {
+      "natural": "今天飛機大概飛不了了吧。",
+      "literal": "今天飛機不能飛吧。"
+    },
+    "words": [
+      {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "note": "名詞，飛機"
+      },
+      {
+        "word": "飛ぶ",
+        "reading": "とぶ",
+        "note": "動詞，飛（可能否定形為飛べない）"
+      }
+    ],
+    "context_grammar": [
+      "動詞可能形否定「飛べない」（飛ぶ -> 飛べる -> 飛べない）表示無法起飛的能力或狀況限制。",
+      "「でしょうね」表示推測與心理共鳴，用於回應對方或對現況進行合理推論。"
+    ]
+  },
+  {
+    "id": "016",
+    "time": "01:13",
+    "japanese": "22. が怖いです",
+    "furigana": "22. が<ruby>怖<rt>こわ</rt></ruby>いです",
+    "segmentation": "22. が | 怖いです",
+    "translation": {
+      "natural": "22. 害怕／令人害怕",
+      "literal": "22. 主語是可怕的"
+    },
+    "words": [
+      {
+        "word": "怖い",
+        "reading": "こわい",
+        "note": "い形容詞，害怕的、恐怖的"
+      }
+    ],
+    "context_grammar": [
+      "標頭與句型提示，直譯即可。"
+    ]
+  },
+  {
+    "id": "017",
+    "time": "01:16",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "018",
+    "time": "01:18",
+    "japanese": "1. 面接が怖いです。",
+    "furigana": "1. <ruby>面<rt>めん</rt></ruby><ruby>接<rt>せつ</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "1. 面接が | 怖いです。",
+    "translation": {
+      "natural": "我好怕面試。",
+      "literal": "1. 面試很可怕。"
+    },
+    "words": [
+      {
+        "word": "面接",
+        "reading": "めんせつ",
+        "note": "名詞，面試"
+      }
+    ],
+    "context_grammar": [
+      "格助詞「が」指示感情的對象（害怕的事物），後接情感形容詞「怖い」。",
+      "常用於分享心理壓力、求職面試經驗或日常抒發。"
+    ]
+  },
+  {
+    "id": "019",
+    "time": "01:21",
+    "japanese": "2. 先生が怖いです。",
+    "furigana": "2. <ruby>先<rt>せん</rt></ruby><ruby>生<rt>せい</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "2. 先生が | 怖いです。",
+    "translation": {
+      "natural": "老師很嚴厲／很嚇人。",
+      "literal": "2. 老師可怕。"
+    },
+    "words": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "note": "名詞，老師"
+      }
+    ],
+    "context_grammar": [
+      "「名詞 ＋ が ＋ 怖い」直接表達對人物性格或氣場感到畏懼的評價型口語表達。"
+    ]
+  },
+  {
+    "id": "020",
+    "time": "01:25",
+    "japanese": "3. 幽霊が怖いです。",
+    "furigana": "3. <ruby>幽<rt>ゆう</rt></ruby><ruby>霊<rt>れい</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "3. 幽霊が | 怖いです。",
+    "translation": {
+      "natural": "我很怕鬼。",
+      "literal": "3. 幽靈可怕。"
+    },
+    "words": [
+      {
+        "word": "幽霊",
+        "reading": "ゆうれい",
+        "note": "名詞，幽靈、鬼魂"
+      }
+    ],
+    "context_grammar": [
+      "表達對超自然事物的心理畏懼，屬日常心理狀態的直接描述。"
+    ]
+  },
+  {
+    "id": "021",
+    "time": "01:29",
+    "japanese": "4. 津波が怖いです。",
+    "furigana": "4. <ruby>津<rt>つ</rt></ruby><ruby>波<rt>なみ</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "4. 津波が | 怖いです。",
+    "translation": {
+      "natural": "海嘯真可怕。",
+      "literal": "4. 海嘯可怕。"
+    },
+    "words": [
+      {
+        "word": "津波",
+        "reading": "つなみ",
+        "note": "名詞，海嘯"
+      }
+    ],
+    "context_grammar": [
+      "用於表達對重大自然災害的懼怕心理，宣導或新聞報導中表達警惕的口吻。"
+    ]
+  },
+  {
+    "id": "022",
+    "time": "01:33",
+    "japanese": "5. 高いところが怖いです。",
+    "furigana": "5. <ruby>高<rt>たか</rt></ruby>いところが<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "5. 高いところが | 怖いです。",
+    "translation": {
+      "natural": "我有恐高症／我怕高的地方。",
+      "literal": "5. 高的地方可怕。"
+    },
+    "words": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "note": "い形容詞，高的"
+      },
+      {
+        "word": "ところ",
+        "reading": "ところ",
+        "note": "形式名詞，地方、場所"
+      }
+    ],
+    "context_grammar": [
+      "「高い」（連體形修飾「ところ」）構成名詞子句作為「が」的對象，表達特定的場所恐懼症。"
+    ]
+  },
+  {
+    "id": "023",
+    "time": "01:37",
+    "japanese": "6. 暗いところが怖いです。",
+    "furigana": "6. <ruby>暗<rt>くら</rt></ruby>いところが<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "6. 暗いところが | 怖いです。",
+    "translation": {
+      "natural": "我怕黑／怕幽暗的地方。",
+      "literal": "6. 暗的地方可怕。"
+    },
+    "words": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "note": "い形容詞，昏暗的"
+      }
+    ],
+    "context_grammar": [
+      "形容詞修飾名詞構詞，「暗いところ」表示暗處，為非常道地的習慣用語。"
+    ]
+  },
+  {
+    "id": "024",
+    "time": "01:42",
+    "japanese": "7. 内視鏡検査が怖いです。",
+    "furigana": "7. <ruby>内<rt>ない</rt></ruby><ruby>視<rt>し</rt></ruby><ruby>鏡<rt>きょう</rt></ruby><ruby>検<rt>けん</rt></ruby><ruby>査<rt>さ</rt></ruby>が<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "7. 内視鏡検査が | 怖いです。",
+    "translation": {
+      "natural": "我很害怕做照胃鏡／照腸鏡（內視鏡）檢查。",
+      "literal": "7. 內視鏡檢查可怕。"
+    },
+    "words": [
+      {
+        "word": "内視鏡検査",
+        "reading": "ないしきょうけんさ",
+        "note": "名詞，內視鏡檢查"
+      }
+    ],
+    "context_grammar": [
+      "醫療保健情境中，病人向醫護人員傳達緊張心理時常見的句型。"
+    ]
+  },
+  {
+    "id": "025",
+    "time": "01:46",
+    "japanese": "8. この漫画は怖いです。",
+    "furigana": "8. この<ruby>漫<rt>まん</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "8. この漫画は | 怖いです。",
+    "translation": {
+      "natural": "這部漫畫好恐怖。",
+      "literal": "8. 這個漫畫很可怕。"
+    },
+    "words": [
+      {
+        "word": "漫画",
+        "reading": "まんが",
+        "note": "名詞，漫畫"
+      }
+    ],
+    "context_grammar": [
+      "「指示代名詞＋名詞＋は」對特定娛樂作品的性質做出主觀評語。"
+    ]
+  },
+  {
+    "id": "026",
+    "time": "01:51",
+    "japanese": "9. この映画は怖いです。",
+    "furigana": "9. この<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "9. この映画は | 怖いです。",
+    "translation": {
+      "natural": "這部電影很嚇人／很恐怖。",
+      "literal": "9. 這個電影很可怕。"
+    },
+    "words": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "note": "名詞，電影"
+      }
+    ],
+    "context_grammar": [
+      "電影推薦或心得分享時描述恐怖片題材的簡明句型。"
+    ]
+  },
+  {
+    "id": "027",
+    "time": "01:55",
+    "japanese": "10. オートバイが怖いです。",
+    "furigana": "10. オートバイが<ruby>怖<rt>こわ</rt></ruby>いです。",
+    "segmentation": "10. オートバイが | 怖いです。",
+    "translation": {
+      "natural": "我覺得摩托車很危險／令人害怕。",
+      "literal": "10. 機車可怕。"
+    },
+    "words": [
+      {
+        "word": "オートバイ",
+        "reading": "おーとばい",
+        "note": "名詞，摩托車、機車"
+      }
+    ],
+    "context_grammar": [
+      "外來語名詞做主語，後接感情對象格助詞「が」。"
+    ]
+  },
+  {
+    "id": "028",
+    "time": "02:00",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "029",
+    "time": "02:02",
+    "japanese": "台湾はオートバイが怖いですね。",
+    "furigana": "台湾はオートバイが怖いですね。",
+    "segmentation": "台湾は | オートバイが | 怖いですね。",
+    "translation": {
+      "natural": "臺灣的摩托車數量真令人心驚膽跳呢。",
+      "literal": "臺灣機車很可怕呢。"
+    },
+    "words": [
+      {
+        "word": "台湾",
+        "reading": "たいわん",
+        "note": "名詞，臺灣"
+      }
+    ],
+    "context_grammar": [
+      "大主語「台湾は」引出地域，小主語「オートバイが」點出恐怖的焦點，尾語「ですね」提出生活體驗上的共鳴。"
+    ]
+  },
+  {
+    "id": "030",
+    "time": "02:06",
+    "japanese": "そうですね。",
+    "furigana": "そうですね。",
+    "segmentation": "そうですね。",
+    "translation": {
+      "natural": "真的耶／確實如此。",
+      "literal": "是那樣呢。"
+    },
+    "words": [
+      {
+        "word": "そう",
+        "reading": "そう",
+        "note": "副詞，那樣地"
+      }
+    ],
+    "context_grammar": [
+      "日語對話中最經典的相聲回應（あいづち），肯定並附和對方的說法。"
+    ]
+  },
+  {
+    "id": "031",
+    "time": "02:08",
+    "japanese": "23. が好きです",
+    "furigana": "23. が<ruby>好<rt>す</rt></ruby>きです",
+    "segmentation": "23. が | 好きです",
+    "translation": {
+      "natural": "23. 喜歡",
+      "literal": "23. 主語是喜歡的"
+    },
+    "words": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "note": "な形容詞，喜歡的"
+      }
+    ],
+    "context_grammar": [
+      "標頭與句型提示，直譯即可。"
+    ]
+  },
+  {
+    "id": "032",
+    "time": "02:11",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "033",
+    "time": "02:13",
+    "japanese": "1. チョコレートが好きです。",
+    "furigana": "1. チョコレートが<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "1. チョコレートが | 好きです。",
+    "translation": {
+      "natural": "我喜歡吃巧克力。",
+      "literal": "1. 喜歡巧克力。"
+    },
+    "words": [
+      {
+        "word": "チョコレート",
+        "reading": "ちょこれーと",
+        "note": "名詞，巧克力"
+      }
+    ],
+    "context_grammar": [
+      "情感喜好對象使用格助詞「が」，後接情感形容詞「好き」。基礎自我介紹常見表現。"
+    ]
+  },
+  {
+    "id": "034",
+    "time": "02:17",
+    "japanese": "2. このデザインが好きです。",
+    "furigana": "2. このデザインが<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "2. このデザインが | 好きです。",
+    "translation": {
+      "natural": "我喜歡這個設計。",
+      "literal": "2. 喜歡這個設計。"
+    },
+    "words": [
+      {
+        "word": "デザイン",
+        "reading": "でざいん",
+        "note": "名詞，設計、款式"
+      }
+    ],
+    "context_grammar": [
+      "對商品外觀或審美表現偏好的喜好表達，購物或商業場合實用句。"
+    ]
+  },
+  {
+    "id": "035",
+    "time": "02:21",
+    "japanese": "3. この匂いが好きです。",
+    "furigana": "3. この<ruby>匂<rt>にお</rt></ruby>いが<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "3. この匂いが | 好きです。",
+    "translation": {
+      "natural": "我好喜歡這個味道／香味。",
+      "literal": "3. 喜歡這個氣味。"
+    },
+    "words": [
+      {
+        "word": "匂い",
+        "reading": "におい",
+        "note": "名詞，氣味、香味"
+      }
+    ],
+    "context_grammar": [
+      "常用於香氛、美妝產品宣傳或日常生活評價中。"
+    ]
+  },
+  {
+    "id": "036",
+    "time": "02:25",
+    "japanese": "4. この色が好きです。",
+    "furigana": "4. この<ruby>色<rt>いろ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "4. この色が | 好きです。",
+    "translation": {
+      "natural": "我喜歡這個顏色。",
+      "literal": "4. 喜歡這個顏色。"
+    },
+    "words": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "note": "名詞，顏色"
+      }
+    ],
+    "context_grammar": [
+      "挑選商品、服飾時明確向店家表達偏好的句型。"
+    ]
+  },
+  {
+    "id": "037",
+    "time": "02:29",
+    "japanese": "5. このカフェの雰囲気が好きです。",
+    "furigana": "5. このカフェの<ruby>雰<rt>ふん</rt></ruby><ruby>囲<rt>い</rt></ruby><ruby>気<rt>き</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "5. このカフェの | 雰囲気が | 好きです。",
+    "translation": {
+      "natural": "我喜歡這家咖啡廳的氛圍。",
+      "literal": "5. 喜歡這個咖啡館的氣氛。"
+    },
+    "words": [
+      {
+        "word": "カフェ",
+        "reading": "かふぇ",
+        "note": "名詞，咖啡廳"
+      },
+      {
+        "word": "雰囲気",
+        "reading": "ふんいき",
+        "note": "名詞，氣氛、氛圍"
+      }
+    ],
+    "context_grammar": [
+      "「の」連結場所與抽象屬性「雰囲気」，生活Vlog或社群探店開箱常用表達。"
+    ]
+  },
+  {
+    "id": "038",
+    "time": "02:34",
+    "japanese": "6. この店のおもてなしが好きです。",
+    "furigana": "6. この<ruby>店<rt>みせ</rt></ruby>のサービスが<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "6. このお店の | サービスが | 好きです。",
+    "translation": {
+      "natural": "我滿喜歡這家店的服務品質。",
+      "literal": "6. 喜歡這家店的服務。"
+    },
+    "words": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "note": "名詞，店家"
+      },
+      {
+        "word": "サービス",
+        "reading": "さーびす",
+        "note": "名詞，服務、接待"
+      }
+    ],
+    "context_grammar": [
+      "用於商業評論或顧客問卷回饋，對顧客服務表達高滿意度。"
+    ]
+  },
+  {
+    "id": "039",
+    "time": "02:38",
+    "japanese": "7. さっぱりした味が好きです。",
+    "furigana": "7. さっぱりした<ruby>味<rt>あじ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "7. さっぱりした | 味が | 好きです。",
+    "translation": {
+      "natural": "我偏好清爽不油膩的口味。",
+      "literal": "7. 喜歡清爽的味道。"
+    },
+    "words": [
+      {
+        "word": "さっぱりする",
+        "reading": "さっぱりする",
+        "note": "動詞，清爽、爽口（過去式た形為さっぱりした修飾名詞）"
+      }
+    ],
+    "context_grammar": [
+      "擬態詞動詞化後的過去式「さっぱりした」作為連體修飾，修飾名詞「味」，說明口味風格。"
+    ]
+  },
+  {
+    "id": "040",
+    "time": "02:43",
+    "japanese": "8. このブランドが好きです。",
+    "furigana": "8. このブランドが<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "8. このブランドが | 好きです。",
+    "translation": {
+      "natural": "我是這個品牌的忠實粉絲／我喜歡這個品牌。",
+      "literal": "8. 喜歡這個品牌。"
+    },
+    "words": [
+      {
+        "word": "ブランド",
+        "reading": "ぶらんど",
+        "note": "名詞，品牌"
+      }
+    ],
+    "context_grammar": [
+      "品牌忠誠度與消費者喜好訪談時常出現的標準口語句型。"
+    ]
+  },
+  {
+    "id": "041",
+    "time": "02:47",
+    "japanese": "9. 抹茶が好きです。",
+    "furigana": "9. <ruby>抹<rt>まっ</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "9. 抹茶が | 好きです。",
+    "translation": {
+      "natural": "我喜歡抹茶。",
+      "literal": "9. 喜歡抹茶。"
+    },
+    "words": [
+      {
+        "word": "抹茶",
+        "reading": "まっちゃ",
+        "note": "名詞，抹茶"
+      }
+    ],
+    "context_grammar": [
+      "簡潔表達個人飲食偏好與興趣。"
+    ]
+  },
+  {
+    "id": "042",
+    "time": "02:51",
+    "japanese": "10. お茶が好きです。",
+    "furigana": "10. お<ruby>茶<rt>ちゃ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+    "segmentation": "10. お茶が | 好きです。",
+    "translation": {
+      "natural": "我很喜歡喝茶。",
+      "literal": "10. 喜歡茶。"
+    },
+    "words": [
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "note": "名詞，茶（接頭詞「お」為美化語）"
+      }
+    ],
+    "context_grammar": [
+      "接頭語「お」帶出禮貌美化的口語氣氛。"
+    ]
+  },
+  {
+    "id": "043",
+    "time": "02:54",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "044",
+    "time": "02:56",
+    "japanese": "台湾のお茶が好きです。",
+    "furigana": "台湾のお茶が好きです。",
+    "segmentation": "台湾のお茶が | 好きです。",
+    "translation": {
+      "natural": "我挺喜歡臺灣茶的。",
+      "literal": "喜歡臺灣的茶。"
+    },
+    "words": [],
+    "context_grammar": [
+      "名詞「台湾」與「お茶」以連體修飾格助詞「の」組合，表現出產地特色與喜好。"
+    ]
+  },
+  {
+    "id": "045",
+    "time": "02:59",
+    "japanese": "では、もっとどうぞ。",
+    "furigana": "では、もっとどうぞ。",
+    "segmentation": "では、| もっと | どうぞ。",
+    "translation": {
+      "natural": "這樣的話，請多喝一點不要客氣。",
+      "literal": "那麼，更多請。"
+    },
+    "words": [
+      {
+        "word": "では",
+        "reading": "では",
+        "note": "接續詞，那麼"
+      },
+      {
+        "word": "もっと",
+        "reading": "もっと",
+        "note": "副詞，更多"
+      },
+      {
+        "word": "どうぞ",
+        "reading": "どうぞ",
+        "note": "副詞，請（常用於勸誘、招待）"
+      }
+    ],
+    "context_grammar": [
+      "熱情招待客人時省略動詞「飲んでください」的極自然口語簡化表現。"
+    ]
+  },
+  {
+    "id": "046",
+    "time": "03:02",
+    "japanese": "24. が懐かしいです",
+    "furigana": "24. が<ruby>懐<rt>なつ</rt></ruby>かしいです",
+    "segmentation": "24. が | 懐かしいです",
+    "translation": {
+      "natural": "24. 令人懷念／令人懷舊",
+      "literal": "24. 主語是懷念的"
+    },
+    "words": [
+      {
+        "word": "懐かしい",
+        "reading": "なつかしい",
+        "note": "い形容詞，懷念的、令人眷戀的"
+      }
+    ],
+    "context_grammar": [
+      "標頭與句型提示，直譯即可。"
+    ]
+  },
+  {
+    "id": "047",
+    "time": "03:05",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "048",
+    "time": "03:07",
+    "japanese": "1. 子供の頃が懐かしいです。",
+    "furigana": "1. <ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>が<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "1. 子供の頃が | 懐かしいです。",
+    "translation": {
+      "natural": "真令人懷念童年時光。",
+      "literal": "1. 小時候的時候令人懷念。"
+    },
+    "words": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "note": "名詞，小孩"
+      },
+      {
+        "word": "頃",
+        "reading": "ころ",
+        "note": "名詞，時期、時候"
+      }
+    ],
+    "context_grammar": [
+      "時間名詞子句「子供の頃」由助詞「が」指引為懷念的對象，感歎過往時光。"
+    ]
+  },
+  {
+    "id": "049",
+    "time": "03:12",
+    "japanese": "2. 学生時代の友人が懐かしいです。",
+    "furigana": "2. <ruby>学<rt>がく</rt></ruby><ruby>生<rt>せい</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>友<rt>ゆう</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "2. 学生時代の | 友人が | 懐かしいです。",
+    "translation": {
+      "natural": "好懷念學生時代的朋友們。",
+      "literal": "2. 學生時代的朋友令人懷念。"
+    },
+    "words": [
+      {
+        "word": "学生時代",
+        "reading": "がくせいじだい",
+        "note": "名詞，學生時代"
+      },
+      {
+        "word": "友人",
+        "reading": "ゆうじん",
+        "note": "名詞，朋友（較正式用語）"
+      }
+    ],
+    "context_grammar": [
+      "「名詞＋の＋名詞」雙重層次組合修飾，敘舊或老友重逢紀錄片旁白的經典語感。"
+    ]
+  },
+  {
+    "id": "050",
+    "time": "03:17",
+    "japanese": "3. ふるさとが懐かしいです。",
+    "furigana": "3. ふるさとが<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "3. ふるさとが | 懐かしいです。",
+    "translation": {
+      "natural": "令人深深思念起家鄉。",
+      "literal": "3. 故鄉令人懷念。"
+    },
+    "words": [
+      {
+        "word": "ふるさと",
+        "reading": "ふるさと",
+        "note": "名詞，故鄉、老家"
+      }
+    ],
+    "context_grammar": [
+      "情感表達句型，表達對故鄉（ふるさと）的鄉愁與依戀。"
+    ]
+  },
+  {
+    "id": "051",
+    "time": "03:22",
+    "japanese": "4. このアニメは懐かしいです。",
+    "furigana": "4. このアニメは<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "4. このアニメは | 懐かしいです。",
+    "translation": {
+      "natural": "這部動畫真令人懷念！",
+      "literal": "4. 這個動畫令人懷念。"
+    },
+    "words": [
+      {
+        "word": "アニメ",
+        "reading": "あにめ",
+        "note": "名詞，動畫"
+      }
+    ],
+    "context_grammar": [
+      "懷舊懷古節目（レトロ）或復刻商品廣告中的靈魂感嘆句。"
+    ]
+  },
+  {
+    "id": "052",
+    "time": "03:26",
+    "japanese": "5. この写真は懐かしいです。",
+    "furigana": "5. この<ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>は<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "5. この写真は | 懐かしいです。",
+    "translation": {
+      "natural": "這張照片真令人懷念。",
+      "literal": "5. 這個照片令人懷念。"
+    },
+    "words": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "note": "名詞，照片"
+      }
+    ],
+    "context_grammar": [
+      "「は」提示話題對象「この写真」，對畫面勾起的回憶進行情感描述。"
+    ]
+  },
+  {
+    "id": "053",
+    "time": "03:31",
+    "japanese": "6. 祖父母が懐かしいです。",
+    "furigana": "6. <ruby>祖<rt>そ</rt></ruby><ruby>父<rt>ふ</rt></ruby><ruby>母<rt>ぼ</rt></ruby>が<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "6. 祖父母が | 懐かしいです。",
+    "translation": {
+      "natural": "我好想念我的祖父母。",
+      "literal": "6. 祖父母令人懷念。"
+    },
+    "words": [
+      {
+        "word": "祖父母",
+        "reading": "そふぼ",
+        "note": "名詞，爺爺奶奶／外公外婆"
+      }
+    ],
+    "context_grammar": [
+      "表達對長輩親人的思念之情。"
+    ]
+  },
+  {
+    "id": "054",
+    "time": "03:35",
+    "japanese": "7. この匂いは懐かしいです。",
+    "furigana": "7. この<ruby>匂<rt>にお</rt></ruby>いは<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "7. この匂いは | 懐かしいです。",
+    "translation": {
+      "natural": "這個味道真讓人懷念。",
+      "literal": "7. 這個氣味令人懷念。"
+    },
+    "words": [
+      {
+        "word": "匂い",
+        "reading": "におい",
+        "note": "名詞，氣味"
+      }
+    ],
+    "context_grammar": [
+      "嗅覺引發記憶（普魯斯特效應）時，感性紀錄片旁白極為道地的表現方式。"
+    ]
+  },
+  {
+    "id": "055",
+    "time": "03:40",
+    "japanese": "8. このおもちゃは懐かしいです。",
+    "furigana": "8. このおもちゃは<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "8. このおもちゃは | 懐かしいです。",
+    "translation": {
+      "natural": "這個童玩／玩具真令人懷念。",
+      "literal": "8. 這個玩具令人懷念。"
+    },
+    "words": [
+      {
+        "word": "おもちゃ",
+        "reading": "おもちゃ",
+        "note": "名詞，玩具"
+      }
+    ],
+    "context_grammar": [
+      "童年物件引發共鳴的說法。"
+    ]
+  },
+  {
+    "id": "056",
+    "time": "03:45",
+    "japanese": "9. この漫画は懐かしいです。",
+    "furigana": "9. この<ruby>漫<rt>まん</rt></ruby><ruby>画<rt>が</rt></ruby>は<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "9. この漫画は | 懐かしいです。",
+    "translation": {
+      "natural": "這部漫畫好懷舊啊。",
+      "literal": "9. 這個漫畫令人懷念。"
+    },
+    "words": [
+      {
+        "word": "漫画",
+        "reading": "まんが",
+        "note": "名詞，漫畫"
+      }
+    ],
+    "context_grammar": [
+      "對經典動漫作品回顧時的主觀讚賞表達。"
+    ]
+  },
+  {
+    "id": "057",
+    "time": "03:50",
+    "japanese": "10. この景色は懐かしいです。",
+    "furigana": "10. この<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>は<ruby>懐<rt>なつ</rt></ruby>かしいです。",
+    "segmentation": "10. この景色は | 懐かしいです。",
+    "translation": {
+      "natural": "這片景色真令人懷念。",
+      "literal": "10. 這個景色令人懷念。"
+    },
+    "words": [
+      {
+        "word": "景色",
+        "reading": "けいしき",
+        "note": "名詞，風景、景色"
+      }
+    ],
+    "context_grammar": [
+      "重遊故地時觀光節目常用的抒情旁白。"
+    ]
+  },
+  {
+    "id": "058",
+    "time": "03:55",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "059",
+    "time": "03:57",
+    "japanese": "このおもちゃは懐かしいですね。",
+    "furigana": "このおもちゃは懐かしいですね。",
+    "segmentation": "このおもちゃは | 懐かしいですね。",
+    "translation": {
+      "natural": "這個玩具真令人懷念呢。",
+      "literal": "這個玩具令人懷念呢。"
+    },
+    "words": [],
+    "context_grammar": [
+      "搭配終助詞「ね」向對方投射懷舊情緒，引導對話與共鳴。"
+    ]
+  },
+  {
+    "id": "060",
+    "time": "04:01",
+    "japanese": "私も持っていますよ。",
+    "furigana": "私も持っていますよ。",
+    "segmentation": "私も | 持っていますよ。",
+    "translation": {
+      "natural": "我以前也有一個呢／我自己也有收藏喔！",
+      "literal": "我也擁有著喔。"
+    },
+    "words": [
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "note": "動詞，擁有、持有（て型＋いる表示持有狀態）"
+      },
+      {
+        "word": "よ",
+        "reading": "よ",
+        "note": "終助詞，告知、強調"
+      }
+    ],
+    "context_grammar": [
+      "「動詞て形＋います」（持っている）表示持續擁有的狀態；終助詞「よ」帶有熱情分享資訊的語氣。"
+    ]
+  },
+  {
+    "id": "061",
+    "time": "04:04",
+    "japanese": "25. がぬるいです",
+    "furigana": "25. がぬるいです",
+    "segmentation": "25. が | ぬるいです",
+    "translation": {
+      "natural": "25. 溫吞／不夠燙（冷掉）",
+      "literal": "25. 主語是微溫的"
+    },
+    "words": [
+      {
+        "word": "ぬるい",
+        "reading": "ぬるい",
+        "note": "い形容詞，溫吞的、不夠熱的（液體或溫度）"
+      }
+    ],
+    "context_grammar": [
+      "標頭與句型提示，直譯即可。"
+    ]
+  },
+  {
+    "id": "062",
+    "time": "04:07",
+    "japanese": "Step 1",
+    "furigana": "Step 1",
+    "segmentation": "Step 1",
+    "translation": {
+      "natural": "步驟 1",
+      "literal": "步驟 1"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "063",
+    "time": "04:09",
+    "japanese": "1. コーヒーがぬるいです。",
+    "furigana": "1. コーヒーがぬるいです。",
+    "segmentation": "1. コーヒーが | ぬるいです。",
+    "translation": {
+      "natural": "咖啡冷掉了／不夠燙。",
+      "literal": "1. 咖啡是溫的。"
+    },
+    "words": [
+      {
+        "word": "コーヒー",
+        "reading": "こーひー",
+        "note": "名詞，咖啡"
+      }
+    ],
+    "context_grammar": [
+      "形容液體本應是熱的卻冷卻變溫的形容詞「ぬるい」。餐廳客訴或生活對話常見詞彙。"
+    ]
+  },
+  {
+    "id": "064",
+    "time": "04:13",
+    "japanese": "2. お茶がぬるいです。",
+    "furigana": "2. お<ruby>茶<rt>ちゃ</rt></ruby>がぬるいです。",
+    "segmentation": "2. お茶が | ぬるいです。",
+    "translation": {
+      "natural": "茶涼掉了／不夠熱。",
+      "literal": "2. 茶是溫的。"
+    },
+    "words": [
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "note": "名詞，茶"
+      }
+    ],
+    "context_grammar": [
+      "描述熱茶放久後溫度下降的客觀狀況。"
+    ]
+  },
+  {
+    "id": "065",
+    "time": "04:17",
+    "japanese": "3. 味噌汁がぬるいです。",
+    "furigana": "3. <ruby>味<rt>み</rt></ruby><ruby>増<rt>そ</rt></ruby><ruby>汁<rt>しる</rt></ruby>がぬるいです。",
+    "segmentation": "3. 味噌汁が | ぬるいです。",
+    "translation": {
+      "natural": "味噌湯溫溫的（不夠熱）。",
+      "literal": "3. 味噌湯是溫的。"
+    },
+    "words": [
+      {
+        "word": "味噌汁",
+        "reading": "みそしる",
+        "note": "名詞，味噌湯"
+      }
+    ],
+    "context_grammar": [
+      "日本餐飲文化極度重視湯品溫度，此句常用於評價餐點品質。"
+    ]
+  },
+  {
+    "id": "066",
+    "time": "04:21",
+    "japanese": "4. スープがぬるいです。",
+    "furigana": "4. スープがぬるいです。",
+    "segmentation": "4. スープが | ぬるいです。",
+    "translation": {
+      "natural": "湯冷掉了／溫度不夠高。",
+      "literal": "4. 湯是溫的。"
+    },
+    "words": [
+      {
+        "word": "スープ",
+        "reading": "すーぷ",
+        "note": "名詞，湯品"
+      }
+    ],
+    "context_grammar": [
+      "外來語湯品搭配「ぬるい」，表達飲食體驗不如預期的語境。"
+    ]
+  },
+  {
+    "id": "067",
+    "time": "04:25",
+    "japanese": "5. お湯がぬるいです。",
+    "furigana": "5. お<ruby>湯<rt>ゆ</rt></ruby>がぬるいです。",
+    "segmentation": "5. お湯が | ぬるいです。",
+    "translation": {
+      "natural": "熱水不夠燙／水溫太低。",
+      "literal": "5. 熱水是溫的。"
+    },
+    "words": [
+      {
+        "word": "お湯",
+        "reading": "おゆ",
+        "note": "名詞，熱水（帶美化語お）"
+      }
+    ],
+    "context_grammar": [
+      "常用於沖泡熱飲或洗澡時描述水溫不足的狀況。"
+    ]
+  },
+  {
+    "id": "068",
+    "time": "04:29",
+    "japanese": "6. 温泉がぬるいです。",
+    "furigana": "6. <ruby>温<rt>おん</rt></ruby><ruby>泉<rt>せん</rt></ruby>がぬるいです。",
+    "segmentation": "6. 温泉が | ぬるいです。",
+    "translation": {
+      "natural": "溫泉水溫偏低／不夠熱。",
+      "literal": "6. 溫泉是溫的。"
+    },
+    "words": [
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "note": "名詞，溫泉"
+      }
+    ],
+    "context_grammar": [
+      "溫泉旅館評價或旅遊開箱影片中針對泉溫的具體體驗反饋。"
+    ]
+  },
+  {
+    "id": "069",
+    "time": "04:33",
+    "japanese": "7. ラーメンがぬるいです。",
+    "furigana": "7. ラーメンがぬるいです。",
+    "segmentation": "7. ラーメンが | ぬるいです。",
+    "translation": {
+      "natural": "拉麵湯頭不夠燙。",
+      "literal": "7. 拉麵是溫的。"
+    },
+    "words": [
+      {
+        "word": "ラーメン",
+        "reading": "らーめん",
+        "note": "名詞，拉麵"
+      }
+    ],
+    "context_grammar": [
+      "拉麵講求湯頭滾燙，此句型多出現於拉麵點評或食記中。"
+    ]
+  },
+  {
+    "id": "070",
+    "time": "04:38",
+    "japanese": "8. うどんがぬるいです。",
+    "furigana": "8. うどんがぬるいです。",
+    "segmentation": "8. うどんが | ぬるいです。",
+    "translation": {
+      "natural": "烏龍麵冷掉了／不夠燙。",
+      "literal": "8. 烏龍麵是溫的。"
+    },
+    "words": [
+      {
+        "word": "うどん",
+        "reading": "うどん",
+        "note": "名詞，烏龍麵"
+      }
+    ],
+    "context_grammar": [
+      "熱烏龍麵（温かいうどん）水溫不足時的描述。"
+    ]
+  },
+  {
+    "id": "071",
+    "time": "04:42",
+    "japanese": "9. 熱燗がぬるいです。",
+    "furigana": "9. <ruby>熱<rt>あつ</rt></ruby><ruby>燗<rt>かん</rt></ruby>がぬるいです。",
+    "segmentation": "9. 熱燗が | ぬるいです。",
+    "translation": {
+      "natural": "這壺溫清酒溫得不夠熱。",
+      "literal": "9. 熱清酒是溫的。"
+    },
+    "words": [
+      {
+        "word": "熱燗",
+        "reading": "あつかん",
+        "note": "名詞，加熱溫燙的清酒"
+      }
+    ],
+    "context_grammar": [
+      "專有名詞「熱燗」本意為燙清酒，若溫度不足便形成語意上的對比矛盾感。"
+    ]
+  },
+  {
+    "id": "072",
+    "time": "04:46",
+    "japanese": "10. 鍋料理がぬるいです。",
+    "furigana": "10. <ruby>鍋<rt>なべ</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>がぬるいです。",
+    "segmentation": "10. 鍋料理が | ぬるいです。",
+    "translation": {
+      "natural": "火鍋都不熱了／冷掉了。",
+      "literal": "10. 鍋料理是溫的。"
+    },
+    "words": [
+      {
+        "word": "鍋料理",
+        "reading": "なべりょうり",
+        "note": "名詞，火鍋料理"
+      }
+    ],
+    "context_grammar": [
+      "複合名詞「鍋料理」作主語，用於敘事餐點冷卻的狀況。"
+    ]
+  },
+  {
+    "id": "073",
+    "time": "04:51",
+    "japanese": "Step 3",
+    "furigana": "Step 3",
+    "segmentation": "Step 3",
+    "translation": {
+      "natural": "步驟 3",
+      "literal": "步驟 3"
+    },
+    "words": [],
+    "context_grammar": [
+      "單元標題，直譯即可。"
+    ]
+  },
+  {
+    "id": "074",
+    "time": "04:53",
+    "japanese": "スープがぬるいですね。",
+    "furigana": "スープがぬるいですね。",
+    "segmentation": "スープが | ぬるいですね。",
+    "translation": {
+      "natural": "這湯好像冷掉了捏。",
+      "literal": "湯是溫的呢。"
+    },
+    "words": [],
+    "context_grammar": [
+      "「ですね」表示向同行者反映目前餐點狀況並獲得認同。"
+    ]
+  },
+  {
+    "id": "075",
+    "time": "04:56",
+    "japanese": "店員に言いましょう。",
+    "furigana": "店員に言いましょう。",
+    "segmentation": "店員に | 言いましょう。",
+    "translation": {
+      "natural": "我們跟店員反應一下吧。",
+      "literal": "向店員說吧。"
+    },
+    "words": [
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "note": "名詞，店員"
+      },
+      {
+        "word": "言う",
+        "reading": "いう",
+        "note": "動詞，說（意志／勸誘形為言いましょう）"
+      }
+    ],
+    "context_grammar": [
+      "「動詞連用形＋ましょう」：表示提議、勸誘一同行動的句型「我們來…吧」。",
+      "「名詞 ＋ に ＋ 言う」中的格助詞「に」表示動作對象（向對象反應）。"
+    ]
+  }
+]
